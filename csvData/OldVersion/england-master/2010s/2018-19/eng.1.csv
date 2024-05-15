@@ -1,0 +1,381 @@
+Round,Date,Team 1,FT,Team 2,Year,Month,Day,Date,DayOfWeek,Total Goals,Team 1 Goals,Team 2 Goals,Result
+1,Fri Aug 10 2018,Manchester United FC,02-Jan,Leicester City FC,2018,Aug,10,10/Aug/2018,Fri,3,2,1,Manchester United FC
+1,Sat Aug 11 2018,Newcastle United FC,01-Feb,Tottenham Hotspur FC,2018,Aug,11,11/Aug/2018,Sat,3,1,2,Tottenham Hotspur FC
+1,Sat Aug 11 2018,Fulham FC,0-2,Crystal Palace FC,2018,Aug,11,11/Aug/2018,Sat,2,0,2,Crystal Palace FC
+1,Sat Aug 11 2018,Huddersfield Town AFC,0-3,Chelsea FC,2018,Aug,11,11/Aug/2018,Sat,3,0,3,Chelsea FC
+1,Sat Aug 11 2018,Watford FC,2-0,Brighton & Hove Albion FC,2018,Aug,11,11/Aug/2018,Sat,2,2,0,Watford FC
+1,Sat Aug 11 2018,AFC Bournemouth,2-0,Cardiff City FC,2018,Aug,11,11/Aug/2018,Sat,2,2,0,AFC Bournemouth
+1,Sat Aug 11 2018,Wolverhampton Wanderers FC,02-Feb,Everton FC,2018,Aug,11,11/Aug/2018,Sat,4,2,2,Draw
+1,Sun Aug 12 2018,Liverpool FC,4-0,West Ham United FC,2018,Aug,12,12/Aug/2018,Sun,4,4,0,Liverpool FC
+1,Sun Aug 12 2018,Southampton FC,0-0,Burnley FC,2018,Aug,12,12/Aug/2018,Sun,0,0,0,Draw
+1,Sun Aug 12 2018,Arsenal FC,0-2,Manchester City FC,2018,Aug,12,12/Aug/2018,Sun,2,0,2,Manchester City FC
+2,Sat Aug 18 2018,Cardiff City FC,0-0,Newcastle United FC,2018,Aug,18,18/Aug/2018,Sat,0,0,0,Draw
+2,Sat Aug 18 2018,Tottenham Hotspur FC,03-Jan,Fulham FC,2018,Aug,18,18/Aug/2018,Sat,4,3,1,Tottenham Hotspur FC
+2,Sat Aug 18 2018,Everton FC,02-Jan,Southampton FC,2018,Aug,18,18/Aug/2018,Sat,3,2,1,Everton FC
+2,Sat Aug 18 2018,Leicester City FC,2-0,Wolverhampton Wanderers FC,2018,Aug,18,18/Aug/2018,Sat,2,2,0,Leicester City FC
+2,Sat Aug 18 2018,West Ham United FC,01-Feb,AFC Bournemouth,2018,Aug,18,18/Aug/2018,Sat,3,1,2,AFC Bournemouth
+2,Sat Aug 18 2018,Chelsea FC,03-Feb,Arsenal FC,2018,Aug,18,18/Aug/2018,Sat,5,3,2,Chelsea FC
+2,Sun Aug 19 2018,Manchester City FC,06-Jan,Huddersfield Town AFC,2018,Aug,19,19/Aug/2018,Sun,7,6,1,Manchester City FC
+2,Sun Aug 19 2018,Burnley FC,01-Mar,Watford FC,2018,Aug,19,19/Aug/2018,Sun,4,1,3,Watford FC
+2,Sun Aug 19 2018,Brighton & Hove Albion FC,03-Feb,Manchester United FC,2018,Aug,19,19/Aug/2018,Sun,5,3,2,Brighton & Hove Albion FC
+2,Mon Aug 20 2018,Crystal Palace FC,0-2,Liverpool FC,2018,Aug,20,20/Aug/2018,Mon,2,0,2,Liverpool FC
+3,Sat Aug 25 2018,Wolverhampton Wanderers FC,01-Jan,Manchester City FC,2018,Aug,25,25/Aug/2018,Sat,2,1,1,Draw
+3,Sat Aug 25 2018,Arsenal FC,03-Jan,West Ham United FC,2018,Aug,25,25/Aug/2018,Sat,4,3,1,Arsenal FC
+3,Sat Aug 25 2018,Huddersfield Town AFC,0-0,Cardiff City FC,2018,Aug,25,25/Aug/2018,Sat,0,0,0,Draw
+3,Sat Aug 25 2018,Southampton FC,01-Feb,Leicester City FC,2018,Aug,25,25/Aug/2018,Sat,3,1,2,Leicester City FC
+3,Sat Aug 25 2018,AFC Bournemouth,02-Feb,Everton FC,2018,Aug,25,25/Aug/2018,Sat,4,2,2,Draw
+3,Sat Aug 25 2018,Liverpool FC,1-0,Brighton & Hove Albion FC,2018,Aug,25,25/Aug/2018,Sat,1,1,0,Liverpool FC
+3,Sun Aug 26 2018,Watford FC,02-Jan,Crystal Palace FC,2018,Aug,26,26/Aug/2018,Sun,3,2,1,Watford FC
+3,Sun Aug 26 2018,Fulham FC,04-Feb,Burnley FC,2018,Aug,26,26/Aug/2018,Sun,6,4,2,Fulham FC
+3,Sun Aug 26 2018,Newcastle United FC,01-Feb,Chelsea FC,2018,Aug,26,26/Aug/2018,Sun,3,1,2,Chelsea FC
+3,Mon Aug 27 2018,Manchester United FC,0-3,Tottenham Hotspur FC,2018,Aug,27,27/Aug/2018,Mon,3,0,3,Tottenham Hotspur FC
+4,Sat Sep 1 2018,Leicester City FC,01-Feb,Liverpool FC,2018,Sep,1,1/Sep/2018,Sat,3,1,2,Liverpool FC
+4,Sat Sep 1 2018,Chelsea FC,2-0,AFC Bournemouth,2018,Sep,1,1/Sep/2018,Sat,2,2,0,Chelsea FC
+4,Sat Sep 1 2018,Everton FC,01-Jan,Huddersfield Town AFC,2018,Sep,1,1/Sep/2018,Sat,2,1,1,Draw
+4,Sat Sep 1 2018,West Ham United FC,0-1,Wolverhampton Wanderers FC,2018,Sep,1,1/Sep/2018,Sat,1,0,1,Wolverhampton Wanderers FC
+4,Sat Sep 1 2018,Crystal Palace FC,0-2,Southampton FC,2018,Sep,1,1/Sep/2018,Sat,2,0,2,Southampton FC
+4,Sat Sep 1 2018,Brighton & Hove Albion FC,02-Feb,Fulham FC,2018,Sep,1,1/Sep/2018,Sat,4,2,2,Draw
+4,Sat Sep 1 2018,Manchester City FC,02-Jan,Newcastle United FC,2018,Sep,1,1/Sep/2018,Sat,3,2,1,Manchester City FC
+4,Sun Sep 2 2018,Cardiff City FC,02-Mar,Arsenal FC,2018,Sep,2,2/Sep/2018,Sun,5,2,3,Arsenal FC
+4,Sun Sep 2 2018,Burnley FC,0-2,Manchester United FC,2018,Sep,2,2/Sep/2018,Sun,2,0,2,Manchester United FC
+4,Sun Sep 2 2018,Watford FC,02-Jan,Tottenham Hotspur FC,2018,Sep,2,2/Sep/2018,Sun,3,2,1,Watford FC
+5,Sat Sep 15 2018,Tottenham Hotspur FC,01-Feb,Liverpool FC,2018,Sep,15,15/Sep/2018,Sat,3,1,2,Liverpool FC
+5,Sat Sep 15 2018,Manchester City FC,3-0,Fulham FC,2018,Sep,15,15/Sep/2018,Sat,3,3,0,Manchester City FC
+5,Sat Sep 15 2018,Newcastle United FC,01-Feb,Arsenal FC,2018,Sep,15,15/Sep/2018,Sat,3,1,2,Arsenal FC
+5,Sat Sep 15 2018,Chelsea FC,04-Jan,Cardiff City FC,2018,Sep,15,15/Sep/2018,Sat,5,4,1,Chelsea FC
+5,Sat Sep 15 2018,Huddersfield Town AFC,0-1,Crystal Palace FC,2018,Sep,15,15/Sep/2018,Sat,1,0,1,Crystal Palace FC
+5,Sat Sep 15 2018,AFC Bournemouth,04-Feb,Leicester City FC,2018,Sep,15,15/Sep/2018,Sat,6,4,2,AFC Bournemouth
+5,Sat Sep 15 2018,Watford FC,01-Feb,Manchester United FC,2018,Sep,15,15/Sep/2018,Sat,3,1,2,Manchester United FC
+5,Sun Sep 16 2018,Wolverhampton Wanderers FC,1-0,Burnley FC,2018,Sep,16,16/Sep/2018,Sun,1,1,0,Wolverhampton Wanderers FC
+5,Sun Sep 16 2018,Everton FC,01-Mar,West Ham United FC,2018,Sep,16,16/Sep/2018,Sun,4,1,3,West Ham United FC
+5,Mon Sep 17 2018,Southampton FC,02-Feb,Brighton & Hove Albion FC,2018,Sep,17,17/Sep/2018,Mon,4,2,2,Draw
+6,Sat Sep 22 2018,Fulham FC,01-Jan,Watford FC,2018,Sep,22,22/Sep/2018,Sat,2,1,1,Draw
+6,Sat Sep 22 2018,Liverpool FC,3-0,Southampton FC,2018,Sep,22,22/Sep/2018,Sat,3,3,0,Liverpool FC
+6,Sat Sep 22 2018,Manchester United FC,01-Jan,Wolverhampton Wanderers FC,2018,Sep,22,22/Sep/2018,Sat,2,1,1,Draw
+6,Sat Sep 22 2018,Leicester City FC,03-Jan,Huddersfield Town AFC,2018,Sep,22,22/Sep/2018,Sat,4,3,1,Leicester City FC
+6,Sat Sep 22 2018,Burnley FC,4-0,AFC Bournemouth,2018,Sep,22,22/Sep/2018,Sat,4,4,0,Burnley FC
+6,Sat Sep 22 2018,Cardiff City FC,0-5,Manchester City FC,2018,Sep,22,22/Sep/2018,Sat,5,0,5,Manchester City FC
+6,Sat Sep 22 2018,Crystal Palace FC,0-0,Newcastle United FC,2018,Sep,22,22/Sep/2018,Sat,0,0,0,Draw
+6,Sat Sep 22 2018,Brighton & Hove Albion FC,01-Feb,Tottenham Hotspur FC,2018,Sep,22,22/Sep/2018,Sat,3,1,2,Tottenham Hotspur FC
+6,Sun Sep 23 2018,West Ham United FC,0-0,Chelsea FC,2018,Sep,23,23/Sep/2018,Sun,0,0,0,Draw
+6,Sun Sep 23 2018,Arsenal FC,2-0,Everton FC,2018,Sep,23,23/Sep/2018,Sun,2,2,0,Arsenal FC
+7,Sat Sep 29 2018,West Ham United FC,03-Jan,Manchester United FC,2018,Sep,29,29/Sep/2018,Sat,4,3,1,West Ham United FC
+7,Sat Sep 29 2018,Wolverhampton Wanderers FC,2-0,Southampton FC,2018,Sep,29,29/Sep/2018,Sat,2,2,0,Wolverhampton Wanderers FC
+7,Sat Sep 29 2018,Manchester City FC,2-0,Brighton & Hove Albion FC,2018,Sep,29,29/Sep/2018,Sat,2,2,0,Manchester City FC
+7,Sat Sep 29 2018,Newcastle United FC,0-2,Leicester City FC,2018,Sep,29,29/Sep/2018,Sat,2,0,2,Leicester City FC
+7,Sat Sep 29 2018,Arsenal FC,2-0,Watford FC,2018,Sep,29,29/Sep/2018,Sat,2,2,0,Arsenal FC
+7,Sat Sep 29 2018,Everton FC,3-0,Fulham FC,2018,Sep,29,29/Sep/2018,Sat,3,3,0,Everton FC
+7,Sat Sep 29 2018,Huddersfield Town AFC,0-2,Tottenham Hotspur FC,2018,Sep,29,29/Sep/2018,Sat,2,0,2,Tottenham Hotspur FC
+7,Sat Sep 29 2018,Chelsea FC,01-Jan,Liverpool FC,2018,Sep,29,29/Sep/2018,Sat,2,1,1,Draw
+7,Sun Sep 30 2018,Cardiff City FC,01-Feb,Burnley FC,2018,Sep,30,30/Sep/2018,Sun,3,1,2,Burnley FC
+7,Mon Oct 1 2018,AFC Bournemouth,02-Jan,Crystal Palace FC,2018,Oct,1,1/Oct/2018,Mon,3,2,1,AFC Bournemouth
+8,Fri Oct 5 2018,Brighton & Hove Albion FC,1-0,West Ham United FC,2018,Oct,5,5/Oct/2018,Fri,1,1,0,Brighton & Hove Albion FC
+8,Sat Oct 6 2018,Tottenham Hotspur FC,1-0,Cardiff City FC,2018,Oct,6,6/Oct/2018,Sat,1,1,0,Tottenham Hotspur FC
+8,Sat Oct 6 2018,Leicester City FC,01-Feb,Everton FC,2018,Oct,6,6/Oct/2018,Sat,3,1,2,Everton FC
+8,Sat Oct 6 2018,Burnley FC,01-Jan,Huddersfield Town AFC,2018,Oct,6,6/Oct/2018,Sat,2,1,1,Draw
+8,Sat Oct 6 2018,Crystal Palace FC,0-1,Wolverhampton Wanderers FC,2018,Oct,6,6/Oct/2018,Sat,1,0,1,Wolverhampton Wanderers FC
+8,Sat Oct 6 2018,Watford FC,0-4,AFC Bournemouth,2018,Oct,6,6/Oct/2018,Sat,4,0,4,AFC Bournemouth
+8,Sat Oct 6 2018,Manchester United FC,03-Feb,Newcastle United FC,2018,Oct,6,6/Oct/2018,Sat,5,3,2,Manchester United FC
+8,Sun Oct 7 2018,Fulham FC,01-May,Arsenal FC,2018,Oct,7,7/Oct/2018,Sun,6,1,5,Arsenal FC
+8,Sun Oct 7 2018,Southampton FC,0-3,Chelsea FC,2018,Oct,7,7/Oct/2018,Sun,3,0,3,Chelsea FC
+8,Sun Oct 7 2018,Liverpool FC,0-0,Manchester City FC,2018,Oct,7,7/Oct/2018,Sun,0,0,0,Draw
+9,Sat Oct 20 2018,Chelsea FC,02-Feb,Manchester United FC,2018,Oct,20,20/Oct/2018,Sat,4,2,2,Draw
+9,Sat Oct 20 2018,Wolverhampton Wanderers FC,0-2,Watford FC,2018,Oct,20,20/Oct/2018,Sat,2,0,2,Watford FC
+9,Sat Oct 20 2018,Manchester City FC,5-0,Burnley FC,2018,Oct,20,20/Oct/2018,Sat,5,5,0,Manchester City FC
+9,Sat Oct 20 2018,Newcastle United FC,0-1,Brighton & Hove Albion FC,2018,Oct,20,20/Oct/2018,Sat,1,0,1,Brighton & Hove Albion FC
+9,Sat Oct 20 2018,Cardiff City FC,04-Feb,Fulham FC,2018,Oct,20,20/Oct/2018,Sat,6,4,2,Cardiff City FC
+9,Sat Oct 20 2018,West Ham United FC,0-1,Tottenham Hotspur FC,2018,Oct,20,20/Oct/2018,Sat,1,0,1,Tottenham Hotspur FC
+9,Sat Oct 20 2018,AFC Bournemouth,0-0,Southampton FC,2018,Oct,20,20/Oct/2018,Sat,0,0,0,Draw
+9,Sat Oct 20 2018,Huddersfield Town AFC,0-1,Liverpool FC,2018,Oct,20,20/Oct/2018,Sat,1,0,1,Liverpool FC
+9,Sun Oct 21 2018,Everton FC,2-0,Crystal Palace FC,2018,Oct,21,21/Oct/2018,Sun,2,2,0,Everton FC
+9,Mon Oct 22 2018,Arsenal FC,03-Jan,Leicester City FC,2018,Oct,22,22/Oct/2018,Mon,4,3,1,Arsenal FC
+10,Sat Oct 27 2018,Fulham FC,0-3,AFC Bournemouth,2018,Oct,27,27/Oct/2018,Sat,3,0,3,AFC Bournemouth
+10,Sat Oct 27 2018,Liverpool FC,04-Jan,Cardiff City FC,2018,Oct,27,27/Oct/2018,Sat,5,4,1,Liverpool FC
+10,Sat Oct 27 2018,Southampton FC,0-0,Newcastle United FC,2018,Oct,27,27/Oct/2018,Sat,0,0,0,Draw
+10,Sat Oct 27 2018,Brighton & Hove Albion FC,1-0,Wolverhampton Wanderers FC,2018,Oct,27,27/Oct/2018,Sat,1,1,0,Brighton & Hove Albion FC
+10,Sat Oct 27 2018,Watford FC,3-0,Huddersfield Town AFC,2018,Oct,27,27/Oct/2018,Sat,3,3,0,Watford FC
+10,Sat Oct 27 2018,Leicester City FC,01-Jan,West Ham United FC,2018,Oct,27,27/Oct/2018,Sat,2,1,1,Draw
+10,Sun Oct 28 2018,Burnley FC,0-4,Chelsea FC,2018,Oct,28,28/Oct/2018,Sun,4,0,4,Chelsea FC
+10,Sun Oct 28 2018,Crystal Palace FC,02-Feb,Arsenal FC,2018,Oct,28,28/Oct/2018,Sun,4,2,2,Draw
+10,Sun Oct 28 2018,Manchester United FC,02-Jan,Everton FC,2018,Oct,28,28/Oct/2018,Sun,3,2,1,Manchester United FC
+10,Mon Oct 29 2018,Tottenham Hotspur FC,0-1,Manchester City FC,2018,Oct,29,29/Oct/2018,Mon,1,0,1,Manchester City FC
+11,Sat Nov 3 2018,AFC Bournemouth,01-Feb,Manchester United FC,2018,Nov,3,3/Nov/2018,Sat,3,1,2,Manchester United FC
+11,Sat Nov 3 2018,Newcastle United FC,1-0,Watford FC,2018,Nov,3,3/Nov/2018,Sat,1,1,0,Newcastle United FC
+11,Sat Nov 3 2018,Everton FC,03-Jan,Brighton & Hove Albion FC,2018,Nov,3,3/Nov/2018,Sat,4,3,1,Everton FC
+11,Sat Nov 3 2018,Cardiff City FC,0-1,Leicester City FC,2018,Nov,3,3/Nov/2018,Sat,1,0,1,Leicester City FC
+11,Sat Nov 3 2018,West Ham United FC,04-Feb,Burnley FC,2018,Nov,3,3/Nov/2018,Sat,6,4,2,West Ham United FC
+11,Sat Nov 3 2018,Arsenal FC,01-Jan,Liverpool FC,2018,Nov,3,3/Nov/2018,Sat,2,1,1,Draw
+11,Sat Nov 3 2018,Wolverhampton Wanderers FC,02-Mar,Tottenham Hotspur FC,2018,Nov,3,3/Nov/2018,Sat,5,2,3,Tottenham Hotspur FC
+11,Sun Nov 4 2018,Manchester City FC,06-Jan,Southampton FC,2018,Nov,4,4/Nov/2018,Sun,7,6,1,Manchester City FC
+11,Sun Nov 4 2018,Chelsea FC,03-Jan,Crystal Palace FC,2018,Nov,4,4/Nov/2018,Sun,4,3,1,Chelsea FC
+11,Mon Nov 5 2018,Huddersfield Town AFC,1-0,Fulham FC,2018,Nov,5,5/Nov/2018,Mon,1,1,0,Huddersfield Town AFC
+12,Sat Nov 10 2018,Cardiff City FC,02-Jan,Brighton & Hove Albion FC,2018,Nov,10,10/Nov/2018,Sat,3,2,1,Cardiff City FC
+12,Sat Nov 10 2018,Newcastle United FC,02-Jan,AFC Bournemouth,2018,Nov,10,10/Nov/2018,Sat,3,2,1,Newcastle United FC
+12,Sat Nov 10 2018,Leicester City FC,0-0,Burnley FC,2018,Nov,10,10/Nov/2018,Sat,0,0,0,Draw
+12,Sat Nov 10 2018,Huddersfield Town AFC,01-Jan,West Ham United FC,2018,Nov,10,10/Nov/2018,Sat,2,1,1,Draw
+12,Sat Nov 10 2018,Southampton FC,01-Jan,Watford FC,2018,Nov,10,10/Nov/2018,Sat,2,1,1,Draw
+12,Sat Nov 10 2018,Crystal Palace FC,0-1,Tottenham Hotspur FC,2018,Nov,10,10/Nov/2018,Sat,1,0,1,Tottenham Hotspur FC
+12,Sun Nov 11 2018,Liverpool FC,2-0,Fulham FC,2018,Nov,11,11/Nov/2018,Sun,2,2,0,Liverpool FC
+12,Sun Nov 11 2018,Chelsea FC,0-0,Everton FC,2018,Nov,11,11/Nov/2018,Sun,0,0,0,Draw
+12,Sun Nov 11 2018,Manchester City FC,03-Jan,Manchester United FC,2018,Nov,11,11/Nov/2018,Sun,4,3,1,Manchester City FC
+12,Sun Nov 11 2018,Arsenal FC,01-Jan,Wolverhampton Wanderers FC,2018,Nov,11,11/Nov/2018,Sun,2,1,1,Draw
+13,Sat Nov 24 2018,Fulham FC,03-Feb,Southampton FC,2018,Nov,24,24/Nov/2018,Sat,5,3,2,Fulham FC
+13,Sat Nov 24 2018,Everton FC,1-0,Cardiff City FC,2018,Nov,24,24/Nov/2018,Sat,1,1,0,Everton FC
+13,Sat Nov 24 2018,Manchester United FC,0-0,Crystal Palace FC,2018,Nov,24,24/Nov/2018,Sat,0,0,0,Draw
+13,Sat Nov 24 2018,West Ham United FC,0-4,Manchester City FC,2018,Nov,24,24/Nov/2018,Sat,4,0,4,Manchester City FC
+13,Sat Nov 24 2018,Brighton & Hove Albion FC,01-Jan,Leicester City FC,2018,Nov,24,24/Nov/2018,Sat,2,1,1,Draw
+13,Sat Nov 24 2018,Watford FC,0-3,Liverpool FC,2018,Nov,24,24/Nov/2018,Sat,3,0,3,Liverpool FC
+13,Sat Nov 24 2018,Tottenham Hotspur FC,03-Jan,Chelsea FC,2018,Nov,24,24/Nov/2018,Sat,4,3,1,Tottenham Hotspur FC
+13,Sun Nov 25 2018,AFC Bournemouth,01-Feb,Arsenal FC,2018,Nov,25,25/Nov/2018,Sun,3,1,2,Arsenal FC
+13,Sun Nov 25 2018,Wolverhampton Wanderers FC,0-2,Huddersfield Town AFC,2018,Nov,25,25/Nov/2018,Sun,2,0,2,Huddersfield Town AFC
+13,Mon Nov 26 2018,Burnley FC,01-Feb,Newcastle United FC,2018,Nov,26,26/Nov/2018,Mon,3,1,2,Newcastle United FC
+14,Fri Nov 30 2018,Cardiff City FC,02-Jan,Wolverhampton Wanderers FC,2018,Nov,30,30/Nov/2018,Fri,3,2,1,Cardiff City FC
+14,Sat Dec 1 2018,Manchester City FC,03-Jan,AFC Bournemouth,2018,Dec,1,1/Dec/2018,Sat,4,3,1,Manchester City FC
+14,Sat Dec 1 2018,Newcastle United FC,0-3,West Ham United FC,2018,Dec,1,1/Dec/2018,Sat,3,0,3,West Ham United FC
+14,Sat Dec 1 2018,Leicester City FC,2-0,Watford FC,2018,Dec,1,1/Dec/2018,Sat,2,2,0,Leicester City FC
+14,Sat Dec 1 2018,Huddersfield Town AFC,01-Feb,Brighton & Hove Albion FC,2018,Dec,1,1/Dec/2018,Sat,3,1,2,Brighton & Hove Albion FC
+14,Sat Dec 1 2018,Crystal Palace FC,2-0,Burnley FC,2018,Dec,1,1/Dec/2018,Sat,2,2,0,Crystal Palace FC
+14,Sat Dec 1 2018,Southampton FC,02-Feb,Manchester United FC,2018,Dec,1,1/Dec/2018,Sat,4,2,2,Draw
+14,Sun Dec 2 2018,Chelsea FC,2-0,Fulham FC,2018,Dec,2,2/Dec/2018,Sun,2,2,0,Chelsea FC
+14,Sun Dec 2 2018,Arsenal FC,04-Feb,Tottenham Hotspur FC,2018,Dec,2,2/Dec/2018,Sun,6,4,2,Arsenal FC
+14,Sun Dec 2 2018,Liverpool FC,1-0,Everton FC,2018,Dec,2,2/Dec/2018,Sun,1,1,0,Liverpool FC
+15,Tue Dec 4 2018,West Ham United FC,03-Jan,Cardiff City FC,2018,Dec,4,4/Dec/2018,Tue,4,3,1,West Ham United FC
+15,Tue Dec 4 2018,Brighton & Hove Albion FC,03-Jan,Crystal Palace FC,2018,Dec,4,4/Dec/2018,Tue,4,3,1,Brighton & Hove Albion FC
+15,Tue Dec 4 2018,AFC Bournemouth,02-Jan,Huddersfield Town AFC,2018,Dec,4,4/Dec/2018,Tue,3,2,1,AFC Bournemouth
+15,Tue Dec 4 2018,Watford FC,01-Feb,Manchester City FC,2018,Dec,4,4/Dec/2018,Tue,3,1,2,Manchester City FC
+15,Wed Dec 5 2018,Wolverhampton Wanderers FC,02-Jan,Chelsea FC,2018,Dec,5,5/Dec/2018,Wed,3,2,1,Wolverhampton Wanderers FC
+15,Wed Dec 5 2018,Fulham FC,01-Jan,Leicester City FC,2018,Dec,5,5/Dec/2018,Wed,2,1,1,Draw
+15,Wed Dec 5 2018,Burnley FC,01-Mar,Liverpool FC,2018,Dec,5,5/Dec/2018,Wed,4,1,3,Liverpool FC
+15,Wed Dec 5 2018,Everton FC,01-Jan,Newcastle United FC,2018,Dec,5,5/Dec/2018,Wed,2,1,1,Draw
+15,Wed Dec 5 2018,Manchester United FC,02-Feb,Arsenal FC,2018,Dec,5,5/Dec/2018,Wed,4,2,2,Draw
+15,Wed Dec 5 2018,Tottenham Hotspur FC,03-Jan,Southampton FC,2018,Dec,5,5/Dec/2018,Wed,4,3,1,Tottenham Hotspur FC
+16,Sat Dec 8 2018,AFC Bournemouth,0-4,Liverpool FC,2018,Dec,8,8/Dec/2018,Sat,4,0,4,Liverpool FC
+16,Sat Dec 8 2018,Arsenal FC,1-0,Huddersfield Town AFC,2018,Dec,8,8/Dec/2018,Sat,1,1,0,Arsenal FC
+16,Sat Dec 8 2018,Manchester United FC,04-Jan,Fulham FC,2018,Dec,8,8/Dec/2018,Sat,5,4,1,Manchester United FC
+16,Sat Dec 8 2018,Burnley FC,1-0,Brighton & Hove Albion FC,2018,Dec,8,8/Dec/2018,Sat,1,1,0,Burnley FC
+16,Sat Dec 8 2018,Cardiff City FC,1-0,Southampton FC,2018,Dec,8,8/Dec/2018,Sat,1,1,0,Cardiff City FC
+16,Sat Dec 8 2018,West Ham United FC,03-Feb,Crystal Palace FC,2018,Dec,8,8/Dec/2018,Sat,5,3,2,West Ham United FC
+16,Sat Dec 8 2018,Chelsea FC,2-0,Manchester City FC,2018,Dec,8,8/Dec/2018,Sat,2,2,0,Chelsea FC
+16,Sat Dec 8 2018,Leicester City FC,0-2,Tottenham Hotspur FC,2018,Dec,8,8/Dec/2018,Sat,2,0,2,Tottenham Hotspur FC
+16,Sun Dec 9 2018,Newcastle United FC,01-Feb,Wolverhampton Wanderers FC,2018,Dec,9,9/Dec/2018,Sun,3,1,2,Wolverhampton Wanderers FC
+16,Mon Dec 10 2018,Everton FC,02-Feb,Watford FC,2018,Dec,10,10/Dec/2018,Mon,4,2,2,Draw
+17,Sat Dec 15 2018,Manchester City FC,03-Jan,Everton FC,2018,Dec,15,15/Dec/2018,Sat,4,3,1,Manchester City FC
+17,Sat Dec 15 2018,Wolverhampton Wanderers FC,2-0,AFC Bournemouth,2018,Dec,15,15/Dec/2018,Sat,2,2,0,Wolverhampton Wanderers FC
+17,Sat Dec 15 2018,Tottenham Hotspur FC,1-0,Burnley FC,2018,Dec,15,15/Dec/2018,Sat,1,1,0,Tottenham Hotspur FC
+17,Sat Dec 15 2018,Huddersfield Town AFC,0-1,Newcastle United FC,2018,Dec,15,15/Dec/2018,Sat,1,0,1,Newcastle United FC
+17,Sat Dec 15 2018,Crystal Palace FC,1-0,Leicester City FC,2018,Dec,15,15/Dec/2018,Sat,1,1,0,Crystal Palace FC
+17,Sat Dec 15 2018,Watford FC,03-Feb,Cardiff City FC,2018,Dec,15,15/Dec/2018,Sat,5,3,2,Watford FC
+17,Sat Dec 15 2018,Fulham FC,0-2,West Ham United FC,2018,Dec,15,15/Dec/2018,Sat,2,0,2,West Ham United FC
+17,Sun Dec 16 2018,Southampton FC,03-Feb,Arsenal FC,2018,Dec,16,16/Dec/2018,Sun,5,3,2,Southampton FC
+17,Sun Dec 16 2018,Brighton & Hove Albion FC,01-Feb,Chelsea FC,2018,Dec,16,16/Dec/2018,Sun,3,1,2,Chelsea FC
+17,Sun Dec 16 2018,Liverpool FC,03-Jan,Manchester United FC,2018,Dec,16,16/Dec/2018,Sun,4,3,1,Liverpool FC
+18,Fri Dec 21 2018,Wolverhampton Wanderers FC,0-2,Liverpool FC,2018,Dec,21,21/Dec/2018,Fri,2,0,2,Liverpool FC
+18,Sat Dec 22 2018,Arsenal FC,03-Jan,Burnley FC,2018,Dec,22,22/Dec/2018,Sat,4,3,1,Arsenal FC
+18,Sat Dec 22 2018,Manchester City FC,02-Mar,Crystal Palace FC,2018,Dec,22,22/Dec/2018,Sat,5,2,3,Crystal Palace FC
+18,Sat Dec 22 2018,Newcastle United FC,0-0,Fulham FC,2018,Dec,22,22/Dec/2018,Sat,0,0,0,Draw
+18,Sat Dec 22 2018,Chelsea FC,0-1,Leicester City FC,2018,Dec,22,22/Dec/2018,Sat,1,0,1,Leicester City FC
+18,Sat Dec 22 2018,Huddersfield Town AFC,01-Mar,Southampton FC,2018,Dec,22,22/Dec/2018,Sat,4,1,3,Southampton FC
+18,Sat Dec 22 2018,West Ham United FC,0-2,Watford FC,2018,Dec,22,22/Dec/2018,Sat,2,0,2,Watford FC
+18,Sat Dec 22 2018,AFC Bournemouth,2-0,Brighton & Hove Albion FC,2018,Dec,22,22/Dec/2018,Sat,2,2,0,AFC Bournemouth
+18,Sat Dec 22 2018,Cardiff City FC,01-May,Manchester United FC,2018,Dec,22,22/Dec/2018,Sat,6,1,5,Manchester United FC
+18,Sun Dec 23 2018,Everton FC,02-Jun,Tottenham Hotspur FC,2018,Dec,23,23/Dec/2018,Sun,8,2,6,Tottenham Hotspur FC
+19,Wed Dec 26 2018,Fulham FC,01-Jan,Wolverhampton Wanderers FC,2018,Dec,26,26/Dec/2018,Wed,2,1,1,Draw
+19,Wed Dec 26 2018,Liverpool FC,4-0,Newcastle United FC,2018,Dec,26,26/Dec/2018,Wed,4,4,0,Liverpool FC
+19,Wed Dec 26 2018,Tottenham Hotspur FC,5-0,AFC Bournemouth,2018,Dec,26,26/Dec/2018,Wed,5,5,0,Tottenham Hotspur FC
+19,Wed Dec 26 2018,Manchester United FC,03-Jan,Huddersfield Town AFC,2018,Dec,26,26/Dec/2018,Wed,4,3,1,Manchester United FC
+19,Wed Dec 26 2018,Leicester City FC,02-Jan,Manchester City FC,2018,Dec,26,26/Dec/2018,Wed,3,2,1,Leicester City FC
+19,Wed Dec 26 2018,Burnley FC,01-May,Everton FC,2018,Dec,26,26/Dec/2018,Wed,6,1,5,Everton FC
+19,Wed Dec 26 2018,Crystal Palace FC,0-0,Cardiff City FC,2018,Dec,26,26/Dec/2018,Wed,0,0,0,Draw
+19,Wed Dec 26 2018,Brighton & Hove Albion FC,01-Jan,Arsenal FC,2018,Dec,26,26/Dec/2018,Wed,2,1,1,Draw
+19,Wed Dec 26 2018,Watford FC,01-Feb,Chelsea FC,2018,Dec,26,26/Dec/2018,Wed,3,1,2,Chelsea FC
+19,Thu Dec 27 2018,Southampton FC,01-Feb,West Ham United FC,2018,Dec,27,27/Dec/2018,Thu,3,1,2,West Ham United FC
+20,Sat Dec 29 2018,Leicester City FC,0-1,Cardiff City FC,2018,Dec,29,29/Dec/2018,Sat,1,0,1,Cardiff City FC
+20,Sat Dec 29 2018,Brighton & Hove Albion FC,1-0,Everton FC,2018,Dec,29,29/Dec/2018,Sat,1,1,0,Brighton & Hove Albion FC
+20,Sat Dec 29 2018,Watford FC,01-Jan,Newcastle United FC,2018,Dec,29,29/Dec/2018,Sat,2,1,1,Draw
+20,Sat Dec 29 2018,Fulham FC,1-0,Huddersfield Town AFC,2018,Dec,29,29/Dec/2018,Sat,1,1,0,Fulham FC
+20,Sat Dec 29 2018,Tottenham Hotspur FC,01-Mar,Wolverhampton Wanderers FC,2018,Dec,29,29/Dec/2018,Sat,4,1,3,Wolverhampton Wanderers FC
+20,Sat Dec 29 2018,Liverpool FC,05-Jan,Arsenal FC,2018,Dec,29,29/Dec/2018,Sat,6,5,1,Liverpool FC
+20,Sun Dec 30 2018,Crystal Palace FC,0-1,Chelsea FC,2018,Dec,30,30/Dec/2018,Sun,1,0,1,Chelsea FC
+20,Sun Dec 30 2018,Burnley FC,2-0,West Ham United FC,2018,Dec,30,30/Dec/2018,Sun,2,2,0,Burnley FC
+20,Sun Dec 30 2018,Southampton FC,01-Mar,Manchester City FC,2018,Dec,30,30/Dec/2018,Sun,4,1,3,Manchester City FC
+20,Sun Dec 30 2018,Manchester United FC,04-Jan,AFC Bournemouth,2018,Dec,30,30/Dec/2018,Sun,5,4,1,Manchester United FC
+21,Tue Jan 1 2019,Everton FC,0-1,Leicester City FC,2019,Jan,1,1/Jan/2019,Tue,1,0,1,Leicester City FC
+21,Tue Jan 1 2019,Arsenal FC,04-Jan,Fulham FC,2019,Jan,1,1/Jan/2019,Tue,5,4,1,Arsenal FC
+21,Tue Jan 1 2019,Cardiff City FC,0-3,Tottenham Hotspur FC,2019,Jan,1,1/Jan/2019,Tue,3,0,3,Tottenham Hotspur FC
+21,Wed Jan 2 2019,Wolverhampton Wanderers FC,0-2,Crystal Palace FC,2019,Jan,2,2/Jan/2019,Wed,2,0,2,Crystal Palace FC
+21,Wed Jan 2 2019,Chelsea FC,0-0,Southampton FC,2019,Jan,2,2/Jan/2019,Wed,0,0,0,Draw
+21,Wed Jan 2 2019,Huddersfield Town AFC,01-Feb,Burnley FC,2019,Jan,2,2/Jan/2019,Wed,3,1,2,Burnley FC
+21,Wed Jan 2 2019,West Ham United FC,02-Feb,Brighton & Hove Albion FC,2019,Jan,2,2/Jan/2019,Wed,4,2,2,Draw
+21,Wed Jan 2 2019,AFC Bournemouth,03-Mar,Watford FC,2019,Jan,2,2/Jan/2019,Wed,6,3,3,Draw
+21,Wed Jan 2 2019,Newcastle United FC,0-2,Manchester United FC,2019,Jan,2,2/Jan/2019,Wed,2,0,2,Manchester United FC
+21,Thu Jan 3 2019,Manchester City FC,02-Jan,Liverpool FC,2019,Jan,3,3/Jan/2019,Thu,3,2,1,Manchester City FC
+22,Sat Jan 12 2019,West Ham United FC,1-0,Arsenal FC,2019,Jan,12,12/Jan/2019,Sat,1,1,0,West Ham United FC
+22,Sat Jan 12 2019,Leicester City FC,01-Feb,Southampton FC,2019,Jan,12,12/Jan/2019,Sat,3,1,2,Southampton FC
+22,Sat Jan 12 2019,Burnley FC,02-Jan,Fulham FC,2019,Jan,12,12/Jan/2019,Sat,3,2,1,Burnley FC
+22,Sat Jan 12 2019,Cardiff City FC,0-0,Huddersfield Town AFC,2019,Jan,12,12/Jan/2019,Sat,0,0,0,Draw
+22,Sat Jan 12 2019,Crystal Palace FC,01-Feb,Watford FC,2019,Jan,12,12/Jan/2019,Sat,3,1,2,Watford FC
+22,Sat Jan 12 2019,Brighton & Hove Albion FC,0-1,Liverpool FC,2019,Jan,12,12/Jan/2019,Sat,1,0,1,Liverpool FC
+22,Sat Jan 12 2019,Chelsea FC,02-Jan,Newcastle United FC,2019,Jan,12,12/Jan/2019,Sat,3,2,1,Chelsea FC
+22,Sun Jan 13 2019,Everton FC,2-0,AFC Bournemouth,2019,Jan,13,13/Jan/2019,Sun,2,2,0,Everton FC
+22,Sun Jan 13 2019,Tottenham Hotspur FC,0-1,Manchester United FC,2019,Jan,13,13/Jan/2019,Sun,1,0,1,Manchester United FC
+22,Mon Jan 14 2019,Manchester City FC,3-0,Wolverhampton Wanderers FC,2019,Jan,14,14/Jan/2019,Mon,3,3,0,Manchester City FC
+23,Sat Jan 19 2019,Wolverhampton Wanderers FC,04-Mar,Leicester City FC,2019,Jan,19,19/Jan/2019,Sat,7,4,3,Wolverhampton Wanderers FC
+23,Sat Jan 19 2019,Liverpool FC,04-Mar,Crystal Palace FC,2019,Jan,19,19/Jan/2019,Sat,7,4,3,Liverpool FC
+23,Sat Jan 19 2019,Newcastle United FC,3-0,Cardiff City FC,2019,Jan,19,19/Jan/2019,Sat,3,3,0,Newcastle United FC
+23,Sat Jan 19 2019,Manchester United FC,02-Jan,Brighton & Hove Albion FC,2019,Jan,19,19/Jan/2019,Sat,3,2,1,Manchester United FC
+23,Sat Jan 19 2019,Southampton FC,02-Jan,Everton FC,2019,Jan,19,19/Jan/2019,Sat,3,2,1,Southampton FC
+23,Sat Jan 19 2019,Watford FC,0-0,Burnley FC,2019,Jan,19,19/Jan/2019,Sat,0,0,0,Draw
+23,Sat Jan 19 2019,AFC Bournemouth,2-0,West Ham United FC,2019,Jan,19,19/Jan/2019,Sat,2,2,0,AFC Bournemouth
+23,Sat Jan 19 2019,Arsenal FC,2-0,Chelsea FC,2019,Jan,19,19/Jan/2019,Sat,2,2,0,Arsenal FC
+23,Sun Jan 20 2019,Huddersfield Town AFC,0-3,Manchester City FC,2019,Jan,20,20/Jan/2019,Sun,3,0,3,Manchester City FC
+23,Sun Jan 20 2019,Fulham FC,01-Feb,Tottenham Hotspur FC,2019,Jan,20,20/Jan/2019,Sun,3,1,2,Tottenham Hotspur FC
+24,Tue Jan 29 2019,Wolverhampton Wanderers FC,3-0,West Ham United FC,2019,Jan,29,29/Jan/2019,Tue,3,3,0,Wolverhampton Wanderers FC
+24,Tue Jan 29 2019,Fulham FC,04-Feb,Brighton & Hove Albion FC,2019,Jan,29,29/Jan/2019,Tue,6,4,2,Fulham FC
+24,Tue Jan 29 2019,Arsenal FC,02-Jan,Cardiff City FC,2019,Jan,29,29/Jan/2019,Tue,3,2,1,Arsenal FC
+24,Tue Jan 29 2019,Huddersfield Town AFC,0-1,Everton FC,2019,Jan,29,29/Jan/2019,Tue,1,0,1,Everton FC
+24,Tue Jan 29 2019,Manchester United FC,02-Feb,Burnley FC,2019,Jan,29,29/Jan/2019,Tue,4,2,2,Draw
+24,Tue Jan 29 2019,Newcastle United FC,02-Jan,Manchester City FC,2019,Jan,29,29/Jan/2019,Tue,3,2,1,Newcastle United FC
+24,Wed Jan 30 2019,AFC Bournemouth,4-0,Chelsea FC,2019,Jan,30,30/Jan/2019,Wed,4,4,0,AFC Bournemouth
+24,Wed Jan 30 2019,Southampton FC,01-Jan,Crystal Palace FC,2019,Jan,30,30/Jan/2019,Wed,2,1,1,Draw
+24,Wed Jan 30 2019,Liverpool FC,01-Jan,Leicester City FC,2019,Jan,30,30/Jan/2019,Wed,2,1,1,Draw
+24,Wed Jan 30 2019,Tottenham Hotspur FC,02-Jan,Watford FC,2019,Jan,30,30/Jan/2019,Wed,3,2,1,Tottenham Hotspur FC
+25,Sat Feb 2 2019,Tottenham Hotspur FC,1-0,Newcastle United FC,2019,Feb,2,2/Feb/2019,Sat,1,1,0,Tottenham Hotspur FC
+25,Sat Feb 2 2019,Chelsea FC,5-0,Huddersfield Town AFC,2019,Feb,2,2/Feb/2019,Sat,5,5,0,Chelsea FC
+25,Sat Feb 2 2019,Everton FC,01-Mar,Wolverhampton Wanderers FC,2019,Feb,2,2/Feb/2019,Sat,4,1,3,Wolverhampton Wanderers FC
+25,Sat Feb 2 2019,Burnley FC,01-Jan,Southampton FC,2019,Feb,2,2/Feb/2019,Sat,2,1,1,Draw
+25,Sat Feb 2 2019,Crystal Palace FC,2-0,Fulham FC,2019,Feb,2,2/Feb/2019,Sat,2,2,0,Crystal Palace FC
+25,Sat Feb 2 2019,Brighton & Hove Albion FC,0-0,Watford FC,2019,Feb,2,2/Feb/2019,Sat,0,0,0,Draw
+25,Sat Feb 2 2019,Cardiff City FC,2-0,AFC Bournemouth,2019,Feb,2,2/Feb/2019,Sat,2,2,0,Cardiff City FC
+25,Sun Feb 3 2019,Leicester City FC,0-1,Manchester United FC,2019,Feb,3,3/Feb/2019,Sun,1,0,1,Manchester United FC
+25,Sun Feb 3 2019,Manchester City FC,03-Jan,Arsenal FC,2019,Feb,3,3/Feb/2019,Sun,4,3,1,Manchester City FC
+25,Mon Feb 4 2019,West Ham United FC,01-Jan,Liverpool FC,2019,Feb,4,4/Feb/2019,Mon,2,1,1,Draw
+27,Wed Feb 6 2019,Everton FC,0-2,Manchester City FC,2019,Feb,6,6/Feb/2019,Wed,2,0,2,Manchester City FC
+26,Sat Feb 9 2019,Fulham FC,0-3,Manchester United FC,2019,Feb,9,9/Feb/2019,Sat,3,0,3,Manchester United FC
+26,Sat Feb 9 2019,Liverpool FC,3-0,AFC Bournemouth,2019,Feb,9,9/Feb/2019,Sat,3,3,0,Liverpool FC
+26,Sat Feb 9 2019,Huddersfield Town AFC,01-Feb,Arsenal FC,2019,Feb,9,9/Feb/2019,Sat,3,1,2,Arsenal FC
+26,Sat Feb 9 2019,Southampton FC,01-Feb,Cardiff City FC,2019,Feb,9,9/Feb/2019,Sat,3,1,2,Cardiff City FC
+26,Sat Feb 9 2019,Crystal Palace FC,01-Jan,West Ham United FC,2019,Feb,9,9/Feb/2019,Sat,2,1,1,Draw
+26,Sat Feb 9 2019,Watford FC,1-0,Everton FC,2019,Feb,9,9/Feb/2019,Sat,1,1,0,Watford FC
+26,Sat Feb 9 2019,Brighton & Hove Albion FC,01-Mar,Burnley FC,2019,Feb,9,9/Feb/2019,Sat,4,1,3,Burnley FC
+26,Sun Feb 10 2019,Tottenham Hotspur FC,03-Jan,Leicester City FC,2019,Feb,10,10/Feb/2019,Sun,4,3,1,Tottenham Hotspur FC
+26,Sun Feb 10 2019,Manchester City FC,6-0,Chelsea FC,2019,Feb,10,10/Feb/2019,Sun,6,6,0,Manchester City FC
+26,Mon Feb 11 2019,Wolverhampton Wanderers FC,01-Jan,Newcastle United FC,2019,Feb,11,11/Feb/2019,Mon,2,1,1,Draw
+27,Fri Feb 22 2019,Cardiff City FC,01-May,Watford FC,2019,Feb,22,22/Feb/2019,Fri,6,1,5,Watford FC
+27,Fri Feb 22 2019,West Ham United FC,03-Jan,Fulham FC,2019,Feb,22,22/Feb/2019,Fri,4,3,1,West Ham United FC
+27,Sat Feb 23 2019,Burnley FC,02-Jan,Tottenham Hotspur FC,2019,Feb,23,23/Feb/2019,Sat,3,2,1,Burnley FC
+27,Sat Feb 23 2019,Newcastle United FC,2-0,Huddersfield Town AFC,2019,Feb,23,23/Feb/2019,Sat,2,2,0,Newcastle United FC
+27,Sat Feb 23 2019,AFC Bournemouth,01-Jan,Wolverhampton Wanderers FC,2019,Feb,23,23/Feb/2019,Sat,2,1,1,Draw
+27,Sat Feb 23 2019,Leicester City FC,01-Apr,Crystal Palace FC,2019,Feb,23,23/Feb/2019,Sat,5,1,4,Crystal Palace FC
+27,Sun Feb 24 2019,Arsenal FC,2-0,Southampton FC,2019,Feb,24,24/Feb/2019,Sun,2,2,0,Arsenal FC
+27,Sun Feb 24 2019,Manchester United FC,0-0,Liverpool FC,2019,Feb,24,24/Feb/2019,Sun,0,0,0,Draw
+28,Tue Feb 26 2019,Leicester City FC,02-Jan,Brighton & Hove Albion FC,2019,Feb,26,26/Feb/2019,Tue,3,2,1,Leicester City FC
+28,Tue Feb 26 2019,Huddersfield Town AFC,1-0,Wolverhampton Wanderers FC,2019,Feb,26,26/Feb/2019,Tue,1,1,0,Huddersfield Town AFC
+28,Tue Feb 26 2019,Cardiff City FC,0-3,Everton FC,2019,Feb,26,26/Feb/2019,Tue,3,0,3,Everton FC
+28,Tue Feb 26 2019,Newcastle United FC,2-0,Burnley FC,2019,Feb,26,26/Feb/2019,Tue,2,2,0,Newcastle United FC
+28,Wed Feb 27 2019,Arsenal FC,05-Jan,AFC Bournemouth,2019,Feb,27,27/Feb/2019,Wed,6,5,1,Arsenal FC
+28,Wed Feb 27 2019,Southampton FC,2-0,Fulham FC,2019,Feb,27,27/Feb/2019,Wed,2,2,0,Southampton FC
+28,Wed Feb 27 2019,Crystal Palace FC,01-Mar,Manchester United FC,2019,Feb,27,27/Feb/2019,Wed,4,1,3,Manchester United FC
+28,Wed Feb 27 2019,Liverpool FC,5-0,Watford FC,2019,Feb,27,27/Feb/2019,Wed,5,5,0,Liverpool FC
+28,Wed Feb 27 2019,Manchester City FC,1-0,West Ham United FC,2019,Feb,27,27/Feb/2019,Wed,1,1,0,Manchester City FC
+28,Wed Feb 27 2019,Chelsea FC,2-0,Tottenham Hotspur FC,2019,Feb,27,27/Feb/2019,Wed,2,2,0,Chelsea FC
+29,Sat Mar 2 2019,Tottenham Hotspur FC,01-Jan,Arsenal FC,2019,Mar,2,2/Mar/2019,Sat,2,1,1,Draw
+29,Sat Mar 2 2019,Wolverhampton Wanderers FC,2-0,Cardiff City FC,2019,Mar,2,2/Mar/2019,Sat,2,2,0,Wolverhampton Wanderers FC
+29,Sat Mar 2 2019,Manchester United FC,03-Feb,Southampton FC,2019,Mar,2,2/Mar/2019,Sat,5,3,2,Manchester United FC
+29,Sat Mar 2 2019,Burnley FC,01-Mar,Crystal Palace FC,2019,Mar,2,2/Mar/2019,Sat,4,1,3,Crystal Palace FC
+29,Sat Mar 2 2019,Brighton & Hove Albion FC,1-0,Huddersfield Town AFC,2019,Mar,2,2/Mar/2019,Sat,1,1,0,Brighton & Hove Albion FC
+29,Sat Mar 2 2019,AFC Bournemouth,0-1,Manchester City FC,2019,Mar,2,2/Mar/2019,Sat,1,0,1,Manchester City FC
+29,Sat Mar 2 2019,West Ham United FC,2-0,Newcastle United FC,2019,Mar,2,2/Mar/2019,Sat,2,2,0,West Ham United FC
+29,Sun Mar 3 2019,Watford FC,02-Jan,Leicester City FC,2019,Mar,3,3/Mar/2019,Sun,3,2,1,Watford FC
+29,Sun Mar 3 2019,Fulham FC,01-Feb,Chelsea FC,2019,Mar,3,3/Mar/2019,Sun,3,1,2,Chelsea FC
+29,Sun Mar 3 2019,Everton FC,0-0,Liverpool FC,2019,Mar,3,3/Mar/2019,Sun,0,0,0,Draw
+30,Sat Mar 9 2019,Crystal Palace FC,01-Feb,Brighton & Hove Albion FC,2019,Mar,9,9/Mar/2019,Sat,3,1,2,Brighton & Hove Albion FC
+30,Sat Mar 9 2019,Newcastle United FC,03-Feb,Everton FC,2019,Mar,9,9/Mar/2019,Sat,5,3,2,Newcastle United FC
+30,Sat Mar 9 2019,Leicester City FC,03-Jan,Fulham FC,2019,Mar,9,9/Mar/2019,Sat,4,3,1,Leicester City FC
+30,Sat Mar 9 2019,Huddersfield Town AFC,0-2,AFC Bournemouth,2019,Mar,9,9/Mar/2019,Sat,2,0,2,AFC Bournemouth
+30,Sat Mar 9 2019,Cardiff City FC,2-0,West Ham United FC,2019,Mar,9,9/Mar/2019,Sat,2,2,0,Cardiff City FC
+30,Sat Mar 9 2019,Southampton FC,02-Jan,Tottenham Hotspur FC,2019,Mar,9,9/Mar/2019,Sat,3,2,1,Southampton FC
+30,Sat Mar 9 2019,Manchester City FC,03-Jan,Watford FC,2019,Mar,9,9/Mar/2019,Sat,4,3,1,Manchester City FC
+30,Sun Mar 10 2019,Liverpool FC,04-Feb,Burnley FC,2019,Mar,10,10/Mar/2019,Sun,6,4,2,Liverpool FC
+30,Sun Mar 10 2019,Chelsea FC,01-Jan,Wolverhampton Wanderers FC,2019,Mar,10,10/Mar/2019,Sun,2,1,1,Draw
+30,Sun Mar 10 2019,Arsenal FC,2-0,Manchester United FC,2019,Mar,10,10/Mar/2019,Sun,2,2,0,Arsenal FC
+31,Sat Mar 16 2019,Burnley FC,01-Feb,Leicester City FC,2019,Mar,16,16/Mar/2019,Sat,3,1,2,Leicester City FC
+31,Sat Mar 16 2019,West Ham United FC,04-Mar,Huddersfield Town AFC,2019,Mar,16,16/Mar/2019,Sat,7,4,3,West Ham United FC
+31,Sat Mar 16 2019,AFC Bournemouth,02-Feb,Newcastle United FC,2019,Mar,16,16/Mar/2019,Sat,4,2,2,Draw
+31,Sun Mar 17 2019,Fulham FC,01-Feb,Liverpool FC,2019,Mar,17,17/Mar/2019,Sun,3,1,2,Liverpool FC
+31,Sun Mar 17 2019,Everton FC,2-0,Chelsea FC,2019,Mar,17,17/Mar/2019,Sun,2,2,0,Everton FC
+32,Sat Mar 30 2019,Fulham FC,0-2,Manchester City FC,2019,Mar,30,30/Mar/2019,Sat,2,0,2,Manchester City FC
+32,Sat Mar 30 2019,Manchester United FC,02-Jan,Watford FC,2019,Mar,30,30/Mar/2019,Sat,3,2,1,Manchester United FC
+32,Sat Mar 30 2019,Leicester City FC,2-0,AFC Bournemouth,2019,Mar,30,30/Mar/2019,Sat,2,2,0,Leicester City FC
+32,Sat Mar 30 2019,Burnley FC,2-0,Wolverhampton Wanderers FC,2019,Mar,30,30/Mar/2019,Sat,2,2,0,Burnley FC
+32,Sat Mar 30 2019,Crystal Palace FC,2-0,Huddersfield Town AFC,2019,Mar,30,30/Mar/2019,Sat,2,2,0,Crystal Palace FC
+32,Sat Mar 30 2019,Brighton & Hove Albion FC,0-1,Southampton FC,2019,Mar,30,30/Mar/2019,Sat,1,0,1,Southampton FC
+32,Sat Mar 30 2019,West Ham United FC,0-2,Everton FC,2019,Mar,30,30/Mar/2019,Sat,2,0,2,Everton FC
+32,Sun Mar 31 2019,Cardiff City FC,01-Feb,Chelsea FC,2019,Mar,31,31/Mar/2019,Sun,3,1,2,Chelsea FC
+32,Sun Mar 31 2019,Liverpool FC,02-Jan,Tottenham Hotspur FC,2019,Mar,31,31/Mar/2019,Sun,3,2,1,Liverpool FC
+32,Mon Apr 1 2019,Arsenal FC,2-0,Newcastle United FC,2019,Apr,1,1/Apr/2019,Mon,2,2,0,Arsenal FC
+33,Tue Apr 2 2019,Wolverhampton Wanderers FC,02-Jan,Manchester United FC,2019,Apr,2,2/Apr/2019,Tue,3,2,1,Wolverhampton Wanderers FC
+33,Tue Apr 2 2019,Watford FC,04-Jan,Fulham FC,2019,Apr,2,2/Apr/2019,Tue,5,4,1,Watford FC
+27,Wed Apr 3 2019,Chelsea FC,3-0,Brighton & Hove Albion FC,2019,Apr,3,3/Apr/2019,Wed,3,3,0,Chelsea FC
+31,Wed Apr 3 2019,Tottenham Hotspur FC,2-0,Crystal Palace FC,2019,Apr,3,3/Apr/2019,Wed,2,2,0,Tottenham Hotspur FC
+33,Wed Apr 3 2019,Manchester City FC,2-0,Cardiff City FC,2019,Apr,3,3/Apr/2019,Wed,2,2,0,Manchester City FC
+33,Fri Apr 5 2019,Southampton FC,01-Mar,Liverpool FC,2019,Apr,5,5/Apr/2019,Fri,4,1,3,Liverpool FC
+33,Sat Apr 6 2019,Newcastle United FC,0-1,Crystal Palace FC,2019,Apr,6,6/Apr/2019,Sat,1,0,1,Crystal Palace FC
+33,Sat Apr 6 2019,Huddersfield Town AFC,01-Apr,Leicester City FC,2019,Apr,6,6/Apr/2019,Sat,5,1,4,Leicester City FC
+33,Sat Apr 6 2019,AFC Bournemouth,01-Mar,Burnley FC,2019,Apr,6,6/Apr/2019,Sat,4,1,3,Burnley FC
+33,Sun Apr 7 2019,Everton FC,1-0,Arsenal FC,2019,Apr,7,7/Apr/2019,Sun,1,1,0,Everton FC
+33,Mon Apr 8 2019,Chelsea FC,2-0,West Ham United FC,2019,Apr,8,8/Apr/2019,Mon,2,2,0,Chelsea FC
+34,Fri Apr 12 2019,Leicester City FC,0-1,Newcastle United FC,2019,Apr,12,12/Apr/2019,Fri,1,0,1,Newcastle United FC
+34,Sat Apr 13 2019,Tottenham Hotspur FC,4-0,Huddersfield Town AFC,2019,Apr,13,13/Apr/2019,Sat,4,4,0,Tottenham Hotspur FC
+34,Sat Apr 13 2019,Fulham FC,2-0,Everton FC,2019,Apr,13,13/Apr/2019,Sat,2,2,0,Fulham FC
+34,Sat Apr 13 2019,Burnley FC,2-0,Cardiff City FC,2019,Apr,13,13/Apr/2019,Sat,2,2,0,Burnley FC
+34,Sat Apr 13 2019,Southampton FC,03-Jan,Wolverhampton Wanderers FC,2019,Apr,13,13/Apr/2019,Sat,4,3,1,Southampton FC
+34,Sat Apr 13 2019,Brighton & Hove Albion FC,0-5,AFC Bournemouth,2019,Apr,13,13/Apr/2019,Sat,5,0,5,AFC Bournemouth
+34,Sat Apr 13 2019,Manchester United FC,02-Jan,West Ham United FC,2019,Apr,13,13/Apr/2019,Sat,3,2,1,Manchester United FC
+34,Sun Apr 14 2019,Crystal Palace FC,01-Mar,Manchester City FC,2019,Apr,14,14/Apr/2019,Sun,4,1,3,Manchester City FC
+34,Sun Apr 14 2019,Liverpool FC,2-0,Chelsea FC,2019,Apr,14,14/Apr/2019,Sun,2,2,0,Liverpool FC
+34,Mon Apr 15 2019,Watford FC,0-1,Arsenal FC,2019,Apr,15,15/Apr/2019,Mon,1,0,1,Arsenal FC
+31,Tue Apr 16 2019,Brighton & Hove Albion FC,0-2,Cardiff City FC,2019,Apr,16,16/Apr/2019,Tue,2,0,2,Cardiff City FC
+35,Sat Apr 20 2019,Manchester City FC,1-0,Tottenham Hotspur FC,2019,Apr,20,20/Apr/2019,Sat,1,1,0,Manchester City FC
+35,Sat Apr 20 2019,Wolverhampton Wanderers FC,0-0,Brighton & Hove Albion FC,2019,Apr,20,20/Apr/2019,Sat,0,0,0,Draw
+35,Sat Apr 20 2019,Huddersfield Town AFC,01-Feb,Watford FC,2019,Apr,20,20/Apr/2019,Sat,3,1,2,Watford FC
+35,Sat Apr 20 2019,West Ham United FC,02-Feb,Leicester City FC,2019,Apr,20,20/Apr/2019,Sat,4,2,2,Draw
+35,Sat Apr 20 2019,AFC Bournemouth,0-1,Fulham FC,2019,Apr,20,20/Apr/2019,Sat,1,0,1,Fulham FC
+35,Sat Apr 20 2019,Newcastle United FC,03-Jan,Southampton FC,2019,Apr,20,20/Apr/2019,Sat,4,3,1,Newcastle United FC
+35,Sun Apr 21 2019,Everton FC,4-0,Manchester United FC,2019,Apr,21,21/Apr/2019,Sun,4,4,0,Everton FC
+35,Sun Apr 21 2019,Arsenal FC,02-Mar,Crystal Palace FC,2019,Apr,21,21/Apr/2019,Sun,5,2,3,Crystal Palace FC
+35,Sun Apr 21 2019,Cardiff City FC,0-2,Liverpool FC,2019,Apr,21,21/Apr/2019,Sun,2,0,2,Liverpool FC
+35,Mon Apr 22 2019,Chelsea FC,02-Feb,Burnley FC,2019,Apr,22,22/Apr/2019,Mon,4,2,2,Draw
+31,Tue Apr 23 2019,Watford FC,01-Jan,Southampton FC,2019,Apr,23,23/Apr/2019,Tue,2,1,1,Draw
+33,Tue Apr 23 2019,Tottenham Hotspur FC,1-0,Brighton & Hove Albion FC,2019,Apr,23,23/Apr/2019,Tue,1,1,0,Tottenham Hotspur FC
+31,Wed Apr 24 2019,Wolverhampton Wanderers FC,03-Jan,Arsenal FC,2019,Apr,24,24/Apr/2019,Wed,4,3,1,Wolverhampton Wanderers FC
+31,Wed Apr 24 2019,Manchester United FC,0-2,Manchester City FC,2019,Apr,24,24/Apr/2019,Wed,2,0,2,Manchester City FC
+36,Fri Apr 26 2019,Liverpool FC,5-0,Huddersfield Town AFC,2019,Apr,26,26/Apr/2019,Fri,5,5,0,Liverpool FC
+36,Sat Apr 27 2019,Tottenham Hotspur FC,0-1,West Ham United FC,2019,Apr,27,27/Apr/2019,Sat,1,0,1,West Ham United FC
+36,Sat Apr 27 2019,Fulham FC,1-0,Cardiff City FC,2019,Apr,27,27/Apr/2019,Sat,1,1,0,Fulham FC
+36,Sat Apr 27 2019,Southampton FC,03-Mar,AFC Bournemouth,2019,Apr,27,27/Apr/2019,Sat,6,3,3,Draw
+36,Sat Apr 27 2019,Crystal Palace FC,0-0,Everton FC,2019,Apr,27,27/Apr/2019,Sat,0,0,0,Draw
+36,Sat Apr 27 2019,Watford FC,01-Feb,Wolverhampton Wanderers FC,2019,Apr,27,27/Apr/2019,Sat,3,1,2,Wolverhampton Wanderers FC
+36,Sat Apr 27 2019,Brighton & Hove Albion FC,01-Jan,Newcastle United FC,2019,Apr,27,27/Apr/2019,Sat,2,1,1,Draw
+36,Sun Apr 28 2019,Leicester City FC,3-0,Arsenal FC,2019,Apr,28,28/Apr/2019,Sun,3,3,0,Leicester City FC
+36,Sun Apr 28 2019,Burnley FC,0-1,Manchester City FC,2019,Apr,28,28/Apr/2019,Sun,1,0,1,Manchester City FC
+36,Sun Apr 28 2019,Manchester United FC,01-Jan,Chelsea FC,2019,Apr,28,28/Apr/2019,Sun,2,1,1,Draw
+37,Fri May 3 2019,Everton FC,2-0,Burnley FC,2019,May,3,3/May/2019,Fri,2,2,0,Everton FC
+37,Sat May 4 2019,AFC Bournemouth,1-0,Tottenham Hotspur FC,2019,May,4,4/May/2019,Sat,1,1,0,AFC Bournemouth
+37,Sat May 4 2019,Wolverhampton Wanderers FC,1-0,Fulham FC,2019,May,4,4/May/2019,Sat,1,1,0,Wolverhampton Wanderers FC
+37,Sat May 4 2019,West Ham United FC,3-0,Southampton FC,2019,May,4,4/May/2019,Sat,3,3,0,West Ham United FC
+37,Sat May 4 2019,Cardiff City FC,02-Mar,Crystal Palace FC,2019,May,4,4/May/2019,Sat,5,2,3,Crystal Palace FC
+37,Sat May 4 2019,Newcastle United FC,02-Mar,Liverpool FC,2019,May,4,4/May/2019,Sat,5,2,3,Liverpool FC
+37,Sun May 5 2019,Chelsea FC,3-0,Watford FC,2019,May,5,5/May/2019,Sun,3,3,0,Chelsea FC
+37,Sun May 5 2019,Huddersfield Town AFC,01-Jan,Manchester United FC,2019,May,5,5/May/2019,Sun,2,1,1,Draw
+37,Sun May 5 2019,Arsenal FC,01-Jan,Brighton & Hove Albion FC,2019,May,5,5/May/2019,Sun,2,1,1,Draw
+37,Mon May 6 2019,Manchester City FC,1-0,Leicester City FC,2019,May,6,6/May/2019,Mon,1,1,0,Manchester City FC
+38,Sun May 12 2019,Fulham FC,0-4,Newcastle United FC,2019,May,12,12/May/2019,Sun,4,0,4,Newcastle United FC
+38,Sun May 12 2019,Liverpool FC,2-0,Wolverhampton Wanderers FC,2019,May,12,12/May/2019,Sun,2,2,0,Liverpool FC
+38,Sun May 12 2019,Tottenham Hotspur FC,02-Feb,Everton FC,2019,May,12,12/May/2019,Sun,4,2,2,Draw
+38,Sun May 12 2019,Manchester United FC,0-2,Cardiff City FC,2019,May,12,12/May/2019,Sun,2,0,2,Cardiff City FC
+38,Sun May 12 2019,Leicester City FC,0-0,Chelsea FC,2019,May,12,12/May/2019,Sun,0,0,0,Draw
+38,Sun May 12 2019,Burnley FC,01-Mar,Arsenal FC,2019,May,12,12/May/2019,Sun,4,1,3,Arsenal FC
+38,Sun May 12 2019,Southampton FC,01-Jan,Huddersfield Town AFC,2019,May,12,12/May/2019,Sun,2,1,1,Draw
+38,Sun May 12 2019,Crystal Palace FC,05-Mar,AFC Bournemouth,2019,May,12,12/May/2019,Sun,8,5,3,Crystal Palace FC
+38,Sun May 12 2019,Brighton & Hove Albion FC,01-Apr,Manchester City FC,2019,May,12,12/May/2019,Sun,5,1,4,Manchester City FC
+38,Sun May 12 2019,Watford FC,01-Apr,West Ham United FC,2019,May,12,12/May/2019,Sun,5,1,4,West Ham United FC

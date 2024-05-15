@@ -1,0 +1,553 @@
+Round,Date,Team 1,FT,Team 2,Year,Month,Day,Date,DayOfWeek,Total Goals,Team 1 Goals,Team 2 Goals,Result
+1,Sat Aug 8 2015,Walsall FC,01-Jan,Oldham Athletic AFC,2015,Aug,8,8/Aug/2015,Sat,2,1,1,Draw
+1,Sat Aug 8 2015,Swindon Town FC,04-Jan,Bradford City AFC,2015,Aug,8,8/Aug/2015,Sat,5,4,1,Swindon Town FC
+1,Sat Aug 8 2015,Shrewsbury Town FC,01-Feb,Millwall FC,2015,Aug,8,8/Aug/2015,Sat,3,1,2,Millwall FC
+1,Sat Aug 8 2015,Rochdale AFC,2-0,Peterborough United FC,2015,Aug,8,8/Aug/2015,Sat,2,2,0,Rochdale AFC
+1,Sat Aug 8 2015,Gillingham FC,4-0,Sheffield United FC,2015,Aug,8,8/Aug/2015,Sat,4,4,0,Gillingham FC
+1,Sat Aug 8 2015,Fleetwood Town FC,01-Jan,Southend United FC,2015,Aug,8,8/Aug/2015,Sat,2,1,1,Draw
+1,Sat Aug 8 2015,Doncaster Rovers FC,01-Jan,Bury FC,2015,Aug,8,8/Aug/2015,Sat,2,1,1,Draw
+1,Sat Aug 8 2015,Crewe Alexandra FC,0-0,Port Vale FC,2015,Aug,8,8/Aug/2015,Sat,0,0,0,Draw
+1,Sat Aug 8 2015,Coventry City FC,2-0,Wigan Athletic FC,2015,Aug,8,8/Aug/2015,Sat,2,2,0,Coventry City FC
+1,Sat Aug 8 2015,Colchester United FC,02-Feb,Blackpool FC,2015,Aug,8,8/Aug/2015,Sat,4,2,2,Draw
+1,Sat Aug 8 2015,Chesterfield FC,03-Jan,Barnsley FC,2015,Aug,8,8/Aug/2015,Sat,4,3,1,Chesterfield FC
+1,Sat Aug 8 2015,Burton Albion FC,02-Jan,Scunthorpe United FC,2015,Aug,8,8/Aug/2015,Sat,3,2,1,Burton Albion FC
+2,Sat Aug 15 2015,Southend United FC,0-2,Walsall FC,2015,Aug,15,15/Aug/2015,Sat,2,0,2,Walsall FC
+2,Sat Aug 15 2015,Sheffield United FC,2-0,Chesterfield FC,2015,Aug,15,15/Aug/2015,Sat,2,2,0,Sheffield United FC
+2,Sat Aug 15 2015,Scunthorpe United FC,2-0,Crewe Alexandra FC,2015,Aug,15,15/Aug/2015,Sat,2,2,0,Scunthorpe United FC
+2,Sat Aug 15 2015,Port Vale FC,01-Jan,Gillingham FC,2015,Aug,15,15/Aug/2015,Sat,2,1,1,Draw
+2,Sat Aug 15 2015,Peterborough United FC,02-Jan,Colchester United FC,2015,Aug,15,15/Aug/2015,Sat,3,2,1,Peterborough United FC
+2,Sat Aug 15 2015,Oldham Athletic AFC,1-0,Fleetwood Town FC,2015,Aug,15,15/Aug/2015,Sat,1,1,0,Oldham Athletic AFC
+2,Sat Aug 15 2015,Millwall FC,0-4,Coventry City FC,2015,Aug,15,15/Aug/2015,Sat,4,0,4,Coventry City FC
+2,Sat Aug 15 2015,Bury FC,02-Feb,Swindon Town FC,2015,Aug,15,15/Aug/2015,Sat,4,2,2,Draw
+2,Sat Aug 15 2015,Bradford City AFC,01-Jan,Shrewsbury Town FC,2015,Aug,15,15/Aug/2015,Sat,2,1,1,Draw
+2,Sat Aug 15 2015,Blackpool FC,0-2,Rochdale AFC,2015,Aug,15,15/Aug/2015,Sat,2,0,2,Rochdale AFC
+2,Sat Aug 15 2015,Barnsley FC,1-0,Burton Albion FC,2015,Aug,15,15/Aug/2015,Sat,1,1,0,Barnsley FC
+2,Sun Aug 16 2015,Wigan Athletic FC,0-0,Doncaster Rovers FC,2015,Aug,16,16/Aug/2015,Sun,0,0,0,Draw
+3,Tue Aug 18 2015,Peterborough United FC,01-Mar,Sheffield United FC,2015,Aug,18,18/Aug/2015,Tue,4,1,3,Sheffield United FC
+3,Tue Aug 18 2015,Swindon Town FC,02-Feb,Port Vale FC,2015,Aug,18,18/Aug/2015,Tue,4,2,2,Draw
+3,Tue Aug 18 2015,Shrewsbury Town FC,01-Feb,Chesterfield FC,2015,Aug,18,18/Aug/2015,Tue,3,1,2,Chesterfield FC
+3,Tue Aug 18 2015,Rochdale AFC,01-Feb,Walsall FC,2015,Aug,18,18/Aug/2015,Tue,3,1,2,Walsall FC
+3,Tue Aug 18 2015,Millwall FC,02-Mar,Barnsley FC,2015,Aug,18,18/Aug/2015,Tue,5,2,3,Barnsley FC
+3,Tue Aug 18 2015,Blackpool FC,01-Feb,Burton Albion FC,2015,Aug,18,18/Aug/2015,Tue,3,1,2,Burton Albion FC
+3,Tue Aug 18 2015,Colchester United FC,0-0,Oldham Athletic AFC,2015,Aug,18,18/Aug/2015,Tue,0,0,0,Draw
+3,Tue Aug 18 2015,Bury FC,03-Apr,Fleetwood Town FC,2015,Aug,18,18/Aug/2015,Tue,7,3,4,Fleetwood Town FC
+3,Tue Aug 18 2015,Bradford City AFC,01-Feb,Gillingham FC,2015,Aug,18,18/Aug/2015,Tue,3,1,2,Gillingham FC
+3,Tue Aug 18 2015,Coventry City FC,03-Feb,Crewe Alexandra FC,2015,Aug,18,18/Aug/2015,Tue,5,3,2,Coventry City FC
+3,Wed Aug 19 2015,Wigan Athletic FC,3-0,Scunthorpe United FC,2015,Aug,19,19/Aug/2015,Wed,3,3,0,Wigan Athletic FC
+3,Wed Aug 19 2015,Doncaster Rovers FC,0-0,Southend United FC,2015,Aug,19,19/Aug/2015,Wed,0,0,0,Draw
+4,Sat Aug 22 2015,Walsall FC,02-Jan,Coventry City FC,2015,Aug,22,22/Aug/2015,Sat,3,2,1,Walsall FC
+4,Sat Aug 22 2015,Southend United FC,0-1,Swindon Town FC,2015,Aug,22,22/Aug/2015,Sat,1,0,1,Swindon Town FC
+4,Sat Aug 22 2015,Sheffield United FC,2-0,Blackpool FC,2015,Aug,22,22/Aug/2015,Sat,2,2,0,Sheffield United FC
+4,Sat Aug 22 2015,Scunthorpe United FC,0-0,Millwall FC,2015,Aug,22,22/Aug/2015,Sat,0,0,0,Draw
+4,Sat Aug 22 2015,Barnsley FC,0-0,Bradford City AFC,2015,Aug,22,22/Aug/2015,Sat,0,0,0,Draw
+4,Sat Aug 22 2015,Oldham Athletic AFC,01-Jan,Shrewsbury Town FC,2015,Aug,22,22/Aug/2015,Sat,2,1,1,Draw
+4,Sat Aug 22 2015,Gillingham FC,2-0,Wigan Athletic FC,2015,Aug,22,22/Aug/2015,Sat,2,2,0,Gillingham FC
+4,Sat Aug 22 2015,Fleetwood Town FC,4-0,Colchester United FC,2015,Aug,22,22/Aug/2015,Sat,4,4,0,Fleetwood Town FC
+4,Sat Aug 22 2015,Crewe Alexandra FC,03-Mar,Bury FC,2015,Aug,22,22/Aug/2015,Sat,6,3,3,Draw
+4,Sat Aug 22 2015,Chesterfield FC,0-0,Rochdale AFC,2015,Aug,22,22/Aug/2015,Sat,0,0,0,Draw
+4,Sat Aug 22 2015,Burton Albion FC,02-Jan,Peterborough United FC,2015,Aug,22,22/Aug/2015,Sat,3,2,1,Burton Albion FC
+4,Sat Aug 22 2015,Port Vale FC,3-0,Doncaster Rovers FC,2015,Aug,22,22/Aug/2015,Sat,3,3,0,Port Vale FC
+5,Sat Aug 29 2015,Wigan Athletic FC,1-0,Crewe Alexandra FC,2015,Aug,29,29/Aug/2015,Sat,1,1,0,Wigan Athletic FC
+5,Sat Aug 29 2015,Swindon Town FC,0-2,Sheffield United FC,2015,Aug,29,29/Aug/2015,Sat,2,0,2,Sheffield United FC
+5,Sat Aug 29 2015,Shrewsbury Town FC,0-1,Burton Albion FC,2015,Aug,29,29/Aug/2015,Sat,1,0,1,Burton Albion FC
+5,Sat Aug 29 2015,Rochdale AFC,3-0,Barnsley FC,2015,Aug,29,29/Aug/2015,Sat,3,3,0,Rochdale AFC
+5,Sat Aug 29 2015,Peterborough United FC,01-Jan,Gillingham FC,2015,Aug,29,29/Aug/2015,Sat,2,1,1,Draw
+5,Sat Aug 29 2015,Millwall FC,0-2,Chesterfield FC,2015,Aug,29,29/Aug/2015,Sat,2,0,2,Chesterfield FC
+5,Sat Aug 29 2015,Doncaster Rovers FC,2-0,Fleetwood Town FC,2015,Aug,29,29/Aug/2015,Sat,2,2,0,Doncaster Rovers FC
+5,Sat Aug 29 2015,Colchester United FC,02-Feb,Scunthorpe United FC,2015,Aug,29,29/Aug/2015,Sat,4,2,2,Draw
+5,Sat Aug 29 2015,Bury FC,01-Jan,Oldham Athletic AFC,2015,Aug,29,29/Aug/2015,Sat,2,1,1,Draw
+5,Sat Aug 29 2015,Bradford City AFC,1-0,Port Vale FC,2015,Aug,29,29/Aug/2015,Sat,1,1,0,Bradford City AFC
+5,Sat Aug 29 2015,Blackpool FC,0-4,Walsall FC,2015,Aug,29,29/Aug/2015,Sat,4,0,4,Walsall FC
+5,Mon Aug 31 2015,Coventry City FC,02-Feb,Southend United FC,2015,Aug,31,31/Aug/2015,Mon,4,2,2,Draw
+6,Sat Sep 5 2015,Oldham Athletic AFC,01-Feb,Bradford City AFC,2015,Sep,5,5/Sep/2015,Sat,3,1,2,Bradford City AFC
+6,Sat Sep 5 2015,Walsall FC,0-1,Bury FC,2015,Sep,5,5/Sep/2015,Sat,1,0,1,Bury FC
+6,Sat Sep 5 2015,Scunthorpe United FC,0-1,Blackpool FC,2015,Sep,5,5/Sep/2015,Sat,1,0,1,Blackpool FC
+6,Sat Sep 5 2015,Southend United FC,02-Jan,Peterborough United FC,2015,Sep,5,5/Sep/2015,Sat,3,2,1,Southend United FC
+6,Sat Sep 5 2015,Barnsley FC,01-Feb,Shrewsbury Town FC,2015,Sep,5,5/Sep/2015,Sat,3,1,2,Shrewsbury Town FC
+6,Sat Sep 5 2015,Fleetwood Town FC,01-Jan,Rochdale AFC,2015,Sep,5,5/Sep/2015,Sat,2,1,1,Draw
+6,Sat Sep 5 2015,Crewe Alexandra FC,01-Mar,Swindon Town FC,2015,Sep,5,5/Sep/2015,Sat,4,1,3,Swindon Town FC
+6,Sat Sep 5 2015,Chesterfield FC,02-Mar,Wigan Athletic FC,2015,Sep,5,5/Sep/2015,Sat,5,2,3,Wigan Athletic FC
+6,Sat Sep 5 2015,Gillingham FC,1-0,Doncaster Rovers FC,2015,Sep,5,5/Sep/2015,Sat,1,1,0,Gillingham FC
+6,Sun Sep 6 2015,Burton Albion FC,01-Feb,Coventry City FC,2015,Sep,6,6/Sep/2015,Sun,3,1,2,Coventry City FC
+7,Sat Sep 12 2015,Oldham Athletic AFC,01-May,Peterborough United FC,2015,Sep,12,12/Sep/2015,Sat,6,1,5,Peterborough United FC
+7,Sat Sep 12 2015,Southend United FC,0-1,Shrewsbury Town FC,2015,Sep,12,12/Sep/2015,Sat,1,0,1,Shrewsbury Town FC
+7,Sat Sep 12 2015,Sheffield United FC,01-Mar,Bury FC,2015,Sep,12,12/Sep/2015,Sat,4,1,3,Bury FC
+7,Sat Sep 12 2015,Scunthorpe United FC,1-0,Coventry City FC,2015,Sep,12,12/Sep/2015,Sat,1,1,0,Scunthorpe United FC
+7,Sat Sep 12 2015,Port Vale FC,03-Feb,Wigan Athletic FC,2015,Sep,12,12/Sep/2015,Sat,5,3,2,Port Vale FC
+7,Sat Sep 12 2015,Barnsley FC,04-Jan,Swindon Town FC,2015,Sep,12,12/Sep/2015,Sat,5,4,1,Barnsley FC
+7,Sat Sep 12 2015,Gillingham FC,02-Jan,Blackpool FC,2015,Sep,12,12/Sep/2015,Sat,3,2,1,Gillingham FC
+7,Sat Sep 12 2015,Fleetwood Town FC,01-Jan,Bradford City AFC,2015,Sep,12,12/Sep/2015,Sat,2,1,1,Draw
+7,Sat Sep 12 2015,Crewe Alexandra FC,01-Mar,Millwall FC,2015,Sep,12,12/Sep/2015,Sat,4,1,3,Millwall FC
+7,Sat Sep 12 2015,Chesterfield FC,03-Mar,Colchester United FC,2015,Sep,12,12/Sep/2015,Sat,6,3,3,Draw
+7,Sat Sep 12 2015,Burton Albion FC,1-0,Rochdale AFC,2015,Sep,12,12/Sep/2015,Sat,1,1,0,Burton Albion FC
+7,Sat Sep 12 2015,Walsall FC,2-0,Doncaster Rovers FC,2015,Sep,12,12/Sep/2015,Sat,2,2,0,Walsall FC
+6,Tue Sep 15 2015,Sheffield United FC,02-Mar,Colchester United FC,2015,Sep,15,15/Sep/2015,Tue,5,2,3,Colchester United FC
+6,Tue Sep 15 2015,Port Vale FC,0-2,Millwall FC,2015,Sep,15,15/Sep/2015,Tue,2,0,2,Millwall FC
+8,Sat Sep 19 2015,Peterborough United FC,01-Jan,Walsall FC,2015,Sep,19,19/Sep/2015,Sat,2,1,1,Draw
+8,Sat Sep 19 2015,Swindon Town FC,0-1,Burton Albion FC,2015,Sep,19,19/Sep/2015,Sat,1,0,1,Burton Albion FC
+8,Sat Sep 19 2015,Shrewsbury Town FC,0-1,Crewe Alexandra FC,2015,Sep,19,19/Sep/2015,Sat,1,0,1,Crewe Alexandra FC
+8,Sat Sep 19 2015,Rochdale AFC,02-Jan,Scunthorpe United FC,2015,Sep,19,19/Sep/2015,Sat,3,2,1,Rochdale AFC
+8,Sat Sep 19 2015,Wigan Athletic FC,02-Jan,Fleetwood Town FC,2015,Sep,19,19/Sep/2015,Sat,3,2,1,Wigan Athletic FC
+8,Sat Sep 19 2015,Millwall FC,0-2,Southend United FC,2015,Sep,19,19/Sep/2015,Sat,2,0,2,Southend United FC
+8,Sat Sep 19 2015,Doncaster Rovers FC,01-Jan,Oldham Athletic AFC,2015,Sep,19,19/Sep/2015,Sat,2,1,1,Draw
+8,Sat Sep 19 2015,Coventry City FC,1-0,Chesterfield FC,2015,Sep,19,19/Sep/2015,Sat,1,1,0,Coventry City FC
+8,Sat Sep 19 2015,Colchester United FC,02-Jan,Gillingham FC,2015,Sep,19,19/Sep/2015,Sat,3,2,1,Colchester United FC
+8,Sat Sep 19 2015,Bury FC,1-0,Port Vale FC,2015,Sep,19,19/Sep/2015,Sat,1,1,0,Bury FC
+8,Sat Sep 19 2015,Blackpool FC,01-Jan,Barnsley FC,2015,Sep,19,19/Sep/2015,Sat,2,1,1,Draw
+8,Sun Sep 20 2015,Bradford City AFC,02-Feb,Sheffield United FC,2015,Sep,20,20/Sep/2015,Sun,4,2,2,Draw
+9,Sat Sep 26 2015,Oldham Athletic AFC,01-Jan,Wigan Athletic FC,2015,Sep,26,26/Sep/2015,Sat,2,1,1,Draw
+9,Sat Sep 26 2015,Swindon Town FC,01-Feb,Colchester United FC,2015,Sep,26,26/Sep/2015,Sat,3,1,2,Colchester United FC
+9,Sat Sep 26 2015,Southend United FC,02-Jan,Scunthorpe United FC,2015,Sep,26,26/Sep/2015,Sat,3,2,1,Southend United FC
+9,Sat Sep 26 2015,Shrewsbury Town FC,2-0,Blackpool FC,2015,Sep,26,26/Sep/2015,Sat,2,2,0,Shrewsbury Town FC
+9,Sat Sep 26 2015,Barnsley FC,2-0,Gillingham FC,2015,Sep,26,26/Sep/2015,Sat,2,2,0,Barnsley FC
+9,Sat Sep 26 2015,Walsall FC,01-Jan,Crewe Alexandra FC,2015,Sep,26,26/Sep/2015,Sat,2,1,1,Draw
+9,Sat Sep 26 2015,Millwall FC,03-Jan,Rochdale AFC,2015,Sep,26,26/Sep/2015,Sat,4,3,1,Millwall FC
+9,Sat Sep 26 2015,Fleetwood Town FC,01-Feb,Port Vale FC,2015,Sep,26,26/Sep/2015,Sat,3,1,2,Port Vale FC
+9,Sat Sep 26 2015,Chesterfield FC,01-Feb,Burton Albion FC,2015,Sep,26,26/Sep/2015,Sat,3,1,2,Burton Albion FC
+9,Sat Sep 26 2015,Bury FC,02-Jan,Coventry City FC,2015,Sep,26,26/Sep/2015,Sat,3,2,1,Bury FC
+9,Sat Sep 26 2015,Bradford City AFC,0-2,Peterborough United FC,2015,Sep,26,26/Sep/2015,Sat,2,0,2,Peterborough United FC
+9,Sat Sep 26 2015,Sheffield United FC,03-Jan,Doncaster Rovers FC,2015,Sep,26,26/Sep/2015,Sat,4,3,1,Sheffield United FC
+10,Tue Sep 29 2015,Wigan Athletic FC,02-Feb,Millwall FC,2015,Sep,29,29/Sep/2015,Tue,4,2,2,Draw
+10,Tue Sep 29 2015,Scunthorpe United FC,0-1,Walsall FC,2015,Sep,29,29/Sep/2015,Tue,1,0,1,Walsall FC
+10,Tue Sep 29 2015,Rochdale AFC,03-Feb,Shrewsbury Town FC,2015,Sep,29,29/Sep/2015,Tue,5,3,2,Rochdale AFC
+10,Tue Sep 29 2015,Blackpool FC,2-0,Chesterfield FC,2015,Sep,29,29/Sep/2015,Tue,2,2,0,Blackpool FC
+10,Tue Sep 29 2015,Peterborough United FC,02-Mar,Bury FC,2015,Sep,29,29/Sep/2015,Tue,5,2,3,Bury FC
+10,Tue Sep 29 2015,Gillingham FC,05-Jan,Fleetwood Town FC,2015,Sep,29,29/Sep/2015,Tue,6,5,1,Gillingham FC
+10,Tue Sep 29 2015,Doncaster Rovers FC,02-Feb,Swindon Town FC,2015,Sep,29,29/Sep/2015,Tue,4,2,2,Draw
+10,Tue Sep 29 2015,Crewe Alexandra FC,01-Feb,Southend United FC,2015,Sep,29,29/Sep/2015,Tue,3,1,2,Southend United FC
+10,Tue Sep 29 2015,Colchester United FC,2-0,Bradford City AFC,2015,Sep,29,29/Sep/2015,Tue,2,2,0,Colchester United FC
+10,Tue Sep 29 2015,Burton Albion FC,0-0,Sheffield United FC,2015,Sep,29,29/Sep/2015,Tue,0,0,0,Draw
+10,Tue Sep 29 2015,Port Vale FC,01-Jan,Oldham Athletic AFC,2015,Sep,29,29/Sep/2015,Tue,2,1,1,Draw
+11,Sat Oct 3 2015,Wigan Athletic FC,0-0,Walsall FC,2015,Oct,3,3/Oct/2015,Sat,0,0,0,Draw
+11,Sat Oct 3 2015,Scunthorpe United FC,1-0,Fleetwood Town FC,2015,Oct,3,3/Oct/2015,Sat,1,1,0,Scunthorpe United FC
+11,Sat Oct 3 2015,Rochdale AFC,01-Mar,Bradford City AFC,2015,Oct,3,3/Oct/2015,Sat,4,1,3,Bradford City AFC
+11,Sat Oct 3 2015,Port Vale FC,02-Jan,Sheffield United FC,2015,Oct,3,3/Oct/2015,Sat,3,2,1,Port Vale FC
+11,Sat Oct 3 2015,Peterborough United FC,05-Mar,Millwall FC,2015,Oct,3,3/Oct/2015,Sat,8,5,3,Peterborough United FC
+11,Sat Oct 3 2015,Gillingham FC,03-Mar,Oldham Athletic AFC,2015,Oct,3,3/Oct/2015,Sat,6,3,3,Draw
+11,Sat Oct 3 2015,Doncaster Rovers FC,02-Jan,Barnsley FC,2015,Oct,3,3/Oct/2015,Sat,3,2,1,Doncaster Rovers FC
+11,Sat Oct 3 2015,Crewe Alexandra FC,01-Feb,Chesterfield FC,2015,Oct,3,3/Oct/2015,Sat,3,1,2,Chesterfield FC
+11,Sat Oct 3 2015,Coventry City FC,3-0,Shrewsbury Town FC,2015,Oct,3,3/Oct/2015,Sat,3,3,0,Coventry City FC
+11,Sat Oct 3 2015,Colchester United FC,0-1,Bury FC,2015,Oct,3,3/Oct/2015,Sat,1,0,1,Bury FC
+11,Sat Oct 3 2015,Blackpool FC,1-0,Swindon Town FC,2015,Oct,3,3/Oct/2015,Sat,1,1,0,Blackpool FC
+11,Sat Oct 3 2015,Burton Albion FC,1-0,Southend United FC,2015,Oct,3,3/Oct/2015,Sat,1,1,0,Burton Albion FC
+12,Sat Oct 10 2015,Walsall FC,2-0,Burton Albion FC,2015,Oct,10,10/Oct/2015,Sat,2,2,0,Walsall FC
+12,Sat Oct 10 2015,Swindon Town FC,01-Feb,Peterborough United FC,2015,Oct,10,10/Oct/2015,Sat,3,1,2,Peterborough United FC
+12,Sat Oct 10 2015,Southend United FC,1-0,Port Vale FC,2015,Oct,10,10/Oct/2015,Sat,1,1,0,Southend United FC
+12,Sat Oct 10 2015,Shrewsbury Town FC,04-Feb,Colchester United FC,2015,Oct,10,10/Oct/2015,Sat,6,4,2,Shrewsbury Town FC
+12,Sat Oct 10 2015,Sheffield United FC,03-Feb,Rochdale AFC,2015,Oct,10,10/Oct/2015,Sat,5,3,2,Sheffield United FC
+12,Sat Oct 10 2015,Oldham Athletic AFC,02-Apr,Scunthorpe United FC,2015,Oct,10,10/Oct/2015,Sat,6,2,4,Scunthorpe United FC
+12,Sat Oct 10 2015,Fleetwood Town FC,0-1,Coventry City FC,2015,Oct,10,10/Oct/2015,Sat,1,0,1,Coventry City FC
+12,Sat Oct 10 2015,Chesterfield FC,01-Mar,Gillingham FC,2015,Oct,10,10/Oct/2015,Sat,4,1,3,Gillingham FC
+12,Sat Oct 10 2015,Barnsley FC,01-Feb,Crewe Alexandra FC,2015,Oct,10,10/Oct/2015,Sat,3,1,2,Crewe Alexandra FC
+12,Sat Oct 10 2015,Bury FC,02-Feb,Wigan Athletic FC,2015,Oct,10,10/Oct/2015,Sat,4,2,2,Draw
+13,Sat Oct 17 2015,Wigan Athletic FC,5-0,Colchester United FC,2015,Oct,17,17/Oct/2015,Sat,5,5,0,Wigan Athletic FC
+13,Sat Oct 17 2015,Walsall FC,01-Feb,Chesterfield FC,2015,Oct,17,17/Oct/2015,Sat,3,1,2,Chesterfield FC
+13,Sat Oct 17 2015,Southend United FC,02-Jan,Barnsley FC,2015,Oct,17,17/Oct/2015,Sat,3,2,1,Southend United FC
+13,Sat Oct 17 2015,Scunthorpe United FC,02-Jan,Shrewsbury Town FC,2015,Oct,17,17/Oct/2015,Sat,3,2,1,Scunthorpe United FC
+13,Sat Oct 17 2015,Port Vale FC,01-Jan,Peterborough United FC,2015,Oct,17,17/Oct/2015,Sat,2,1,1,Draw
+13,Sat Oct 17 2015,Oldham Athletic AFC,01-Jan,Sheffield United FC,2015,Oct,17,17/Oct/2015,Sat,2,1,1,Draw
+13,Sat Oct 17 2015,Millwall FC,2-0,Swindon Town FC,2015,Oct,17,17/Oct/2015,Sat,2,2,0,Millwall FC
+13,Sat Oct 17 2015,Fleetwood Town FC,4-0,Burton Albion FC,2015,Oct,17,17/Oct/2015,Sat,4,4,0,Fleetwood Town FC
+13,Sat Oct 17 2015,Doncaster Rovers FC,0-1,Bradford City AFC,2015,Oct,17,17/Oct/2015,Sat,1,0,1,Bradford City AFC
+13,Sat Oct 17 2015,Crewe Alexandra FC,0-1,Gillingham FC,2015,Oct,17,17/Oct/2015,Sat,1,0,1,Gillingham FC
+13,Sat Oct 17 2015,Coventry City FC,0-0,Blackpool FC,2015,Oct,17,17/Oct/2015,Sat,0,0,0,Draw
+13,Sat Oct 17 2015,Bury FC,0-0,Rochdale AFC,2015,Oct,17,17/Oct/2015,Sat,0,0,0,Draw
+14,Tue Oct 20 2015,Swindon Town FC,01-Feb,Oldham Athletic AFC,2015,Oct,20,20/Oct/2015,Tue,3,1,2,Oldham Athletic AFC
+14,Tue Oct 20 2015,Shrewsbury Town FC,01-Feb,Doncaster Rovers FC,2015,Oct,20,20/Oct/2015,Tue,3,1,2,Doncaster Rovers FC
+14,Tue Oct 20 2015,Sheffield United FC,3-0,Fleetwood Town FC,2015,Oct,20,20/Oct/2015,Tue,3,3,0,Sheffield United FC
+14,Tue Oct 20 2015,Rochdale AFC,0-0,Coventry City FC,2015,Oct,20,20/Oct/2015,Tue,0,0,0,Draw
+14,Tue Oct 20 2015,Peterborough United FC,02-Mar,Wigan Athletic FC,2015,Oct,20,20/Oct/2015,Tue,5,2,3,Wigan Athletic FC
+14,Tue Oct 20 2015,Gillingham FC,02-Jan,Scunthorpe United FC,2015,Oct,20,20/Oct/2015,Tue,3,2,1,Gillingham FC
+14,Tue Oct 20 2015,Barnsley FC,0-2,Walsall FC,2015,Oct,20,20/Oct/2015,Tue,2,0,2,Walsall FC
+14,Tue Oct 20 2015,Chesterfield FC,3-0,Southend United FC,2015,Oct,20,20/Oct/2015,Tue,3,3,0,Chesterfield FC
+14,Tue Oct 20 2015,Burton Albion FC,0-0,Crewe Alexandra FC,2015,Oct,20,20/Oct/2015,Tue,0,0,0,Draw
+14,Tue Oct 20 2015,Bradford City AFC,02-Jan,Bury FC,2015,Oct,20,20/Oct/2015,Tue,3,2,1,Bradford City AFC
+14,Tue Oct 20 2015,Blackpool FC,01-Jan,Millwall FC,2015,Oct,20,20/Oct/2015,Tue,2,1,1,Draw
+14,Tue Oct 20 2015,Colchester United FC,02-Jan,Port Vale FC,2015,Oct,20,20/Oct/2015,Tue,3,2,1,Colchester United FC
+15,Sat Oct 24 2015,Sheffield United FC,01-Feb,Millwall FC,2015,Oct,24,24/Oct/2015,Sat,3,1,2,Millwall FC
+15,Sat Oct 24 2015,Swindon Town FC,02-Feb,Coventry City FC,2015,Oct,24,24/Oct/2015,Sat,4,2,2,Draw
+15,Sat Oct 24 2015,Shrewsbury Town FC,2-0,Bury FC,2015,Oct,24,24/Oct/2015,Sat,2,2,0,Shrewsbury Town FC
+15,Sat Oct 24 2015,Rochdale AFC,0-0,Oldham Athletic AFC,2015,Oct,24,24/Oct/2015,Sat,0,0,0,Draw
+15,Sat Oct 24 2015,Peterborough United FC,4-0,Doncaster Rovers FC,2015,Oct,24,24/Oct/2015,Sat,4,4,0,Peterborough United FC
+15,Sat Oct 24 2015,Gillingham FC,01-Jan,Southend United FC,2015,Oct,24,24/Oct/2015,Sat,2,1,1,Draw
+15,Sat Oct 24 2015,Colchester United FC,04-Apr,Walsall FC,2015,Oct,24,24/Oct/2015,Sat,8,4,4,Draw
+15,Sat Oct 24 2015,Chesterfield FC,0-3,Scunthorpe United FC,2015,Oct,24,24/Oct/2015,Sat,3,0,3,Scunthorpe United FC
+15,Sat Oct 24 2015,Burton Albion FC,2-0,Port Vale FC,2015,Oct,24,24/Oct/2015,Sat,2,2,0,Burton Albion FC
+15,Sat Oct 24 2015,Bradford City AFC,01-Jan,Wigan Athletic FC,2015,Oct,24,24/Oct/2015,Sat,2,1,1,Draw
+15,Sat Oct 24 2015,Blackpool FC,2-0,Crewe Alexandra FC,2015,Oct,24,24/Oct/2015,Sat,2,2,0,Blackpool FC
+15,Sat Oct 24 2015,Barnsley FC,0-1,Fleetwood Town FC,2015,Oct,24,24/Oct/2015,Sat,1,0,1,Fleetwood Town FC
+12,Tue Oct 27 2015,Millwall FC,2-0,Doncaster Rovers FC,2015,Oct,27,27/Oct/2015,Tue,2,2,0,Millwall FC
+16,Sat Oct 31 2015,Wigan Athletic FC,1-0,Swindon Town FC,2015,Oct,31,31/Oct/2015,Sat,1,1,0,Wigan Athletic FC
+16,Sat Oct 31 2015,Walsall FC,03-Feb,Gillingham FC,2015,Oct,31,31/Oct/2015,Sat,5,3,2,Walsall FC
+16,Sat Oct 31 2015,Southend United FC,02-Feb,Rochdale AFC,2015,Oct,31,31/Oct/2015,Sat,4,2,2,Draw
+16,Sat Oct 31 2015,Scunthorpe United FC,2-0,Barnsley FC,2015,Oct,31,31/Oct/2015,Sat,2,2,0,Scunthorpe United FC
+16,Sat Oct 31 2015,Port Vale FC,2-0,Shrewsbury Town FC,2015,Oct,31,31/Oct/2015,Sat,2,2,0,Port Vale FC
+16,Sat Oct 31 2015,Oldham Athletic AFC,0-1,Burton Albion FC,2015,Oct,31,31/Oct/2015,Sat,1,0,1,Burton Albion FC
+16,Sat Oct 31 2015,Millwall FC,0-0,Bradford City AFC,2015,Oct,31,31/Oct/2015,Sat,0,0,0,Draw
+16,Sat Oct 31 2015,Fleetwood Town FC,0-1,Chesterfield FC,2015,Oct,31,31/Oct/2015,Sat,1,0,1,Chesterfield FC
+16,Sat Oct 31 2015,Doncaster Rovers FC,2-0,Colchester United FC,2015,Oct,31,31/Oct/2015,Sat,2,2,0,Doncaster Rovers FC
+16,Sat Oct 31 2015,Crewe Alexandra FC,1-0,Sheffield United FC,2015,Oct,31,31/Oct/2015,Sat,1,1,0,Crewe Alexandra FC
+16,Sat Oct 31 2015,Coventry City FC,03-Feb,Peterborough United FC,2015,Oct,31,31/Oct/2015,Sat,5,3,2,Coventry City FC
+16,Sat Oct 31 2015,Bury FC,04-Mar,Blackpool FC,2015,Oct,31,31/Oct/2015,Sat,7,4,3,Bury FC
+10,Tue Nov 3 2015,Coventry City FC,04-Mar,Barnsley FC,2015,Nov,3,3/Nov/2015,Tue,7,4,3,Coventry City FC
+12,Tue Nov 3 2015,Bradford City AFC,1-0,Blackpool FC,2015,Nov,3,3/Nov/2015,Tue,1,1,0,Bradford City AFC
+17,Sat Nov 14 2015,Barnsley FC,01-Feb,Port Vale FC,2015,Nov,14,14/Nov/2015,Sat,3,1,2,Port Vale FC
+17,Sat Nov 14 2015,Swindon Town FC,02-Jan,Scunthorpe United FC,2015,Nov,14,14/Nov/2015,Sat,3,2,1,Swindon Town FC
+17,Sat Nov 14 2015,Sheffield United FC,02-Feb,Southend United FC,2015,Nov,14,14/Nov/2015,Sat,4,2,2,Draw
+17,Sat Nov 14 2015,Rochdale AFC,0-2,Wigan Athletic FC,2015,Nov,14,14/Nov/2015,Sat,2,0,2,Wigan Athletic FC
+17,Sat Nov 14 2015,Gillingham FC,03-Jan,Bury FC,2015,Nov,14,14/Nov/2015,Sat,4,3,1,Gillingham FC
+17,Sat Nov 14 2015,Colchester United FC,01-Mar,Coventry City FC,2015,Nov,14,14/Nov/2015,Sat,4,1,3,Coventry City FC
+17,Sat Nov 14 2015,Chesterfield FC,01-Feb,Oldham Athletic AFC,2015,Nov,14,14/Nov/2015,Sat,3,1,2,Oldham Athletic AFC
+17,Sat Nov 14 2015,Bradford City AFC,2-0,Crewe Alexandra FC,2015,Nov,14,14/Nov/2015,Sat,2,2,0,Bradford City AFC
+17,Sat Nov 14 2015,Blackpool FC,0-2,Doncaster Rovers FC,2015,Nov,14,14/Nov/2015,Sat,2,0,2,Doncaster Rovers FC
+17,Sat Nov 14 2015,Peterborough United FC,02-Jan,Fleetwood Town FC,2015,Nov,14,14/Nov/2015,Sat,3,2,1,Peterborough United FC
+18,Sat Nov 21 2015,Wigan Athletic FC,1-0,Shrewsbury Town FC,2015,Nov,21,21/Nov/2015,Sat,1,1,0,Wigan Athletic FC
+18,Sat Nov 21 2015,Walsall FC,01-Jan,Sheffield United FC,2015,Nov,21,21/Nov/2015,Sat,2,1,1,Draw
+18,Sat Nov 21 2015,Southend United FC,1-0,Blackpool FC,2015,Nov,21,21/Nov/2015,Sat,1,1,0,Southend United FC
+18,Sat Nov 21 2015,Scunthorpe United FC,0-2,Bradford City AFC,2015,Nov,21,21/Nov/2015,Sat,2,0,2,Bradford City AFC
+18,Sat Nov 21 2015,Port Vale FC,03-Feb,Chesterfield FC,2015,Nov,21,21/Nov/2015,Sat,5,3,2,Port Vale FC
+18,Sat Nov 21 2015,Oldham Athletic AFC,01-Feb,Barnsley FC,2015,Nov,21,21/Nov/2015,Sat,3,1,2,Barnsley FC
+18,Sat Nov 21 2015,Millwall FC,04-Jan,Colchester United FC,2015,Nov,21,21/Nov/2015,Sat,5,4,1,Millwall FC
+18,Sat Nov 21 2015,Fleetwood Town FC,05-Jan,Swindon Town FC,2015,Nov,21,21/Nov/2015,Sat,6,5,1,Fleetwood Town FC
+18,Sat Nov 21 2015,Bury FC,1-0,Burton Albion FC,2015,Nov,21,21/Nov/2015,Sat,1,1,0,Bury FC
+18,Sat Nov 21 2015,Crewe Alexandra FC,01-May,Peterborough United FC,2015,Nov,21,21/Nov/2015,Sat,6,1,5,Peterborough United FC
+18,Sat Nov 21 2015,Coventry City FC,04-Jan,Gillingham FC,2015,Nov,21,21/Nov/2015,Sat,5,4,1,Coventry City FC
+18,Sat Nov 21 2015,Doncaster Rovers FC,0-2,Rochdale AFC,2015,Nov,21,21/Nov/2015,Sat,2,0,2,Rochdale AFC
+19,Tue Nov 24 2015,Wigan Athletic FC,0-1,Burton Albion FC,2015,Nov,24,24/Nov/2015,Tue,1,0,1,Burton Albion FC
+19,Tue Nov 24 2015,Swindon Town FC,02-Jan,Walsall FC,2015,Nov,24,24/Nov/2015,Tue,3,2,1,Swindon Town FC
+19,Tue Nov 24 2015,Sheffield United FC,02-Apr,Shrewsbury Town FC,2015,Nov,24,24/Nov/2015,Tue,6,2,4,Shrewsbury Town FC
+19,Tue Nov 24 2015,Port Vale FC,2-0,Blackpool FC,2015,Nov,24,24/Nov/2015,Tue,2,2,0,Port Vale FC
+19,Tue Nov 24 2015,Peterborough United FC,03-Feb,Barnsley FC,2015,Nov,24,24/Nov/2015,Tue,5,3,2,Peterborough United FC
+19,Tue Nov 24 2015,Oldham Athletic AFC,02-May,Southend United FC,2015,Nov,24,24/Nov/2015,Tue,7,2,5,Southend United FC
+19,Tue Nov 24 2015,Gillingham FC,2-0,Rochdale AFC,2015,Nov,24,24/Nov/2015,Tue,2,2,0,Gillingham FC
+19,Tue Nov 24 2015,Fleetwood Town FC,02-Jan,Millwall FC,2015,Nov,24,24/Nov/2015,Tue,3,2,1,Fleetwood Town FC
+19,Tue Nov 24 2015,Doncaster Rovers FC,3-0,Chesterfield FC,2015,Nov,24,24/Nov/2015,Tue,3,3,0,Doncaster Rovers FC
+19,Tue Nov 24 2015,Colchester United FC,02-Mar,Crewe Alexandra FC,2015,Nov,24,24/Nov/2015,Tue,5,2,3,Crewe Alexandra FC
+19,Tue Nov 24 2015,Bury FC,01-Feb,Scunthorpe United FC,2015,Nov,24,24/Nov/2015,Tue,3,1,2,Scunthorpe United FC
+19,Tue Nov 24 2015,Bradford City AFC,0-0,Coventry City FC,2015,Nov,24,24/Nov/2015,Tue,0,0,0,Draw
+20,Sat Nov 28 2015,Barnsley FC,01-Jan,Sheffield United FC,2015,Nov,28,28/Nov/2015,Sat,2,1,1,Draw
+20,Sat Nov 28 2015,Walsall FC,02-Jan,Bradford City AFC,2015,Nov,28,28/Nov/2015,Sat,3,2,1,Walsall FC
+20,Sat Nov 28 2015,Southend United FC,0-0,Wigan Athletic FC,2015,Nov,28,28/Nov/2015,Sat,0,0,0,Draw
+20,Sat Nov 28 2015,Shrewsbury Town FC,02-Feb,Gillingham FC,2015,Nov,28,28/Nov/2015,Sat,4,2,2,Draw
+20,Sat Nov 28 2015,Blackpool FC,1-0,Fleetwood Town FC,2015,Nov,28,28/Nov/2015,Sat,1,1,0,Blackpool FC
+20,Sat Nov 28 2015,Rochdale AFC,02-Jan,Port Vale FC,2015,Nov,28,28/Nov/2015,Sat,3,2,1,Rochdale AFC
+20,Sat Nov 28 2015,Millwall FC,1-0,Bury FC,2015,Nov,28,28/Nov/2015,Sat,1,1,0,Millwall FC
+20,Sat Nov 28 2015,Crewe Alexandra FC,1-0,Oldham Athletic AFC,2015,Nov,28,28/Nov/2015,Sat,1,1,0,Crewe Alexandra FC
+20,Sat Nov 28 2015,Coventry City FC,02-Feb,Doncaster Rovers FC,2015,Nov,28,28/Nov/2015,Sat,4,2,2,Draw
+20,Sat Nov 28 2015,Chesterfield FC,0-4,Swindon Town FC,2015,Nov,28,28/Nov/2015,Sat,4,0,4,Swindon Town FC
+20,Sat Nov 28 2015,Burton Albion FC,05-Jan,Colchester United FC,2015,Nov,28,28/Nov/2015,Sat,6,5,1,Burton Albion FC
+20,Sat Nov 28 2015,Scunthorpe United FC,0-4,Peterborough United FC,2015,Nov,28,28/Nov/2015,Sat,4,0,4,Peterborough United FC
+17,Tue Dec 1 2015,Shrewsbury Town FC,01-Mar,Walsall FC,2015,Dec,1,1/Dec/2015,Tue,4,1,3,Walsall FC
+17,Tue Dec 1 2015,Burton Albion FC,02-Jan,Millwall FC,2015,Dec,1,1/Dec/2015,Tue,3,2,1,Burton Albion FC
+21,Sat Dec 12 2015,Port Vale FC,01-Jan,Scunthorpe United FC,2015,Dec,12,12/Dec/2015,Sat,2,1,1,Draw
+21,Sat Dec 12 2015,Swindon Town FC,02-Jan,Rochdale AFC,2015,Dec,12,12/Dec/2015,Sat,3,2,1,Swindon Town FC
+21,Sat Dec 12 2015,Wigan Athletic FC,0-1,Blackpool FC,2015,Dec,12,12/Dec/2015,Sat,1,0,1,Blackpool FC
+21,Sat Dec 12 2015,Peterborough United FC,01-Jan,Shrewsbury Town FC,2015,Dec,12,12/Dec/2015,Sat,2,1,1,Draw
+21,Sat Dec 12 2015,Gillingham FC,0-3,Burton Albion FC,2015,Dec,12,12/Dec/2015,Sat,3,0,3,Burton Albion FC
+21,Sat Dec 12 2015,Doncaster Rovers FC,03-Feb,Crewe Alexandra FC,2015,Dec,12,12/Dec/2015,Sat,5,3,2,Doncaster Rovers FC
+21,Sat Dec 12 2015,Bury FC,1-0,Chesterfield FC,2015,Dec,12,12/Dec/2015,Sat,1,1,0,Bury FC
+21,Sat Dec 12 2015,Colchester United FC,02-Mar,Barnsley FC,2015,Dec,12,12/Dec/2015,Sat,5,2,3,Barnsley FC
+21,Sun Dec 13 2015,Sheffield United FC,1-0,Coventry City FC,2015,Dec,13,13/Dec/2015,Sun,1,1,0,Sheffield United FC
+22,Fri Dec 18 2015,Southend United FC,04-Jan,Bury FC,2015,Dec,18,18/Dec/2015,Fri,5,4,1,Southend United FC
+22,Sat Dec 19 2015,Millwall FC,0-3,Gillingham FC,2015,Dec,19,19/Dec/2015,Sat,3,0,3,Gillingham FC
+22,Sat Dec 19 2015,Scunthorpe United FC,0-1,Sheffield United FC,2015,Dec,19,19/Dec/2015,Sat,1,0,1,Sheffield United FC
+22,Sat Dec 19 2015,Rochdale AFC,03-Jan,Colchester United FC,2015,Dec,19,19/Dec/2015,Sat,4,3,1,Rochdale AFC
+22,Sat Dec 19 2015,Shrewsbury Town FC,0-1,Swindon Town FC,2015,Dec,19,19/Dec/2015,Sat,1,0,1,Swindon Town FC
+22,Sat Dec 19 2015,Crewe Alexandra FC,01-Jan,Fleetwood Town FC,2015,Dec,19,19/Dec/2015,Sat,2,1,1,Draw
+22,Sat Dec 19 2015,Coventry City FC,01-Jan,Oldham Athletic AFC,2015,Dec,19,19/Dec/2015,Sat,2,1,1,Draw
+22,Sat Dec 19 2015,Chesterfield FC,0-1,Bradford City AFC,2015,Dec,19,19/Dec/2015,Sat,1,0,1,Bradford City AFC
+22,Sat Dec 19 2015,Barnsley FC,0-2,Wigan Athletic FC,2015,Dec,19,19/Dec/2015,Sat,2,0,2,Wigan Athletic FC
+22,Sat Dec 19 2015,Blackpool FC,2-0,Peterborough United FC,2015,Dec,19,19/Dec/2015,Sat,2,2,0,Blackpool FC
+22,Sat Dec 19 2015,Burton Albion FC,03-Mar,Doncaster Rovers FC,2015,Dec,19,19/Dec/2015,Sat,6,3,3,Draw
+22,Sun Dec 20 2015,Walsall FC,2-0,Port Vale FC,2015,Dec,20,20/Dec/2015,Sun,2,2,0,Walsall FC
+23,Sat Dec 26 2015,Colchester United FC,0-2,Southend United FC,2015,Dec,26,26/Dec/2015,Sat,2,0,2,Southend United FC
+23,Sat Dec 26 2015,Shrewsbury Town FC,01-Jan,Fleetwood Town FC,2015,Dec,26,26/Dec/2015,Sat,2,1,1,Draw
+23,Sat Dec 26 2015,Swindon Town FC,01-Mar,Gillingham FC,2015,Dec,26,26/Dec/2015,Sat,4,1,3,Gillingham FC
+23,Sat Dec 26 2015,Millwall FC,0-1,Walsall FC,2015,Dec,26,26/Dec/2015,Sat,1,0,1,Walsall FC
+23,Sat Dec 26 2015,Doncaster Rovers FC,0-1,Scunthorpe United FC,2015,Dec,26,26/Dec/2015,Sat,1,0,1,Scunthorpe United FC
+23,Sat Dec 26 2015,Coventry City FC,1-0,Port Vale FC,2015,Dec,26,26/Dec/2015,Sat,1,1,0,Coventry City FC
+23,Sat Dec 26 2015,Peterborough United FC,2-0,Chesterfield FC,2015,Dec,26,26/Dec/2015,Sat,2,2,0,Peterborough United FC
+24,Mon Dec 28 2015,Southend United FC,0-4,Millwall FC,2015,Dec,28,28/Dec/2015,Mon,4,0,4,Millwall FC
+24,Mon Dec 28 2015,Walsall FC,2-0,Peterborough United FC,2015,Dec,28,28/Dec/2015,Mon,2,2,0,Walsall FC
+24,Mon Dec 28 2015,Sheffield United FC,03-Jan,Bradford City AFC,2015,Dec,28,28/Dec/2015,Mon,4,3,1,Sheffield United FC
+24,Mon Dec 28 2015,Scunthorpe United FC,01-Jan,Rochdale AFC,2015,Dec,28,28/Dec/2015,Mon,2,1,1,Draw
+24,Mon Dec 28 2015,Barnsley FC,04-Feb,Blackpool FC,2015,Dec,28,28/Dec/2015,Mon,6,4,2,Barnsley FC
+24,Mon Dec 28 2015,Burton Albion FC,1-0,Swindon Town FC,2015,Dec,28,28/Dec/2015,Mon,1,1,0,Burton Albion FC
+24,Mon Dec 28 2015,Chesterfield FC,01-Jan,Coventry City FC,2015,Dec,28,28/Dec/2015,Mon,2,1,1,Draw
+24,Mon Dec 28 2015,Crewe Alexandra FC,01-Feb,Shrewsbury Town FC,2015,Dec,28,28/Dec/2015,Mon,3,1,2,Shrewsbury Town FC
+24,Mon Dec 28 2015,Port Vale FC,1-0,Bury FC,2015,Dec,28,28/Dec/2015,Mon,1,1,0,Port Vale FC
+24,Mon Dec 28 2015,Gillingham FC,1-0,Colchester United FC,2015,Dec,28,28/Dec/2015,Mon,1,1,0,Gillingham FC
+24,Mon Dec 28 2015,Oldham Athletic AFC,01-Feb,Doncaster Rovers FC,2015,Dec,28,28/Dec/2015,Mon,3,1,2,Doncaster Rovers FC
+24,Mon Dec 28 2015,Fleetwood Town FC,01-Mar,Wigan Athletic FC,2015,Dec,28,28/Dec/2015,Mon,4,1,3,Wigan Athletic FC
+25,Sat Jan 2 2016,Walsall FC,0-3,Rochdale AFC,2016,Jan,2,2/Jan/2016,Sat,3,0,3,Rochdale AFC
+25,Sat Jan 2 2016,Southend United FC,0-3,Doncaster Rovers FC,2016,Jan,2,2/Jan/2016,Sat,3,0,3,Doncaster Rovers FC
+25,Sat Jan 2 2016,Sheffield United FC,02-Mar,Peterborough United FC,2016,Jan,2,2/Jan/2016,Sat,5,2,3,Peterborough United FC
+25,Sat Jan 2 2016,Scunthorpe United FC,01-Jan,Wigan Athletic FC,2016,Jan,2,2/Jan/2016,Sat,2,1,1,Draw
+25,Sat Jan 2 2016,Oldham Athletic AFC,01-Jan,Colchester United FC,2016,Jan,2,2/Jan/2016,Sat,2,1,1,Draw
+25,Sat Jan 2 2016,Gillingham FC,3-0,Bradford City AFC,2016,Jan,2,2/Jan/2016,Sat,3,3,0,Gillingham FC
+25,Sat Jan 2 2016,Fleetwood Town FC,2-0,Bury FC,2016,Jan,2,2/Jan/2016,Sat,2,2,0,Fleetwood Town FC
+25,Sat Jan 2 2016,Barnsley FC,02-Jan,Millwall FC,2016,Jan,2,2/Jan/2016,Sat,3,2,1,Barnsley FC
+25,Sat Jan 2 2016,Chesterfield FC,07-Jan,Shrewsbury Town FC,2016,Jan,2,2/Jan/2016,Sat,8,7,1,Chesterfield FC
+25,Sat Jan 2 2016,Burton Albion FC,1-0,Blackpool FC,2016,Jan,2,2/Jan/2016,Sat,1,1,0,Burton Albion FC
+25,Sat Jan 2 2016,Crewe Alexandra FC,0-5,Coventry City FC,2016,Jan,2,2/Jan/2016,Sat,5,0,5,Coventry City FC
+26,Thu Jan 7 2016,Wigan Athletic FC,03-Feb,Gillingham FC,2016,Jan,7,7/Jan/2016,Thu,5,3,2,Wigan Athletic FC
+21,Sat Jan 9 2016,Oldham Athletic AFC,01-Feb,Millwall FC,2016,Jan,9,9/Jan/2016,Sat,3,1,2,Millwall FC
+26,Sat Jan 9 2016,Swindon Town FC,04-Feb,Southend United FC,2016,Jan,9,9/Jan/2016,Sat,6,4,2,Swindon Town FC
+26,Sat Jan 9 2016,Rochdale AFC,02-Mar,Chesterfield FC,2016,Jan,9,9/Jan/2016,Sat,5,2,3,Chesterfield FC
+43,Sat Jan 9 2016,Blackpool FC,0-1,Port Vale FC,2016,Jan,9,9/Jan/2016,Sat,1,0,1,Port Vale FC
+23,Tue Jan 12 2016,Wigan Athletic FC,03-Mar,Sheffield United FC,2016,Jan,12,12/Jan/2016,Tue,6,3,3,Draw
+26,Tue Jan 12 2016,Coventry City FC,01-Jan,Walsall FC,2016,Jan,12,12/Jan/2016,Tue,2,1,1,Draw
+27,Sat Jan 16 2016,Peterborough United FC,0-0,Southend United FC,2016,Jan,16,16/Jan/2016,Sat,0,0,0,Draw
+27,Sat Jan 16 2016,Swindon Town FC,04-Mar,Crewe Alexandra FC,2016,Jan,16,16/Jan/2016,Sat,7,4,3,Swindon Town FC
+27,Sat Jan 16 2016,Blackpool FC,5-0,Scunthorpe United FC,2016,Jan,16,16/Jan/2016,Sat,5,5,0,Blackpool FC
+27,Sat Jan 16 2016,Wigan Athletic FC,03-Jan,Chesterfield FC,2016,Jan,16,16/Jan/2016,Sat,4,3,1,Wigan Athletic FC
+27,Sat Jan 16 2016,Doncaster Rovers FC,02-Feb,Gillingham FC,2016,Jan,16,16/Jan/2016,Sat,4,2,2,Draw
+27,Sat Jan 16 2016,Coventry City FC,0-2,Burton Albion FC,2016,Jan,16,16/Jan/2016,Sat,2,0,2,Burton Albion FC
+27,Sat Jan 16 2016,Colchester United FC,01-Feb,Sheffield United FC,2016,Jan,16,16/Jan/2016,Sat,3,1,2,Sheffield United FC
+27,Sat Jan 16 2016,Bury FC,02-Mar,Walsall FC,2016,Jan,16,16/Jan/2016,Sat,5,2,3,Walsall FC
+27,Sat Jan 16 2016,Bradford City AFC,1-0,Oldham Athletic AFC,2016,Jan,16,16/Jan/2016,Sat,1,1,0,Bradford City AFC
+27,Sat Jan 16 2016,Shrewsbury Town FC,0-3,Barnsley FC,2016,Jan,16,16/Jan/2016,Sat,3,0,3,Barnsley FC
+27,Sun Jan 17 2016,Millwall FC,03-Jan,Port Vale FC,2016,Jan,17,17/Jan/2016,Sun,4,3,1,Millwall FC
+26,Tue Jan 19 2016,Colchester United FC,01-Jan,Fleetwood Town FC,2016,Jan,19,19/Jan/2016,Tue,2,1,1,Draw
+28,Sat Jan 23 2016,Barnsley FC,06-Jan,Rochdale AFC,2016,Jan,23,23/Jan/2016,Sat,7,6,1,Barnsley FC
+28,Sat Jan 23 2016,Southend United FC,3-0,Coventry City FC,2016,Jan,23,23/Jan/2016,Sat,3,3,0,Southend United FC
+28,Sat Jan 23 2016,Sheffield United FC,01-Jan,Swindon Town FC,2016,Jan,23,23/Jan/2016,Sat,2,1,1,Draw
+28,Sat Jan 23 2016,Scunthorpe United FC,3-0,Colchester United FC,2016,Jan,23,23/Jan/2016,Sat,3,3,0,Scunthorpe United FC
+28,Sat Jan 23 2016,Walsall FC,01-Jan,Blackpool FC,2016,Jan,23,23/Jan/2016,Sat,2,1,1,Draw
+28,Sat Jan 23 2016,Oldham Athletic AFC,0-1,Bury FC,2016,Jan,23,23/Jan/2016,Sat,1,0,1,Bury FC
+28,Sat Jan 23 2016,Gillingham FC,02-Jan,Peterborough United FC,2016,Jan,23,23/Jan/2016,Sat,3,2,1,Gillingham FC
+28,Sat Jan 23 2016,Fleetwood Town FC,0-0,Doncaster Rovers FC,2016,Jan,23,23/Jan/2016,Sat,0,0,0,Draw
+28,Sat Jan 23 2016,Crewe Alexandra FC,01-Jan,Wigan Athletic FC,2016,Jan,23,23/Jan/2016,Sat,2,1,1,Draw
+28,Sat Jan 23 2016,Chesterfield FC,01-Feb,Millwall FC,2016,Jan,23,23/Jan/2016,Sat,3,1,2,Millwall FC
+28,Sat Jan 23 2016,Burton Albion FC,01-Feb,Shrewsbury Town FC,2016,Jan,23,23/Jan/2016,Sat,3,1,2,Shrewsbury Town FC
+28,Sat Jan 23 2016,Port Vale FC,01-Jan,Bradford City AFC,2016,Jan,23,23/Jan/2016,Sat,2,1,1,Draw
+26,Tue Jan 26 2016,Shrewsbury Town FC,0-1,Oldham Athletic AFC,2016,Jan,26,26/Jan/2016,Tue,1,0,1,Oldham Athletic AFC
+26,Tue Jan 26 2016,Peterborough United FC,0-1,Burton Albion FC,2016,Jan,26,26/Jan/2016,Tue,1,0,1,Burton Albion FC
+26,Tue Jan 26 2016,Doncaster Rovers FC,01-Feb,Port Vale FC,2016,Jan,26,26/Jan/2016,Tue,3,1,2,Port Vale FC
+26,Tue Jan 26 2016,Bury FC,0-0,Crewe Alexandra FC,2016,Jan,26,26/Jan/2016,Tue,0,0,0,Draw
+26,Tue Jan 26 2016,Bradford City AFC,0-1,Barnsley FC,2016,Jan,26,26/Jan/2016,Tue,1,0,1,Barnsley FC
+26,Tue Jan 26 2016,Blackpool FC,0-0,Sheffield United FC,2016,Jan,26,26/Jan/2016,Tue,0,0,0,Draw
+29,Sat Jan 30 2016,Wigan Athletic FC,3-0,Port Vale FC,2016,Jan,30,30/Jan/2016,Sat,3,3,0,Wigan Athletic FC
+29,Sat Jan 30 2016,Blackpool FC,1-0,Gillingham FC,2016,Jan,30,30/Jan/2016,Sat,1,1,0,Blackpool FC
+29,Sat Jan 30 2016,Rochdale AFC,02-Jan,Burton Albion FC,2016,Jan,30,30/Jan/2016,Sat,3,2,1,Rochdale AFC
+29,Sat Jan 30 2016,Millwall FC,01-Jan,Crewe Alexandra FC,2016,Jan,30,30/Jan/2016,Sat,2,1,1,Draw
+29,Sat Jan 30 2016,Coventry City FC,01-Feb,Scunthorpe United FC,2016,Jan,30,30/Jan/2016,Sat,3,1,2,Scunthorpe United FC
+29,Sat Jan 30 2016,Bradford City AFC,02-Jan,Fleetwood Town FC,2016,Jan,30,30/Jan/2016,Sat,3,2,1,Bradford City AFC
+29,Sat Jan 30 2016,Swindon Town FC,0-1,Barnsley FC,2016,Jan,30,30/Jan/2016,Sat,1,0,1,Barnsley FC
+25,Tue Feb 2 2016,Port Vale FC,1-0,Swindon Town FC,2016,Feb,2,2/Feb/2016,Tue,1,1,0,Port Vale FC
+29,Tue Feb 2 2016,Doncaster Rovers FC,01-Feb,Walsall FC,2016,Feb,2,2/Feb/2016,Tue,3,1,2,Walsall FC
+29,Tue Feb 2 2016,Shrewsbury Town FC,01-Feb,Southend United FC,2016,Feb,2,2/Feb/2016,Tue,3,1,2,Southend United FC
+30,Sat Feb 6 2016,Walsall FC,0-3,Millwall FC,2016,Feb,6,6/Feb/2016,Sat,3,0,3,Millwall FC
+30,Sat Feb 6 2016,Southend United FC,3-0,Colchester United FC,2016,Feb,6,6/Feb/2016,Sat,3,3,0,Southend United FC
+30,Sat Feb 6 2016,Sheffield United FC,0-2,Wigan Athletic FC,2016,Feb,6,6/Feb/2016,Sat,2,0,2,Wigan Athletic FC
+30,Sat Feb 6 2016,Gillingham FC,0-0,Swindon Town FC,2016,Feb,6,6/Feb/2016,Sat,0,0,0,Draw
+30,Sat Feb 6 2016,Crewe Alexandra FC,2-0,Rochdale AFC,2016,Feb,6,6/Feb/2016,Sat,2,2,0,Crewe Alexandra FC
+30,Sat Feb 6 2016,Burton Albion FC,03-Jan,Bradford City AFC,2016,Feb,6,6/Feb/2016,Sat,4,3,1,Burton Albion FC
+30,Sat Feb 6 2016,Chesterfield FC,0-1,Peterborough United FC,2016,Feb,6,6/Feb/2016,Sat,1,0,1,Peterborough United FC
+30,Sun Feb 7 2016,Port Vale FC,01-Jan,Coventry City FC,2016,Feb,7,7/Feb/2016,Sun,2,1,1,Draw
+30,Sun Feb 7 2016,Fleetwood Town FC,0-0,Shrewsbury Town FC,2016,Feb,7,7/Feb/2016,Sun,0,0,0,Draw
+30,Sun Feb 7 2016,Barnsley FC,3-0,Bury FC,2016,Feb,7,7/Feb/2016,Sun,3,3,0,Barnsley FC
+31,Fri Feb 12 2016,Burton Albion FC,1-0,Chesterfield FC,2016,Feb,12,12/Feb/2016,Fri,1,1,0,Burton Albion FC
+31,Sat Feb 13 2016,Wigan Athletic FC,0-0,Oldham Athletic AFC,2016,Feb,13,13/Feb/2016,Sat,0,0,0,Draw
+31,Sat Feb 13 2016,Scunthorpe United FC,1-0,Southend United FC,2016,Feb,13,13/Feb/2016,Sat,1,1,0,Scunthorpe United FC
+31,Sat Feb 13 2016,Rochdale AFC,0-1,Millwall FC,2016,Feb,13,13/Feb/2016,Sat,1,0,1,Millwall FC
+31,Sat Feb 13 2016,Port Vale FC,0-0,Fleetwood Town FC,2016,Feb,13,13/Feb/2016,Sat,0,0,0,Draw
+31,Sat Feb 13 2016,Peterborough United FC,0-4,Bradford City AFC,2016,Feb,13,13/Feb/2016,Sat,4,0,4,Bradford City AFC
+31,Sat Feb 13 2016,Gillingham FC,02-Jan,Barnsley FC,2016,Feb,13,13/Feb/2016,Sat,3,2,1,Gillingham FC
+31,Sat Feb 13 2016,Doncaster Rovers FC,0-1,Sheffield United FC,2016,Feb,13,13/Feb/2016,Sat,1,0,1,Sheffield United FC
+31,Sat Feb 13 2016,Crewe Alexandra FC,01-Jan,Walsall FC,2016,Feb,13,13/Feb/2016,Sat,2,1,1,Draw
+31,Sat Feb 13 2016,Blackpool FC,02-Mar,Shrewsbury Town FC,2016,Feb,13,13/Feb/2016,Sat,5,2,3,Shrewsbury Town FC
+31,Sat Feb 13 2016,Colchester United FC,01-Apr,Swindon Town FC,2016,Feb,13,13/Feb/2016,Sat,5,1,4,Swindon Town FC
+31,Sat Feb 13 2016,Coventry City FC,6-0,Bury FC,2016,Feb,13,13/Feb/2016,Sat,6,6,0,Coventry City FC
+21,Tue Feb 16 2016,Bradford City AFC,2-0,Southend United FC,2016,Feb,16,16/Feb/2016,Tue,2,2,0,Bradford City AFC
+23,Tue Feb 16 2016,Blackpool FC,0-0,Oldham Athletic AFC,2016,Feb,16,16/Feb/2016,Tue,0,0,0,Draw
+23,Tue Feb 16 2016,Rochdale AFC,02-Feb,Crewe Alexandra FC,2016,Feb,16,16/Feb/2016,Tue,4,2,2,Draw
+26,Tue Feb 16 2016,Millwall FC,0-2,Scunthorpe United FC,2016,Feb,16,16/Feb/2016,Tue,2,0,2,Scunthorpe United FC
+29,Tue Feb 16 2016,Bury FC,1-0,Sheffield United FC,2016,Feb,16,16/Feb/2016,Tue,1,1,0,Bury FC
+29,Tue Feb 16 2016,Colchester United FC,01-Jan,Chesterfield FC,2016,Feb,16,16/Feb/2016,Tue,2,1,1,Draw
+32,Sat Feb 20 2016,Walsall FC,01-Feb,Wigan Athletic FC,2016,Feb,20,20/Feb/2016,Sat,3,1,2,Wigan Athletic FC
+32,Sat Feb 20 2016,Swindon Town FC,03-Feb,Blackpool FC,2016,Feb,20,20/Feb/2016,Sat,5,3,2,Swindon Town FC
+32,Sat Feb 20 2016,Sheffield United FC,1-0,Port Vale FC,2016,Feb,20,20/Feb/2016,Sat,1,1,0,Sheffield United FC
+32,Sat Feb 20 2016,Oldham Athletic AFC,02-Jan,Gillingham FC,2016,Feb,20,20/Feb/2016,Sat,3,2,1,Oldham Athletic AFC
+32,Sat Feb 20 2016,Barnsley FC,1-0,Doncaster Rovers FC,2016,Feb,20,20/Feb/2016,Sat,1,1,0,Barnsley FC
+32,Sat Feb 20 2016,Fleetwood Town FC,02-Jan,Scunthorpe United FC,2016,Feb,20,20/Feb/2016,Sat,3,2,1,Fleetwood Town FC
+32,Sat Feb 20 2016,Chesterfield FC,03-Jan,Crewe Alexandra FC,2016,Feb,20,20/Feb/2016,Sat,4,3,1,Chesterfield FC
+32,Sat Feb 20 2016,Bury FC,05-Feb,Colchester United FC,2016,Feb,20,20/Feb/2016,Sat,7,5,2,Bury FC
+32,Sat Feb 20 2016,Bradford City AFC,02-Feb,Rochdale AFC,2016,Feb,20,20/Feb/2016,Sat,4,2,2,Draw
+32,Sat Feb 20 2016,Millwall FC,3-0,Peterborough United FC,2016,Feb,20,20/Feb/2016,Sat,3,3,0,Millwall FC
+32,Mon Feb 22 2016,Southend United FC,03-Jan,Burton Albion FC,2016,Feb,22,22/Feb/2016,Mon,4,3,1,Southend United FC
+23,Tue Feb 23 2016,Bury FC,0-0,Barnsley FC,2016,Feb,23,23/Feb/2016,Tue,0,0,0,Draw
+27,Tue Feb 23 2016,Rochdale AFC,1-0,Fleetwood Town FC,2016,Feb,23,23/Feb/2016,Tue,1,1,0,Rochdale AFC
+29,Tue Feb 23 2016,Peterborough United FC,01-Feb,Oldham Athletic AFC,2016,Feb,23,23/Feb/2016,Tue,3,1,2,Oldham Athletic AFC
+33,Fri Feb 26 2016,Port Vale FC,03-Jan,Southend United FC,2016,Feb,26,26/Feb/2016,Fri,4,3,1,Port Vale FC
+33,Sat Feb 27 2016,Rochdale AFC,2-0,Sheffield United FC,2016,Feb,27,27/Feb/2016,Sat,2,2,0,Rochdale AFC
+33,Sat Feb 27 2016,Blackpool FC,0-1,Bradford City AFC,2016,Feb,27,27/Feb/2016,Sat,1,0,1,Bradford City AFC
+33,Sat Feb 27 2016,Wigan Athletic FC,3-0,Bury FC,2016,Feb,27,27/Feb/2016,Sat,3,3,0,Wigan Athletic FC
+33,Sat Feb 27 2016,Peterborough United FC,01-Feb,Swindon Town FC,2016,Feb,27,27/Feb/2016,Sat,3,1,2,Swindon Town FC
+33,Sat Feb 27 2016,Gillingham FC,01-Feb,Chesterfield FC,2016,Feb,27,27/Feb/2016,Sat,3,1,2,Chesterfield FC
+33,Sat Feb 27 2016,Doncaster Rovers FC,01-Jan,Millwall FC,2016,Feb,27,27/Feb/2016,Sat,2,1,1,Draw
+33,Sat Feb 27 2016,Crewe Alexandra FC,01-Feb,Barnsley FC,2016,Feb,27,27/Feb/2016,Sat,3,1,2,Barnsley FC
+33,Sat Feb 27 2016,Coventry City FC,01-Feb,Fleetwood Town FC,2016,Feb,27,27/Feb/2016,Sat,3,1,2,Fleetwood Town FC
+33,Sat Feb 27 2016,Colchester United FC,0-0,Shrewsbury Town FC,2016,Feb,27,27/Feb/2016,Sat,0,0,0,Draw
+33,Sat Feb 27 2016,Burton Albion FC,0-0,Walsall FC,2016,Feb,27,27/Feb/2016,Sat,0,0,0,Draw
+33,Sat Feb 27 2016,Scunthorpe United FC,01-Jan,Oldham Athletic AFC,2016,Feb,27,27/Feb/2016,Sat,2,1,1,Draw
+34,Tue Mar 1 2016,Walsall FC,0-0,Scunthorpe United FC,2016,Mar,1,1/Mar/2016,Tue,0,0,0,Draw
+34,Tue Mar 1 2016,Swindon Town FC,2-0,Doncaster Rovers FC,2016,Mar,1,1/Mar/2016,Tue,2,2,0,Swindon Town FC
+34,Tue Mar 1 2016,Southend United FC,01-Jan,Crewe Alexandra FC,2016,Mar,1,1/Mar/2016,Tue,2,1,1,Draw
+34,Tue Mar 1 2016,Shrewsbury Town FC,2-0,Rochdale AFC,2016,Mar,1,1/Mar/2016,Tue,2,2,0,Shrewsbury Town FC
+34,Tue Mar 1 2016,Sheffield United FC,0-1,Burton Albion FC,2016,Mar,1,1/Mar/2016,Tue,1,0,1,Burton Albion FC
+34,Tue Mar 1 2016,Oldham Athletic AFC,01-Jan,Port Vale FC,2016,Mar,1,1/Mar/2016,Tue,2,1,1,Draw
+34,Tue Mar 1 2016,Millwall FC,0-0,Wigan Athletic FC,2016,Mar,1,1/Mar/2016,Tue,0,0,0,Draw
+34,Tue Mar 1 2016,Fleetwood Town FC,02-Jan,Gillingham FC,2016,Mar,1,1/Mar/2016,Tue,3,2,1,Fleetwood Town FC
+34,Tue Mar 1 2016,Chesterfield FC,01-Jan,Blackpool FC,2016,Mar,1,1/Mar/2016,Tue,2,1,1,Draw
+34,Tue Mar 1 2016,Bury FC,03-Jan,Peterborough United FC,2016,Mar,1,1/Mar/2016,Tue,4,3,1,Bury FC
+34,Tue Mar 1 2016,Bradford City AFC,01-Feb,Colchester United FC,2016,Mar,1,1/Mar/2016,Tue,3,1,2,Colchester United FC
+34,Tue Mar 1 2016,Barnsley FC,2-0,Coventry City FC,2016,Mar,1,1/Mar/2016,Tue,2,2,0,Barnsley FC
+35,Sat Mar 5 2016,Bury FC,0-0,Bradford City AFC,2016,Mar,5,5/Mar/2016,Sat,0,0,0,Draw
+35,Sat Mar 5 2016,Walsall FC,01-Mar,Barnsley FC,2016,Mar,5,5/Mar/2016,Sat,4,1,3,Barnsley FC
+35,Sat Mar 5 2016,Southend United FC,0-1,Chesterfield FC,2016,Mar,5,5/Mar/2016,Sat,1,0,1,Chesterfield FC
+35,Sat Mar 5 2016,Scunthorpe United FC,0-0,Gillingham FC,2016,Mar,5,5/Mar/2016,Sat,0,0,0,Draw
+35,Sat Mar 5 2016,Port Vale FC,2-0,Colchester United FC,2016,Mar,5,5/Mar/2016,Sat,2,2,0,Port Vale FC
+35,Sat Mar 5 2016,Millwall FC,3-0,Blackpool FC,2016,Mar,5,5/Mar/2016,Sat,3,3,0,Millwall FC
+35,Sat Mar 5 2016,Fleetwood Town FC,02-Feb,Sheffield United FC,2016,Mar,5,5/Mar/2016,Sat,4,2,2,Draw
+35,Sat Mar 5 2016,Doncaster Rovers FC,0-1,Shrewsbury Town FC,2016,Mar,5,5/Mar/2016,Sat,1,0,1,Shrewsbury Town FC
+35,Sat Mar 5 2016,Crewe Alexandra FC,01-Jan,Burton Albion FC,2016,Mar,5,5/Mar/2016,Sat,2,1,1,Draw
+35,Sat Mar 5 2016,Coventry City FC,0-1,Rochdale AFC,2016,Mar,5,5/Mar/2016,Sat,1,0,1,Rochdale AFC
+35,Sat Mar 5 2016,Wigan Athletic FC,01-Jan,Peterborough United FC,2016,Mar,5,5/Mar/2016,Sat,2,1,1,Draw
+23,Tue Mar 8 2016,Bradford City AFC,2-0,Burton Albion FC,2016,Mar,8,8/Mar/2016,Tue,2,2,0,Bradford City AFC
+30,Tue Mar 8 2016,Scunthorpe United FC,2-0,Doncaster Rovers FC,2016,Mar,8,8/Mar/2016,Tue,2,2,0,Scunthorpe United FC
+32,Tue Mar 8 2016,Shrewsbury Town FC,02-Jan,Coventry City FC,2016,Mar,8,8/Mar/2016,Tue,3,2,1,Shrewsbury Town FC
+36,Sat Mar 12 2016,Swindon Town FC,02-Feb,Millwall FC,2016,Mar,12,12/Mar/2016,Sat,4,2,2,Draw
+36,Sat Mar 12 2016,Shrewsbury Town FC,02-Feb,Scunthorpe United FC,2016,Mar,12,12/Mar/2016,Sat,4,2,2,Draw
+36,Sat Mar 12 2016,Sheffield United FC,3-0,Oldham Athletic AFC,2016,Mar,12,12/Mar/2016,Sat,3,3,0,Sheffield United FC
+36,Sat Mar 12 2016,Rochdale AFC,3-0,Bury FC,2016,Mar,12,12/Mar/2016,Sat,3,3,0,Rochdale AFC
+36,Sat Mar 12 2016,Peterborough United FC,02-Mar,Port Vale FC,2016,Mar,12,12/Mar/2016,Sat,5,2,3,Port Vale FC
+36,Sat Mar 12 2016,Gillingham FC,3-0,Crewe Alexandra FC,2016,Mar,12,12/Mar/2016,Sat,3,3,0,Gillingham FC
+36,Sat Mar 12 2016,Barnsley FC,0-2,Southend United FC,2016,Mar,12,12/Mar/2016,Sat,2,0,2,Southend United FC
+36,Sat Mar 12 2016,Chesterfield FC,01-Apr,Walsall FC,2016,Mar,12,12/Mar/2016,Sat,5,1,4,Walsall FC
+36,Sat Mar 12 2016,Burton Albion FC,02-Jan,Fleetwood Town FC,2016,Mar,12,12/Mar/2016,Sat,3,2,1,Burton Albion FC
+36,Sat Mar 12 2016,Bradford City AFC,02-Jan,Doncaster Rovers FC,2016,Mar,12,12/Mar/2016,Sat,3,2,1,Bradford City AFC
+36,Sat Mar 12 2016,Blackpool FC,0-1,Coventry City FC,2016,Mar,12,12/Mar/2016,Sat,1,0,1,Coventry City FC
+36,Sat Mar 12 2016,Colchester United FC,03-Mar,Wigan Athletic FC,2016,Mar,12,12/Mar/2016,Sat,6,3,3,Draw
+21,Tue Mar 15 2016,Fleetwood Town FC,0-1,Walsall FC,2016,Mar,15,15/Mar/2016,Tue,1,0,1,Walsall FC
+30,Tue Mar 15 2016,Oldham Athletic AFC,1-0,Blackpool FC,2016,Mar,15,15/Mar/2016,Tue,1,1,0,Oldham Athletic AFC
+37,Sat Mar 19 2016,Wigan Athletic FC,1-0,Bradford City AFC,2016,Mar,19,19/Mar/2016,Sat,1,1,0,Wigan Athletic FC
+37,Sat Mar 19 2016,Walsall FC,02-Jan,Colchester United FC,2016,Mar,19,19/Mar/2016,Sat,3,2,1,Walsall FC
+37,Sat Mar 19 2016,Southend United FC,01-Jan,Gillingham FC,2016,Mar,19,19/Mar/2016,Sat,2,1,1,Draw
+37,Sat Mar 19 2016,Bury FC,02-Feb,Shrewsbury Town FC,2016,Mar,19,19/Mar/2016,Sat,4,2,2,Draw
+37,Sat Mar 19 2016,Port Vale FC,0-4,Burton Albion FC,2016,Mar,19,19/Mar/2016,Sat,4,0,4,Burton Albion FC
+37,Sat Mar 19 2016,Oldham Athletic AFC,02-Mar,Rochdale AFC,2016,Mar,19,19/Mar/2016,Sat,5,2,3,Rochdale AFC
+37,Sat Mar 19 2016,Millwall FC,1-0,Sheffield United FC,2016,Mar,19,19/Mar/2016,Sat,1,1,0,Millwall FC
+37,Sat Mar 19 2016,Fleetwood Town FC,0-2,Barnsley FC,2016,Mar,19,19/Mar/2016,Sat,2,0,2,Barnsley FC
+37,Sat Mar 19 2016,Doncaster Rovers FC,01-Feb,Peterborough United FC,2016,Mar,19,19/Mar/2016,Sat,3,1,2,Peterborough United FC
+37,Sat Mar 19 2016,Crewe Alexandra FC,01-Feb,Blackpool FC,2016,Mar,19,19/Mar/2016,Sat,3,1,2,Blackpool FC
+37,Sat Mar 19 2016,Coventry City FC,0-0,Swindon Town FC,2016,Mar,19,19/Mar/2016,Sat,0,0,0,Draw
+37,Sat Mar 19 2016,Scunthorpe United FC,01-Jan,Chesterfield FC,2016,Mar,19,19/Mar/2016,Sat,2,1,1,Draw
+38,Fri Mar 25 2016,Shrewsbury Town FC,01-Jan,Port Vale FC,2016,Mar,25,25/Mar/2016,Fri,2,1,1,Draw
+38,Fri Mar 25 2016,Sheffield United FC,03-Feb,Crewe Alexandra FC,2016,Mar,25,25/Mar/2016,Fri,5,3,2,Sheffield United FC
+38,Fri Mar 25 2016,Rochdale AFC,04-Jan,Southend United FC,2016,Mar,25,25/Mar/2016,Fri,5,4,1,Rochdale AFC
+38,Fri Mar 25 2016,Colchester United FC,04-Jan,Doncaster Rovers FC,2016,Mar,25,25/Mar/2016,Fri,5,4,1,Colchester United FC
+38,Fri Mar 25 2016,Blackpool FC,01-Jan,Bury FC,2016,Mar,25,25/Mar/2016,Fri,2,1,1,Draw
+38,Fri Mar 25 2016,Peterborough United FC,03-Jan,Coventry City FC,2016,Mar,25,25/Mar/2016,Fri,4,3,1,Peterborough United FC
+38,Fri Mar 25 2016,Swindon Town FC,01-Apr,Wigan Athletic FC,2016,Mar,25,25/Mar/2016,Fri,5,1,4,Wigan Athletic FC
+38,Fri Mar 25 2016,Barnsley FC,0-0,Scunthorpe United FC,2016,Mar,25,25/Mar/2016,Fri,0,0,0,Draw
+38,Sat Mar 26 2016,Burton Albion FC,0-0,Oldham Athletic AFC,2016,Mar,26,26/Mar/2016,Sat,0,0,0,Draw
+38,Sat Mar 26 2016,Bradford City AFC,1-0,Millwall FC,2016,Mar,26,26/Mar/2016,Sat,1,1,0,Bradford City AFC
+38,Sat Mar 26 2016,Chesterfield FC,0-0,Fleetwood Town FC,2016,Mar,26,26/Mar/2016,Sat,0,0,0,Draw
+39,Mon Mar 28 2016,Wigan Athletic FC,1-0,Rochdale AFC,2016,Mar,28,28/Mar/2016,Mon,1,1,0,Wigan Athletic FC
+39,Mon Mar 28 2016,Scunthorpe United FC,6-0,Swindon Town FC,2016,Mar,28,28/Mar/2016,Mon,6,6,0,Scunthorpe United FC
+39,Mon Mar 28 2016,Port Vale FC,0-1,Barnsley FC,2016,Mar,28,28/Mar/2016,Mon,1,0,1,Barnsley FC
+39,Mon Mar 28 2016,Oldham Athletic AFC,1-0,Chesterfield FC,2016,Mar,28,28/Mar/2016,Mon,1,1,0,Oldham Athletic AFC
+39,Mon Mar 28 2016,Doncaster Rovers FC,0-1,Blackpool FC,2016,Mar,28,28/Mar/2016,Mon,1,0,1,Blackpool FC
+39,Mon Mar 28 2016,Millwall FC,2-0,Burton Albion FC,2016,Mar,28,28/Mar/2016,Mon,2,2,0,Millwall FC
+39,Mon Mar 28 2016,Bury FC,0-1,Gillingham FC,2016,Mar,28,28/Mar/2016,Mon,1,0,1,Gillingham FC
+39,Mon Mar 28 2016,Crewe Alexandra FC,0-1,Bradford City AFC,2016,Mar,28,28/Mar/2016,Mon,1,0,1,Bradford City AFC
+39,Tue Mar 29 2016,Coventry City FC,0-1,Colchester United FC,2016,Mar,29,29/Mar/2016,Tue,1,0,1,Colchester United FC
+39,Wed Mar 30 2016,Southend United FC,03-Jan,Sheffield United FC,2016,Mar,30,30/Mar/2016,Wed,4,3,1,Southend United FC
+40,Sat Apr 2 2016,Swindon Town FC,01-Jan,Fleetwood Town FC,2016,Apr,2,2/Apr/2016,Sat,2,1,1,Draw
+40,Sat Apr 2 2016,Shrewsbury Town FC,01-May,Wigan Athletic FC,2016,Apr,2,2/Apr/2016,Sat,6,1,5,Wigan Athletic FC
+40,Sat Apr 2 2016,Sheffield United FC,2-0,Walsall FC,2016,Apr,2,2/Apr/2016,Sat,2,2,0,Sheffield United FC
+40,Sat Apr 2 2016,Rochdale AFC,02-Feb,Doncaster Rovers FC,2016,Apr,2,2/Apr/2016,Sat,4,2,2,Draw
+40,Sat Apr 2 2016,Peterborough United FC,3-0,Crewe Alexandra FC,2016,Apr,2,2/Apr/2016,Sat,3,3,0,Peterborough United FC
+40,Sat Apr 2 2016,Gillingham FC,0-0,Coventry City FC,2016,Apr,2,2/Apr/2016,Sat,0,0,0,Draw
+40,Sat Apr 2 2016,Colchester United FC,0-0,Millwall FC,2016,Apr,2,2/Apr/2016,Sat,0,0,0,Draw
+40,Sat Apr 2 2016,Blackpool FC,2-0,Southend United FC,2016,Apr,2,2/Apr/2016,Sat,2,2,0,Blackpool FC
+40,Sat Apr 2 2016,Burton Albion FC,01-Jan,Bury FC,2016,Apr,2,2/Apr/2016,Sat,2,1,1,Draw
+40,Sat Apr 2 2016,Bradford City AFC,1-0,Scunthorpe United FC,2016,Apr,2,2/Apr/2016,Sat,1,1,0,Bradford City AFC
+40,Sat Apr 2 2016,Chesterfield FC,04-Feb,Port Vale FC,2016,Apr,2,2/Apr/2016,Sat,6,4,2,Chesterfield FC
+35,Tue Apr 5 2016,Oldham Athletic AFC,2-0,Swindon Town FC,2016,Apr,5,5/Apr/2016,Tue,2,2,0,Oldham Athletic AFC
+39,Tue Apr 5 2016,Fleetwood Town FC,2-0,Peterborough United FC,2016,Apr,5,5/Apr/2016,Tue,2,2,0,Fleetwood Town FC
+41,Sat Apr 9 2016,Port Vale FC,3-0,Crewe Alexandra FC,2016,Apr,9,9/Apr/2016,Sat,3,3,0,Port Vale FC
+41,Sat Apr 9 2016,Southend United FC,02-Feb,Fleetwood Town FC,2016,Apr,9,9/Apr/2016,Sat,4,2,2,Draw
+41,Sat Apr 9 2016,Sheffield United FC,0-0,Gillingham FC,2016,Apr,9,9/Apr/2016,Sat,0,0,0,Draw
+41,Sat Apr 9 2016,Scunthorpe United FC,1-0,Burton Albion FC,2016,Apr,9,9/Apr/2016,Sat,1,1,0,Scunthorpe United FC
+41,Sat Apr 9 2016,Wigan Athletic FC,1-0,Coventry City FC,2016,Apr,9,9/Apr/2016,Sat,1,1,0,Wigan Athletic FC
+41,Sat Apr 9 2016,Peterborough United FC,01-Feb,Rochdale AFC,2016,Apr,9,9/Apr/2016,Sat,3,1,2,Rochdale AFC
+41,Sat Apr 9 2016,Barnsley FC,01-Feb,Chesterfield FC,2016,Apr,9,9/Apr/2016,Sat,3,1,2,Chesterfield FC
+41,Sat Apr 9 2016,Millwall FC,03-Jan,Shrewsbury Town FC,2016,Apr,9,9/Apr/2016,Sat,4,3,1,Millwall FC
+41,Sat Apr 9 2016,Bury FC,1-0,Doncaster Rovers FC,2016,Apr,9,9/Apr/2016,Sat,1,1,0,Bury FC
+41,Sat Apr 9 2016,Bradford City AFC,1-0,Swindon Town FC,2016,Apr,9,9/Apr/2016,Sat,1,1,0,Bradford City AFC
+41,Sat Apr 9 2016,Blackpool FC,0-1,Colchester United FC,2016,Apr,9,9/Apr/2016,Sat,1,0,1,Colchester United FC
+41,Sat Apr 9 2016,Oldham Athletic AFC,1-0,Walsall FC,2016,Apr,9,9/Apr/2016,Sat,1,1,0,Oldham Athletic AFC
+38,Tue Apr 12 2016,Gillingham FC,01-Feb,Walsall FC,2016,Apr,12,12/Apr/2016,Tue,3,1,2,Walsall FC
+40,Tue Apr 12 2016,Barnsley FC,02-Jan,Oldham Athletic AFC,2016,Apr,12,12/Apr/2016,Tue,3,2,1,Barnsley FC
+42,Sat Apr 16 2016,Rochdale AFC,3-0,Blackpool FC,2016,Apr,16,16/Apr/2016,Sat,3,3,0,Rochdale AFC
+42,Sat Apr 16 2016,Walsall FC,1-0,Southend United FC,2016,Apr,16,16/Apr/2016,Sat,1,1,0,Walsall FC
+42,Sat Apr 16 2016,Swindon Town FC,0-1,Bury FC,2016,Apr,16,16/Apr/2016,Sat,1,0,1,Bury FC
+42,Sat Apr 16 2016,Shrewsbury Town FC,01-Jan,Bradford City AFC,2016,Apr,16,16/Apr/2016,Sat,2,1,1,Draw
+42,Sat Apr 16 2016,Chesterfield FC,0-3,Sheffield United FC,2016,Apr,16,16/Apr/2016,Sat,3,0,3,Sheffield United FC
+42,Sat Apr 16 2016,Gillingham FC,0-2,Port Vale FC,2016,Apr,16,16/Apr/2016,Sat,2,0,2,Port Vale FC
+42,Sat Apr 16 2016,Fleetwood Town FC,01-Jan,Oldham Athletic AFC,2016,Apr,16,16/Apr/2016,Sat,2,1,1,Draw
+42,Sat Apr 16 2016,Doncaster Rovers FC,03-Jan,Wigan Athletic FC,2016,Apr,16,16/Apr/2016,Sat,4,3,1,Doncaster Rovers FC
+42,Sat Apr 16 2016,Crewe Alexandra FC,02-Mar,Scunthorpe United FC,2016,Apr,16,16/Apr/2016,Sat,5,2,3,Scunthorpe United FC
+42,Sat Apr 16 2016,Coventry City FC,02-Jan,Millwall FC,2016,Apr,16,16/Apr/2016,Sat,3,2,1,Coventry City FC
+42,Sat Apr 16 2016,Burton Albion FC,0-0,Barnsley FC,2016,Apr,16,16/Apr/2016,Sat,0,0,0,Draw
+42,Sat Apr 16 2016,Colchester United FC,01-Apr,Peterborough United FC,2016,Apr,16,16/Apr/2016,Sat,5,1,4,Peterborough United FC
+43,Tue Apr 19 2016,Walsall FC,01-Jan,Swindon Town FC,2016,Apr,19,19/Apr/2016,Tue,2,1,1,Draw
+43,Tue Apr 19 2016,Southend United FC,0-1,Oldham Athletic AFC,2016,Apr,19,19/Apr/2016,Tue,1,0,1,Oldham Athletic AFC
+43,Tue Apr 19 2016,Shrewsbury Town FC,01-Feb,Sheffield United FC,2016,Apr,19,19/Apr/2016,Tue,3,1,2,Sheffield United FC
+43,Tue Apr 19 2016,Scunthorpe United FC,02-Jan,Bury FC,2016,Apr,19,19/Apr/2016,Tue,3,2,1,Scunthorpe United FC
+43,Tue Apr 19 2016,Barnsley FC,1-0,Peterborough United FC,2016,Apr,19,19/Apr/2016,Tue,1,1,0,Barnsley FC
+43,Tue Apr 19 2016,Millwall FC,1-0,Fleetwood Town FC,2016,Apr,19,19/Apr/2016,Tue,1,1,0,Millwall FC
+43,Tue Apr 19 2016,Crewe Alexandra FC,01-Jan,Colchester United FC,2016,Apr,19,19/Apr/2016,Tue,2,1,1,Draw
+43,Tue Apr 19 2016,Coventry City FC,1-0,Bradford City AFC,2016,Apr,19,19/Apr/2016,Tue,1,1,0,Coventry City FC
+43,Tue Apr 19 2016,Chesterfield FC,01-Jan,Doncaster Rovers FC,2016,Apr,19,19/Apr/2016,Tue,2,1,1,Draw
+43,Tue Apr 19 2016,Burton Albion FC,01-Jan,Wigan Athletic FC,2016,Apr,19,19/Apr/2016,Tue,2,1,1,Draw
+43,Tue Apr 19 2016,Rochdale AFC,01-Jan,Gillingham FC,2016,Apr,19,19/Apr/2016,Tue,2,1,1,Draw
+44,Sat Apr 23 2016,Sheffield United FC,0-0,Barnsley FC,2016,Apr,23,23/Apr/2016,Sat,0,0,0,Draw
+44,Sat Apr 23 2016,Wigan Athletic FC,04-Jan,Southend United FC,2016,Apr,23,23/Apr/2016,Sat,5,4,1,Wigan Athletic FC
+44,Sat Apr 23 2016,Swindon Town FC,1-0,Chesterfield FC,2016,Apr,23,23/Apr/2016,Sat,1,1,0,Swindon Town FC
+44,Sat Apr 23 2016,Port Vale FC,04-Jan,Rochdale AFC,2016,Apr,23,23/Apr/2016,Sat,5,4,1,Port Vale FC
+44,Sat Apr 23 2016,Peterborough United FC,0-2,Scunthorpe United FC,2016,Apr,23,23/Apr/2016,Sat,2,0,2,Scunthorpe United FC
+44,Sat Apr 23 2016,Oldham Athletic AFC,1-0,Crewe Alexandra FC,2016,Apr,23,23/Apr/2016,Sat,1,1,0,Oldham Athletic AFC
+44,Sat Apr 23 2016,Bradford City AFC,4-0,Walsall FC,2016,Apr,23,23/Apr/2016,Sat,4,4,0,Bradford City AFC
+44,Sat Apr 23 2016,Fleetwood Town FC,0-0,Blackpool FC,2016,Apr,23,23/Apr/2016,Sat,0,0,0,Draw
+44,Sat Apr 23 2016,Doncaster Rovers FC,2-0,Coventry City FC,2016,Apr,23,23/Apr/2016,Sat,2,2,0,Doncaster Rovers FC
+44,Sat Apr 23 2016,Colchester United FC,0-3,Burton Albion FC,2016,Apr,23,23/Apr/2016,Sat,3,0,3,Burton Albion FC
+44,Sat Apr 23 2016,Bury FC,01-Mar,Millwall FC,2016,Apr,23,23/Apr/2016,Sat,4,1,3,Millwall FC
+44,Sat Apr 23 2016,Gillingham FC,02-Mar,Shrewsbury Town FC,2016,Apr,23,23/Apr/2016,Sat,5,2,3,Shrewsbury Town FC
+39,Tue Apr 26 2016,Walsall FC,02-Jan,Shrewsbury Town FC,2016,Apr,26,26/Apr/2016,Tue,3,2,1,Walsall FC
+45,Sat Apr 30 2016,Millwall FC,3-0,Oldham Athletic AFC,2016,Apr,30,30/Apr/2016,Sat,3,3,0,Millwall FC
+45,Sat Apr 30 2016,Southend United FC,0-1,Bradford City AFC,2016,Apr,30,30/Apr/2016,Sat,1,0,1,Bradford City AFC
+45,Sat Apr 30 2016,Shrewsbury Town FC,03-Apr,Peterborough United FC,2016,Apr,30,30/Apr/2016,Sat,7,3,4,Peterborough United FC
+45,Sat Apr 30 2016,Scunthorpe United FC,1-0,Port Vale FC,2016,Apr,30,30/Apr/2016,Sat,1,1,0,Scunthorpe United FC
+45,Sat Apr 30 2016,Rochdale AFC,02-Feb,Swindon Town FC,2016,Apr,30,30/Apr/2016,Sat,4,2,2,Draw
+45,Sat Apr 30 2016,Blackpool FC,0-4,Wigan Athletic FC,2016,Apr,30,30/Apr/2016,Sat,4,0,4,Wigan Athletic FC
+45,Sat Apr 30 2016,Crewe Alexandra FC,03-Jan,Doncaster Rovers FC,2016,Apr,30,30/Apr/2016,Sat,4,3,1,Crewe Alexandra FC
+45,Sat Apr 30 2016,Coventry City FC,03-Jan,Sheffield United FC,2016,Apr,30,30/Apr/2016,Sat,4,3,1,Coventry City FC
+45,Sat Apr 30 2016,Chesterfield FC,3-0,Bury FC,2016,Apr,30,30/Apr/2016,Sat,3,3,0,Chesterfield FC
+45,Sat Apr 30 2016,Burton Albion FC,02-Jan,Gillingham FC,2016,Apr,30,30/Apr/2016,Sat,3,2,1,Burton Albion FC
+45,Sat Apr 30 2016,Barnsley FC,02-Feb,Colchester United FC,2016,Apr,30,30/Apr/2016,Sat,4,2,2,Draw
+45,Mon May 2 2016,Walsall FC,03-Jan,Fleetwood Town FC,2016,May,2,2/May/2016,Mon,4,3,1,Walsall FC
+46,Sun May 8 2016,Wigan Athletic FC,01-Apr,Barnsley FC,2016,May,8,8/May/2016,Sun,5,1,4,Barnsley FC
+46,Sun May 8 2016,Swindon Town FC,3-0,Shrewsbury Town FC,2016,May,8,8/May/2016,Sun,3,3,0,Swindon Town FC
+46,Sun May 8 2016,Sheffield United FC,0-2,Scunthorpe United FC,2016,May,8,8/May/2016,Sun,2,0,2,Scunthorpe United FC
+46,Sun May 8 2016,Port Vale FC,0-5,Walsall FC,2016,May,8,8/May/2016,Sun,5,0,5,Walsall FC
+46,Sun May 8 2016,Peterborough United FC,05-Jan,Blackpool FC,2016,May,8,8/May/2016,Sun,6,5,1,Peterborough United FC
+46,Sun May 8 2016,Oldham Athletic AFC,0-2,Coventry City FC,2016,May,8,8/May/2016,Sun,2,0,2,Coventry City FC
+46,Sun May 8 2016,Gillingham FC,01-Feb,Millwall FC,2016,May,8,8/May/2016,Sun,3,1,2,Millwall FC
+46,Sun May 8 2016,Fleetwood Town FC,2-0,Crewe Alexandra FC,2016,May,8,8/May/2016,Sun,2,2,0,Fleetwood Town FC
+46,Sun May 8 2016,Doncaster Rovers FC,0-0,Burton Albion FC,2016,May,8,8/May/2016,Sun,0,0,0,Draw
+46,Sun May 8 2016,Colchester United FC,01-Feb,Rochdale AFC,2016,May,8,8/May/2016,Sun,3,1,2,Rochdale AFC
+46,Sun May 8 2016,Bury FC,03-Feb,Southend United FC,2016,May,8,8/May/2016,Sun,5,3,2,Bury FC
+46,Sun May 8 2016,Bradford City AFC,2-0,Chesterfield FC,2016,May,8,8/May/2016,Sun,2,2,0,Bradford City AFC

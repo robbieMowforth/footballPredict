@@ -1,0 +1,241 @@
+Country,Stage,Round,Date,Team 1,FT,Team 2,Year,Month,Day,Date,DayOfWeek,Total Goals,Team 1 Goals,Team 2 Goals,Result
+Belgium,Regular Season,1,Sat Aug 8 2020,Club Brugge,0-1,Sporting Charleroi,2020,Aug,8,08-Aug-20,Sat,1,0,1,Sporting Charleroi
+Belgium,Regular Season,1,Sat Aug 8 2020,Royal Antwerp FC,01-Jan,Royal Excel Mouscron,2020,Aug,8,08-Aug-20,Sat,2,1,1,Draw
+Belgium,Regular Season,1,Sat Aug 8 2020,Standard Liège,1-0,Cercle Brugge,2020,Aug,8,08-Aug-20,Sat,1,1,0,Standard Liège
+Belgium,Regular Season,1,Sun Aug 9 2020,Sint-Truidense VV,02-Jan,KAA Gent,2020,Aug,9,09-Aug-20,Sun,3,2,1,Sint-Truidense VV
+Belgium,Regular Season,1,Sun Aug 9 2020,KV Kortrijk,01-Mar,Waasland-Beveren,2020,Aug,9,09-Aug-20,Sun,4,1,3,Waasland-Beveren
+Belgium,Regular Season,1,Sun Aug 9 2020,KV Mechelen,02-Feb,RSC Anderlecht,2020,Aug,9,09-Aug-20,Sun,4,2,2,Draw
+Belgium,Regular Season,1,Sun Aug 9 2020,SV Zulte Waregem,01-Feb,KRC Genk,2020,Aug,9,09-Aug-20,Sun,3,1,2,KRC Genk
+Belgium,Regular Season,1,Mon Aug 10 2020,KV Oostende,01-Feb,K. Beerschot VA,2020,Aug,10,10-Aug-20,Mon,3,1,2,K. Beerschot VA
+Belgium,Regular Season,1,Mon Aug 10 2020,Oud-Heverlee Leuven,01-Jan,KAS Eupen,2020,Aug,10,10-Aug-20,Mon,2,1,1,Draw
+Belgium,Regular Season,2,Fri Aug 14 2020,Royal Excel Mouscron,0-1,KV Mechelen,2020,Aug,14,14-Aug-20,Fri,1,0,1,KV Mechelen
+Belgium,Regular Season,2,Sat Aug 15 2020,KRC Genk,01-Jan,Oud-Heverlee Leuven,2020,Aug,15,15-Aug-20,Sat,2,1,1,Draw
+Belgium,Regular Season,2,Sat Aug 15 2020,KAA Gent,01-Feb,KV Kortrijk,2020,Aug,15,15-Aug-20,Sat,3,1,2,KV Kortrijk
+Belgium,Regular Season,2,Sat Aug 15 2020,Sporting Charleroi,1-0,KV Oostende,2020,Aug,15,15-Aug-20,Sat,1,1,0,Sporting Charleroi
+Belgium,Regular Season,2,Sun Aug 16 2020,Cercle Brugge,02-Jan,Royal Antwerp FC,2020,Aug,16,16-Aug-20,Sun,3,2,1,Cercle Brugge
+Belgium,Regular Season,2,Sun Aug 16 2020,K. Beerschot VA,03-Jan,SV Zulte Waregem,2020,Aug,16,16-Aug-20,Sun,4,3,1,K. Beerschot VA
+Belgium,Regular Season,2,Sun Aug 16 2020,RSC Anderlecht,03-Jan,Sint-Truidense VV,2020,Aug,16,16-Aug-20,Sun,4,3,1,RSC Anderlecht
+Belgium,Regular Season,2,Sun Aug 16 2020,KAS Eupen,0-4,Club Brugge,2020,Aug,16,16-Aug-20,Sun,4,0,4,Club Brugge
+Belgium,Regular Season,2,Mon Aug 17 2020,Waasland-Beveren,01-Feb,Standard Liège,2020,Aug,17,17-Aug-20,Mon,3,1,2,Standard Liège
+Belgium,Regular Season,3,Fri Aug 21 2020,KV Kortrijk,0-0,KAS Eupen,2020,Aug,21,21-Aug-20,Fri,0,0,0,Draw
+Belgium,Regular Season,3,Sat Aug 22 2020,SV Zulte Waregem,04-Jan,Waasland-Beveren,2020,Aug,22,22-Aug-20,Sat,5,4,1,SV Zulte Waregem
+Belgium,Regular Season,3,Sat Aug 22 2020,KV Mechelen,02-Mar,Cercle Brugge,2020,Aug,22,22-Aug-20,Sat,5,2,3,Cercle Brugge
+Belgium,Regular Season,3,Sat Aug 22 2020,Royal Antwerp FC,1-0,KAA Gent,2020,Aug,22,22-Aug-20,Sat,1,1,0,Royal Antwerp FC
+Belgium,Regular Season,3,Sat Aug 22 2020,Oud-Heverlee Leuven,01-Mar,Sporting Charleroi,2020,Aug,22,22-Aug-20,Sat,4,1,3,Sporting Charleroi
+Belgium,Regular Season,3,Sun Aug 23 2020,Standard Liège,0-0,KRC Genk,2020,Aug,23,23-Aug-20,Sun,0,0,0,Draw
+Belgium,Regular Season,3,Sun Aug 23 2020,RSC Anderlecht,01-Jan,Royal Excel Mouscron,2020,Aug,23,23-Aug-20,Sun,2,1,1,Draw
+Belgium,Regular Season,3,Sun Aug 23 2020,Club Brugge,0-1,K. Beerschot VA,2020,Aug,23,23-Aug-20,Sun,1,0,1,K. Beerschot VA
+Belgium,Regular Season,3,Mon Aug 24 2020,Sint-Truidense VV,0-0,KV Oostende,2020,Aug,24,24-Aug-20,Mon,0,0,0,Draw
+Belgium,Regular Season,4,Fri Aug 28 2020,KV Oostende,02-Feb,RSC Anderlecht,2020,Aug,28,28-Aug-20,Fri,4,2,2,Draw
+Belgium,Regular Season,4,Sat Aug 29 2020,Royal Excel Mouscron,0-1,SV Zulte Waregem,2020,Aug,29,29-Aug-20,Sat,1,0,1,SV Zulte Waregem
+Belgium,Regular Season,4,Sat Aug 29 2020,Cercle Brugge,0-1,KV Kortrijk,2020,Aug,29,29-Aug-20,Sat,1,0,1,KV Kortrijk
+Belgium,Regular Season,4,Sat Aug 29 2020,Waasland-Beveren,01-Mar,Oud-Heverlee Leuven,2020,Aug,29,29-Aug-20,Sat,4,1,3,Oud-Heverlee Leuven
+Belgium,Regular Season,4,Sat Aug 29 2020,KAS Eupen,01-Jan,Sint-Truidense VV,2020,Aug,29,29-Aug-20,Sat,2,1,1,Draw
+Belgium,Regular Season,4,Sun Aug 30 2020,KRC Genk,01-Feb,Club Brugge,2020,Aug,30,30-Aug-20,Sun,3,1,2,Club Brugge
+Belgium,Regular Season,4,Sun Aug 30 2020,K. Beerschot VA,0-3,Standard Liège,2020,Aug,30,30-Aug-20,Sun,3,0,3,Standard Liège
+Belgium,Regular Season,4,Sun Aug 30 2020,Sporting Charleroi,2-0,Royal Antwerp FC,2020,Aug,30,30-Aug-20,Sun,2,2,0,Sporting Charleroi
+Belgium,Regular Season,4,Sun Aug 30 2020,KAA Gent,1-0,KV Mechelen,2020,Aug,30,30-Aug-20,Sun,1,1,0,KAA Gent
+Belgium,Regular Season,5,Fri Sep 11 2020,KAS Eupen,02-Jan,KAA Gent,2020,Sep,11,11-Sep-20,Fri,3,2,1,KAS Eupen
+Belgium,Regular Season,5,Sat Sep 12 2020,KV Mechelen,0-1,KV Oostende,2020,Sep,12,12-Sep-20,Sat,1,0,1,KV Oostende
+Belgium,Regular Season,5,Sat Sep 12 2020,Club Brugge,04-Jan,Waasland-Beveren,2020,Sep,12,12-Sep-20,Sat,5,4,1,Club Brugge
+Belgium,Regular Season,5,Sat Sep 12 2020,Oud-Heverlee Leuven,1-0,Standard Liège,2020,Sep,12,12-Sep-20,Sat,1,1,0,Oud-Heverlee Leuven
+Belgium,Regular Season,5,Sun Sep 13 2020,RSC Anderlecht,2-0,Cercle Brugge,2020,Sep,13,13-Sep-20,Sun,2,2,0,RSC Anderlecht
+Belgium,Regular Season,5,Sun Sep 13 2020,Sint-Truidense VV,02-Mar,Royal Antwerp FC,2020,Sep,13,13-Sep-20,Sun,5,2,3,Royal Antwerp FC
+Belgium,Regular Season,5,Sun Sep 13 2020,SV Zulte Waregem,0-2,Sporting Charleroi,2020,Sep,13,13-Sep-20,Sun,2,0,2,Sporting Charleroi
+Belgium,Regular Season,5,Sun Sep 13 2020,KV Kortrijk,3-0,Royal Excel Mouscron,2020,Sep,13,13-Sep-20,Sun,3,3,0,KV Kortrijk
+Belgium,Regular Season,5,Mon Sep 14 2020,K. Beerschot VA,05-Feb,KRC Genk,2020,Sep,14,14-Sep-20,Mon,7,5,2,K. Beerschot VA
+Belgium,Regular Season,6,Fri Sep 18 2020,Sporting Charleroi,03-Jan,K. Beerschot VA,2020,Sep,18,18-Sep-20,Fri,4,3,1,Sporting Charleroi
+Belgium,Regular Season,6,Sat Sep 19 2020,KV Oostende,03-Jan,Oud-Heverlee Leuven,2020,Sep,19,19-Sep-20,Sat,4,3,1,KV Oostende
+Belgium,Regular Season,6,Sat Sep 19 2020,Royal Excel Mouscron,0-1,KAA Gent,2020,Sep,19,19-Sep-20,Sat,1,0,1,KAA Gent
+Belgium,Regular Season,6,Sat Sep 19 2020,Waasland-Beveren,02-Apr,RSC Anderlecht,2020,Sep,19,19-Sep-20,Sat,6,2,4,RSC Anderlecht
+Belgium,Regular Season,6,Sun Sep 20 2020,SV Zulte Waregem,0-6,Club Brugge,2020,Sep,20,20-Sep-20,Sun,6,0,6,Club Brugge
+Belgium,Regular Season,6,Sun Sep 20 2020,Standard Liège,02-Jan,KV Kortrijk,2020,Sep,20,20-Sep-20,Sun,3,2,1,Standard Liège
+Belgium,Regular Season,6,Sun Sep 20 2020,Royal Antwerp FC,02-Feb,KAS Eupen,2020,Sep,20,20-Sep-20,Sun,4,2,2,Draw
+Belgium,Regular Season,6,Sun Sep 20 2020,KRC Genk,03-Jan,KV Mechelen,2020,Sep,20,20-Sep-20,Sun,4,3,1,KRC Genk
+Belgium,Regular Season,6,Mon Sep 21 2020,Cercle Brugge,3-0,Sint-Truidense VV,2020,Sep,21,21-Sep-20,Mon,3,3,0,Cercle Brugge
+Belgium,Regular Season,7,Fri Sep 25 2020,KV Kortrijk,01-Mar,Royal Antwerp FC,2020,Sep,25,25-Sep-20,Fri,4,1,3,Royal Antwerp FC
+Belgium,Regular Season,7,Sat Sep 26 2020,KAA Gent,02-Mar,Oud-Heverlee Leuven,2020,Sep,26,26-Sep-20,Sat,5,2,3,Oud-Heverlee Leuven
+Belgium,Regular Season,7,Sat Sep 26 2020,KV Mechelen,2-0,Sint-Truidense VV,2020,Sep,26,26-Sep-20,Sat,2,2,0,KV Mechelen
+Belgium,Regular Season,7,Sat Sep 26 2020,K. Beerschot VA,03-Feb,Waasland-Beveren,2020,Sep,26,26-Sep-20,Sat,5,3,2,K. Beerschot VA
+Belgium,Regular Season,7,Sun Sep 27 2020,Standard Liège,02-Feb,SV Zulte Waregem,2020,Sep,27,27-Sep-20,Sun,4,2,2,Draw
+Belgium,Regular Season,7,Sun Sep 27 2020,RSC Anderlecht,01-Jan,KAS Eupen,2020,Sep,27,27-Sep-20,Sun,2,1,1,Draw
+Belgium,Regular Season,7,Sun Sep 27 2020,Club Brugge,02-Jan,Cercle Brugge,2020,Sep,27,27-Sep-20,Sun,3,2,1,Club Brugge
+Belgium,Regular Season,7,Sun Sep 27 2020,Royal Excel Mouscron,01-Jan,Sporting Charleroi,2020,Sep,27,27-Sep-20,Sun,2,1,1,Draw
+Belgium,Regular Season,7,Mon Sep 28 2020,KRC Genk,02-Feb,KV Oostende,2020,Sep,28,28-Sep-20,Mon,4,2,2,Draw
+Belgium,Regular Season,8,Fri Oct 2 2020,Royal Antwerp FC,04-Jan,KV Mechelen,2020,Oct,2,02-Oct-20,Fri,5,4,1,Royal Antwerp FC
+Belgium,Regular Season,8,Sat Oct 3 2020,KAS Eupen,01-Feb,Cercle Brugge,2020,Oct,3,03-Oct-20,Sat,3,1,2,Cercle Brugge
+Belgium,Regular Season,8,Sat Oct 3 2020,Sint-Truidense VV,0-0,KV Kortrijk,2020,Oct,3,03-Oct-20,Sat,0,0,0,Draw
+Belgium,Regular Season,8,Sat Oct 3 2020,Oud-Heverlee Leuven,02-Jan,SV Zulte Waregem,2020,Oct,3,03-Oct-20,Sat,3,2,1,Oud-Heverlee Leuven
+Belgium,Regular Season,8,Sat Oct 3 2020,Waasland-Beveren,01-Jan,KRC Genk,2020,Oct,3,03-Oct-20,Sat,2,1,1,Draw
+Belgium,Regular Season,8,Sun Oct 4 2020,Club Brugge,3-0,RSC Anderlecht,2020,Oct,4,04-Oct-20,Sun,3,3,0,Club Brugge
+Belgium,Regular Season,8,Sun Oct 4 2020,KAA Gent,05-Jan,K. Beerschot VA,2020,Oct,4,04-Oct-20,Sun,6,5,1,KAA Gent
+Belgium,Regular Season,8,Sun Oct 4 2020,Sporting Charleroi,01-Feb,Standard Liège,2020,Oct,4,04-Oct-20,Sun,3,1,2,Standard Liège
+Belgium,Regular Season,8,Sun Oct 4 2020,KV Oostende,3-0,Royal Excel Mouscron,2020,Oct,4,04-Oct-20,Sun,3,3,0,KV Oostende
+Belgium,Regular Season,9,Sat Oct 17 2020,Cercle Brugge,05-Feb,KAA Gent,2020,Oct,17,17-Oct-20,Sat,7,5,2,Cercle Brugge
+Belgium,Regular Season,9,Sat Oct 17 2020,K. Beerschot VA,06-Mar,Sint-Truidense VV,2020,Oct,17,17-Oct-20,Sat,9,6,3,K. Beerschot VA
+Belgium,Regular Season,9,Sat Oct 17 2020,KV Mechelen,01-Feb,KV Kortrijk,2020,Oct,17,17-Oct-20,Sat,3,1,2,KV Kortrijk
+Belgium,Regular Season,9,Sat Oct 17 2020,Standard Liège,01-Jan,Club Brugge,2020,Oct,17,17-Oct-20,Sat,2,1,1,Draw
+Belgium,Regular Season,9,Sun Oct 18 2020,SV Zulte Waregem,01-Mar,Royal Antwerp FC,2020,Oct,18,18-Oct-20,Sun,4,1,3,Royal Antwerp FC
+Belgium,Regular Season,9,Sun Oct 18 2020,Royal Excel Mouscron,0-2,KAS Eupen,2020,Oct,18,18-Oct-20,Sun,2,0,2,KAS Eupen
+Belgium,Regular Season,9,Sun Oct 18 2020,RSC Anderlecht,02-Feb,Oud-Heverlee Leuven,2020,Oct,18,18-Oct-20,Sun,4,2,2,Draw
+Belgium,Regular Season,9,Sun Oct 18 2020,KRC Genk,02-Jan,Sporting Charleroi,2020,Oct,18,18-Oct-20,Sun,3,2,1,KRC Genk
+Belgium,Regular Season,10,Fri Oct 23 2020,KV Kortrijk,01-Mar,RSC Anderlecht,2020,Oct,23,23-Oct-20,Fri,4,1,3,RSC Anderlecht
+Belgium,Regular Season,10,Sat Oct 24 2020,Oud-Heverlee Leuven,02-Jan,Club Brugge,2020,Oct,24,24-Oct-20,Sat,3,2,1,Oud-Heverlee Leuven
+Belgium,Regular Season,10,Sun Oct 25 2020,Sint-Truidense VV,2-0,Standard Liège,2020,Oct,25,25-Oct-20,Sun,2,2,0,Sint-Truidense VV
+Belgium,Regular Season,10,Sun Oct 25 2020,Royal Antwerp FC,03-Feb,K. Beerschot VA,2020,Oct,25,25-Oct-20,Sun,5,3,2,Royal Antwerp FC
+Belgium,Regular Season,10,Sun Oct 25 2020,KV Oostende,3-0,SV Zulte Waregem,2020,Oct,25,25-Oct-20,Sun,3,3,0,KV Oostende
+Belgium,Regular Season,10,Mon Oct 26 2020,KAA Gent,01-Feb,KRC Genk,2020,Oct,26,26-Oct-20,Mon,3,1,2,KRC Genk
+Belgium,Regular Season,11,Fri Oct 30 2020,KRC Genk,4-0,KAS Eupen,2020,Oct,30,30-Oct-20,Fri,4,4,0,KRC Genk
+Belgium,Regular Season,11,Sat Oct 31 2020,Sporting Charleroi,3-0,Cercle Brugge,2020,Oct,31,31-Oct-20,Sat,3,3,0,Sporting Charleroi
+Belgium,Regular Season,11,Sat Oct 31 2020,K. Beerschot VA,04-Feb,Oud-Heverlee Leuven,2020,Oct,31,31-Oct-20,Sat,6,4,2,K. Beerschot VA
+Belgium,Regular Season,11,Sat Oct 31 2020,Club Brugge,02-Feb,KV Mechelen,2020,Oct,31,31-Oct-20,Sat,4,2,2,Draw
+Belgium,Regular Season,11,Sun Nov 1 2020,Standard Liège,1-0,KV Oostende,2020,Nov,1,01-Nov-20,Sun,1,1,0,Standard Liège
+Belgium,Regular Season,11,Sun Nov 1 2020,Waasland-Beveren,01-Apr,KAA Gent,2020,Nov,1,01-Nov-20,Sun,5,1,4,KAA Gent
+Belgium,Regular Season,11,Sun Nov 1 2020,RSC Anderlecht,1-0,Royal Antwerp FC,2020,Nov,1,01-Nov-20,Sun,1,1,0,RSC Anderlecht
+Belgium,Regular Season,11,Mon Nov 2 2020,SV Zulte Waregem,01-Jan,KV Kortrijk,2020,Nov,2,02-Nov-20,Mon,2,1,1,Draw
+Belgium,Regular Season,12,Fri Nov 6 2020,KV Mechelen,03-Mar,Sporting Charleroi,2020,Nov,6,06-Nov-20,Fri,6,3,3,Draw
+Belgium,Regular Season,12,Sat Nov 7 2020,Sint-Truidense VV,01-Feb,KRC Genk,2020,Nov,7,07-Nov-20,Sat,3,1,2,KRC Genk
+Belgium,Regular Season,12,Sat Nov 7 2020,KAS Eupen,01-Jan,Waasland-Beveren,2020,Nov,7,07-Nov-20,Sat,2,1,1,Draw
+Belgium,Regular Season,12,Sat Nov 7 2020,KV Kortrijk,05-May,K. Beerschot VA,2020,Nov,7,07-Nov-20,Sat,10,5,5,Draw
+Belgium,Regular Season,12,Sun Nov 8 2020,Cercle Brugge,01-Mar,SV Zulte Waregem,2020,Nov,8,08-Nov-20,Sun,4,1,3,SV Zulte Waregem
+Belgium,Regular Season,12,Sun Nov 8 2020,Royal Antwerp FC,01-Jan,Standard Liège,2020,Nov,8,08-Nov-20,Sun,2,1,1,Draw
+Belgium,Regular Season,12,Sun Nov 8 2020,KAA Gent,01-Jan,RSC Anderlecht,2020,Nov,8,08-Nov-20,Sun,2,1,1,Draw
+Belgium,Regular Season,12,Sun Nov 8 2020,KV Oostende,01-Mar,Club Brugge,2020,Nov,8,08-Nov-20,Sun,4,1,3,Club Brugge
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,

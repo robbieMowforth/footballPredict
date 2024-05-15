@@ -1,0 +1,507 @@
+Round,Date,Team 1,FT,Team 2,Year,Month,Day,Date,DayOfWeek,Total Goals,Team 1 Goals,Team 2 Goals,Result
+1,Sat Aug 3 2019,AFC Wimbledon,01-Feb,Rotherham United FC,2019,Aug,3,3/Aug/2019,Sat,3,1,2,Rotherham United FC
+1,Sat Aug 3 2019,Blackpool FC,2-0,Bristol Rovers FC,2019,Aug,3,3/Aug/2019,Sat,2,2,0,Blackpool FC
+1,Sat Aug 3 2019,Burton Albion FC,0-1,Ipswich Town FC,2019,Aug,3,3/Aug/2019,Sat,1,0,1,Ipswich Town FC
+1,Sat Aug 3 2019,Coventry City FC,1-0,Southend United FC,2019,Aug,3,3/Aug/2019,Sat,1,1,0,Coventry City FC
+1,Sat Aug 3 2019,Doncaster Rovers FC,01-Jan,Gillingham FC,2019,Aug,3,3/Aug/2019,Sat,2,1,1,Draw
+1,Sat Aug 3 2019,Lincoln City FC,2-0,Accrington Stanley FC,2019,Aug,3,3/Aug/2019,Sat,2,2,0,Lincoln City FC
+1,Sat Aug 3 2019,Peterborough United FC,01-Mar,Fleetwood Town FC,2019,Aug,3,3/Aug/2019,Sat,4,1,3,Fleetwood Town FC
+1,Sat Aug 3 2019,Shrewsbury Town FC,1-0,Portsmouth FC,2019,Aug,3,3/Aug/2019,Sat,1,1,0,Shrewsbury Town FC
+1,Sat Aug 3 2019,Sunderland AFC,01-Jan,Oxford United FC,2019,Aug,3,3/Aug/2019,Sat,2,1,1,Draw
+1,Sat Aug 3 2019,Tranmere Rovers FC,02-Mar,Rochdale AFC,2019,Aug,3,3/Aug/2019,Sat,5,2,3,Rochdale AFC
+1,Sat Aug 3 2019,Wycombe Wanderers FC,2-0,Bolton Wanderers FC,2019,Aug,3,3/Aug/2019,Sat,2,2,0,Wycombe Wanderers FC
+2,Sat Aug 10 2019,Bolton Wanderers FC,0-0,Coventry City FC,2019,Aug,10,10/Aug/2019,Sat,0,0,0,Draw
+2,Sat Aug 10 2019,Bristol Rovers FC,0-0,Wycombe Wanderers FC,2019,Aug,10,10/Aug/2019,Sat,0,0,0,Draw
+2,Sat Aug 10 2019,Fleetwood Town FC,02-Jan,AFC Wimbledon,2019,Aug,10,10/Aug/2019,Sat,3,2,1,Fleetwood Town FC
+2,Sat Aug 10 2019,Gillingham FC,01-Feb,Burton Albion FC,2019,Aug,10,10/Aug/2019,Sat,3,1,2,Burton Albion FC
+2,Sat Aug 10 2019,Ipswich Town FC,01-Jan,Sunderland AFC,2019,Aug,10,10/Aug/2019,Sat,2,1,1,Draw
+2,Sat Aug 10 2019,Southend United FC,01-Mar,Blackpool FC,2019,Aug,10,10/Aug/2019,Sat,4,1,3,Blackpool FC
+2,Sat Aug 10 2019,Oxford United FC,1-0,Peterborough United FC,2019,Aug,10,10/Aug/2019,Sat,1,1,0,Oxford United FC
+2,Sat Aug 10 2019,Portsmouth FC,2-0,Tranmere Rovers FC,2019,Aug,10,10/Aug/2019,Sat,2,2,0,Portsmouth FC
+2,Sat Aug 10 2019,Rochdale AFC,01-Jan,Doncaster Rovers FC,2019,Aug,10,10/Aug/2019,Sat,2,1,1,Draw
+2,Sat Aug 10 2019,Rotherham United FC,0-2,Lincoln City FC,2019,Aug,10,10/Aug/2019,Sat,2,0,2,Lincoln City FC
+2,Sat Aug 10 2019,Milton Keynes Dons FC,1-0,Shrewsbury Town FC,2019,Aug,10,10/Aug/2019,Sat,1,1,0,Milton Keynes Dons FC
+3,Sat Aug 17 2019,Sunderland AFC,02-Jan,Portsmouth FC,2019,Aug,17,17/Aug/2019,Sat,3,2,1,Sunderland AFC
+3,Sat Aug 17 2019,AFC Wimbledon,01-Jan,Accrington Stanley FC,2019,Aug,17,17/Aug/2019,Sat,2,1,1,Draw
+3,Sat Aug 17 2019,Blackpool FC,02-Jan,Oxford United FC,2019,Aug,17,17/Aug/2019,Sat,3,2,1,Blackpool FC
+3,Sat Aug 17 2019,Burton Albion FC,0-1,Rotherham United FC,2019,Aug,17,17/Aug/2019,Sat,1,0,1,Rotherham United FC
+3,Sat Aug 17 2019,Coventry City FC,2-0,Bristol Rovers FC,2019,Aug,17,17/Aug/2019,Sat,2,2,0,Coventry City FC
+3,Sat Aug 17 2019,Doncaster Rovers FC,03-Feb,Fleetwood Town FC,2019,Aug,17,17/Aug/2019,Sat,5,3,2,Doncaster Rovers FC
+3,Sat Aug 17 2019,Lincoln City FC,4-0,Southend United FC,2019,Aug,17,17/Aug/2019,Sat,4,4,0,Lincoln City FC
+3,Sat Aug 17 2019,Peterborough United FC,02-Feb,Ipswich Town FC,2019,Aug,17,17/Aug/2019,Sat,4,2,2,Draw
+3,Sat Aug 17 2019,Shrewsbury Town FC,0-0,Rochdale AFC,2019,Aug,17,17/Aug/2019,Sat,0,0,0,Draw
+3,Sat Aug 17 2019,Wycombe Wanderers FC,03-Feb,Milton Keynes Dons FC,2019,Aug,17,17/Aug/2019,Sat,5,3,2,Wycombe Wanderers FC
+3,Sat Aug 17 2019,Tranmere Rovers FC,5-0,Bolton Wanderers FC,2019,Aug,17,17/Aug/2019,Sat,5,5,0,Tranmere Rovers FC
+4,Tue Aug 20 2019,Accrington Stanley FC,02-Mar,Shrewsbury Town FC,2019,Aug,20,20/Aug/2019,Tue,5,2,3,Shrewsbury Town FC
+4,Tue Aug 20 2019,Bristol Rovers FC,2-0,Tranmere Rovers FC,2019,Aug,20,20/Aug/2019,Tue,2,2,0,Bristol Rovers FC
+4,Tue Aug 20 2019,Southend United FC,0-2,Peterborough United FC,2019,Aug,20,20/Aug/2019,Tue,2,0,2,Peterborough United FC
+4,Tue Aug 20 2019,Gillingham FC,02-Feb,Blackpool FC,2019,Aug,20,20/Aug/2019,Tue,4,2,2,Draw
+4,Tue Aug 20 2019,Ipswich Town FC,02-Jan,AFC Wimbledon,2019,Aug,20,20/Aug/2019,Tue,3,2,1,Ipswich Town FC
+4,Tue Aug 20 2019,Milton Keynes Dons FC,02-Jan,Lincoln City FC,2019,Aug,20,20/Aug/2019,Tue,3,2,1,Milton Keynes Dons FC
+4,Tue Aug 20 2019,Oxford United FC,02-Apr,Burton Albion FC,2019,Aug,20,20/Aug/2019,Tue,6,2,4,Burton Albion FC
+4,Tue Aug 20 2019,Portsmouth FC,03-Mar,Coventry City FC,2019,Aug,20,20/Aug/2019,Tue,6,3,3,Draw
+4,Tue Aug 20 2019,Rochdale AFC,01-Feb,Sunderland AFC,2019,Aug,20,20/Aug/2019,Tue,3,1,2,Sunderland AFC
+4,Tue Aug 20 2019,Fleetwood Town FC,01-Jan,Wycombe Wanderers FC,2019,Aug,20,20/Aug/2019,Tue,2,1,1,Draw
+5,Sat Aug 24 2019,Wycombe Wanderers FC,04-Mar,Southend United FC,2019,Aug,24,24/Aug/2019,Sat,7,4,3,Wycombe Wanderers FC
+5,Sat Aug 24 2019,Doncaster Rovers FC,02-Jan,Lincoln City FC,2019,Aug,24,24/Aug/2019,Sat,3,2,1,Doncaster Rovers FC
+5,Sat Aug 24 2019,Bolton Wanderers FC,0-5,Ipswich Town FC,2019,Aug,24,24/Aug/2019,Sat,5,0,5,Ipswich Town FC
+5,Sat Aug 24 2019,Bristol Rovers FC,03-Jan,Oxford United FC,2019,Aug,24,24/Aug/2019,Sat,4,3,1,Bristol Rovers FC
+5,Sat Aug 24 2019,Coventry City FC,1-0,Gillingham FC,2019,Aug,24,24/Aug/2019,Sat,1,1,0,Coventry City FC
+5,Sat Aug 24 2019,Sunderland AFC,03-Jan,AFC Wimbledon,2019,Aug,24,24/Aug/2019,Sat,4,3,1,Sunderland AFC
+5,Sat Aug 24 2019,Milton Keynes Dons FC,0-4,Peterborough United FC,2019,Aug,24,24/Aug/2019,Sat,4,0,4,Peterborough United FC
+5,Sat Aug 24 2019,Rochdale AFC,0-0,Blackpool FC,2019,Aug,24,24/Aug/2019,Sat,0,0,0,Draw
+5,Sat Aug 24 2019,Shrewsbury Town FC,0-0,Burton Albion FC,2019,Aug,24,24/Aug/2019,Sat,0,0,0,Draw
+5,Sat Aug 24 2019,Fleetwood Town FC,2-0,Accrington Stanley FC,2019,Aug,24,24/Aug/2019,Sat,2,2,0,Fleetwood Town FC
+6,Sat Aug 31 2019,Southend United FC,0-3,Rochdale AFC,2019,Aug,31,31/Aug/2019,Sat,3,0,3,Rochdale AFC
+6,Sat Aug 31 2019,Rotherham United FC,01-Jan,Tranmere Rovers FC,2019,Aug,31,31/Aug/2019,Sat,2,1,1,Draw
+6,Sat Aug 31 2019,AFC Wimbledon,0-0,Wycombe Wanderers FC,2019,Aug,31,31/Aug/2019,Sat,0,0,0,Draw
+6,Sat Aug 31 2019,Oxford United FC,03-Mar,Coventry City FC,2019,Aug,31,31/Aug/2019,Sat,6,3,3,Draw
+6,Sat Aug 31 2019,Blackpool FC,01-Jan,Portsmouth FC,2019,Aug,31,31/Aug/2019,Sat,2,1,1,Draw
+6,Sat Aug 31 2019,Burton Albion FC,2-0,Bristol Rovers FC,2019,Aug,31,31/Aug/2019,Sat,2,2,0,Burton Albion FC
+6,Sat Aug 31 2019,Gillingham FC,5-0,Bolton Wanderers FC,2019,Aug,31,31/Aug/2019,Sat,5,5,0,Gillingham FC
+6,Sat Aug 31 2019,Ipswich Town FC,3-0,Shrewsbury Town FC,2019,Aug,31,31/Aug/2019,Sat,3,3,0,Ipswich Town FC
+6,Sat Aug 31 2019,Lincoln City FC,2-0,Fleetwood Town FC,2019,Aug,31,31/Aug/2019,Sat,2,2,0,Lincoln City FC
+6,Sat Aug 31 2019,Peterborough United FC,3-0,Sunderland AFC,2019,Aug,31,31/Aug/2019,Sat,3,3,0,Peterborough United FC
+6,Sat Aug 31 2019,Accrington Stanley FC,02-Jan,Milton Keynes Dons FC,2019,Aug,31,31/Aug/2019,Sat,3,2,1,Accrington Stanley FC
+7,Sat Sep 7 2019,Milton Keynes Dons FC,02-Jan,AFC Wimbledon,2019,Sep,7,7/Sep/2019,Sat,3,2,1,Milton Keynes Dons FC
+7,Sat Sep 7 2019,Wycombe Wanderers FC,03-Jan,Lincoln City FC,2019,Sep,7,7/Sep/2019,Sat,4,3,1,Wycombe Wanderers FC
+7,Sat Sep 7 2019,Fleetwood Town FC,02-Jan,Oxford United FC,2019,Sep,7,7/Sep/2019,Sat,3,2,1,Fleetwood Town FC
+7,Sat Sep 7 2019,Doncaster Rovers FC,02-Jan,Rotherham United FC,2019,Sep,7,7/Sep/2019,Sat,3,2,1,Doncaster Rovers FC
+7,Sat Sep 7 2019,Bristol Rovers FC,03-Mar,Accrington Stanley FC,2019,Sep,7,7/Sep/2019,Sat,6,3,3,Draw
+7,Sat Sep 7 2019,Coventry City FC,03-Feb,Blackpool FC,2019,Sep,7,7/Sep/2019,Sat,5,3,2,Coventry City FC
+7,Sat Sep 7 2019,Tranmere Rovers FC,02-Feb,Gillingham FC,2019,Sep,7,7/Sep/2019,Sat,4,2,2,Draw
+8,Sat Sep 14 2019,Rotherham United FC,06-Jan,Bolton Wanderers FC,2019,Sep,14,14/Sep/2019,Sat,7,6,1,Rotherham United FC
+8,Sat Sep 14 2019,Southend United FC,03-Mar,Fleetwood Town FC,2019,Sep,14,14/Sep/2019,Sat,6,3,3,Draw
+8,Sat Sep 14 2019,Accrington Stanley FC,01-Mar,Sunderland AFC,2019,Sep,14,14/Sep/2019,Sat,4,1,3,Sunderland AFC
+8,Sat Sep 14 2019,Peterborough United FC,6-0,Rochdale AFC,2019,Sep,14,14/Sep/2019,Sat,6,6,0,Peterborough United FC
+8,Sat Sep 14 2019,Oxford United FC,3-0,Tranmere Rovers FC,2019,Sep,14,14/Sep/2019,Sat,3,3,0,Oxford United FC
+8,Sat Sep 14 2019,Lincoln City FC,0-1,Bristol Rovers FC,2019,Sep,14,14/Sep/2019,Sat,1,0,1,Bristol Rovers FC
+8,Sat Sep 14 2019,AFC Wimbledon,01-Jan,Shrewsbury Town FC,2019,Sep,14,14/Sep/2019,Sat,2,1,1,Draw
+8,Sat Sep 14 2019,Ipswich Town FC,0-0,Doncaster Rovers FC,2019,Sep,14,14/Sep/2019,Sat,0,0,0,Draw
+8,Sat Sep 14 2019,Blackpool FC,0-3,Milton Keynes Dons FC,2019,Sep,14,14/Sep/2019,Sat,3,0,3,Milton Keynes Dons FC
+8,Sat Sep 14 2019,Burton Albion FC,0-0,Coventry City FC,2019,Sep,14,14/Sep/2019,Sat,0,0,0,Draw
+8,Sat Sep 14 2019,Gillingham FC,2-0,Wycombe Wanderers FC,2019,Sep,14,14/Sep/2019,Sat,2,2,0,Gillingham FC
+9,Tue Sep 17 2019,Shrewsbury Town FC,04-Mar,Southend United FC,2019,Sep,17,17/Sep/2019,Tue,7,4,3,Shrewsbury Town FC
+9,Tue Sep 17 2019,Rochdale AFC,01-Jan,Lincoln City FC,2019,Sep,17,17/Sep/2019,Tue,2,1,1,Draw
+9,Tue Sep 17 2019,Sunderland AFC,01-Jan,Rotherham United FC,2019,Sep,17,17/Sep/2019,Tue,2,1,1,Draw
+9,Tue Sep 17 2019,Tranmere Rovers FC,02-Feb,Peterborough United FC,2019,Sep,17,17/Sep/2019,Tue,4,2,2,Draw
+9,Tue Sep 17 2019,Wycombe Wanderers FC,01-Jan,Accrington Stanley FC,2019,Sep,17,17/Sep/2019,Tue,2,1,1,Draw
+9,Tue Sep 17 2019,Coventry City FC,02-Jan,AFC Wimbledon,2019,Sep,17,17/Sep/2019,Tue,3,2,1,Coventry City FC
+9,Tue Sep 17 2019,Bristol Rovers FC,01-Jan,Gillingham FC,2019,Sep,17,17/Sep/2019,Tue,2,1,1,Draw
+9,Tue Sep 17 2019,Portsmouth FC,02-Feb,Burton Albion FC,2019,Sep,17,17/Sep/2019,Tue,4,2,2,Draw
+9,Tue Sep 17 2019,Doncaster Rovers FC,0-1,Blackpool FC,2019,Sep,17,17/Sep/2019,Tue,1,0,1,Blackpool FC
+9,Tue Sep 17 2019,Milton Keynes Dons FC,0-1,Ipswich Town FC,2019,Sep,17,17/Sep/2019,Tue,1,0,1,Ipswich Town FC
+9,Tue Sep 17 2019,Bolton Wanderers FC,0-0,Oxford United FC,2019,Sep,17,17/Sep/2019,Tue,0,0,0,Draw
+10,Sat Sep 21 2019,Gillingham FC,0-1,Ipswich Town FC,2019,Sep,21,21/Sep/2019,Sat,1,0,1,Ipswich Town FC
+10,Sat Sep 21 2019,Lincoln City FC,0-6,Oxford United FC,2019,Sep,21,21/Sep/2019,Sat,6,0,6,Oxford United FC
+10,Sat Sep 21 2019,Wycombe Wanderers FC,1-0,Portsmouth FC,2019,Sep,21,21/Sep/2019,Sat,1,1,0,Wycombe Wanderers FC
+10,Sat Sep 21 2019,Tranmere Rovers FC,02-Jan,Burton Albion FC,2019,Sep,21,21/Sep/2019,Sat,3,2,1,Tranmere Rovers FC
+10,Sat Sep 21 2019,Rotherham United FC,0-0,Shrewsbury Town FC,2019,Sep,21,21/Sep/2019,Sat,0,0,0,Draw
+10,Sat Sep 21 2019,Milton Keynes Dons FC,0-1,Southend United FC,2019,Sep,21,21/Sep/2019,Sat,1,0,1,Southend United FC
+10,Sat Sep 21 2019,Fleetwood Town FC,02-Jan,Rochdale AFC,2019,Sep,21,21/Sep/2019,Sat,3,2,1,Fleetwood Town FC
+10,Sat Sep 21 2019,Accrington Stanley FC,01-Jan,Blackpool FC,2019,Sep,21,21/Sep/2019,Sat,2,1,1,Draw
+10,Sat Sep 21 2019,AFC Wimbledon,01-Mar,Bristol Rovers FC,2019,Sep,21,21/Sep/2019,Sat,4,1,3,Bristol Rovers FC
+10,Sat Sep 21 2019,Doncaster Rovers FC,2-0,Peterborough United FC,2019,Sep,21,21/Sep/2019,Sat,2,2,0,Doncaster Rovers FC
+10,Sat Sep 21 2019,Bolton Wanderers FC,01-Jan,Sunderland AFC,2019,Sep,21,21/Sep/2019,Sat,2,1,1,Draw
+11,Fri Sep 27 2019,Blackpool FC,02-Jan,Lincoln City FC,2019,Sep,27,27/Sep/2019,Fri,3,2,1,Blackpool FC
+11,Sat Sep 28 2019,Portsmouth FC,1-0,Bolton Wanderers FC,2019,Sep,28,28/Sep/2019,Sat,1,1,0,Portsmouth FC
+11,Sat Sep 28 2019,Sunderland AFC,02-Jan,Milton Keynes Dons FC,2019,Sep,28,28/Sep/2019,Sat,3,2,1,Sunderland AFC
+11,Sat Sep 28 2019,Southend United FC,0-1,Accrington Stanley FC,2019,Sep,28,28/Sep/2019,Sat,1,0,1,Accrington Stanley FC
+11,Sat Sep 28 2019,Shrewsbury Town FC,0-3,Fleetwood Town FC,2019,Sep,28,28/Sep/2019,Sat,3,0,3,Fleetwood Town FC
+11,Sat Sep 28 2019,Rochdale AFC,0-3,Wycombe Wanderers FC,2019,Sep,28,28/Sep/2019,Sat,3,0,3,Wycombe Wanderers FC
+11,Sat Sep 28 2019,Peterborough United FC,03-Feb,AFC Wimbledon,2019,Sep,28,28/Sep/2019,Sat,5,3,2,Peterborough United FC
+11,Sat Sep 28 2019,Bristol Rovers FC,1-0,Rotherham United FC,2019,Sep,28,28/Sep/2019,Sat,1,1,0,Bristol Rovers FC
+11,Sat Sep 28 2019,Coventry City FC,01-Jan,Doncaster Rovers FC,2019,Sep,28,28/Sep/2019,Sat,2,1,1,Draw
+11,Sat Sep 28 2019,Ipswich Town FC,04-Jan,Tranmere Rovers FC,2019,Sep,28,28/Sep/2019,Sat,5,4,1,Ipswich Town FC
+11,Sat Sep 28 2019,Oxford United FC,3-0,Gillingham FC,2019,Sep,28,28/Sep/2019,Sat,3,3,0,Oxford United FC
+12,Sat Oct 5 2019,Tranmere Rovers FC,0-1,Shrewsbury Town FC,2019,Oct,5,5/Oct/2019,Sat,1,0,1,Shrewsbury Town FC
+12,Sat Oct 5 2019,Gillingham FC,03-Jan,Southend United FC,2019,Oct,5,5/Oct/2019,Sat,4,3,1,Gillingham FC
+12,Sat Oct 5 2019,Lincoln City FC,2-0,Sunderland AFC,2019,Oct,5,5/Oct/2019,Sat,2,2,0,Lincoln City FC
+12,Sat Oct 5 2019,Milton Keynes Dons FC,0-3,Burton Albion FC,2019,Oct,5,5/Oct/2019,Sat,3,0,3,Burton Albion FC
+12,Sat Oct 5 2019,Rotherham United FC,4-0,Coventry City FC,2019,Oct,5,5/Oct/2019,Sat,4,4,0,Rotherham United FC
+12,Sat Oct 5 2019,Wycombe Wanderers FC,03-Mar,Peterborough United FC,2019,Oct,5,5/Oct/2019,Sat,6,3,3,Draw
+12,Sat Oct 5 2019,AFC Wimbledon,03-Feb,Rochdale AFC,2019,Oct,5,5/Oct/2019,Sat,5,3,2,AFC Wimbledon
+12,Sat Oct 5 2019,Accrington Stanley FC,02-Feb,Oxford United FC,2019,Oct,5,5/Oct/2019,Sat,4,2,2,Draw
+12,Sat Oct 5 2019,Doncaster Rovers FC,01-Feb,Portsmouth FC,2019,Oct,5,5/Oct/2019,Sat,3,1,2,Portsmouth FC
+12,Sat Oct 5 2019,Fleetwood Town FC,0-1,Ipswich Town FC,2019,Oct,5,5/Oct/2019,Sat,1,0,1,Ipswich Town FC
+12,Mon Oct 7 2019,Bolton Wanderers FC,0-0,Blackpool FC,2019,Oct,7,7/Oct/2019,Mon,0,0,0,Draw
+13,Sat Oct 12 2019,Peterborough United FC,2-0,Lincoln City FC,2019,Oct,12,12/Oct/2019,Sat,2,2,0,Peterborough United FC
+13,Sat Oct 12 2019,Portsmouth FC,0-0,Gillingham FC,2019,Oct,12,12/Oct/2019,Sat,0,0,0,Draw
+13,Sat Oct 12 2019,Southend United FC,01-Apr,AFC Wimbledon,2019,Oct,12,12/Oct/2019,Sat,5,1,4,AFC Wimbledon
+13,Sat Oct 12 2019,Rochdale AFC,02-Jan,Accrington Stanley FC,2019,Oct,12,12/Oct/2019,Sat,3,2,1,Rochdale AFC
+13,Sat Oct 12 2019,Blackpool FC,01-Feb,Rotherham United FC,2019,Oct,12,12/Oct/2019,Sat,3,1,2,Rotherham United FC
+13,Sat Oct 12 2019,Oxford United FC,3-0,Doncaster Rovers FC,2019,Oct,12,12/Oct/2019,Sat,3,3,0,Oxford United FC
+13,Sat Oct 12 2019,Bristol Rovers FC,1-0,Milton Keynes Dons FC,2019,Oct,12,12/Oct/2019,Sat,1,1,0,Bristol Rovers FC
+13,Sun Oct 13 2019,Coventry City FC,0-1,Tranmere Rovers FC,2019,Oct,13,13/Oct/2019,Sun,1,0,1,Tranmere Rovers FC
+14,Fri Oct 18 2019,Lincoln City FC,0-0,Shrewsbury Town FC,2019,Oct,18,18/Oct/2019,Fri,0,0,0,Draw
+14,Fri Oct 18 2019,Tranmere Rovers FC,01-Jan,Southend United FC,2019,Oct,18,18/Oct/2019,Fri,2,1,1,Draw
+14,Sat Oct 19 2019,Gillingham FC,01-Feb,Peterborough United FC,2019,Oct,19,19/Oct/2019,Sat,3,1,2,Peterborough United FC
+14,Sat Oct 19 2019,Fleetwood Town FC,04-Jan,Burton Albion FC,2019,Oct,19,19/Oct/2019,Sat,5,4,1,Fleetwood Town FC
+14,Sat Oct 19 2019,Doncaster Rovers FC,2-0,Bristol Rovers FC,2019,Oct,19,19/Oct/2019,Sat,2,2,0,Doncaster Rovers FC
+14,Sat Oct 19 2019,Milton Keynes Dons FC,0-0,Coventry City FC,2019,Oct,19,19/Oct/2019,Sat,0,0,0,Draw
+14,Sat Oct 19 2019,Bolton Wanderers FC,01-Mar,Rochdale AFC,2019,Oct,19,19/Oct/2019,Sat,4,1,3,Rochdale AFC
+14,Sat Oct 19 2019,Rotherham United FC,01-Feb,Oxford United FC,2019,Oct,19,19/Oct/2019,Sat,3,1,2,Oxford United FC
+14,Sat Oct 19 2019,AFC Wimbledon,1-0,Portsmouth FC,2019,Oct,19,19/Oct/2019,Sat,1,1,0,AFC Wimbledon
+14,Sat Oct 19 2019,Wycombe Wanderers FC,1-0,Sunderland AFC,2019,Oct,19,19/Oct/2019,Sat,1,1,0,Wycombe Wanderers FC
+14,Sun Oct 20 2019,Accrington Stanley FC,2-0,Ipswich Town FC,2019,Oct,20,20/Oct/2019,Sun,2,2,0,Accrington Stanley FC
+15,Tue Oct 22 2019,Shrewsbury Town FC,01-Jan,Gillingham FC,2019,Oct,22,22/Oct/2019,Tue,2,1,1,Draw
+15,Tue Oct 22 2019,Blackpool FC,01-Jan,Wycombe Wanderers FC,2019,Oct,22,22/Oct/2019,Tue,2,1,1,Draw
+15,Tue Oct 22 2019,Sunderland AFC,5-0,Tranmere Rovers FC,2019,Oct,22,22/Oct/2019,Tue,5,5,0,Sunderland AFC
+15,Tue Oct 22 2019,Southend United FC,01-Jul,Doncaster Rovers FC,2019,Oct,22,22/Oct/2019,Tue,8,1,7,Doncaster Rovers FC
+15,Tue Oct 22 2019,Burton Albion FC,1-0,AFC Wimbledon,2019,Oct,22,22/Oct/2019,Tue,1,1,0,Burton Albion FC
+15,Tue Oct 22 2019,Rochdale AFC,2-0,Milton Keynes Dons FC,2019,Oct,22,22/Oct/2019,Tue,2,2,0,Rochdale AFC
+15,Tue Oct 22 2019,Portsmouth FC,1-0,Lincoln City FC,2019,Oct,22,22/Oct/2019,Tue,1,1,0,Portsmouth FC
+15,Tue Oct 22 2019,Bristol Rovers FC,0-2,Bolton Wanderers FC,2019,Oct,22,22/Oct/2019,Tue,2,0,2,Bolton Wanderers FC
+15,Wed Oct 23 2019,Ipswich Town FC,0-2,Rotherham United FC,2019,Oct,23,23/Oct/2019,Wed,2,0,2,Rotherham United FC
+15,Wed Oct 23 2019,Peterborough United FC,4-0,Accrington Stanley FC,2019,Oct,23,23/Oct/2019,Wed,4,4,0,Peterborough United FC
+15,Wed Oct 23 2019,Coventry City FC,02-Jan,Fleetwood Town FC,2019,Oct,23,23/Oct/2019,Wed,3,2,1,Coventry City FC
+16,Sat Oct 26 2019,Shrewsbury Town FC,1-0,Sunderland AFC,2019,Oct,26,26/Oct/2019,Sat,1,1,0,Shrewsbury Town FC
+16,Sat Oct 26 2019,Southend United FC,01-Mar,Ipswich Town FC,2019,Oct,26,26/Oct/2019,Sat,4,1,3,Ipswich Town FC
+16,Sat Oct 26 2019,Accrington Stanley FC,0-1,Gillingham FC,2019,Oct,26,26/Oct/2019,Sat,1,0,1,Gillingham FC
+16,Sat Oct 26 2019,Rotherham United FC,0-1,Wycombe Wanderers FC,2019,Oct,26,26/Oct/2019,Sat,1,0,1,Wycombe Wanderers FC
+16,Sat Oct 26 2019,Peterborough United FC,02-Feb,Coventry City FC,2019,Oct,26,26/Oct/2019,Sat,4,2,2,Draw
+16,Sat Oct 26 2019,Oxford United FC,3-0,Rochdale AFC,2019,Oct,26,26/Oct/2019,Sat,3,3,0,Oxford United FC
+16,Sat Oct 26 2019,Fleetwood Town FC,1-0,Milton Keynes Dons FC,2019,Oct,26,26/Oct/2019,Sat,1,1,0,Fleetwood Town FC
+16,Sat Oct 26 2019,Burton Albion FC,0-0,Blackpool FC,2019,Oct,26,26/Oct/2019,Sat,0,0,0,Draw
+16,Sat Oct 26 2019,Bristol Rovers FC,02-Feb,Portsmouth FC,2019,Oct,26,26/Oct/2019,Sat,4,2,2,Draw
+17,Sat Nov 2 2019,Blackpool FC,04-Mar,Peterborough United FC,2019,Nov,2,2/Nov/2019,Sat,7,4,3,Blackpool FC
+17,Sat Nov 2 2019,Milton Keynes Dons FC,01-Mar,Tranmere Rovers FC,2019,Nov,2,2/Nov/2019,Sat,4,1,3,Tranmere Rovers FC
+17,Sat Nov 2 2019,Portsmouth FC,01-Jan,Oxford United FC,2019,Nov,2,2/Nov/2019,Sat,2,1,1,Draw
+17,Sat Nov 2 2019,Sunderland AFC,1-0,Southend United FC,2019,Nov,2,2/Nov/2019,Sat,1,1,0,Sunderland AFC
+17,Sat Nov 2 2019,Wycombe Wanderers FC,1-0,Shrewsbury Town FC,2019,Nov,2,2/Nov/2019,Sat,1,1,0,Wycombe Wanderers FC
+17,Sat Nov 2 2019,Rochdale AFC,01-Feb,Bristol Rovers FC,2019,Nov,2,2/Nov/2019,Sat,3,1,2,Bristol Rovers FC
+17,Sat Nov 2 2019,Coventry City FC,0-0,Accrington Stanley FC,2019,Nov,2,2/Nov/2019,Sat,0,0,0,Draw
+17,Sat Nov 2 2019,Doncaster Rovers FC,02-Feb,Burton Albion FC,2019,Nov,2,2/Nov/2019,Sat,4,2,2,Draw
+17,Sat Nov 2 2019,AFC Wimbledon,01-Jan,Lincoln City FC,2019,Nov,2,2/Nov/2019,Sat,2,1,1,Draw
+17,Sat Nov 2 2019,Bolton Wanderers FC,02-Jan,Fleetwood Town FC,2019,Nov,2,2/Nov/2019,Sat,3,2,1,Bolton Wanderers FC
+17,Sat Nov 2 2019,Gillingham FC,0-3,Rotherham United FC,2019,Nov,2,2/Nov/2019,Sat,3,0,3,Rotherham United FC
+7,Tue Nov 5 2019,Shrewsbury Town FC,1-0,Peterborough United FC,2019,Nov,5,5/Nov/2019,Tue,1,1,0,Shrewsbury Town FC
+7,Tue Nov 5 2019,Portsmouth FC,04-Jan,Southend United FC,2019,Nov,5,5/Nov/2019,Tue,5,4,1,Portsmouth FC
+7,Tue Nov 5 2019,Rochdale AFC,0-1,Ipswich Town FC,2019,Nov,5,5/Nov/2019,Tue,1,0,1,Ipswich Town FC
+18,Sat Nov 16 2019,Coventry City FC,02-Jan,Rochdale AFC,2019,Nov,16,16/Nov/2019,Sat,3,2,1,Coventry City FC
+18,Sat Nov 16 2019,Rotherham United FC,1-0,Accrington Stanley FC,2019,Nov,16,16/Nov/2019,Sat,1,1,0,Rotherham United FC
+18,Sat Nov 16 2019,Blackpool FC,2-0,AFC Wimbledon,2019,Nov,16,16/Nov/2019,Sat,2,2,0,Blackpool FC
+18,Sat Nov 16 2019,Gillingham FC,1-0,Lincoln City FC,2019,Nov,16,16/Nov/2019,Sat,1,1,0,Gillingham FC
+18,Sat Nov 16 2019,Bolton Wanderers FC,1-0,Milton Keynes Dons FC,2019,Nov,16,16/Nov/2019,Sat,1,1,0,Bolton Wanderers FC
+18,Sun Nov 17 2019,Tranmere Rovers FC,0-2,Wycombe Wanderers FC,2019,Nov,17,17/Nov/2019,Sun,2,0,2,Wycombe Wanderers FC
+19,Sat Nov 23 2019,Ipswich Town FC,02-Feb,Blackpool FC,2019,Nov,23,23/Nov/2019,Sat,4,2,2,Draw
+19,Sat Nov 23 2019,Wycombe Wanderers FC,1-0,Doncaster Rovers FC,2019,Nov,23,23/Nov/2019,Sat,1,1,0,Wycombe Wanderers FC
+19,Sat Nov 23 2019,Southend United FC,0-4,Oxford United FC,2019,Nov,23,23/Nov/2019,Sat,4,0,4,Oxford United FC
+19,Sat Nov 23 2019,Sunderland AFC,01-Jan,Coventry City FC,2019,Nov,23,23/Nov/2019,Sat,2,1,1,Draw
+19,Sat Nov 23 2019,Milton Keynes Dons FC,02-Mar,Rotherham United FC,2019,Nov,23,23/Nov/2019,Sat,5,2,3,Rotherham United FC
+19,Sat Nov 23 2019,Shrewsbury Town FC,03-Apr,Bristol Rovers FC,2019,Nov,23,23/Nov/2019,Sat,7,3,4,Bristol Rovers FC
+19,Sat Nov 23 2019,Rochdale AFC,0-3,Portsmouth FC,2019,Nov,23,23/Nov/2019,Sat,3,0,3,Portsmouth FC
+19,Sat Nov 23 2019,Peterborough United FC,1-0,Burton Albion FC,2019,Nov,23,23/Nov/2019,Sat,1,1,0,Peterborough United FC
+19,Sat Nov 23 2019,AFC Wimbledon,1-0,Gillingham FC,2019,Nov,23,23/Nov/2019,Sat,1,1,0,AFC Wimbledon
+19,Sat Nov 23 2019,Accrington Stanley FC,07-Jan,Bolton Wanderers FC,2019,Nov,23,23/Nov/2019,Sat,8,7,1,Accrington Stanley FC
+19,Sat Nov 23 2019,Fleetwood Town FC,02-Jan,Tranmere Rovers FC,2019,Nov,23,23/Nov/2019,Sat,3,2,1,Fleetwood Town FC
+5,Tue Nov 26 2019,Portsmouth FC,03-Feb,Rotherham United FC,2019,Nov,26,26/Nov/2019,Tue,5,3,2,Portsmouth FC
+7,Tue Nov 26 2019,Sunderland AFC,01-Feb,Burton Albion FC,2019,Nov,26,26/Nov/2019,Tue,3,1,2,Burton Albion FC
+13,Tue Nov 26 2019,Ipswich Town FC,0-0,Wycombe Wanderers FC,2019,Nov,26,26/Nov/2019,Tue,0,0,0,Draw
+18,Tue Dec 3 2019,Burton Albion FC,01-Jan,Southend United FC,2019,Dec,3,3/Dec/2019,Tue,2,1,1,Draw
+20,Sat Dec 7 2019,Gillingham FC,1-0,Sunderland AFC,2019,Dec,7,7/Dec/2019,Sat,1,1,0,Gillingham FC
+20,Sat Dec 7 2019,Portsmouth FC,02-Feb,Peterborough United FC,2019,Dec,7,7/Dec/2019,Sat,4,2,2,Draw
+20,Sat Dec 7 2019,Oxford United FC,0-0,Shrewsbury Town FC,2019,Dec,7,7/Dec/2019,Sat,0,0,0,Draw
+20,Sat Dec 7 2019,Doncaster Rovers FC,01-Jan,Milton Keynes Dons FC,2019,Dec,7,7/Dec/2019,Sat,2,1,1,Draw
+20,Sat Dec 7 2019,Blackpool FC,03-Jan,Fleetwood Town FC,2019,Dec,7,7/Dec/2019,Sat,4,3,1,Blackpool FC
+20,Sat Dec 7 2019,Coventry City FC,01-Jan,Ipswich Town FC,2019,Dec,7,7/Dec/2019,Sat,2,1,1,Draw
+20,Sat Dec 7 2019,Rotherham United FC,0-1,Rochdale AFC,2019,Dec,7,7/Dec/2019,Sat,1,0,1,Rochdale AFC
+20,Sat Dec 7 2019,Burton Albion FC,0-2,Lincoln City FC,2019,Dec,7,7/Dec/2019,Sat,2,0,2,Lincoln City FC
+20,Sat Dec 7 2019,Bolton Wanderers FC,02-Feb,AFC Wimbledon,2019,Dec,7,7/Dec/2019,Sat,4,2,2,Draw
+20,Sat Dec 7 2019,Bristol Rovers FC,04-Feb,Southend United FC,2019,Dec,7,7/Dec/2019,Sat,6,4,2,Bristol Rovers FC
+20,Sat Dec 7 2019,Tranmere Rovers FC,01-Jan,Accrington Stanley FC,2019,Dec,7,7/Dec/2019,Sat,2,1,1,Draw
+21,Sat Dec 14 2019,Milton Keynes Dons FC,1-0,Oxford United FC,2019,Dec,14,14/Dec/2019,Sat,1,1,0,Milton Keynes Dons FC
+21,Sat Dec 14 2019,Fleetwood Town FC,01-Jan,Gillingham FC,2019,Dec,14,14/Dec/2019,Sat,2,1,1,Draw
+21,Sat Dec 14 2019,Ipswich Town FC,01-Feb,Bristol Rovers FC,2019,Dec,14,14/Dec/2019,Sat,3,1,2,Bristol Rovers FC
+21,Sat Dec 14 2019,AFC Wimbledon,02-Jan,Doncaster Rovers FC,2019,Dec,14,14/Dec/2019,Sat,3,2,1,AFC Wimbledon
+21,Sat Dec 14 2019,Peterborough United FC,1-0,Bolton Wanderers FC,2019,Dec,14,14/Dec/2019,Sat,1,1,0,Peterborough United FC
+21,Sat Dec 14 2019,Shrewsbury Town FC,02-Jan,Coventry City FC,2019,Dec,14,14/Dec/2019,Sat,3,2,1,Shrewsbury Town FC
+21,Sat Dec 14 2019,Southend United FC,02-Feb,Rotherham United FC,2019,Dec,14,14/Dec/2019,Sat,4,2,2,Draw
+21,Sat Dec 14 2019,Sunderland AFC,01-Jan,Blackpool FC,2019,Dec,14,14/Dec/2019,Sat,2,1,1,Draw
+21,Sat Dec 14 2019,Wycombe Wanderers FC,2-0,Burton Albion FC,2019,Dec,14,14/Dec/2019,Sat,2,2,0,Wycombe Wanderers FC
+21,Sat Dec 14 2019,Accrington Stanley FC,04-Jan,Portsmouth FC,2019,Dec,14,14/Dec/2019,Sat,5,4,1,Accrington Stanley FC
+21,Sat Dec 14 2019,Lincoln City FC,1-0,Tranmere Rovers FC,2019,Dec,14,14/Dec/2019,Sat,1,1,0,Lincoln City FC
+22,Sat Dec 21 2019,Bolton Wanderers FC,03-Feb,Southend United FC,2019,Dec,21,21/Dec/2019,Sat,5,3,2,Bolton Wanderers FC
+22,Sat Dec 21 2019,Tranmere Rovers FC,1-0,AFC Wimbledon,2019,Dec,21,21/Dec/2019,Sat,1,1,0,Tranmere Rovers FC
+22,Sat Dec 21 2019,Rotherham United FC,02-Feb,Fleetwood Town FC,2019,Dec,21,21/Dec/2019,Sat,4,2,2,Draw
+22,Sat Dec 21 2019,Blackpool FC,0-1,Shrewsbury Town FC,2019,Dec,21,21/Dec/2019,Sat,1,0,1,Shrewsbury Town FC
+22,Sat Dec 21 2019,Oxford United FC,1-0,Wycombe Wanderers FC,2019,Dec,21,21/Dec/2019,Sat,1,1,0,Oxford United FC
+22,Sat Dec 21 2019,Doncaster Rovers FC,01-Jan,Accrington Stanley FC,2019,Dec,21,21/Dec/2019,Sat,2,1,1,Draw
+22,Sat Dec 21 2019,Coventry City FC,1-0,Lincoln City FC,2019,Dec,21,21/Dec/2019,Sat,1,1,0,Coventry City FC
+22,Sat Dec 21 2019,Burton Albion FC,03-Jan,Rochdale AFC,2019,Dec,21,21/Dec/2019,Sat,4,3,1,Burton Albion FC
+22,Sat Dec 21 2019,Bristol Rovers FC,0-0,Peterborough United FC,2019,Dec,21,21/Dec/2019,Sat,0,0,0,Draw
+22,Sat Dec 21 2019,Gillingham FC,03-Jan,Milton Keynes Dons FC,2019,Dec,21,21/Dec/2019,Sat,4,3,1,Gillingham FC
+22,Sat Dec 21 2019,Portsmouth FC,1-0,Ipswich Town FC,2019,Dec,21,21/Dec/2019,Sat,1,1,0,Portsmouth FC
+23,Thu Dec 26 2019,Ipswich Town FC,0-0,Gillingham FC,2019,Dec,26,26/Dec/2019,Thu,0,0,0,Draw
+23,Thu Dec 26 2019,Sunderland AFC,0-0,Bolton Wanderers FC,2019,Dec,26,26/Dec/2019,Thu,0,0,0,Draw
+23,Thu Dec 26 2019,Southend United FC,02-Feb,Milton Keynes Dons FC,2019,Dec,26,26/Dec/2019,Thu,4,2,2,Draw
+23,Thu Dec 26 2019,Shrewsbury Town FC,01-Feb,Rotherham United FC,2019,Dec,26,26/Dec/2019,Thu,3,1,2,Rotherham United FC
+23,Thu Dec 26 2019,Rochdale AFC,02-Mar,Fleetwood Town FC,2019,Dec,26,26/Dec/2019,Thu,5,2,3,Fleetwood Town FC
+23,Thu Dec 26 2019,Portsmouth FC,2-0,Wycombe Wanderers FC,2019,Dec,26,26/Dec/2019,Thu,2,2,0,Portsmouth FC
+23,Thu Dec 26 2019,Burton Albion FC,04-Feb,Tranmere Rovers FC,2019,Dec,26,26/Dec/2019,Thu,6,4,2,Burton Albion FC
+23,Thu Dec 26 2019,Peterborough United FC,0-3,Doncaster Rovers FC,2019,Dec,26,26/Dec/2019,Thu,3,0,3,Doncaster Rovers FC
+23,Thu Dec 26 2019,Oxford United FC,1-0,Lincoln City FC,2019,Dec,26,26/Dec/2019,Thu,1,1,0,Oxford United FC
+23,Thu Dec 26 2019,Blackpool FC,0-1,Accrington Stanley FC,2019,Dec,26,26/Dec/2019,Thu,1,0,1,Accrington Stanley FC
+23,Thu Dec 26 2019,Bristol Rovers FC,01-Feb,AFC Wimbledon,2019,Dec,26,26/Dec/2019,Thu,3,1,2,AFC Wimbledon
+24,Sun Dec 29 2019,Accrington Stanley FC,2-0,Burton Albion FC,2019,Dec,29,29/Dec/2019,Sun,2,2,0,Accrington Stanley FC
+24,Sun Dec 29 2019,Wycombe Wanderers FC,01-Apr,Coventry City FC,2019,Dec,29,29/Dec/2019,Sun,5,1,4,Coventry City FC
+24,Sun Dec 29 2019,Tranmere Rovers FC,01-Jan,Blackpool FC,2019,Dec,29,29/Dec/2019,Sun,2,1,1,Draw
+24,Sun Dec 29 2019,Rotherham United FC,4-0,Peterborough United FC,2019,Dec,29,29/Dec/2019,Sun,4,4,0,Rotherham United FC
+24,Sun Dec 29 2019,Milton Keynes Dons FC,03-Jan,Portsmouth FC,2019,Dec,29,29/Dec/2019,Sun,4,3,1,Milton Keynes Dons FC
+24,Sun Dec 29 2019,Lincoln City FC,05-Mar,Ipswich Town FC,2019,Dec,29,29/Dec/2019,Sun,8,5,3,Lincoln City FC
+24,Sun Dec 29 2019,Bolton Wanderers FC,01-Jan,Shrewsbury Town FC,2019,Dec,29,29/Dec/2019,Sun,2,1,1,Draw
+24,Sun Dec 29 2019,Fleetwood Town FC,0-0,Bristol Rovers FC,2019,Dec,29,29/Dec/2019,Sun,0,0,0,Draw
+24,Sun Dec 29 2019,Doncaster Rovers FC,01-Feb,Sunderland AFC,2019,Dec,29,29/Dec/2019,Sun,3,1,2,Sunderland AFC
+24,Sun Dec 29 2019,Gillingham FC,1-0,Rochdale AFC,2019,Dec,29,29/Dec/2019,Sun,1,1,0,Gillingham FC
+24,Sun Dec 29 2019,AFC Wimbledon,01-Feb,Oxford United FC,2019,Dec,29,29/Dec/2019,Sun,3,1,2,Oxford United FC
+25,Wed Jan 1 2020,Tranmere Rovers FC,01-Apr,Coventry City FC,2020,Jan,1,1/Jan/2020,Wed,5,1,4,Coventry City FC
+25,Wed Jan 1 2020,Doncaster Rovers FC,1-0,Oxford United FC,2020,Jan,1,1/Jan/2020,Wed,1,1,0,Doncaster Rovers FC
+25,Wed Jan 1 2020,Wycombe Wanderers FC,01-Jan,Ipswich Town FC,2020,Jan,1,1/Jan/2020,Wed,2,1,1,Draw
+25,Wed Jan 1 2020,Bolton Wanderers FC,03-Apr,Burton Albion FC,2020,Jan,1,1/Jan/2020,Wed,7,3,4,Burton Albion FC
+25,Wed Jan 1 2020,Rotherham United FC,02-Jan,Blackpool FC,2020,Jan,1,1/Jan/2020,Wed,3,2,1,Rotherham United FC
+25,Wed Jan 1 2020,Milton Keynes Dons FC,3-0,Bristol Rovers FC,2020,Jan,1,1/Jan/2020,Wed,3,3,0,Milton Keynes Dons FC
+25,Wed Jan 1 2020,Accrington Stanley FC,01-Feb,Rochdale AFC,2020,Jan,1,1/Jan/2020,Wed,3,1,2,Rochdale AFC
+25,Wed Jan 1 2020,Gillingham FC,01-Jan,Portsmouth FC,2020,Jan,1,1/Jan/2020,Wed,2,1,1,Draw
+25,Wed Jan 1 2020,Fleetwood Town FC,01-Jan,Sunderland AFC,2020,Jan,1,1/Jan/2020,Wed,2,1,1,Draw
+25,Wed Jan 1 2020,AFC Wimbledon,01-Jan,Southend United FC,2020,Jan,1,1/Jan/2020,Wed,2,1,1,Draw
+25,Wed Jan 1 2020,Lincoln City FC,02-Jan,Peterborough United FC,2020,Jan,1,1/Jan/2020,Wed,3,2,1,Lincoln City FC
+26,Sat Jan 4 2020,Sunderland AFC,03-Jan,Lincoln City FC,2020,Jan,4,4/Jan/2020,Sat,4,3,1,Sunderland AFC
+18,Tue Jan 7 2020,Doncaster Rovers FC,2-0,Shrewsbury Town FC,2020,Jan,7,7/Jan/2020,Tue,2,2,0,Doncaster Rovers FC
+27,Sat Jan 11 2020,Ipswich Town FC,04-Jan,Accrington Stanley FC,2020,Jan,11,11/Jan/2020,Sat,5,4,1,Ipswich Town FC
+27,Sat Jan 11 2020,Southend United FC,0-0,Tranmere Rovers FC,2020,Jan,11,11/Jan/2020,Sat,0,0,0,Draw
+27,Sat Jan 11 2020,Sunderland AFC,4-0,Wycombe Wanderers FC,2020,Jan,11,11/Jan/2020,Sat,4,4,0,Sunderland AFC
+27,Sat Jan 11 2020,Oxford United FC,01-Mar,Rotherham United FC,2020,Jan,11,11/Jan/2020,Sat,4,1,3,Rotherham United FC
+27,Sat Jan 11 2020,Coventry City FC,01-Jan,Milton Keynes Dons FC,2020,Jan,11,11/Jan/2020,Sat,2,1,1,Draw
+27,Sat Jan 11 2020,Peterborough United FC,0-0,Gillingham FC,2020,Jan,11,11/Jan/2020,Sat,0,0,0,Draw
+27,Sat Jan 11 2020,Burton Albion FC,1-0,Fleetwood Town FC,2020,Jan,11,11/Jan/2020,Sat,1,1,0,Burton Albion FC
+27,Sat Jan 11 2020,Bristol Rovers FC,0-2,Doncaster Rovers FC,2020,Jan,11,11/Jan/2020,Sat,2,0,2,Doncaster Rovers FC
+27,Sat Jan 11 2020,Rochdale AFC,2-0,Bolton Wanderers FC,2020,Jan,11,11/Jan/2020,Sat,2,2,0,Rochdale AFC
+27,Sat Jan 11 2020,Portsmouth FC,02-Jan,AFC Wimbledon,2020,Jan,11,11/Jan/2020,Sat,3,2,1,Portsmouth FC
+27,Sat Jan 11 2020,Shrewsbury Town FC,01-Jan,Lincoln City FC,2020,Jan,11,11/Jan/2020,Sat,2,1,1,Draw
+16,Tue Jan 14 2020,Lincoln City FC,05-Jan,Bolton Wanderers FC,2020,Jan,14,14/Jan/2020,Tue,6,5,1,Lincoln City FC
+18,Tue Jan 14 2020,Oxford United FC,0-0,Ipswich Town FC,2020,Jan,14,14/Jan/2020,Tue,0,0,0,Draw
+26,Tue Jan 14 2020,Burton Albion FC,1-0,Milton Keynes Dons FC,2020,Jan,14,14/Jan/2020,Tue,1,1,0,Burton Albion FC
+28,Sat Jan 18 2020,Milton Keynes Dons FC,0-1,Sunderland AFC,2020,Jan,18,18/Jan/2020,Sat,1,0,1,Sunderland AFC
+28,Sat Jan 18 2020,Lincoln City FC,1-0,Blackpool FC,2020,Jan,18,18/Jan/2020,Sat,1,1,0,Lincoln City FC
+28,Sat Jan 18 2020,Gillingham FC,01-Jan,Oxford United FC,2020,Jan,18,18/Jan/2020,Sat,2,1,1,Draw
+28,Sat Jan 18 2020,Fleetwood Town FC,02-Feb,Shrewsbury Town FC,2020,Jan,18,18/Jan/2020,Sat,4,2,2,Draw
+28,Sat Jan 18 2020,Accrington Stanley FC,01-Feb,Southend United FC,2020,Jan,18,18/Jan/2020,Sat,3,1,2,Southend United FC
+28,Sat Jan 18 2020,Rotherham United FC,3-0,Bristol Rovers FC,2020,Jan,18,18/Jan/2020,Sat,3,3,0,Rotherham United FC
+28,Sat Jan 18 2020,Bolton Wanderers FC,0-1,Portsmouth FC,2020,Jan,18,18/Jan/2020,Sat,1,0,1,Portsmouth FC
+28,Sat Jan 18 2020,AFC Wimbledon,1-0,Peterborough United FC,2020,Jan,18,18/Jan/2020,Sat,1,1,0,AFC Wimbledon
+28,Sat Jan 18 2020,Wycombe Wanderers FC,02-Jan,Rochdale AFC,2020,Jan,18,18/Jan/2020,Sat,3,2,1,Wycombe Wanderers FC
+28,Sat Jan 18 2020,Tranmere Rovers FC,01-Feb,Ipswich Town FC,2020,Jan,18,18/Jan/2020,Sat,3,1,2,Ipswich Town FC
+28,Sat Jan 18 2020,Doncaster Rovers FC,0-1,Coventry City FC,2020,Jan,18,18/Jan/2020,Sat,1,0,1,Coventry City FC
+26,Tue Jan 21 2020,Peterborough United FC,4-0,Wycombe Wanderers FC,2020,Jan,21,21/Jan/2020,Tue,4,4,0,Peterborough United FC
+29,Fri Jan 24 2020,Sunderland AFC,0-0,Doncaster Rovers FC,2020,Jan,24,24/Jan/2020,Fri,0,0,0,Draw
+29,Sat Jan 25 2020,Bristol Rovers FC,0-0,Fleetwood Town FC,2020,Jan,25,25/Jan/2020,Sat,0,0,0,Draw
+29,Sat Jan 25 2020,Burton Albion FC,01-Jan,Accrington Stanley FC,2020,Jan,25,25/Jan/2020,Sat,2,1,1,Draw
+29,Sat Jan 25 2020,Peterborough United FC,02-Jan,Rotherham United FC,2020,Jan,25,25/Jan/2020,Sat,3,2,1,Peterborough United FC
+29,Sat Jan 25 2020,Rochdale AFC,02-Feb,Gillingham FC,2020,Jan,25,25/Jan/2020,Sat,4,2,2,Draw
+29,Sat Jan 25 2020,Ipswich Town FC,1-0,Lincoln City FC,2020,Jan,25,25/Jan/2020,Sat,1,1,0,Ipswich Town FC
+30,Tue Jan 28 2020,Rotherham United FC,1-0,Ipswich Town FC,2020,Jan,28,28/Jan/2020,Tue,1,1,0,Rotherham United FC
+30,Tue Jan 28 2020,Accrington Stanley FC,0-2,Peterborough United FC,2020,Jan,28,28/Jan/2020,Tue,2,0,2,Peterborough United FC
+30,Tue Jan 28 2020,Wycombe Wanderers FC,02-Jan,Blackpool FC,2020,Jan,28,28/Jan/2020,Tue,3,2,1,Wycombe Wanderers FC
+30,Tue Jan 28 2020,AFC Wimbledon,02-Feb,Burton Albion FC,2020,Jan,28,28/Jan/2020,Tue,4,2,2,Draw
+30,Tue Jan 28 2020,Doncaster Rovers FC,03-Jan,Southend United FC,2020,Jan,28,28/Jan/2020,Tue,4,3,1,Doncaster Rovers FC
+30,Tue Jan 28 2020,Bolton Wanderers FC,01-Jan,Bristol Rovers FC,2020,Jan,28,28/Jan/2020,Tue,2,1,1,Draw
+30,Tue Jan 28 2020,Lincoln City FC,0-2,Portsmouth FC,2020,Jan,28,28/Jan/2020,Tue,2,0,2,Portsmouth FC
+30,Tue Jan 28 2020,Fleetwood Town FC,0-0,Coventry City FC,2020,Jan,28,28/Jan/2020,Tue,0,0,0,Draw
+30,Tue Jan 28 2020,Milton Keynes Dons FC,02-Jan,Rochdale AFC,2020,Jan,28,28/Jan/2020,Tue,3,2,1,Milton Keynes Dons FC
+30,Wed Jan 29 2020,Tranmere Rovers FC,0-1,Sunderland AFC,2020,Jan,29,29/Jan/2020,Wed,1,0,1,Sunderland AFC
+30,Wed Jan 29 2020,Gillingham FC,2-0,Shrewsbury Town FC,2020,Jan,29,29/Jan/2020,Wed,2,2,0,Gillingham FC
+31,Sat Feb 1 2020,Milton Keynes Dons FC,2-0,Wycombe Wanderers FC,2020,Feb,1,1/Feb/2020,Sat,2,2,0,Milton Keynes Dons FC
+31,Sat Feb 1 2020,Rotherham United FC,03-Feb,Burton Albion FC,2020,Feb,1,1/Feb/2020,Sat,5,3,2,Rotherham United FC
+31,Sat Feb 1 2020,Southend United FC,02-Jan,Lincoln City FC,2020,Feb,1,1/Feb/2020,Sat,3,2,1,Southend United FC
+31,Sat Feb 1 2020,Oxford United FC,02-Jan,Blackpool FC,2020,Feb,1,1/Feb/2020,Sat,3,2,1,Oxford United FC
+31,Sat Feb 1 2020,Portsmouth FC,2-0,Sunderland AFC,2020,Feb,1,1/Feb/2020,Sat,2,2,0,Portsmouth FC
+31,Sat Feb 1 2020,Ipswich Town FC,01-Apr,Peterborough United FC,2020,Feb,1,1/Feb/2020,Sat,5,1,4,Peterborough United FC
+31,Sat Feb 1 2020,Fleetwood Town FC,02-Jan,Doncaster Rovers FC,2020,Feb,1,1/Feb/2020,Sat,3,2,1,Fleetwood Town FC
+31,Sat Feb 1 2020,Bolton Wanderers FC,2-0,Tranmere Rovers FC,2020,Feb,1,1/Feb/2020,Sat,2,2,0,Bolton Wanderers FC
+31,Sat Feb 1 2020,Accrington Stanley FC,02-Jan,AFC Wimbledon,2020,Feb,1,1/Feb/2020,Sat,3,2,1,Accrington Stanley FC
+31,Sat Feb 1 2020,Rochdale AFC,1-0,Shrewsbury Town FC,2020,Feb,1,1/Feb/2020,Sat,1,1,0,Rochdale AFC
+31,Sat Feb 1 2020,Bristol Rovers FC,01-Feb,Coventry City FC,2020,Feb,1,1/Feb/2020,Sat,3,1,2,Coventry City FC
+16,Tue Feb 4 2020,Tranmere Rovers FC,0-3,Doncaster Rovers FC,2020,Feb,4,4/Feb/2020,Tue,3,0,3,Doncaster Rovers FC
+32,Fri Feb 7 2020,Lincoln City FC,0-1,Rotherham United FC,2020,Feb,7,7/Feb/2020,Fri,1,0,1,Rotherham United FC
+32,Sat Feb 8 2020,Peterborough United FC,4-0,Oxford United FC,2020,Feb,8,8/Feb/2020,Sat,4,4,0,Peterborough United FC
+32,Sat Feb 8 2020,Sunderland AFC,1-0,Ipswich Town FC,2020,Feb,8,8/Feb/2020,Sat,1,1,0,Sunderland AFC
+32,Sat Feb 8 2020,Shrewsbury Town FC,01-Jan,Milton Keynes Dons FC,2020,Feb,8,8/Feb/2020,Sat,2,1,1,Draw
+32,Sat Feb 8 2020,Tranmere Rovers FC,0-2,Portsmouth FC,2020,Feb,8,8/Feb/2020,Sat,2,0,2,Portsmouth FC
+32,Sat Feb 8 2020,Wycombe Wanderers FC,03-Jan,Bristol Rovers FC,2020,Feb,8,8/Feb/2020,Sat,4,3,1,Wycombe Wanderers FC
+32,Sat Feb 8 2020,Coventry City FC,02-Jan,Bolton Wanderers FC,2020,Feb,8,8/Feb/2020,Sat,3,2,1,Coventry City FC
+32,Sat Feb 8 2020,Burton Albion FC,0-0,Gillingham FC,2020,Feb,8,8/Feb/2020,Sat,0,0,0,Draw
+32,Sat Feb 8 2020,Blackpool FC,02-Jan,Southend United FC,2020,Feb,8,8/Feb/2020,Sat,3,2,1,Blackpool FC
+32,Sat Feb 8 2020,AFC Wimbledon,01-Feb,Fleetwood Town FC,2020,Feb,8,8/Feb/2020,Sat,3,1,2,Fleetwood Town FC
+32,Sat Feb 8 2020,Doncaster Rovers FC,01-Jan,Rochdale AFC,2020,Feb,8,8/Feb/2020,Sat,2,1,1,Draw
+33,Tue Feb 11 2020,Peterborough United FC,4-0,Southend United FC,2020,Feb,11,11/Feb/2020,Tue,4,4,0,Peterborough United FC
+33,Tue Feb 11 2020,Doncaster Rovers FC,02-Jan,Bolton Wanderers FC,2020,Feb,11,11/Feb/2020,Tue,3,2,1,Doncaster Rovers FC
+33,Tue Feb 11 2020,Coventry City FC,1-0,Portsmouth FC,2020,Feb,11,11/Feb/2020,Tue,1,1,0,Coventry City FC
+33,Tue Feb 11 2020,Burton Albion FC,02-Feb,Oxford United FC,2020,Feb,11,11/Feb/2020,Tue,4,2,2,Draw
+33,Tue Feb 11 2020,Wycombe Wanderers FC,0-1,Fleetwood Town FC,2020,Feb,11,11/Feb/2020,Tue,1,0,1,Fleetwood Town FC
+33,Tue Feb 11 2020,AFC Wimbledon,0-0,Ipswich Town FC,2020,Feb,11,11/Feb/2020,Tue,0,0,0,Draw
+33,Tue Feb 11 2020,Shrewsbury Town FC,0-2,Accrington Stanley FC,2020,Feb,11,11/Feb/2020,Tue,2,0,2,Accrington Stanley FC
+33,Tue Feb 11 2020,Sunderland AFC,3-0,Rochdale AFC,2020,Feb,11,11/Feb/2020,Tue,3,3,0,Sunderland AFC
+33,Tue Feb 11 2020,Lincoln City FC,01-Jan,Milton Keynes Dons FC,2020,Feb,11,11/Feb/2020,Tue,2,1,1,Draw
+33,Tue Feb 11 2020,Tranmere Rovers FC,0-0,Bristol Rovers FC,2020,Feb,11,11/Feb/2020,Tue,0,0,0,Draw
+33,Tue Feb 11 2020,Blackpool FC,02-Mar,Gillingham FC,2020,Feb,11,11/Feb/2020,Tue,5,2,3,Gillingham FC
+34,Sat Feb 15 2020,Accrington Stanley FC,04-Mar,Lincoln City FC,2020,Feb,15,15/Feb/2020,Sat,7,4,3,Accrington Stanley FC
+34,Sat Feb 15 2020,Bolton Wanderers FC,0-2,Wycombe Wanderers FC,2020,Feb,15,15/Feb/2020,Sat,2,0,2,Wycombe Wanderers FC
+34,Sat Feb 15 2020,Oxford United FC,0-1,Sunderland AFC,2020,Feb,15,15/Feb/2020,Sat,1,0,1,Sunderland AFC
+34,Sat Feb 15 2020,Bristol Rovers FC,02-Jan,Blackpool FC,2020,Feb,15,15/Feb/2020,Sat,3,2,1,Bristol Rovers FC
+34,Sat Feb 15 2020,Fleetwood Town FC,02-Jan,Peterborough United FC,2020,Feb,15,15/Feb/2020,Sat,3,2,1,Fleetwood Town FC
+34,Sat Feb 15 2020,Gillingham FC,02-Jan,Doncaster Rovers FC,2020,Feb,15,15/Feb/2020,Sat,3,2,1,Gillingham FC
+34,Sat Feb 15 2020,Portsmouth FC,2-0,Shrewsbury Town FC,2020,Feb,15,15/Feb/2020,Sat,2,2,0,Portsmouth FC
+34,Sat Feb 15 2020,Southend United FC,0-2,Coventry City FC,2020,Feb,15,15/Feb/2020,Sat,2,0,2,Coventry City FC
+34,Sat Feb 15 2020,Rotherham United FC,02-Feb,AFC Wimbledon,2020,Feb,15,15/Feb/2020,Sat,4,2,2,Draw
+34,Sat Feb 15 2020,Ipswich Town FC,04-Jan,Burton Albion FC,2020,Feb,15,15/Feb/2020,Sat,5,4,1,Ipswich Town FC
+26,Tue Feb 18 2020,Southend United FC,0-1,Gillingham FC,2020,Feb,18,18/Feb/2020,Tue,1,0,1,Gillingham FC
+29,Tue Feb 18 2020,Oxford United FC,5-0,AFC Wimbledon,2020,Feb,18,18/Feb/2020,Tue,5,5,0,Oxford United FC
+35,Sat Feb 22 2020,Shrewsbury Town FC,1-0,Doncaster Rovers FC,2020,Feb,22,22/Feb/2020,Sat,1,1,0,Shrewsbury Town FC
+35,Sat Feb 22 2020,Ipswich Town FC,0-1,Oxford United FC,2020,Feb,22,22/Feb/2020,Sat,1,0,1,Oxford United FC
+35,Sat Feb 22 2020,Sunderland AFC,3-0,Bristol Rovers FC,2020,Feb,22,22/Feb/2020,Sat,3,3,0,Sunderland AFC
+35,Sat Feb 22 2020,Southend United FC,02-Mar,Burton Albion FC,2020,Feb,22,22/Feb/2020,Sat,5,2,3,Burton Albion FC
+35,Sat Feb 22 2020,Rochdale AFC,01-Feb,Coventry City FC,2020,Feb,22,22/Feb/2020,Sat,3,1,2,Coventry City FC
+35,Sat Feb 22 2020,Milton Keynes Dons FC,1-0,Bolton Wanderers FC,2020,Feb,22,22/Feb/2020,Sat,1,1,0,Milton Keynes Dons FC
+35,Sat Feb 22 2020,Wycombe Wanderers FC,03-Jan,Tranmere Rovers FC,2020,Feb,22,22/Feb/2020,Sat,4,3,1,Wycombe Wanderers FC
+35,Sat Feb 22 2020,Fleetwood Town FC,1-0,Portsmouth FC,2020,Feb,22,22/Feb/2020,Sat,1,1,0,Fleetwood Town FC
+35,Sat Feb 22 2020,Accrington Stanley FC,01-Feb,Rotherham United FC,2020,Feb,22,22/Feb/2020,Sat,3,1,2,Rotherham United FC
+35,Sat Feb 22 2020,AFC Wimbledon,0-0,Blackpool FC,2020,Feb,22,22/Feb/2020,Sat,0,0,0,Draw
+35,Sat Feb 22 2020,Lincoln City FC,0-0,Gillingham FC,2020,Feb,22,22/Feb/2020,Sat,0,0,0,Draw
+13,Tue Feb 25 2020,Sunderland AFC,01-Jan,Fleetwood Town FC,2020,Feb,25,25/Feb/2020,Tue,2,1,1,Draw
+26,Tue Feb 25 2020,Oxford United FC,3-0,Accrington Stanley FC,2020,Feb,25,25/Feb/2020,Tue,3,3,0,Oxford United FC
+26,Tue Feb 25 2020,Shrewsbury Town FC,02-Mar,Tranmere Rovers FC,2020,Feb,25,25/Feb/2020,Tue,5,2,3,Tranmere Rovers FC
+26,Tue Feb 25 2020,Coventry City FC,01-Jan,Rotherham United FC,2020,Feb,25,25/Feb/2020,Tue,2,1,1,Draw
+26,Tue Feb 25 2020,Blackpool FC,02-Jan,Bolton Wanderers FC,2020,Feb,25,25/Feb/2020,Tue,3,2,1,Blackpool FC
+29,Tue Feb 25 2020,Portsmouth FC,03-Jan,Milton Keynes Dons FC,2020,Feb,25,25/Feb/2020,Tue,4,3,1,Portsmouth FC
+36,Fri Feb 28 2020,Portsmouth FC,3-0,Rochdale AFC,2020,Feb,28,28/Feb/2020,Fri,3,3,0,Portsmouth FC
+36,Sat Feb 29 2020,Blackpool FC,02-Jan,Ipswich Town FC,2020,Feb,29,29/Feb/2020,Sat,3,2,1,Blackpool FC
+36,Sat Feb 29 2020,Rotherham United FC,01-Jan,Milton Keynes Dons FC,2020,Feb,29,29/Feb/2020,Sat,2,1,1,Draw
+36,Sat Feb 29 2020,Gillingham FC,01-Feb,AFC Wimbledon,2020,Feb,29,29/Feb/2020,Sat,3,1,2,AFC Wimbledon
+36,Sat Feb 29 2020,Bristol Rovers FC,0-1,Shrewsbury Town FC,2020,Feb,29,29/Feb/2020,Sat,1,0,1,Shrewsbury Town FC
+36,Sat Feb 29 2020,Oxford United FC,02-Jan,Southend United FC,2020,Feb,29,29/Feb/2020,Sat,3,2,1,Oxford United FC
+36,Sat Feb 29 2020,Burton Albion FC,01-Jan,Peterborough United FC,2020,Feb,29,29/Feb/2020,Sat,2,1,1,Draw
+36,Sat Feb 29 2020,Doncaster Rovers FC,03-Jan,Wycombe Wanderers FC,2020,Feb,29,29/Feb/2020,Sat,4,3,1,Doncaster Rovers FC
+36,Sat Feb 29 2020,Bolton Wanderers FC,0-0,Accrington Stanley FC,2020,Feb,29,29/Feb/2020,Sat,0,0,0,Draw
+36,Sun Mar 1 2020,Coventry City FC,1-0,Sunderland AFC,2020,Mar,1,1/Mar/2020,Sun,1,1,0,Coventry City FC
+26,Tue Mar 3 2020,Ipswich Town FC,0-1,Fleetwood Town FC,2020,Mar,3,3/Mar/2020,Tue,1,0,1,Fleetwood Town FC
+37,Sat Mar 7 2020,Southend United FC,03-Jan,Bristol Rovers FC,2020,Mar,7,7/Mar/2020,Sat,4,3,1,Southend United FC
+37,Sat Mar 7 2020,Accrington Stanley FC,01-Feb,Tranmere Rovers FC,2020,Mar,7,7/Mar/2020,Sat,3,1,2,Tranmere Rovers FC
+37,Sat Mar 7 2020,Fleetwood Town FC,0-0,Blackpool FC,2020,Mar,7,7/Mar/2020,Sat,0,0,0,Draw
+37,Sat Mar 7 2020,Sunderland AFC,02-Feb,Gillingham FC,2020,Mar,7,7/Mar/2020,Sat,4,2,2,Draw
+37,Sat Mar 7 2020,Ipswich Town FC,0-1,Coventry City FC,2020,Mar,7,7/Mar/2020,Sat,1,0,1,Coventry City FC
+37,Sat Mar 7 2020,AFC Wimbledon,0-0,Bolton Wanderers FC,2020,Mar,7,7/Mar/2020,Sat,0,0,0,Draw
+37,Sat Mar 7 2020,Rochdale AFC,03-Jan,Rotherham United FC,2020,Mar,7,7/Mar/2020,Sat,4,3,1,Rochdale AFC
+37,Sat Mar 7 2020,Peterborough United FC,2-0,Portsmouth FC,2020,Mar,7,7/Mar/2020,Sat,2,2,0,Peterborough United FC
+37,Sat Mar 7 2020,Milton Keynes Dons FC,0-1,Doncaster Rovers FC,2020,Mar,7,7/Mar/2020,Sat,1,0,1,Doncaster Rovers FC
+37,Sat Mar 7 2020,Lincoln City FC,03-Feb,Burton Albion FC,2020,Mar,7,7/Mar/2020,Sat,5,3,2,Lincoln City FC
+37,Sat Mar 7 2020,Shrewsbury Town FC,02-Mar,Oxford United FC,2020,Mar,7,7/Mar/2020,Sat,5,2,3,Oxford United FC
+13,Tue Mar 10 2020,Burton Albion FC,02-Feb,Bolton Wanderers FC,2020,Mar,10,10/Mar/2020,Tue,4,2,2,Draw
+18,Tue Mar 10 2020,Bristol Rovers FC,2-0,Sunderland AFC,2020,Mar,10,10/Mar/2020,Tue,2,2,0,Bristol Rovers FC
+18,Tue Mar 10 2020,Portsmouth FC,02-Feb,Fleetwood Town FC,2020,Mar,10,10/Mar/2020,Tue,4,2,2,Draw
+29,Tue Mar 10 2020,Blackpool FC,01-Feb,Tranmere Rovers FC,2020,Mar,10,10/Mar/2020,Tue,3,1,2,Tranmere Rovers FC
+38,Sat Mar 14 2020,Gillingham FC,,Fleetwood Town FC,2020,Mar,14,14/Mar/2020,Sat,1,0,1,Fleetwood Town FC
+38,Sat Mar 14 2020,Tranmere Rovers FC,,Lincoln City FC,2020,Mar,14,14/Mar/2020,Sat,1,0,1,Lincoln City FC
+38,Sat Mar 14 2020,Oxford United FC,,Milton Keynes Dons FC,2020,Mar,14,14/Mar/2020,Sat,1,0,1,Milton Keynes Dons FC
+38,Sat Mar 14 2020,Blackpool FC,,Sunderland AFC,2020,Mar,14,14/Mar/2020,Sat,1,0,1,Sunderland AFC
+38,Sat Mar 14 2020,Rotherham United FC,,Southend United FC,2020,Mar,14,14/Mar/2020,Sat,1,0,1,Southend United FC
+38,Sat Mar 14 2020,Portsmouth FC,,Accrington Stanley FC,2020,Mar,14,14/Mar/2020,Sat,1,0,1,Accrington Stanley FC
+38,Sat Mar 14 2020,Coventry City FC,,Shrewsbury Town FC,2020,Mar,14,14/Mar/2020,Sat,1,0,1,Shrewsbury Town FC
+38,Sat Mar 14 2020,Burton Albion FC,,Wycombe Wanderers FC,2020,Mar,14,14/Mar/2020,Sat,1,0,1,Wycombe Wanderers FC
+38,Sat Mar 14 2020,Bolton Wanderers FC,,Peterborough United FC,2020,Mar,14,14/Mar/2020,Sat,1,0,1,Peterborough United FC
+38,Sat Mar 14 2020,Bristol Rovers FC,,Ipswich Town FC,2020,Mar,14,14/Mar/2020,Sat,1,0,1,Ipswich Town FC
+38,Sat Mar 14 2020,Doncaster Rovers FC,,AFC Wimbledon,2020,Mar,14,14/Mar/2020,Sat,1,0,1,AFC Wimbledon
+26,Tue Mar 17 2020,Portsmouth FC,,Doncaster Rovers FC,2020,Mar,17,17/Mar/2020,Tue,1,0,1,Doncaster Rovers FC
+34,Tue Mar 17 2020,Rochdale AFC,,Tranmere Rovers FC,2020,Mar,17,17/Mar/2020,Tue,1,0,1,Tranmere Rovers FC
+39,Sat Mar 21 2020,Shrewsbury Town FC,,Blackpool FC,2020,Mar,21,21/Mar/2020,Sat,1,0,1,Blackpool FC
+39,Sat Mar 21 2020,Rochdale AFC,,Burton Albion FC,2020,Mar,21,21/Mar/2020,Sat,1,0,1,Burton Albion FC
+39,Sat Mar 21 2020,Milton Keynes Dons FC,,Gillingham FC,2020,Mar,21,21/Mar/2020,Sat,1,0,1,Gillingham FC
+39,Sat Mar 21 2020,Southend United FC,,Bolton Wanderers FC,2020,Mar,21,21/Mar/2020,Sat,1,0,1,Bolton Wanderers FC
+39,Sat Mar 21 2020,Lincoln City FC,,Coventry City FC,2020,Mar,21,21/Mar/2020,Sat,1,0,1,Coventry City FC
+39,Sat Mar 21 2020,AFC Wimbledon,,Tranmere Rovers FC,2020,Mar,21,21/Mar/2020,Sat,1,0,1,Tranmere Rovers FC
+39,Sat Mar 21 2020,Accrington Stanley FC,,Doncaster Rovers FC,2020,Mar,21,21/Mar/2020,Sat,1,0,1,Doncaster Rovers FC
+39,Sat Mar 21 2020,Fleetwood Town FC,,Rotherham United FC,2020,Mar,21,21/Mar/2020,Sat,1,0,1,Rotherham United FC
+39,Sat Mar 21 2020,Ipswich Town FC,,Portsmouth FC,2020,Mar,21,21/Mar/2020,Sat,1,0,1,Portsmouth FC
+39,Sat Mar 21 2020,Peterborough United FC,,Bristol Rovers FC,2020,Mar,21,21/Mar/2020,Sat,1,0,1,Bristol Rovers FC
+39,Sat Mar 21 2020,Wycombe Wanderers FC,,Oxford United FC,2020,Mar,21,21/Mar/2020,Sat,1,0,1,Oxford United FC
+4,Tue Mar 24 2020,Bolton Wanderers FC,,Doncaster Rovers FC,2020,Mar,24,24/Mar/2020,Tue,1,0,1,Doncaster Rovers FC
+26,Tue Mar 24 2020,Rochdale AFC,,AFC Wimbledon,2020,Mar,24,24/Mar/2020,Tue,1,0,1,AFC Wimbledon
+29,Tue Mar 24 2020,Coventry City FC,,Wycombe Wanderers FC,2020,Mar,24,24/Mar/2020,Tue,1,0,1,Wycombe Wanderers FC
+40,Sat Mar 28 2020,Accrington Stanley FC,,Coventry City FC,2020,Mar,28,28/Mar/2020,Sat,1,0,1,Coventry City FC
+40,Sat Mar 28 2020,Tranmere Rovers FC,,Milton Keynes Dons FC,2020,Mar,28,28/Mar/2020,Sat,1,0,1,Milton Keynes Dons FC
+40,Sat Mar 28 2020,Bristol Rovers FC,,Rochdale AFC,2020,Mar,28,28/Mar/2020,Sat,1,0,1,Rochdale AFC
+40,Sat Mar 28 2020,Southend United FC,,Sunderland AFC,2020,Mar,28,28/Mar/2020,Sat,1,0,1,Sunderland AFC
+40,Sat Mar 28 2020,Burton Albion FC,,Doncaster Rovers FC,2020,Mar,28,28/Mar/2020,Sat,1,0,1,Doncaster Rovers FC
+40,Sat Mar 28 2020,Fleetwood Town FC,,Bolton Wanderers FC,2020,Mar,28,28/Mar/2020,Sat,1,0,1,Bolton Wanderers FC
+40,Sat Mar 28 2020,Lincoln City FC,,AFC Wimbledon,2020,Mar,28,28/Mar/2020,Sat,1,0,1,AFC Wimbledon
+40,Sat Mar 28 2020,Oxford United FC,,Portsmouth FC,2020,Mar,28,28/Mar/2020,Sat,1,0,1,Portsmouth FC
+40,Sat Mar 28 2020,Shrewsbury Town FC,,Wycombe Wanderers FC,2020,Mar,28,28/Mar/2020,Sat,1,0,1,Wycombe Wanderers FC
+40,Sun Mar 29 2020,Rotherham United FC,,Gillingham FC,2020,Mar,29,29/Mar/2020,Sun,1,0,1,Gillingham FC
+40,Sun Mar 29 2020,Peterborough United FC,,Blackpool FC,2020,Mar,29,29/Mar/2020,Sun,1,0,1,Blackpool FC
+41,Sat Apr 4 2020,Bolton Wanderers FC,,Lincoln City FC,2020,Apr,4,4/Apr/2020,Sat,1,0,1,Lincoln City FC
+41,Sat Apr 4 2020,Sunderland AFC,,Shrewsbury Town FC,2020,Apr,4,4/Apr/2020,Sat,1,0,1,Shrewsbury Town FC
+41,Sat Apr 4 2020,Blackpool FC,,Burton Albion FC,2020,Apr,4,4/Apr/2020,Sat,1,0,1,Burton Albion FC
+41,Sat Apr 4 2020,Coventry City FC,,Peterborough United FC,2020,Apr,4,4/Apr/2020,Sat,1,0,1,Peterborough United FC
+41,Sat Apr 4 2020,Wycombe Wanderers FC,,Rotherham United FC,2020,Apr,4,4/Apr/2020,Sat,1,0,1,Rotherham United FC
+41,Sat Apr 4 2020,Doncaster Rovers FC,,Tranmere Rovers FC,2020,Apr,4,4/Apr/2020,Sat,1,0,1,Tranmere Rovers FC
+41,Sat Apr 4 2020,Rochdale AFC,,Oxford United FC,2020,Apr,4,4/Apr/2020,Sat,1,0,1,Oxford United FC
+41,Sat Apr 4 2020,Ipswich Town FC,,Southend United FC,2020,Apr,4,4/Apr/2020,Sat,1,0,1,Southend United FC
+41,Sat Apr 4 2020,Milton Keynes Dons FC,,Fleetwood Town FC,2020,Apr,4,4/Apr/2020,Sat,1,0,1,Fleetwood Town FC
+41,Sat Apr 4 2020,Gillingham FC,,Accrington Stanley FC,2020,Apr,4,4/Apr/2020,Sat,1,0,1,Accrington Stanley FC
+42,Fri Apr 10 2020,AFC Wimbledon,,Sunderland AFC,2020,Apr,10,10/Apr/2020,Fri,1,0,1,Sunderland AFC
+42,Fri Apr 10 2020,Peterborough United FC,,Milton Keynes Dons FC,2020,Apr,10,10/Apr/2020,Fri,1,0,1,Milton Keynes Dons FC
+42,Fri Apr 10 2020,Southend United FC,,Wycombe Wanderers FC,2020,Apr,10,10/Apr/2020,Fri,1,0,1,Wycombe Wanderers FC
+42,Fri Apr 10 2020,Rotherham United FC,,Portsmouth FC,2020,Apr,10,10/Apr/2020,Fri,1,0,1,Portsmouth FC
+42,Fri Apr 10 2020,Accrington Stanley FC,,Fleetwood Town FC,2020,Apr,10,10/Apr/2020,Fri,1,0,1,Fleetwood Town FC
+42,Fri Apr 10 2020,Blackpool FC,,Rochdale AFC,2020,Apr,10,10/Apr/2020,Fri,1,0,1,Rochdale AFC
+42,Fri Apr 10 2020,Burton Albion FC,,Shrewsbury Town FC,2020,Apr,10,10/Apr/2020,Fri,1,0,1,Shrewsbury Town FC
+42,Fri Apr 10 2020,Gillingham FC,,Coventry City FC,2020,Apr,10,10/Apr/2020,Fri,1,0,1,Coventry City FC
+42,Fri Apr 10 2020,Ipswich Town FC,,Bolton Wanderers FC,2020,Apr,10,10/Apr/2020,Fri,1,0,1,Bolton Wanderers FC
+42,Fri Apr 10 2020,Lincoln City FC,,Doncaster Rovers FC,2020,Apr,10,10/Apr/2020,Fri,1,0,1,Doncaster Rovers FC
+42,Fri Apr 10 2020,Oxford United FC,,Bristol Rovers FC,2020,Apr,10,10/Apr/2020,Fri,1,0,1,Bristol Rovers FC
+43,Mon Apr 13 2020,Milton Keynes Dons FC,,Accrington Stanley FC,2020,Apr,13,13/Apr/2020,Mon,1,0,1,Accrington Stanley FC
+43,Mon Apr 13 2020,Wycombe Wanderers FC,,AFC Wimbledon,2020,Apr,13,13/Apr/2020,Mon,1,0,1,AFC Wimbledon
+43,Mon Apr 13 2020,Sunderland AFC,,Peterborough United FC,2020,Apr,13,13/Apr/2020,Mon,1,0,1,Peterborough United FC
+43,Mon Apr 13 2020,Bristol Rovers FC,,Burton Albion FC,2020,Apr,13,13/Apr/2020,Mon,1,0,1,Burton Albion FC
+43,Mon Apr 13 2020,Coventry City FC,,Oxford United FC,2020,Apr,13,13/Apr/2020,Mon,1,0,1,Oxford United FC
+43,Mon Apr 13 2020,Tranmere Rovers FC,,Rotherham United FC,2020,Apr,13,13/Apr/2020,Mon,1,0,1,Rotherham United FC
+43,Mon Apr 13 2020,Shrewsbury Town FC,,Ipswich Town FC,2020,Apr,13,13/Apr/2020,Mon,1,0,1,Ipswich Town FC
+43,Mon Apr 13 2020,Portsmouth FC,,Blackpool FC,2020,Apr,13,13/Apr/2020,Mon,1,0,1,Blackpool FC
+43,Mon Apr 13 2020,Rochdale AFC,,Southend United FC,2020,Apr,13,13/Apr/2020,Mon,1,0,1,Southend United FC
+43,Mon Apr 13 2020,Fleetwood Town FC,,Lincoln City FC,2020,Apr,13,13/Apr/2020,Mon,1,0,1,Lincoln City FC
+43,Tue Apr 14 2020,Bolton Wanderers FC,,Gillingham FC,2020,Apr,14,14/Apr/2020,Tue,1,0,1,Gillingham FC
+44,Sat Apr 18 2020,Accrington Stanley FC,,Bristol Rovers FC,2020,Apr,18,18/Apr/2020,Sat,1,0,1,Bristol Rovers FC
+44,Sat Apr 18 2020,Peterborough United FC,,Shrewsbury Town FC,2020,Apr,18,18/Apr/2020,Sat,1,0,1,Shrewsbury Town FC
+44,Sat Apr 18 2020,Rotherham United FC,,Doncaster Rovers FC,2020,Apr,18,18/Apr/2020,Sat,1,0,1,Doncaster Rovers FC
+44,Sat Apr 18 2020,AFC Wimbledon,,Milton Keynes Dons FC,2020,Apr,18,18/Apr/2020,Sat,1,0,1,Milton Keynes Dons FC
+44,Sat Apr 18 2020,Southend United FC,,Portsmouth FC,2020,Apr,18,18/Apr/2020,Sat,1,0,1,Portsmouth FC
+44,Sat Apr 18 2020,Blackpool FC,,Coventry City FC,2020,Apr,18,18/Apr/2020,Sat,1,0,1,Coventry City FC
+44,Sat Apr 18 2020,Burton Albion FC,,Sunderland AFC,2020,Apr,18,18/Apr/2020,Sat,1,0,1,Sunderland AFC
+44,Sat Apr 18 2020,Oxford United FC,,Fleetwood Town FC,2020,Apr,18,18/Apr/2020,Sat,1,0,1,Fleetwood Town FC
+44,Sat Apr 18 2020,Ipswich Town FC,,Rochdale AFC,2020,Apr,18,18/Apr/2020,Sat,1,0,1,Rochdale AFC
+44,Sat Apr 18 2020,Lincoln City FC,,Wycombe Wanderers FC,2020,Apr,18,18/Apr/2020,Sat,1,0,1,Wycombe Wanderers FC
+44,Sat Apr 18 2020,Gillingham FC,,Tranmere Rovers FC,2020,Apr,18,18/Apr/2020,Sat,1,0,1,Tranmere Rovers FC
+29,Tue Apr 21 2020,Shrewsbury Town FC,,Bolton Wanderers FC,2020,Apr,21,21/Apr/2020,Tue,1,0,1,Bolton Wanderers FC
+36,Tue Apr 21 2020,Tranmere Rovers FC,,Fleetwood Town FC,2020,Apr,21,21/Apr/2020,Tue,1,0,1,Fleetwood Town FC
+41,Tue Apr 21 2020,Portsmouth FC,,Bristol Rovers FC,2020,Apr,21,21/Apr/2020,Tue,1,0,1,Bristol Rovers FC
+45,Sat Apr 25 2020,Doncaster Rovers FC,,Ipswich Town FC,2020,Apr,25,25/Apr/2020,Sat,1,0,1,Ipswich Town FC
+45,Sat Apr 25 2020,Bristol Rovers FC,,Lincoln City FC,2020,Apr,25,25/Apr/2020,Sat,1,0,1,Lincoln City FC
+45,Sat Apr 25 2020,Coventry City FC,,Burton Albion FC,2020,Apr,25,25/Apr/2020,Sat,1,0,1,Burton Albion FC
+45,Sat Apr 25 2020,Fleetwood Town FC,,Southend United FC,2020,Apr,25,25/Apr/2020,Sat,1,0,1,Southend United FC
+45,Sat Apr 25 2020,Bolton Wanderers FC,,Rotherham United FC,2020,Apr,25,25/Apr/2020,Sat,1,0,1,Rotherham United FC
+45,Sat Apr 25 2020,Milton Keynes Dons FC,,Blackpool FC,2020,Apr,25,25/Apr/2020,Sat,1,0,1,Blackpool FC
+45,Sat Apr 25 2020,Rochdale AFC,,Peterborough United FC,2020,Apr,25,25/Apr/2020,Sat,1,0,1,Peterborough United FC
+45,Sat Apr 25 2020,Shrewsbury Town FC,,AFC Wimbledon,2020,Apr,25,25/Apr/2020,Sat,1,0,1,AFC Wimbledon
+45,Sat Apr 25 2020,Sunderland AFC,,Accrington Stanley FC,2020,Apr,25,25/Apr/2020,Sat,1,0,1,Accrington Stanley FC
+45,Sat Apr 25 2020,Wycombe Wanderers FC,,Gillingham FC,2020,Apr,25,25/Apr/2020,Sat,1,0,1,Gillingham FC
+45,Sat Apr 25 2020,Tranmere Rovers FC,,Oxford United FC,2020,Apr,25,25/Apr/2020,Sat,1,0,1,Oxford United FC
+46,Sun May 3 2020,AFC Wimbledon,,Coventry City FC,2020,May,3,3/May/2020,Sun,1,0,1,Coventry City FC
+46,Sun May 3 2020,Accrington Stanley FC,,Wycombe Wanderers FC,2020,May,3,3/May/2020,Sun,1,0,1,Wycombe Wanderers FC
+46,Sun May 3 2020,Blackpool FC,,Doncaster Rovers FC,2020,May,3,3/May/2020,Sun,1,0,1,Doncaster Rovers FC
+46,Sun May 3 2020,Burton Albion FC,,Portsmouth FC,2020,May,3,3/May/2020,Sun,1,0,1,Portsmouth FC
+46,Sun May 3 2020,Gillingham FC,,Bristol Rovers FC,2020,May,3,3/May/2020,Sun,1,0,1,Bristol Rovers FC
+46,Sun May 3 2020,Ipswich Town FC,,Milton Keynes Dons FC,2020,May,3,3/May/2020,Sun,1,0,1,Milton Keynes Dons FC
+46,Sun May 3 2020,Lincoln City FC,,Rochdale AFC,2020,May,3,3/May/2020,Sun,1,0,1,Rochdale AFC
+46,Sun May 3 2020,Oxford United FC,,Bolton Wanderers FC,2020,May,3,3/May/2020,Sun,1,0,1,Bolton Wanderers FC
+46,Sun May 3 2020,Peterborough United FC,,Tranmere Rovers FC,2020,May,3,3/May/2020,Sun,1,0,1,Tranmere Rovers FC
+46,Sun May 3 2020,Rotherham United FC,,Sunderland AFC,2020,May,3,3/May/2020,Sun,1,0,1,Sunderland AFC
+46,Sun May 3 2020,Southend United FC,,Shrewsbury Town FC,2020,May,3,3/May/2020,Sun,1,0,1,Shrewsbury Town FC

@@ -1,0 +1,49 @@
+Round,Date,Team 1,FT,Team 2,Year,Month,Day,Date,DayOfWeek,Total Goals,Team 1 Goals,Team 2 Goals,Result
+1,Fri Aug 28 2020,Wolfsberger AC,02-Feb,SC Neusiedl am See,2020,Aug,28,28/Aug/2020,Fri,4,2,2,Draw
+1,Fri Aug 28 2020,WSC Hertha Wels,0-3,FC Admira Wacker Mödling,2020,Aug,28,28/Aug/2020,Fri,3,0,3,FC Admira Wacker Mödling
+1,Fri Aug 28 2020,Austria Klagenfurt,07-Jan,ATSV Stadl-Paura,2020,Aug,28,28/Aug/2020,Fri,8,7,1,Austria Klagenfurt
+1,Fri Aug 28 2020,SV Grödig,01-Feb,SKU Amstetten,2020,Aug,28,28/Aug/2020,Fri,3,1,2,SKU Amstetten
+1,Fri Aug 28 2020,SK Treibach,01-Feb,SV Horn,2020,Aug,28,28/Aug/2020,Fri,3,1,2,SV Horn
+1,Fri Aug 28 2020,FC Gleisdorf 09,01-Jan,SV Ried,2020,Aug,28,28/Aug/2020,Fri,2,1,1,Draw
+1,Fri Aug 28 2020,First Vienna FC,4-0,FC Marchfeld,2020,Aug,28,28/Aug/2020,Fri,4,4,0,First Vienna FC
+1,Fri Aug 28 2020,SV Wörgl,04-Feb,Union Vöcklamarkt,2020,Aug,28,28/Aug/2020,Fri,6,4,2,SV Wörgl
+1,Fri Aug 28 2020,Kapfenberger SV,05-Jan,FC Liefering,2020,Aug,28,28/Aug/2020,Fri,6,5,1,Kapfenberger SV
+1,Fri Aug 28 2020,SK Sturm Graz,8-0,SV Innsbruck,2020,Aug,28,28/Aug/2020,Fri,8,8,0,SK Sturm Graz
+1,Sat Aug 29 2020,ATSV Wolfsberg,01-Mar,SKN St. Pölten,2020,Aug,29,29/Aug/2020,Sat,4,1,3,SKN St. Pölten
+1,Sat Aug 29 2020,FC Dornbirn 1913,01-Mar,USV Allerheiligen,2020,Aug,29,29/Aug/2020,Sat,4,1,3,USV Allerheiligen
+1,Sat Aug 29 2020,Floridsdorfer AC,3-0,ASV Draßburg,2020,Aug,29,29/Aug/2020,Sat,3,3,0,Floridsdorfer AC
+1,Sat Aug 29 2020,ASV Schrems,01-Mar,FC Wacker Innsbruck,2020,Aug,29,29/Aug/2020,Sat,4,1,3,FC Wacker Innsbruck
+1,Sat Aug 29 2020,Austria Lustenau,01-Feb,SV Stripfing,2020,Aug,29,29/Aug/2020,Sat,3,1,2,SV Stripfing
+1,Sat Aug 29 2020,TuS Bad Gleichenberg,0-0,SV Lafnitz,2020,Aug,29,29/Aug/2020,Sat,0,0,0,Draw
+1,Sat Aug 29 2020,WSG Tirol,03-Jan,USV St. Anna,2020,Aug,29,29/Aug/2020,Sat,4,3,1,WSG Tirol
+1,Sat Aug 29 2020,ASV Siegendorf,0-3,LASK Linz,2020,Aug,29,29/Aug/2020,Sat,3,0,3,LASK Linz
+1,Sun Aug 30 2020,Dornbirner SV,0-7,TSV Hartberg,2020,Aug,30,30/Aug/2020,Sun,7,0,7,TSV Hartberg
+1,Sun Aug 30 2020,FK Austria Wien,5-0,SC Retz,2020,Aug,30,30/Aug/2020,Sun,5,5,0,FK Austria Wien
+1,Sun Aug 30 2020,SK Rapid Wien,5-0,TSV St. Johann,2020,Aug,30,30/Aug/2020,Sun,5,5,0,SK Rapid Wien
+1,Sun Aug 30 2020,Grazer AK,0-1,SV Seekirchen,2020,Aug,30,30/Aug/2020,Sun,1,0,1,SV Seekirchen
+1,Sun Aug 30 2020,FC Blau-Weiß Linz,05-Jan,SC Team Wiener Linien,2020,Aug,30,30/Aug/2020,Sun,6,5,1,FC Blau-Weiß Linz
+1,Tue Sep 8 2020,FC Deutschkreutz,0-3,1. Wiener Neustädter SC,2020,Sep,8,8/Sep/2020,Tue,3,0,3,1. Wiener Neustädter SC
+1,Wed Sep 9 2020,Wiener Sport-Club,5-0,SV St. Jakob/Rosental,2020,Sep,9,9/Sep/2020,Wed,5,5,0,Wiener Sport-Club
+1,Wed Sep 9 2020,SK Vorwärts Steyr,1-0,ASK-BSC Bruck/Leitha,2020,Sep,9,9/Sep/2020,Wed,1,1,0,SK Vorwärts Steyr
+1,Wed Sep 9 2020,SW Bregenz,0-10,FC RB Salzburg,2020,Sep,9,9/Sep/2020,Wed,0,0,0,Draw
+1,Sat Sep 12 2020,SV Wallern,0-1,SVG Reichenau,2020,Sep,12,12/Sep/2020,Sat,1,0,1,SVG Reichenau
+1,Wed Sep 16 2020,Union Gurten,01-Mar,SCR Altach,2020,Sep,16,16/Sep/2020,Wed,4,1,3,SCR Altach
+1,Tue Sep 22 2020,SC Weiz,0-1,ASK Elektra Wien,2020,Sep,22,22/Sep/2020,Tue,1,0,1,ASK Elektra Wien
+1,Wed Sep 30 2020,SC Schwaz,01-Mar,VfB Hohenems,2020,Sep,30,30/Sep/2020,Wed,4,1,3,VfB Hohenems
+2,Fri Oct 16 2020,FC Admira Wacker Mödling,01-Jan,Kapfenberger SV,2020,Oct,16,16/Oct/2020,Fri,2,1,1,Draw
+2,Fri Oct 16 2020,WSG Tirol,0-1,Floridsdorfer AC,2020,Oct,16,16/Oct/2020,Fri,1,0,1,Floridsdorfer AC
+2,Fri Oct 16 2020,SV Lafnitz,02-Apr,Austria Klagenfurt,2020,Oct,16,16/Oct/2020,Fri,6,2,4,Austria Klagenfurt
+2,Fri Oct 16 2020,SV Horn,0-3,ASK Elektra Wien,2020,Oct,16,16/Oct/2020,Fri,3,0,3,ASK Elektra Wien
+2,Fri Oct 16 2020,Wiener Sport-Club,01-Mar,FK Austria Wien,2020,Oct,16,16/Oct/2020,Fri,4,1,3,FK Austria Wien
+2,Sat Oct 17 2020,SKN St. Pölten,0-3,FC RB Salzburg,2020,Oct,17,17/Oct/2020,Sat,3,0,3,FC RB Salzburg
+2,Sat Oct 17 2020,ASKÖ Gmünd,03-Mar,TSV Hartberg,2020,Oct,17,17/Oct/2020,Sat,6,3,3,Draw
+2,Sat Oct 17 2020,VfB Hohenems,01-Feb,SK Sturm Graz,2020,Oct,17,17/Oct/2020,Sat,3,1,2,SK Sturm Graz
+2,Sat Oct 17 2020,FC Wacker Innsbruck,1-0,SV Stripfing,2020,Oct,17,17/Oct/2020,Sat,1,1,0,FC Wacker Innsbruck
+2,Sat Oct 17 2020,SCR Altach,7-0,SV Seekirchen,2020,Oct,17,17/Oct/2020,Sat,7,7,0,SCR Altach
+2,Sat Oct 17 2020,1. Wiener Neustädter SC,01-May,SK Rapid Wien,2020,Oct,17,17/Oct/2020,Sat,6,1,5,SK Rapid Wien
+2,Sat Oct 17 2020,LASK Linz,3-0,SV Wörgl,2020,Oct,17,17/Oct/2020,Sat,3,3,0,LASK Linz
+2,Sat Oct 17 2020,First Vienna FC,03-Feb,SK Vorwärts Steyr,2020,Oct,17,17/Oct/2020,Sat,5,3,2,First Vienna FC
+2,Sun Oct 18 2020,Wolfsberger AC,02-Feb,SV Ried,2020,Oct,18,18/Oct/2020,Sun,4,2,2,Draw
+2,Sat Nov 14 2020,USV Allerheiligen,0-0,SKU Amstetten,2020,Nov,14,14/Nov/2020,Sat,0,0,0,Draw
+2,Sat Nov 14 2020,SVG Reichenau,0-3,FC Blau-Weiß Linz,2020,Nov,14,14/Nov/2020,Sat,3,0,3,FC Blau-Weiß Linz
+Achtelfinale,Sat Nov 14 2020,Floridsdorfer AC,01-Jan,Austria Klagenfurt,2020,Nov,14,14/Nov/2020,Sat,2,1,1,Draw

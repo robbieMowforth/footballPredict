@@ -1,0 +1,181 @@
+Round,Date,Team 1,FT,Team 2,Year,Month,Day,Date,DayOfWeek,Total Goals,Team 1 Goals,Team 2 Goals,Result
+1,Sat Jul 19 2014,FC RB Salzburg,06-Jan,SK Rapid Wien,2014,Jul,19,19/Jul/2014,Sat,7,6,1,FC RB Salzburg
+1,Sat Jul 19 2014,SV Ried,03-Jan,SC Wiener Neustadt,2014,Jul,19,19/Jul/2014,Sat,4,3,1,SV Ried
+1,Sat Jul 19 2014,FC Admira Wacker Mödling,01-Apr,Wolfsberger AC,2014,Jul,19,19/Jul/2014,Sat,5,1,4,Wolfsberger AC
+1,Sat Jul 19 2014,SCR Altach,1-0,SK Sturm Graz,2014,Jul,19,19/Jul/2014,Sat,1,1,0,SCR Altach
+1,Sun Jul 20 2014,FK Austria Wien,01-Jan,SV Grödig,2014,Jul,20,20/Jul/2014,Sun,2,1,1,Draw
+2,Sat Jul 26 2014,Wolfsberger AC,4-0,FK Austria Wien,2014,Jul,26,26/Jul/2014,Sat,4,4,0,Wolfsberger AC
+2,Sat Jul 26 2014,SC Wiener Neustadt,0-5,FC RB Salzburg,2014,Jul,26,26/Jul/2014,Sat,5,0,5,FC RB Salzburg
+2,Sat Jul 26 2014,SK Rapid Wien,1-0,SV Ried,2014,Jul,26,26/Jul/2014,Sat,1,1,0,SK Rapid Wien
+2,Sun Jul 27 2014,SV Grödig,02-Jan,SK Sturm Graz,2014,Jul,27,27/Jul/2014,Sun,3,2,1,SV Grödig
+3,Sat Aug 2 2014,FC Admira Wacker Mödling,01-Jan,SK Rapid Wien,2014,Aug,2,2/Aug/2014,Sat,2,1,1,Draw
+3,Sat Aug 2 2014,SV Ried,0-2,FC RB Salzburg,2014,Aug,2,2/Aug/2014,Sat,2,0,2,FC RB Salzburg
+3,Sat Aug 2 2014,FK Austria Wien,0-0,SCR Altach,2014,Aug,2,2/Aug/2014,Sat,0,0,0,Draw
+3,Sat Aug 2 2014,SK Sturm Graz,04-Feb,SC Wiener Neustadt,2014,Aug,2,2/Aug/2014,Sat,6,4,2,SK Sturm Graz
+3,Sun Aug 3 2014,SV Grödig,0-2,Wolfsberger AC,2014,Aug,3,3/Aug/2014,Sun,2,0,2,Wolfsberger AC
+4,Sat Aug 9 2014,SC Wiener Neustadt,02-Feb,FK Austria Wien,2014,Aug,9,9/Aug/2014,Sat,4,2,2,Draw
+4,Sat Aug 9 2014,SCR Altach,01-Feb,Wolfsberger AC,2014,Aug,9,9/Aug/2014,Sat,3,1,2,Wolfsberger AC
+4,Sat Aug 9 2014,SV Ried,01-Jan,FC Admira Wacker Mödling,2014,Aug,9,9/Aug/2014,Sat,2,1,1,Draw
+4,Sat Aug 9 2014,SK Rapid Wien,01-Jan,SK Sturm Graz,2014,Aug,9,9/Aug/2014,Sat,2,1,1,Draw
+4,Sun Aug 10 2014,FC RB Salzburg,8-0,SV Grödig,2014,Aug,10,10/Aug/2014,Sun,8,8,0,FC RB Salzburg
+2,Wed Aug 13 2014,SCR Altach,0-2,FC Admira Wacker Mödling,2014,Aug,13,13/Aug/2014,Wed,2,0,2,FC Admira Wacker Mödling
+5,Sat Aug 16 2014,SK Rapid Wien,0-1,SCR Altach,2014,Aug,16,16/Aug/2014,Sat,1,0,1,SCR Altach
+5,Sat Aug 16 2014,SV Grödig,3-0,SC Wiener Neustadt,2014,Aug,16,16/Aug/2014,Sat,3,3,0,SV Grödig
+5,Sat Aug 16 2014,Wolfsberger AC,04-Jan,SV Ried,2014,Aug,16,16/Aug/2014,Sat,5,4,1,Wolfsberger AC
+5,Sat Aug 16 2014,FC Admira Wacker Mödling,0-3,FC RB Salzburg,2014,Aug,16,16/Aug/2014,Sat,3,0,3,FC RB Salzburg
+5,Sun Aug 17 2014,SK Sturm Graz,01-Jan,FK Austria Wien,2014,Aug,17,17/Aug/2014,Sun,2,1,1,Draw
+6,Sat Aug 23 2014,SK Sturm Graz,01-Feb,Wolfsberger AC,2014,Aug,23,23/Aug/2014,Sat,3,1,2,Wolfsberger AC
+6,Sat Aug 23 2014,FC RB Salzburg,5-0,SCR Altach,2014,Aug,23,23/Aug/2014,Sat,5,5,0,FC RB Salzburg
+6,Sat Aug 23 2014,SC Wiener Neustadt,05-Apr,FC Admira Wacker Mödling,2014,Aug,23,23/Aug/2014,Sat,9,5,4,SC Wiener Neustadt
+6,Sat Aug 23 2014,SV Ried,02-Feb,SV Grödig,2014,Aug,23,23/Aug/2014,Sat,4,2,2,Draw
+6,Sun Aug 24 2014,FK Austria Wien,02-Feb,SK Rapid Wien,2014,Aug,24,24/Aug/2014,Sun,4,2,2,Draw
+7,Sat Aug 30 2014,FC Admira Wacker Mödling,02-Jan,FK Austria Wien,2014,Aug,30,30/Aug/2014,Sat,3,2,1,FC Admira Wacker Mödling
+7,Sat Aug 30 2014,SCR Altach,02-Feb,SV Ried,2014,Aug,30,30/Aug/2014,Sat,4,2,2,Draw
+7,Sat Aug 30 2014,Wolfsberger AC,0-1,SC Wiener Neustadt,2014,Aug,30,30/Aug/2014,Sat,1,0,1,SC Wiener Neustadt
+7,Sat Aug 30 2014,FC RB Salzburg,02-Mar,SK Sturm Graz,2014,Aug,30,30/Aug/2014,Sat,5,2,3,SK Sturm Graz
+7,Sun Aug 31 2014,SK Rapid Wien,2-0,SV Grödig,2014,Aug,31,31/Aug/2014,Sun,2,2,0,SK Rapid Wien
+8,Sat Sep 13 2014,FK Austria Wien,03-Jan,SV Ried,2014,Sep,13,13/Sep/2014,Sat,4,3,1,FK Austria Wien
+8,Sat Sep 13 2014,SK Sturm Graz,0-2,FC Admira Wacker Mödling,2014,Sep,13,13/Sep/2014,Sat,2,0,2,FC Admira Wacker Mödling
+8,Sun Sep 14 2014,Wolfsberger AC,1-0,FC RB Salzburg,2014,Sep,14,14/Sep/2014,Sun,1,1,0,Wolfsberger AC
+8,Wed Sep 17 2014,SV Grödig,03-Mar,SCR Altach,2014,Sep,17,17/Sep/2014,Wed,6,3,3,Draw
+8,Wed Sep 17 2014,SC Wiener Neustadt,01-May,SK Rapid Wien,2014,Sep,17,17/Sep/2014,Wed,6,1,5,SK Rapid Wien
+9,Sat Sep 20 2014,SK Rapid Wien,3-0,Wolfsberger AC,2014,Sep,20,20/Sep/2014,Sat,3,3,0,SK Rapid Wien
+9,Sat Sep 20 2014,SV Ried,0-1,SK Sturm Graz,2014,Sep,20,20/Sep/2014,Sat,1,0,1,SK Sturm Graz
+9,Sat Sep 20 2014,SCR Altach,2-0,SC Wiener Neustadt,2014,Sep,20,20/Sep/2014,Sat,2,2,0,SCR Altach
+9,Sat Sep 20 2014,FC Admira Wacker Mödling,0-0,SV Grödig,2014,Sep,20,20/Sep/2014,Sat,0,0,0,Draw
+9,Sun Sep 21 2014,FC RB Salzburg,02-Mar,FK Austria Wien,2014,Sep,21,21/Sep/2014,Sun,5,2,3,FK Austria Wien
+10,Sat Sep 27 2014,SC Wiener Neustadt,0-1,SV Ried,2014,Sep,27,27/Sep/2014,Sat,1,0,1,SV Ried
+10,Sat Sep 27 2014,SK Sturm Graz,02-Feb,SCR Altach,2014,Sep,27,27/Sep/2014,Sat,4,2,2,Draw
+10,Sat Sep 27 2014,Wolfsberger AC,02-Jan,FC Admira Wacker Mödling,2014,Sep,27,27/Sep/2014,Sat,3,2,1,Wolfsberger AC
+10,Sat Sep 27 2014,SV Grödig,0-0,FK Austria Wien,2014,Sep,27,27/Sep/2014,Sat,0,0,0,Draw
+10,Sun Sep 28 2014,SK Rapid Wien,01-Feb,FC RB Salzburg,2014,Sep,28,28/Sep/2014,Sun,3,1,2,FC RB Salzburg
+11,Sat Oct 4 2014,FK Austria Wien,0-2,Wolfsberger AC,2014,Oct,4,4/Oct/2014,Sat,2,0,2,Wolfsberger AC
+11,Sat Oct 4 2014,FC Admira Wacker Mödling,0-2,SCR Altach,2014,Oct,4,4/Oct/2014,Sat,2,0,2,SCR Altach
+11,Sat Oct 4 2014,SK Sturm Graz,1-0,SV Grödig,2014,Oct,4,4/Oct/2014,Sat,1,1,0,SK Sturm Graz
+11,Sun Oct 5 2014,FC RB Salzburg,04-Jan,SC Wiener Neustadt,2014,Oct,5,5/Oct/2014,Sun,5,4,1,FC RB Salzburg
+11,Sun Oct 5 2014,SV Ried,01-Feb,SK Rapid Wien,2014,Oct,5,5/Oct/2014,Sun,3,1,2,SK Rapid Wien
+12,Sat Oct 18 2014,FC RB Salzburg,04-Feb,SV Ried,2014,Oct,18,18/Oct/2014,Sat,6,4,2,FC RB Salzburg
+12,Sat Oct 18 2014,SCR Altach,01-Jan,FK Austria Wien,2014,Oct,18,18/Oct/2014,Sat,2,1,1,Draw
+12,Sat Oct 18 2014,Wolfsberger AC,01-Feb,SV Grödig,2014,Oct,18,18/Oct/2014,Sat,3,1,2,SV Grödig
+12,Sat Oct 18 2014,SK Rapid Wien,0-0,FC Admira Wacker Mödling,2014,Oct,18,18/Oct/2014,Sat,0,0,0,Draw
+12,Sun Oct 19 2014,SC Wiener Neustadt,0-0,SK Sturm Graz,2014,Oct,19,19/Oct/2014,Sun,0,0,0,Draw
+13,Sat Oct 25 2014,FK Austria Wien,2-0,SC Wiener Neustadt,2014,Oct,25,25/Oct/2014,Sat,2,2,0,FK Austria Wien
+13,Sat Oct 25 2014,FC Admira Wacker Mödling,0-0,SV Ried,2014,Oct,25,25/Oct/2014,Sat,0,0,0,Draw
+13,Sat Oct 25 2014,Wolfsberger AC,0-0,SCR Altach,2014,Oct,25,25/Oct/2014,Sat,0,0,0,Draw
+13,Sat Oct 25 2014,SK Sturm Graz,01-Mar,SK Rapid Wien,2014,Oct,25,25/Oct/2014,Sat,4,1,3,SK Rapid Wien
+13,Sun Oct 26 2014,SV Grödig,02-Feb,FC RB Salzburg,2014,Oct,26,26/Oct/2014,Sun,4,2,2,Draw
+14,Sat Nov 1 2014,FC RB Salzburg,2-0,FC Admira Wacker Mödling,2014,Nov,1,1/Nov/2014,Sat,2,2,0,FC RB Salzburg
+14,Sat Nov 1 2014,FK Austria Wien,0-3,SK Sturm Graz,2014,Nov,1,1/Nov/2014,Sat,3,0,3,SK Sturm Graz
+14,Sat Nov 1 2014,SV Ried,1-0,Wolfsberger AC,2014,Nov,1,1/Nov/2014,Sat,1,1,0,SV Ried
+14,Sun Nov 2 2014,SCR Altach,2-0,SK Rapid Wien,2014,Nov,2,2/Nov/2014,Sun,2,2,0,SCR Altach
+14,Wed Nov 5 2014,SC Wiener Neustadt,02-Apr,SV Grödig,2014,Nov,5,5/Nov/2014,Wed,6,2,4,SV Grödig
+15,Sat Nov 8 2014,Wolfsberger AC,0-2,SK Sturm Graz,2014,Nov,8,8/Nov/2014,Sat,2,0,2,SK Sturm Graz
+15,Sat Nov 8 2014,FC Admira Wacker Mödling,01-Jan,SC Wiener Neustadt,2014,Nov,8,8/Nov/2014,Sat,2,1,1,Draw
+15,Sat Nov 8 2014,SV Grödig,0-1,SV Ried,2014,Nov,8,8/Nov/2014,Sat,1,0,1,SV Ried
+15,Sun Nov 9 2014,SK Rapid Wien,02-Mar,FK Austria Wien,2014,Nov,9,9/Nov/2014,Sun,5,2,3,FK Austria Wien
+15,Sun Nov 9 2014,SCR Altach,04-Jan,FC RB Salzburg,2014,Nov,9,9/Nov/2014,Sun,5,4,1,SCR Altach
+16,Sat Nov 22 2014,SV Grödig,03-Jan,SK Rapid Wien,2014,Nov,22,22/Nov/2014,Sat,4,3,1,SV Grödig
+16,Sat Nov 22 2014,FK Austria Wien,4-0,FC Admira Wacker Mödling,2014,Nov,22,22/Nov/2014,Sat,4,4,0,FK Austria Wien
+16,Sat Nov 22 2014,SV Ried,02-Jan,SCR Altach,2014,Nov,22,22/Nov/2014,Sat,3,2,1,SV Ried
+16,Sat Nov 22 2014,SC Wiener Neustadt,2-0,Wolfsberger AC,2014,Nov,22,22/Nov/2014,Sat,2,2,0,SC Wiener Neustadt
+16,Sun Nov 23 2014,SK Sturm Graz,01-Feb,FC RB Salzburg,2014,Nov,23,23/Nov/2014,Sun,3,1,2,FC RB Salzburg
+17,Sat Nov 29 2014,SK Rapid Wien,3-0,SC Wiener Neustadt,2014,Nov,29,29/Nov/2014,Sat,3,3,0,SK Rapid Wien
+17,Sat Nov 29 2014,SV Ried,01-Jan,FK Austria Wien,2014,Nov,29,29/Nov/2014,Sat,2,1,1,Draw
+17,Sat Nov 29 2014,FC Admira Wacker Mödling,0-2,SK Sturm Graz,2014,Nov,29,29/Nov/2014,Sat,2,0,2,SK Sturm Graz
+17,Sat Nov 29 2014,SCR Altach,03-Jan,SV Grödig,2014,Nov,29,29/Nov/2014,Sat,4,3,1,SCR Altach
+17,Sun Nov 30 2014,FC RB Salzburg,02-Feb,Wolfsberger AC,2014,Nov,30,30/Nov/2014,Sun,4,2,2,Draw
+18,Sat Dec 6 2014,FK Austria Wien,02-Apr,FC RB Salzburg,2014,Dec,6,6/Dec/2014,Sat,6,2,4,FC RB Salzburg
+18,Sat Dec 6 2014,SV Grödig,5-0,FC Admira Wacker Mödling,2014,Dec,6,6/Dec/2014,Sat,5,5,0,SV Grödig
+18,Sat Dec 6 2014,SK Sturm Graz,03-Jan,SV Ried,2014,Dec,6,6/Dec/2014,Sat,4,3,1,SK Sturm Graz
+18,Sat Dec 6 2014,SC Wiener Neustadt,2-0,SCR Altach,2014,Dec,6,6/Dec/2014,Sat,2,2,0,SC Wiener Neustadt
+18,Sun Dec 7 2014,Wolfsberger AC,01-Jan,SK Rapid Wien,2014,Dec,7,7/Dec/2014,Sun,2,1,1,Draw
+19,Sat Dec 13 2014,FK Austria Wien,1-0,SV Grödig,2014,Dec,13,13/Dec/2014,Sat,1,1,0,FK Austria Wien
+19,Sat Dec 13 2014,FC Admira Wacker Mödling,02-Jan,Wolfsberger AC,2014,Dec,13,13/Dec/2014,Sat,3,2,1,FC Admira Wacker Mödling
+19,Sat Dec 13 2014,SV Ried,6-0,SC Wiener Neustadt,2014,Dec,13,13/Dec/2014,Sat,6,6,0,SV Ried
+19,Sat Dec 13 2014,SCR Altach,2-0,SK Sturm Graz,2014,Dec,13,13/Dec/2014,Sat,2,2,0,SCR Altach
+19,Sun Dec 14 2014,FC RB Salzburg,01-Feb,SK Rapid Wien,2014,Dec,14,14/Dec/2014,Sun,3,1,2,SK Rapid Wien
+20,Sat Feb 14 2015,SK Rapid Wien,3-0,SV Ried,2015,Feb,14,14/Feb/2015,Sat,3,3,0,SK Rapid Wien
+20,Sat Feb 14 2015,SC Wiener Neustadt,0-2,FC RB Salzburg,2015,Feb,14,14/Feb/2015,Sat,2,0,2,FC RB Salzburg
+20,Sat Feb 14 2015,SCR Altach,2-0,FC Admira Wacker Mödling,2015,Feb,14,14/Feb/2015,Sat,2,2,0,SCR Altach
+20,Sun Feb 15 2015,Wolfsberger AC,1-0,FK Austria Wien,2015,Feb,15,15/Feb/2015,Sun,1,1,0,Wolfsberger AC
+21,Sat Feb 21 2015,SK Sturm Graz,03-Mar,SC Wiener Neustadt,2015,Feb,21,21/Feb/2015,Sat,6,3,3,Draw
+21,Sat Feb 21 2015,FK Austria Wien,05-Feb,SCR Altach,2015,Feb,21,21/Feb/2015,Sat,7,5,2,FK Austria Wien
+21,Sun Feb 22 2015,FC Admira Wacker Mödling,01-Jan,SK Rapid Wien,2015,Feb,22,22/Feb/2015,Sun,2,1,1,Draw
+21,Sun Feb 22 2015,SV Ried,02-Feb,FC RB Salzburg,2015,Feb,22,22/Feb/2015,Sun,4,2,2,Draw
+22,Sat Feb 28 2015,SC Wiener Neustadt,1-0,FK Austria Wien,2015,Feb,28,28/Feb/2015,Sat,1,1,0,SC Wiener Neustadt
+22,Sat Feb 28 2015,SV Ried,02-Feb,FC Admira Wacker Mödling,2015,Feb,28,28/Feb/2015,Sat,4,2,2,Draw
+22,Sat Feb 28 2015,SK Rapid Wien,1-0,SK Sturm Graz,2015,Feb,28,28/Feb/2015,Sat,1,1,0,SK Rapid Wien
+22,Sat Feb 28 2015,SCR Altach,1-0,Wolfsberger AC,2015,Feb,28,28/Feb/2015,Sat,1,1,0,SCR Altach
+22,Sun Mar 1 2015,FC RB Salzburg,03-Jan,SV Grödig,2015,Mar,1,1/Mar/2015,Sun,4,3,1,FC RB Salzburg
+23,Tue Mar 3 2015,SK Sturm Graz,02-Jan,FK Austria Wien,2015,Mar,3,3/Mar/2015,Tue,3,2,1,SK Sturm Graz
+23,Wed Mar 4 2015,SK Rapid Wien,1-0,SCR Altach,2015,Mar,4,4/Mar/2015,Wed,1,1,0,SK Rapid Wien
+23,Wed Mar 4 2015,FC Admira Wacker Mödling,01-Apr,FC RB Salzburg,2015,Mar,4,4/Mar/2015,Wed,5,1,4,FC RB Salzburg
+23,Wed Mar 4 2015,Wolfsberger AC,01-Feb,SV Ried,2015,Mar,4,4/Mar/2015,Wed,3,1,2,SV Ried
+23,Wed Mar 4 2015,SV Grödig,01-Mar,SC Wiener Neustadt,2015,Mar,4,4/Mar/2015,Wed,4,1,3,SC Wiener Neustadt
+24,Sat Mar 7 2015,SV Ried,02-Jan,SV Grödig,2015,Mar,7,7/Mar/2015,Sat,3,2,1,SV Ried
+24,Sat Mar 7 2015,SC Wiener Neustadt,0-0,FC Admira Wacker Mödling,2015,Mar,7,7/Mar/2015,Sat,0,0,0,Draw
+24,Sat Mar 7 2015,FC RB Salzburg,0-1,SCR Altach,2015,Mar,7,7/Mar/2015,Sat,1,0,1,SCR Altach
+24,Sat Mar 7 2015,SK Sturm Graz,2-0,Wolfsberger AC,2015,Mar,7,7/Mar/2015,Sat,2,2,0,SK Sturm Graz
+24,Sun Mar 8 2015,FK Austria Wien,02-Jan,SK Rapid Wien,2015,Mar,8,8/Mar/2015,Sun,3,2,1,FK Austria Wien
+20,Wed Mar 11 2015,SV Grödig,0-2,SK Sturm Graz,2015,Mar,11,11/Mar/2015,Wed,2,0,2,SK Sturm Graz
+25,Sat Mar 14 2015,FC Admira Wacker Mödling,01-Jan,FK Austria Wien,2015,Mar,14,14/Mar/2015,Sat,2,1,1,Draw
+25,Sat Mar 14 2015,Wolfsberger AC,2-0,SC Wiener Neustadt,2015,Mar,14,14/Mar/2015,Sat,2,2,0,Wolfsberger AC
+25,Sat Mar 14 2015,SK Rapid Wien,4-0,SV Grödig,2015,Mar,14,14/Mar/2015,Sat,4,4,0,SK Rapid Wien
+25,Sat Mar 14 2015,SCR Altach,02-Jan,SV Ried,2015,Mar,14,14/Mar/2015,Sat,3,2,1,SCR Altach
+25,Sun Mar 15 2015,FC RB Salzburg,02-Jan,SK Sturm Graz,2015,Mar,15,15/Mar/2015,Sun,3,2,1,FC RB Salzburg
+21,Wed Mar 18 2015,SV Grödig,2-0,Wolfsberger AC,2015,Mar,18,18/Mar/2015,Wed,2,2,0,SV Grödig
+26,Sat Mar 21 2015,FK Austria Wien,0-1,SV Ried,2015,Mar,21,21/Mar/2015,Sat,1,0,1,SV Ried
+26,Sat Mar 21 2015,SV Grödig,0-1,SCR Altach,2015,Mar,21,21/Mar/2015,Sat,1,0,1,SCR Altach
+26,Sat Mar 21 2015,Wolfsberger AC,03-Feb,FC RB Salzburg,2015,Mar,21,21/Mar/2015,Sat,5,3,2,Wolfsberger AC
+26,Sat Mar 21 2015,SK Sturm Graz,03-Jan,FC Admira Wacker Mödling,2015,Mar,21,21/Mar/2015,Sat,4,3,1,SK Sturm Graz
+26,Sun Mar 22 2015,SC Wiener Neustadt,0-1,SK Rapid Wien,2015,Mar,22,22/Mar/2015,Sun,1,0,1,SK Rapid Wien
+27,Sat Apr 4 2015,SK Rapid Wien,04-Jan,Wolfsberger AC,2015,Apr,4,4/Apr/2015,Sat,5,4,1,SK Rapid Wien
+27,Sat Apr 4 2015,FC RB Salzburg,03-Jan,FK Austria Wien,2015,Apr,4,4/Apr/2015,Sat,4,3,1,FC RB Salzburg
+27,Sat Apr 4 2015,FC Admira Wacker Mödling,02-Mar,SV Grödig,2015,Apr,4,4/Apr/2015,Sat,5,2,3,SV Grödig
+27,Sun Apr 5 2015,SV Ried,01-Feb,SK Sturm Graz,2015,Apr,5,5/Apr/2015,Sun,3,1,2,SK Sturm Graz
+28,Sat Apr 11 2015,SC Wiener Neustadt,0-1,SV Ried,2015,Apr,11,11/Apr/2015,Sat,1,0,1,SV Ried
+28,Sat Apr 11 2015,SK Sturm Graz,5-0,SCR Altach,2015,Apr,11,11/Apr/2015,Sat,5,5,0,SK Sturm Graz
+28,Sat Apr 11 2015,SV Grödig,01-Jan,FK Austria Wien,2015,Apr,11,11/Apr/2015,Sat,2,1,1,Draw
+28,Sat Apr 11 2015,Wolfsberger AC,2-0,FC Admira Wacker Mödling,2015,Apr,11,11/Apr/2015,Sat,2,2,0,Wolfsberger AC
+28,Sun Apr 12 2015,SK Rapid Wien,03-Mar,FC RB Salzburg,2015,Apr,12,12/Apr/2015,Sun,6,3,3,Draw
+27,Wed Apr 15 2015,SCR Altach,03-Jan,SC Wiener Neustadt,2015,Apr,15,15/Apr/2015,Wed,4,3,1,SCR Altach
+29,Sat Apr 18 2015,SV Ried,0-1,SK Rapid Wien,2015,Apr,18,18/Apr/2015,Sat,1,0,1,SK Rapid Wien
+29,Sat Apr 18 2015,FC RB Salzburg,6-0,SC Wiener Neustadt,2015,Apr,18,18/Apr/2015,Sat,6,6,0,FC RB Salzburg
+29,Sat Apr 18 2015,SK Sturm Graz,02-Jan,SV Grödig,2015,Apr,18,18/Apr/2015,Sat,3,2,1,SK Sturm Graz
+29,Sat Apr 18 2015,FC Admira Wacker Mödling,02-Feb,SCR Altach,2015,Apr,18,18/Apr/2015,Sat,4,2,2,Draw
+29,Sun Apr 19 2015,FK Austria Wien,01-Jan,Wolfsberger AC,2015,Apr,19,19/Apr/2015,Sun,2,1,1,Draw
+30,Sat Apr 25 2015,SK Rapid Wien,01-Jan,FC Admira Wacker Mödling,2015,Apr,25,25/Apr/2015,Sat,2,1,1,Draw
+30,Sat Apr 25 2015,FC RB Salzburg,02-Jan,SV Ried,2015,Apr,25,25/Apr/2015,Sat,3,2,1,FC RB Salzburg
+30,Sat Apr 25 2015,Wolfsberger AC,02-Jan,SV Grödig,2015,Apr,25,25/Apr/2015,Sat,3,2,1,Wolfsberger AC
+30,Sat Apr 25 2015,SC Wiener Neustadt,04-Apr,SK Sturm Graz,2015,Apr,25,25/Apr/2015,Sat,8,4,4,Draw
+30,Sun Apr 26 2015,SCR Altach,2-0,FK Austria Wien,2015,Apr,26,26/Apr/2015,Sun,2,2,0,SCR Altach
+31,Sat May 2 2015,SV Grödig,0-3,FC RB Salzburg,2015,May,2,2/May/2015,Sat,3,0,3,FC RB Salzburg
+31,Sat May 2 2015,Wolfsberger AC,2-0,SCR Altach,2015,May,2,2/May/2015,Sat,2,2,0,Wolfsberger AC
+31,Sat May 2 2015,FK Austria Wien,02-Jan,SC Wiener Neustadt,2015,May,2,2/May/2015,Sat,3,2,1,FK Austria Wien
+31,Sat May 2 2015,FC Admira Wacker Mödling,1-0,SV Ried,2015,May,2,2/May/2015,Sat,1,1,0,FC Admira Wacker Mödling
+31,Sun May 3 2015,SK Sturm Graz,02-Feb,SK Rapid Wien,2015,May,3,3/May/2015,Sun,4,2,2,Draw
+32,Sat May 9 2015,FK Austria Wien,0-0,SK Sturm Graz,2015,May,9,9/May/2015,Sat,0,0,0,Draw
+32,Sat May 9 2015,FC RB Salzburg,4-0,FC Admira Wacker Mödling,2015,May,9,9/May/2015,Sat,4,4,0,FC RB Salzburg
+32,Sat May 9 2015,SV Ried,4-0,Wolfsberger AC,2015,May,9,9/May/2015,Sat,4,4,0,SV Ried
+32,Sat May 9 2015,SC Wiener Neustadt,02-Apr,SV Grödig,2015,May,9,9/May/2015,Sat,6,2,4,SV Grödig
+32,Sun May 10 2015,SCR Altach,01-Mar,SK Rapid Wien,2015,May,10,10/May/2015,Sun,4,1,3,SK Rapid Wien
+33,Sat May 16 2015,SCR Altach,02-Feb,FC RB Salzburg,2015,May,16,16/May/2015,Sat,4,2,2,Draw
+33,Sat May 16 2015,SV Grödig,03-Feb,SV Ried,2015,May,16,16/May/2015,Sat,5,3,2,SV Grödig
+33,Sat May 16 2015,Wolfsberger AC,1-0,SK Sturm Graz,2015,May,16,16/May/2015,Sat,1,1,0,Wolfsberger AC
+33,Sat May 16 2015,FC Admira Wacker Mödling,0-0,SC Wiener Neustadt,2015,May,16,16/May/2015,Sat,0,0,0,Draw
+33,Sun May 17 2015,SK Rapid Wien,04-Jan,FK Austria Wien,2015,May,17,17/May/2015,Sun,5,4,1,SK Rapid Wien
+34,Tue May 19 2015,SV Ried,04-Jan,SCR Altach,2015,May,19,19/May/2015,Tue,5,4,1,SV Ried
+34,Wed May 20 2015,SC Wiener Neustadt,2-0,Wolfsberger AC,2015,May,20,20/May/2015,Wed,2,2,0,SC Wiener Neustadt
+34,Wed May 20 2015,SK Sturm Graz,0-0,FC RB Salzburg,2015,May,20,20/May/2015,Wed,0,0,0,Draw
+34,Wed May 20 2015,FK Austria Wien,0-1,FC Admira Wacker Mödling,2015,May,20,20/May/2015,Wed,1,0,1,FC Admira Wacker Mödling
+35,Sun May 24 2015,SCR Altach,2-0,SV Grödig,2015,May,24,24/May/2015,Sun,2,2,0,SCR Altach
+35,Sun May 24 2015,FC Admira Wacker Mödling,01-Feb,SK Sturm Graz,2015,May,24,24/May/2015,Sun,3,1,2,SK Sturm Graz
+35,Sun May 24 2015,SK Rapid Wien,0-0,SC Wiener Neustadt,2015,May,24,24/May/2015,Sun,0,0,0,Draw
+35,Sun May 24 2015,SV Ried,0-2,FK Austria Wien,2015,May,24,24/May/2015,Sun,2,0,2,FK Austria Wien
+35,Sun May 24 2015,FC RB Salzburg,3-0,Wolfsberger AC,2015,May,24,24/May/2015,Sun,3,3,0,FC RB Salzburg
+34,Wed May 27 2015,SV Grödig,0-2,SK Rapid Wien,2015,May,27,27/May/2015,Wed,2,0,2,SK Rapid Wien
+36,Sun May 31 2015,SK Sturm Graz,0-0,SV Ried,2015,May,31,31/May/2015,Sun,0,0,0,Draw
+36,Sun May 31 2015,FK Austria Wien,01-Jan,FC RB Salzburg,2015,May,31,31/May/2015,Sun,2,1,1,Draw
+36,Sun May 31 2015,SV Grödig,0-1,FC Admira Wacker Mödling,2015,May,31,31/May/2015,Sun,1,0,1,FC Admira Wacker Mödling
+36,Sun May 31 2015,Wolfsberger AC,0-5,SK Rapid Wien,2015,May,31,31/May/2015,Sun,5,0,5,SK Rapid Wien
+36,Sun May 31 2015,SC Wiener Neustadt,0-1,SCR Altach,2015,May,31,31/May/2015,Sun,1,0,1,SCR Altach

@@ -1,0 +1,553 @@
+Round,Date,Team 1,FT,Team 2,Year,Month,Day,Date,DayOfWeek,Total Goals,Team 1 Goals,Team 2 Goals,Result
+1,Sat Sep 12 2020,Accrington Stanley FC,2-0,Peterborough United FC,2020,Sep,12,12/Sep/2020,Sat,2,2,0,Accrington Stanley FC
+1,Sat Sep 12 2020,Crewe Alexandra FC,0-2,Charlton Athletic FC,2020,Sep,12,12/Sep/2020,Sat,2,0,2,Charlton Athletic FC
+1,Sat Sep 12 2020,Doncaster Rovers FC,01-Jan,Milton Keynes Dons FC,2020,Sep,12,12/Sep/2020,Sat,2,1,1,Draw
+1,Sat Sep 12 2020,Fleetwood Town FC,02-Jan,Burton Albion FC,2020,Sep,12,12/Sep/2020,Sat,3,2,1,Fleetwood Town FC
+1,Sat Sep 12 2020,Gillingham FC,0-2,Hull City AFC,2020,Sep,12,12/Sep/2020,Sat,2,0,2,Hull City AFC
+1,Sat Sep 12 2020,Lincoln City FC,2-0,Oxford United FC,2020,Sep,12,12/Sep/2020,Sat,2,2,0,Lincoln City FC
+1,Sat Sep 12 2020,Northampton Town FC,02-Feb,AFC Wimbledon,2020,Sep,12,12/Sep/2020,Sat,4,2,2,Draw
+1,Sat Sep 12 2020,Plymouth Argyle FC,1-0,Blackpool FC,2020,Sep,12,12/Sep/2020,Sat,1,1,0,Plymouth Argyle FC
+1,Sat Sep 12 2020,Portsmouth FC,0-0,Shrewsbury Town FC,2020,Sep,12,12/Sep/2020,Sat,0,0,0,Draw
+1,Sat Sep 12 2020,Sunderland AFC,01-Jan,Bristol Rovers FC,2020,Sep,12,12/Sep/2020,Sat,2,1,1,Draw
+1,Sat Sep 12 2020,Swindon Town FC,03-Jan,Rochdale AFC,2020,Sep,12,12/Sep/2020,Sat,4,3,1,Swindon Town FC
+1,Sun Sep 13 2020,Ipswich Town FC,2-0,Wigan Athletic FC,2020,Sep,13,13/Sep/2020,Sun,2,2,0,Ipswich Town FC
+2,Sat Sep 19 2020,AFC Wimbledon,04-Apr,Plymouth Argyle FC,2020,Sep,19,19/Sep/2020,Sat,8,4,4,Draw
+2,Sat Sep 19 2020,Blackpool FC,2-0,Swindon Town FC,2020,Sep,19,19/Sep/2020,Sat,2,2,0,Blackpool FC
+2,Sat Sep 19 2020,Bristol Rovers FC,0-2,Ipswich Town FC,2020,Sep,19,19/Sep/2020,Sat,2,0,2,Ipswich Town FC
+2,Sat Sep 19 2020,Burton Albion FC,02-Jan,Accrington Stanley FC,2020,Sep,19,19/Sep/2020,Sat,3,2,1,Burton Albion FC
+2,Sat Sep 19 2020,Charlton Athletic FC,01-Mar,Doncaster Rovers FC,2020,Sep,19,19/Sep/2020,Sat,4,1,3,Doncaster Rovers FC
+2,Sat Sep 19 2020,Hull City AFC,1-0,Crewe Alexandra FC,2020,Sep,19,19/Sep/2020,Sat,1,1,0,Hull City AFC
+2,Sat Sep 19 2020,Milton Keynes Dons FC,01-Feb,Lincoln City FC,2020,Sep,19,19/Sep/2020,Sat,3,1,2,Lincoln City FC
+2,Sat Sep 19 2020,Oxford United FC,0-2,Sunderland AFC,2020,Sep,19,19/Sep/2020,Sat,2,0,2,Sunderland AFC
+2,Sat Sep 19 2020,Peterborough United FC,02-Jan,Fleetwood Town FC,2020,Sep,19,19/Sep/2020,Sat,3,2,1,Peterborough United FC
+2,Sat Sep 19 2020,Shrewsbury Town FC,01-Feb,Northampton Town FC,2020,Sep,19,19/Sep/2020,Sat,3,1,2,Northampton Town FC
+2,Sat Sep 19 2020,Wigan Athletic FC,02-Mar,Gillingham FC,2020,Sep,19,19/Sep/2020,Sat,5,2,3,Gillingham FC
+2,Sun Sep 20 2020,Rochdale AFC,0-0,Portsmouth FC,2020,Sep,20,20/Sep/2020,Sun,0,0,0,Draw
+3,Sat Sep 26 2020,Accrington Stanley FC,01-Apr,Oxford United FC,2020,Sep,26,26/Sep/2020,Sat,5,1,4,Oxford United FC
+3,Sat Sep 26 2020,Crewe Alexandra FC,2-0,Milton Keynes Dons FC,2020,Sep,26,26/Sep/2020,Sat,2,2,0,Crewe Alexandra FC
+3,Sat Sep 26 2020,Doncaster Rovers FC,04-Jan,Bristol Rovers FC,2020,Sep,26,26/Sep/2020,Sat,5,4,1,Doncaster Rovers FC
+3,Sat Sep 26 2020,Fleetwood Town FC,0-1,AFC Wimbledon,2020,Sep,26,26/Sep/2020,Sat,1,0,1,AFC Wimbledon
+3,Sat Sep 26 2020,Gillingham FC,2-0,Blackpool FC,2020,Sep,26,26/Sep/2020,Sat,2,2,0,Gillingham FC
+3,Sat Sep 26 2020,Ipswich Town FC,2-0,Rochdale AFC,2020,Sep,26,26/Sep/2020,Sat,2,2,0,Ipswich Town FC
+3,Sat Sep 26 2020,Northampton Town FC,0-2,Hull City AFC,2020,Sep,26,26/Sep/2020,Sat,2,0,2,Hull City AFC
+3,Sat Sep 26 2020,Plymouth Argyle FC,01-Jan,Shrewsbury Town FC,2020,Sep,26,26/Sep/2020,Sat,2,1,1,Draw
+3,Sat Sep 26 2020,Portsmouth FC,01-Feb,Wigan Athletic FC,2020,Sep,26,26/Sep/2020,Sat,3,1,2,Wigan Athletic FC
+3,Sat Sep 26 2020,Sunderland AFC,1-0,Peterborough United FC,2020,Sep,26,26/Sep/2020,Sat,1,1,0,Sunderland AFC
+3,Sat Sep 26 2020,Swindon Town FC,04-Feb,Burton Albion FC,2020,Sep,26,26/Sep/2020,Sat,6,4,2,Swindon Town FC
+3,Sun Sep 27 2020,Lincoln City FC,2-0,Charlton Athletic FC,2020,Sep,27,27/Sep/2020,Sun,2,2,0,Lincoln City FC
+4,Sat Oct 3 2020,AFC Wimbledon,01-Feb,Accrington Stanley FC,2020,Oct,3,3/Oct/2020,Sat,3,1,2,Accrington Stanley FC
+4,Sat Oct 3 2020,Blackpool FC,02-Mar,Lincoln City FC,2020,Oct,3,3/Oct/2020,Sat,5,2,3,Lincoln City FC
+4,Sat Oct 3 2020,Bristol Rovers FC,2-0,Northampton Town FC,2020,Oct,3,3/Oct/2020,Sat,2,2,0,Bristol Rovers FC
+4,Sat Oct 3 2020,Burton Albion FC,02-Apr,Portsmouth FC,2020,Oct,3,3/Oct/2020,Sat,6,2,4,Portsmouth FC
+4,Sat Oct 3 2020,Charlton Athletic FC,0-0,Sunderland AFC,2020,Oct,3,3/Oct/2020,Sat,0,0,0,Draw
+4,Sat Oct 3 2020,Hull City AFC,1-0,Plymouth Argyle FC,2020,Oct,3,3/Oct/2020,Sat,1,1,0,Hull City AFC
+4,Sat Oct 3 2020,Milton Keynes Dons FC,01-Jan,Ipswich Town FC,2020,Oct,3,3/Oct/2020,Sat,2,1,1,Draw
+4,Sat Oct 3 2020,Peterborough United FC,03-Jan,Swindon Town FC,2020,Oct,3,3/Oct/2020,Sat,4,3,1,Peterborough United FC
+4,Sat Oct 3 2020,Rochdale AFC,02-Jan,Fleetwood Town FC,2020,Oct,3,3/Oct/2020,Sat,3,2,1,Rochdale AFC
+4,Sat Oct 3 2020,Shrewsbury Town FC,01-Jan,Gillingham FC,2020,Oct,3,3/Oct/2020,Sat,2,1,1,Draw
+4,Sat Oct 3 2020,Wigan Athletic FC,1-0,Doncaster Rovers FC,2020,Oct,3,3/Oct/2020,Sat,1,1,0,Wigan Athletic FC
+5,Fri Oct 9 2020,Fleetwood Town FC,04-Jan,Hull City AFC,2020,Oct,9,9/Oct/2020,Fri,5,4,1,Fleetwood Town FC
+5,Sat Oct 10 2020,Gillingham FC,03-Jan,Oxford United FC,2020,Oct,10,10/Oct/2020,Sat,4,3,1,Gillingham FC
+12,Sat Oct 10 2020,Blackpool FC,01-Apr,Ipswich Town FC,2020,Oct,10,10/Oct/2020,Sat,5,1,4,Ipswich Town FC
+5,Sat Oct 10 2020,Accrington Stanley FC,02-Jan,Rochdale AFC,2020,Oct,10,10/Oct/2020,Sat,3,2,1,Accrington Stanley FC
+5,Sat Oct 10 2020,Crewe Alexandra FC,3-0,Wigan Athletic FC,2020,Oct,10,10/Oct/2020,Sat,3,3,0,Crewe Alexandra FC
+5,Sat Oct 10 2020,Lincoln City FC,01-Feb,Bristol Rovers FC,2020,Oct,10,10/Oct/2020,Sat,3,1,2,Bristol Rovers FC
+5,Sat Oct 10 2020,Northampton Town FC,0-2,Peterborough United FC,2020,Oct,10,10/Oct/2020,Sat,2,0,2,Peterborough United FC
+5,Sat Oct 10 2020,Plymouth Argyle FC,2-0,Burton Albion FC,2020,Oct,10,10/Oct/2020,Sat,2,2,0,Plymouth Argyle FC
+5,Sat Oct 10 2020,Portsmouth FC,02-Jan,Milton Keynes Dons FC,2020,Oct,10,10/Oct/2020,Sat,3,2,1,Portsmouth FC
+5,Sat Oct 10 2020,Swindon Town FC,0-1,AFC Wimbledon,2020,Oct,10,10/Oct/2020,Sat,1,0,1,AFC Wimbledon
+6,Sat Oct 17 2020,Milton Keynes Dons FC,2-0,Gillingham FC,2020,Oct,17,17/Oct/2020,Sat,2,2,0,Milton Keynes Dons FC
+6,Sat Oct 17 2020,AFC Wimbledon,0-1,Shrewsbury Town FC,2020,Oct,17,17/Oct/2020,Sat,1,0,1,Shrewsbury Town FC
+6,Sat Oct 17 2020,Bristol Rovers FC,01-Jan,Burton Albion FC,2020,Oct,17,17/Oct/2020,Sat,2,1,1,Draw
+6,Sat Oct 17 2020,Charlton Athletic FC,1-0,Wigan Athletic FC,2020,Oct,17,17/Oct/2020,Sat,1,1,0,Charlton Athletic FC
+6,Sat Oct 17 2020,Crewe Alexandra FC,01-Jan,Blackpool FC,2020,Oct,17,17/Oct/2020,Sat,2,1,1,Draw
+6,Sat Oct 17 2020,Fleetwood Town FC,0-0,Lincoln City FC,2020,Oct,17,17/Oct/2020,Sat,0,0,0,Draw
+6,Sat Oct 17 2020,Ipswich Town FC,2-0,Accrington Stanley FC,2020,Oct,17,17/Oct/2020,Sat,2,2,0,Ipswich Town FC
+6,Sat Oct 17 2020,Peterborough United FC,2-0,Oxford United FC,2020,Oct,17,17/Oct/2020,Sat,2,2,0,Peterborough United FC
+6,Sat Oct 17 2020,Plymouth Argyle FC,02-Jan,Northampton Town FC,2020,Oct,17,17/Oct/2020,Sat,3,2,1,Plymouth Argyle FC
+6,Sat Oct 17 2020,Portsmouth FC,0-1,Doncaster Rovers FC,2020,Oct,17,17/Oct/2020,Sat,1,0,1,Doncaster Rovers FC
+6,Sat Oct 17 2020,Rochdale AFC,0-3,Hull City AFC,2020,Oct,17,17/Oct/2020,Sat,3,0,3,Hull City AFC
+6,Sat Oct 17 2020,Swindon Town FC,0-2,Sunderland AFC,2020,Oct,17,17/Oct/2020,Sat,2,0,2,Sunderland AFC
+7,Tue Oct 20 2020,Shrewsbury Town FC,0-1,Bristol Rovers FC,2020,Oct,20,20/Oct/2020,Tue,1,0,1,Bristol Rovers FC
+7,Tue Oct 20 2020,Gillingham FC,0-2,Portsmouth FC,2020,Oct,20,20/Oct/2020,Tue,2,0,2,Portsmouth FC
+7,Tue Oct 20 2020,Accrington Stanley FC,1-0,Fleetwood Town FC,2020,Oct,20,20/Oct/2020,Tue,1,1,0,Accrington Stanley FC
+7,Tue Oct 20 2020,Blackpool FC,0-1,Charlton Athletic FC,2020,Oct,20,20/Oct/2020,Tue,1,0,1,Charlton Athletic FC
+7,Tue Oct 20 2020,Hull City AFC,1-0,AFC Wimbledon,2020,Oct,20,20/Oct/2020,Tue,1,1,0,Hull City AFC
+7,Tue Oct 20 2020,Lincoln City FC,2-0,Plymouth Argyle FC,2020,Oct,20,20/Oct/2020,Tue,2,2,0,Lincoln City FC
+7,Tue Oct 20 2020,Oxford United FC,03-Feb,Milton Keynes Dons FC,2020,Oct,20,20/Oct/2020,Tue,5,3,2,Oxford United FC
+7,Tue Oct 20 2020,Sunderland AFC,1-0,Crewe Alexandra FC,2020,Oct,20,20/Oct/2020,Tue,1,1,0,Sunderland AFC
+7,Tue Oct 20 2020,Wigan Athletic FC,0-1,Peterborough United FC,2020,Oct,20,20/Oct/2020,Tue,1,0,1,Peterborough United FC
+7,Tue Oct 20 2020,Doncaster Rovers FC,04-Jan,Ipswich Town FC,2020,Oct,20,20/Oct/2020,Tue,5,4,1,Doncaster Rovers FC
+7,Tue Oct 20 2020,Burton Albion FC,0-1,Rochdale AFC,2020,Oct,20,20/Oct/2020,Tue,1,0,1,Rochdale AFC
+7,Tue Oct 20 2020,Northampton Town FC,02-Jan,Swindon Town FC,2020,Oct,20,20/Oct/2020,Tue,3,2,1,Northampton Town FC
+8,Sat Oct 24 2020,Accrington Stanley FC,,Bristol Rovers FC,2020,Oct,24,24/Oct/2020,Sat,1,0,1,Bristol Rovers FC
+8,Sat Oct 24 2020,Gillingham FC,0-2,Fleetwood Town FC,2020,Oct,24,24/Oct/2020,Sat,2,0,2,Fleetwood Town FC
+8,Sat Oct 24 2020,Blackpool FC,1-0,Milton Keynes Dons FC,2020,Oct,24,24/Oct/2020,Sat,1,1,0,Blackpool FC
+8,Sat Oct 24 2020,Burton Albion FC,01-Jan,AFC Wimbledon,2020,Oct,24,24/Oct/2020,Sat,2,1,1,Draw
+8,Sat Oct 24 2020,Doncaster Rovers FC,01-Feb,Crewe Alexandra FC,2020,Oct,24,24/Oct/2020,Sat,3,1,2,Crewe Alexandra FC
+8,Sat Oct 24 2020,Hull City AFC,01-Feb,Peterborough United FC,2020,Oct,24,24/Oct/2020,Sat,3,1,2,Peterborough United FC
+8,Sat Oct 24 2020,Lincoln City FC,1-0,Ipswich Town FC,2020,Oct,24,24/Oct/2020,Sat,1,1,0,Lincoln City FC
+8,Sat Oct 24 2020,Northampton Town FC,0-2,Charlton Athletic FC,2020,Oct,24,24/Oct/2020,Sat,2,0,2,Charlton Athletic FC
+8,Sat Oct 24 2020,Shrewsbury Town FC,01-Feb,Rochdale AFC,2020,Oct,24,24/Oct/2020,Sat,3,1,2,Rochdale AFC
+8,Sat Oct 24 2020,Sunderland AFC,01-Mar,Portsmouth FC,2020,Oct,24,24/Oct/2020,Sat,4,1,3,Portsmouth FC
+8,Sat Oct 24 2020,Wigan Athletic FC,01-Jan,Plymouth Argyle FC,2020,Oct,24,24/Oct/2020,Sat,2,1,1,Draw
+9,Tue Oct 27 2020,AFC Wimbledon,1-0,Blackpool FC,2020,Oct,27,27/Oct/2020,Tue,1,1,0,AFC Wimbledon
+9,Tue Oct 27 2020,Bristol Rovers FC,01-Mar,Hull City AFC,2020,Oct,27,27/Oct/2020,Tue,4,1,3,Hull City AFC
+9,Tue Oct 27 2020,Charlton Athletic FC,2-0,Oxford United FC,2020,Oct,27,27/Oct/2020,Tue,2,2,0,Charlton Athletic FC
+9,Tue Oct 27 2020,Crewe Alexandra FC,0-1,Lincoln City FC,2020,Oct,27,27/Oct/2020,Tue,1,0,1,Lincoln City FC
+9,Tue Oct 27 2020,Ipswich Town FC,1-0,Gillingham FC,2020,Oct,27,27/Oct/2020,Tue,1,1,0,Ipswich Town FC
+9,Tue Oct 27 2020,Milton Keynes Dons FC,2-0,Wigan Athletic FC,2020,Oct,27,27/Oct/2020,Tue,2,2,0,Milton Keynes Dons FC
+9,Tue Oct 27 2020,Peterborough United FC,02-Feb,Burton Albion FC,2020,Oct,27,27/Oct/2020,Tue,4,2,2,Draw
+9,Tue Oct 27 2020,Fleetwood Town FC,1-0,Shrewsbury Town FC,2020,Oct,27,27/Oct/2020,Tue,1,1,0,Fleetwood Town FC
+9,Tue Oct 27 2020,Plymouth Argyle FC,02-Jan,Doncaster Rovers FC,2020,Oct,27,27/Oct/2020,Tue,3,2,1,Plymouth Argyle FC
+9,Tue Oct 27 2020,Portsmouth FC,4-0,Northampton Town FC,2020,Oct,27,27/Oct/2020,Tue,4,4,0,Portsmouth FC
+9,Tue Oct 27 2020,Rochdale AFC,02-Feb,Sunderland AFC,2020,Oct,27,27/Oct/2020,Tue,4,2,2,Draw
+10,Sat Oct 31 2020,Accrington Stanley FC,,Plymouth Argyle FC,2020,Oct,31,31/Oct/2020,Sat,1,0,1,Plymouth Argyle FC
+10,Sat Oct 31 2020,Gillingham FC,0-2,Sunderland AFC,2020,Oct,31,31/Oct/2020,Sat,2,0,2,Sunderland AFC
+10,Sat Oct 31 2020,Burton Albion FC,01-Feb,Blackpool FC,2020,Oct,31,31/Oct/2020,Sat,3,1,2,Blackpool FC
+10,Sat Oct 31 2020,Doncaster Rovers FC,1-0,Lincoln City FC,2020,Oct,31,31/Oct/2020,Sat,1,1,0,Doncaster Rovers FC
+10,Sat Oct 31 2020,Fleetwood Town FC,2-0,Oxford United FC,2020,Oct,31,31/Oct/2020,Sat,2,2,0,Fleetwood Town FC
+10,Sat Oct 31 2020,Ipswich Town FC,1-0,Crewe Alexandra FC,2020,Oct,31,31/Oct/2020,Sat,1,1,0,Ipswich Town FC
+10,Sat Oct 31 2020,Milton Keynes Dons FC,01-Jan,AFC Wimbledon,2020,Oct,31,31/Oct/2020,Sat,2,1,1,Draw
+10,Sat Oct 31 2020,Peterborough United FC,05-Jan,Shrewsbury Town FC,2020,Oct,31,31/Oct/2020,Sat,6,5,1,Peterborough United FC
+10,Sat Oct 31 2020,Portsmouth FC,0-2,Charlton Athletic FC,2020,Oct,31,31/Oct/2020,Sat,2,0,2,Charlton Athletic FC
+10,Sat Oct 31 2020,Rochdale AFC,01-Jan,Bristol Rovers FC,2020,Oct,31,31/Oct/2020,Sat,2,1,1,Draw
+10,Sat Oct 31 2020,Swindon Town FC,02-Jan,Hull City AFC,2020,Oct,31,31/Oct/2020,Sat,3,2,1,Swindon Town FC
+10,Sat Oct 31 2020,Wigan Athletic FC,02-Mar,Northampton Town FC,2020,Oct,31,31/Oct/2020,Sat,5,2,3,Northampton Town FC
+11,Tue Nov 3 2020,Hull City AFC,,Accrington Stanley FC,2020,Nov,3,3/Nov/2020,Tue,1,0,1,Accrington Stanley FC
+11,Tue Nov 3 2020,Shrewsbury Town FC,01-Jan,Burton Albion FC,2020,Nov,3,3/Nov/2020,Tue,2,1,1,Draw
+11,Tue Nov 3 2020,Blackpool FC,1-0,Wigan Athletic FC,2020,Nov,3,3/Nov/2020,Tue,1,1,0,Blackpool FC
+11,Tue Nov 3 2020,Bristol Rovers FC,0-2,Peterborough United FC,2020,Nov,3,3/Nov/2020,Tue,2,0,2,Peterborough United FC
+11,Tue Nov 3 2020,Charlton Athletic FC,03-Feb,Fleetwood Town FC,2020,Nov,3,3/Nov/2020,Tue,5,3,2,Charlton Athletic FC
+11,Tue Nov 3 2020,Crewe Alexandra FC,0-1,Gillingham FC,2020,Nov,3,3/Nov/2020,Tue,1,0,1,Gillingham FC
+11,Tue Nov 3 2020,Lincoln City FC,01-Mar,Portsmouth FC,2020,Nov,3,3/Nov/2020,Tue,4,1,3,Portsmouth FC
+11,Tue Nov 3 2020,Oxford United FC,03-Jan,Rochdale AFC,2020,Nov,3,3/Nov/2020,Tue,4,3,1,Oxford United FC
+11,Tue Nov 3 2020,Plymouth Argyle FC,04-Feb,Swindon Town FC,2020,Nov,3,3/Nov/2020,Tue,6,4,2,Plymouth Argyle FC
+11,Tue Nov 3 2020,Sunderland AFC,02-Jan,Ipswich Town FC,2020,Nov,3,3/Nov/2020,Tue,3,2,1,Sunderland AFC
+11,Tue Nov 3 2020,AFC Wimbledon,02-Feb,Doncaster Rovers FC,2020,Nov,3,3/Nov/2020,Tue,4,2,2,Draw
+11,Tue Nov 3 2020,Northampton Town FC,0-0,Milton Keynes Dons FC,2020,Nov,3,3/Nov/2020,Tue,0,0,0,Draw
+12,Sat Nov 14 2020,AFC Wimbledon,,Wigan Athletic FC,2020,Nov,14,14/Nov/2020,Sat,1,0,1,Wigan Athletic FC
+12,Sat Nov 14 2020,Lincoln City FC,,Gillingham FC,2020,Nov,14,14/Nov/2020,Sat,1,0,1,Gillingham FC
+12,Sat Nov 14 2020,Bristol Rovers FC,01-Apr,Fleetwood Town FC,2020,Nov,14,14/Nov/2020,Sat,5,1,4,Fleetwood Town FC
+12,Sat Nov 14 2020,Crewe Alexandra FC,2-0,Peterborough United FC,2020,Nov,14,14/Nov/2020,Sat,2,2,0,Crewe Alexandra FC
+12,Sat Nov 14 2020,Hull City AFC,2-0,Burton Albion FC,2020,Nov,14,14/Nov/2020,Sat,2,2,0,Hull City AFC
+12,Sat Nov 14 2020,Northampton Town FC,0-1,Accrington Stanley FC,2020,Nov,14,14/Nov/2020,Sat,1,0,1,Accrington Stanley FC
+12,Sat Nov 14 2020,Shrewsbury Town FC,03-Mar,Swindon Town FC,2020,Nov,14,14/Nov/2020,Sat,6,3,3,Draw
+12,Sat Nov 14 2020,Sunderland AFC,01-Feb,Milton Keynes Dons FC,2020,Nov,14,14/Nov/2020,Sat,3,1,2,Milton Keynes Dons FC
+12,Mon Nov 16 2020,Plymouth Argyle FC,02-Feb,Portsmouth FC,2020,Nov,16,16/Nov/2020,Mon,4,2,2,Draw
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

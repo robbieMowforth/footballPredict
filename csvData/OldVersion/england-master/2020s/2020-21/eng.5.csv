@@ -1,0 +1,87 @@
+Round,Date,Team 1,FT,Team 2,Year,Month,Day,Date,DayOfWeek,Total Goals,Team 1 Goals,Team 2 Goals,Result
+1,Sat Oct 3 2020,Altrincham FC,0-0,Weymouth FC,2020,Oct,3,3/Oct/2020,Sat,0,0,0,Draw
+1,Sat Oct 3 2020,Dover Athletic FC,1-0,Notts County FC,2020,Oct,3,3/Oct/2020,Sat,1,1,0,Dover Athletic FC
+1,Sat Oct 3 2020,Barnet FC,01-May,Eastleigh FC,2020,Oct,3,3/Oct/2020,Sat,6,1,5,Eastleigh FC
+1,Sat Oct 3 2020,Woking FC,02-Jan,Solihull Moors FC,2020,Oct,3,3/Oct/2020,Sat,3,2,1,Woking FC
+1,Sat Oct 3 2020,FC Halifax Town,2-0,Dagenham & Redbridge FC,2020,Oct,3,3/Oct/2020,Sat,2,2,0,FC Halifax Town
+1,Sat Oct 3 2020,Hartlepool United FC,02-Jan,Aldershot Town FC,2020,Oct,3,3/Oct/2020,Sat,3,2,1,Hartlepool United FC
+1,Sat Oct 3 2020,Sutton United FC,3-0,Maidenhead United FC,2020,Oct,3,3/Oct/2020,Sat,3,3,0,Sutton United FC
+1,Sat Oct 3 2020,Torquay United FC,1-0,Stockport County FC,2020,Oct,3,3/Oct/2020,Sat,1,1,0,Torquay United FC
+1,Sat Oct 3 2020,Wrexham AFC,02-Jan,Boreham Wood FC,2020,Oct,3,3/Oct/2020,Sat,3,2,1,Wrexham AFC
+1,Sat Oct 3 2020,King's Lynn FC,02-Feb,Yeovil Town FC,2020,Oct,3,3/Oct/2020,Sat,4,2,2,Draw
+2,Tue Oct 6 2020,Aldershot Town FC,01-Feb,Sutton United FC,2020,Oct,6,6/Oct/2020,Tue,3,1,2,Sutton United FC
+2,Tue Oct 6 2020,Bromley FC,04-Jan,Dover Athletic FC,2020,Oct,6,6/Oct/2020,Tue,5,4,1,Bromley FC
+2,Tue Oct 6 2020,Dagenham & Redbridge FC,01-Feb,Barnet FC,2020,Oct,6,6/Oct/2020,Tue,3,1,2,Barnet FC
+2,Tue Oct 6 2020,Eastleigh FC,02-Jan,Torquay United FC,2020,Oct,6,6/Oct/2020,Tue,3,2,1,Eastleigh FC
+2,Tue Oct 6 2020,Chesterfield FC,01-Feb,Hartlepool United FC,2020,Oct,6,6/Oct/2020,Tue,3,1,2,Hartlepool United FC
+2,Tue Oct 6 2020,Weymouth FC,0-1,Woking FC,2020,Oct,6,6/Oct/2020,Tue,1,0,1,Woking FC
+2,Tue Oct 6 2020,Maidenhead United FC,02-Mar,King's Lynn FC,2020,Oct,6,6/Oct/2020,Tue,5,2,3,King's Lynn FC
+2,Tue Oct 6 2020,Solihull Moors FC,1-0,Wrexham AFC,2020,Oct,6,6/Oct/2020,Tue,1,1,0,Solihull Moors FC
+2,Tue Oct 6 2020,Stockport County FC,02-Jan,FC Halifax Town,2020,Oct,6,6/Oct/2020,Tue,3,2,1,Stockport County FC
+2,Tue Oct 6 2020,Yeovil Town FC,02-Feb,Wealdstone FC,2020,Oct,6,6/Oct/2020,Tue,4,2,2,Draw
+2,Wed Oct 7 2020,Notts County FC,03-Jan,Altrincham FC,2020,Oct,7,7/Oct/2020,Wed,4,3,1,Notts County FC
+3,Sat Oct 10 2020,Boreham Wood FC,0-0,FC Halifax Town,2020,Oct,10,10/Oct/2020,Sat,0,0,0,Draw
+3,Sat Oct 10 2020,Bromley FC,01-Feb,Torquay United FC,2020,Oct,10,10/Oct/2020,Sat,3,1,2,Torquay United FC
+3,Sat Oct 10 2020,Eastleigh FC,01-Jan,Altrincham FC,2020,Oct,10,10/Oct/2020,Sat,2,1,1,Draw
+3,Sat Oct 10 2020,Chesterfield FC,4-0,Woking FC,2020,Oct,10,10/Oct/2020,Sat,4,4,0,Chesterfield FC
+3,Sat Oct 10 2020,Weymouth FC,0-1,Sutton United FC,2020,Oct,10,10/Oct/2020,Sat,1,0,1,Sutton United FC
+3,Sat Oct 10 2020,Maidenhead United FC,0-4,Hartlepool United FC,2020,Oct,10,10/Oct/2020,Sat,4,0,4,Hartlepool United FC
+3,Sat Oct 10 2020,Notts County FC,04-Feb,Barnet FC,2020,Oct,10,10/Oct/2020,Sat,6,4,2,Notts County FC
+3,Sat Oct 10 2020,Solihull Moors FC,5-0,King's Lynn FC,2020,Oct,10,10/Oct/2020,Sat,5,5,0,Solihull Moors FC
+3,Sat Oct 10 2020,Stockport County FC,3-0,Dover Athletic FC,2020,Oct,10,10/Oct/2020,Sat,3,3,0,Stockport County FC
+3,Sat Oct 10 2020,Yeovil Town FC,0-1,Wrexham AFC,2020,Oct,10,10/Oct/2020,Sat,1,0,1,Wrexham AFC
+3,Sat Oct 10 2020,Dagenham & Redbridge FC,1-0,Wealdstone FC,2020,Oct,10,10/Oct/2020,Sat,1,1,0,Dagenham & Redbridge FC
+4,Mon Oct 12 2020,Wrexham AFC,0-1,Maidenhead United FC,2020,Oct,12,12/Oct/2020,Mon,1,0,1,Maidenhead United FC
+4,Tue Oct 13 2020,Dover Athletic FC,0-5,Aldershot Town FC,2020,Oct,13,13/Oct/2020,Tue,5,0,5,Aldershot Town FC
+4,Tue Oct 13 2020,Barnet FC,1-0,Weymouth FC,2020,Oct,13,13/Oct/2020,Tue,1,1,0,Barnet FC
+4,Tue Oct 13 2020,Woking FC,2-0,Dagenham & Redbridge FC,2020,Oct,13,13/Oct/2020,Tue,2,2,0,Woking FC
+4,Tue Oct 13 2020,FC Halifax Town,01-Jan,Yeovil Town FC,2020,Oct,13,13/Oct/2020,Tue,2,1,1,Draw
+4,Tue Oct 13 2020,Hartlepool United FC,0-0,Bromley FC,2020,Oct,13,13/Oct/2020,Tue,0,0,0,Draw
+4,Tue Oct 13 2020,King's Lynn FC,0-3,Boreham Wood FC,2020,Oct,13,13/Oct/2020,Tue,3,0,3,Boreham Wood FC
+4,Tue Oct 13 2020,Sutton United FC,0-1,Notts County FC,2020,Oct,13,13/Oct/2020,Tue,1,0,1,Notts County FC
+4,Tue Oct 13 2020,Torquay United FC,02-Jan,Chesterfield FC,2020,Oct,13,13/Oct/2020,Tue,3,2,1,Torquay United FC
+4,Tue Oct 13 2020,Wealdstone FC,02-May,Stockport County FC,2020,Oct,13,13/Oct/2020,Tue,7,2,5,Stockport County FC
+5,Sat Oct 17 2020,Dagenham & Redbridge FC,0-0,Yeovil Town FC,2020,Oct,17,17/Oct/2020,Sat,0,0,0,Draw
+5,Sat Oct 17 2020,Eastleigh FC,02-Feb,Aldershot Town FC,2020,Oct,17,17/Oct/2020,Sat,4,2,2,Draw
+5,Sat Oct 17 2020,Weymouth FC,02-Jan,King's Lynn FC,2020,Oct,17,17/Oct/2020,Sat,3,2,1,Weymouth FC
+5,Sat Oct 17 2020,Woking FC,0-0,FC Halifax Town,2020,Oct,17,17/Oct/2020,Sat,0,0,0,Draw
+5,Sat Oct 17 2020,Notts County FC,02-Mar,Maidenhead United FC,2020,Oct,17,17/Oct/2020,Sat,5,2,3,Maidenhead United FC
+5,Sat Oct 17 2020,Solihull Moors FC,1-0,Boreham Wood FC,2020,Oct,17,17/Oct/2020,Sat,1,1,0,Solihull Moors FC
+5,Sat Oct 17 2020,Torquay United FC,2-0,Dover Athletic FC,2020,Oct,17,17/Oct/2020,Sat,2,2,0,Torquay United FC
+5,Sat Oct 17 2020,Wealdstone FC,04-Mar,Wrexham AFC,2020,Oct,17,17/Oct/2020,Sat,7,4,3,Wealdstone FC
+5,Sat Oct 17 2020,Chesterfield FC,01-Feb,Stockport County FC,2020,Oct,17,17/Oct/2020,Sat,3,1,2,Stockport County FC
+1,Tue Oct 20 2020,Wealdstone FC,03-Feb,Chesterfield FC,2020,Oct,20,20/Oct/2020,Tue,5,3,2,Wealdstone FC
+6,Tue Oct 27 2020,Wrexham AFC,0-0,Barnet FC,2020,Oct,27,27/Oct/2020,Tue,0,0,0,Draw
+6,Tue Oct 27 2020,Aldershot Town FC,01-Apr,Torquay United FC,2020,Oct,27,27/Oct/2020,Tue,5,1,4,Torquay United FC
+6,Tue Oct 27 2020,Boreham Wood FC,1-0,Woking FC,2020,Oct,27,27/Oct/2020,Tue,1,1,0,Boreham Wood FC
+6,Tue Oct 27 2020,Bromley FC,03-Feb,Weymouth FC,2020,Oct,27,27/Oct/2020,Tue,5,3,2,Bromley FC
+6,Tue Oct 27 2020,Dover Athletic FC,03-Feb,Eastleigh FC,2020,Oct,27,27/Oct/2020,Tue,5,3,2,Dover Athletic FC
+6,Tue Oct 27 2020,Hartlepool United FC,01-Jan,Altrincham FC,2020,Oct,27,27/Oct/2020,Tue,2,1,1,Draw
+6,Tue Oct 27 2020,King's Lynn FC,02-Mar,Wealdstone FC,2020,Oct,27,27/Oct/2020,Tue,5,2,3,Wealdstone FC
+6,Tue Oct 27 2020,Maidenhead United FC,02-Jan,Dagenham & Redbridge FC,2020,Oct,27,27/Oct/2020,Tue,3,2,1,Maidenhead United FC
+6,Tue Oct 27 2020,Stockport County FC,0-0,Solihull Moors FC,2020,Oct,27,27/Oct/2020,Tue,0,0,0,Draw
+6,Tue Oct 27 2020,Yeovil Town FC,01-Feb,Sutton United FC,2020,Oct,27,27/Oct/2020,Tue,3,1,2,Sutton United FC
+7,Sat Oct 31 2020,Wrexham AFC,,Sutton United FC,2020,Oct,31,31/Oct/2020,Sat,1,0,1,Sutton United FC
+7,Sat Oct 31 2020,Bromley FC,01-Feb,Eastleigh FC,2020,Oct,31,31/Oct/2020,Sat,3,1,2,Eastleigh FC
+7,Sat Oct 31 2020,Dover Athletic FC,0-1,Altrincham FC,2020,Oct,31,31/Oct/2020,Sat,1,0,1,Altrincham FC
+7,Sat Oct 31 2020,King's Lynn FC,03-Feb,Woking FC,2020,Oct,31,31/Oct/2020,Sat,5,3,2,King's Lynn FC
+7,Sat Oct 31 2020,Maidenhead United FC,03-Jan,Solihull Moors FC,2020,Oct,31,31/Oct/2020,Sat,4,3,1,Maidenhead United FC
+7,Sat Oct 31 2020,Stockport County FC,01-Feb,Weymouth FC,2020,Oct,31,31/Oct/2020,Sat,3,1,2,Weymouth FC
+7,Sat Oct 31 2020,Yeovil Town FC,0-1,Chesterfield FC,2020,Oct,31,31/Oct/2020,Sat,1,0,1,Chesterfield FC
+7,Sat Oct 31 2020,Hartlepool United FC,0-5,Torquay United FC,2020,Oct,31,31/Oct/2020,Sat,5,0,5,Torquay United FC
+38,Sat Nov 7 2020,Wealdstone FC,1-0,Altrincham FC,2020,Nov,7,7/Nov/2020,Sat,1,1,0,Wealdstone FC
+7,Sat Nov 7 2020,Aldershot Town FC,1-0,Notts County FC,2020,Nov,7,7/Nov/2020,Sat,1,1,0,Aldershot Town FC
+7,Tue Nov 10 2020,Boreham Wood FC,0-1,Dagenham & Redbridge FC,2020,Nov,10,10/Nov/2020,Tue,1,0,1,Dagenham & Redbridge FC
+7,Tue Nov 10 2020,FC Halifax Town,0-1,Wealdstone FC,2020,Nov,10,10/Nov/2020,Tue,1,0,1,Wealdstone FC
+4,Wed Nov 11 2020,Altrincham FC,0-2,Solihull Moors FC,2020,Nov,11,11/Nov/2020,Wed,2,0,2,Solihull Moors FC
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

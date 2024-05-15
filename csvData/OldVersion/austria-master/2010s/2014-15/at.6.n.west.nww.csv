@@ -1,0 +1,183 @@
+Round,Date,Team 1,FT,Team 2,Year,Month,Day,Date,DayOfWeek,Total Goals,Team 1 Goals,Team 2 Goals,Result
+1,Thu Aug 14 2014,USC Grafenwörth,0-2,USV Groß Gerungs,2014,Aug,14,14/Aug/2014,Thu,2,0,2,USV Groß Gerungs
+1,Fri Aug 15 2014,SC St. Martin,0-1,SV Zwentendorf,2014,Aug,15,15/Aug/2014,Fri,1,0,1,SV Zwentendorf
+1,Fri Aug 15 2014,USC Kirchberg/W.,0-1,USC Altenwörth,2014,Aug,15,15/Aug/2014,Fri,1,0,1,USC Altenwörth
+1,Fri Aug 15 2014,SV Rehberg,01-Jan,Horn Amateure,2014,Aug,15,15/Aug/2014,Fri,2,1,1,Draw
+1,Fri Aug 15 2014,SV Sieghartskirchen,04-Jan,SC Weißenkirchen,2014,Aug,15,15/Aug/2014,Fri,5,4,1,SV Sieghartskirchen
+1,Sat Aug 16 2014,USV Langenlois,02-Jan,SC Guntersdorf,2014,Aug,16,16/Aug/2014,Sat,3,2,1,USV Langenlois
+1,Sun Aug 17 2014,SC Echsenbach,0-2,USC Schweiggers,2014,Aug,17,17/Aug/2014,Sun,2,0,2,USC Schweiggers
+2,Sat Aug 23 2014,SC Guntersdorf,4-0,USV Groß Gerungs,2014,Aug,23,23/Aug/2014,Sat,4,4,0,SC Guntersdorf
+2,Sat Aug 23 2014,USC Altenwörth,2-0,SC Echsenbach,2014,Aug,23,23/Aug/2014,Sat,2,2,0,USC Altenwörth
+2,Sat Aug 23 2014,Horn Amateure,02-Mar,SV Sieghartskirchen,2014,Aug,23,23/Aug/2014,Sat,5,2,3,SV Sieghartskirchen
+2,Sat Aug 23 2014,USV Langenlois,03-Jan,USC Kirchberg/W.,2014,Aug,23,23/Aug/2014,Sat,4,3,1,USV Langenlois
+2,Sat Aug 23 2014,USC Schweiggers,01-Feb,SV Rehberg,2014,Aug,23,23/Aug/2014,Sat,3,1,2,SV Rehberg
+2,Sun Aug 24 2014,SC Weißenkirchen,08-Feb,SC St. Martin,2014,Aug,24,24/Aug/2014,Sun,10,8,2,SC Weißenkirchen
+2,Sun Aug 24 2014,SV Zwentendorf,0-4,USC Grafenwörth,2014,Aug,24,24/Aug/2014,Sun,4,0,4,USC Grafenwörth
+3,Fri Aug 29 2014,USC Kirchberg/W.,0-2,SC Guntersdorf,2014,Aug,29,29/Aug/2014,Fri,2,0,2,SC Guntersdorf
+3,Fri Aug 29 2014,USC Grafenwörth,1-0,SC Weißenkirchen,2014,Aug,29,29/Aug/2014,Fri,1,1,0,USC Grafenwörth
+3,Fri Aug 29 2014,SV Sieghartskirchen,02-Jan,USC Schweiggers,2014,Aug,29,29/Aug/2014,Fri,3,2,1,SV Sieghartskirchen
+3,Sat Aug 30 2014,SC St. Martin,2-0,Horn Amateure,2014,Aug,30,30/Aug/2014,Sat,2,2,0,SC St. Martin
+3,Sat Aug 30 2014,SV Rehberg,1-0,USC Altenwörth,2014,Aug,30,30/Aug/2014,Sat,1,1,0,SV Rehberg
+3,Sun Aug 31 2014,USV Groß Gerungs,01-Jan,SV Zwentendorf,2014,Aug,31,31/Aug/2014,Sun,2,1,1,Draw
+3,Sun Aug 31 2014,SC Echsenbach,02-Feb,USV Langenlois,2014,Aug,31,31/Aug/2014,Sun,4,2,2,Draw
+4,Fri Sep 5 2014,Horn Amateure,0-7,USC Grafenwörth,2014,Sep,5,5/Sep/2014,Fri,7,0,7,USC Grafenwörth
+4,Fri Sep 5 2014,USC Kirchberg/W.,01-Jan,SC Echsenbach,2014,Sep,5,5/Sep/2014,Fri,2,1,1,Draw
+4,Sat Sep 6 2014,USC Altenwörth,1-0,SV Sieghartskirchen,2014,Sep,6,6/Sep/2014,Sat,1,1,0,USC Altenwörth
+4,Sat Sep 6 2014,USV Langenlois,02-Apr,SV Rehberg,2014,Sep,6,6/Sep/2014,Sat,6,2,4,SV Rehberg
+4,Sat Sep 6 2014,USC Schweiggers,0-3,SC St. Martin,2014,Sep,6,6/Sep/2014,Sat,3,0,3,SC St. Martin
+4,Sun Sep 7 2014,SC Guntersdorf,03-Jan,SV Zwentendorf,2014,Sep,7,7/Sep/2014,Sun,4,3,1,SC Guntersdorf
+4,Sun Sep 7 2014,SC Weißenkirchen,0-1,USV Groß Gerungs,2014,Sep,7,7/Sep/2014,Sun,1,0,1,USV Groß Gerungs
+5,Fri Sep 12 2014,USV Groß Gerungs,01-Feb,Horn Amateure,2014,Sep,12,12/Sep/2014,Fri,3,1,2,Horn Amateure
+5,Fri Sep 12 2014,SV Sieghartskirchen,04-Jan,USV Langenlois,2014,Sep,12,12/Sep/2014,Fri,5,4,1,SV Sieghartskirchen
+5,Fri Sep 12 2014,USC Grafenwörth,3-0,USC Schweiggers,2014,Sep,12,12/Sep/2014,Fri,3,3,0,USC Grafenwörth
+5,Sat Sep 13 2014,SC St. Martin,01-Jan,USC Altenwörth,2014,Sep,13,13/Sep/2014,Sat,2,1,1,Draw
+5,Sat Sep 13 2014,SV Zwentendorf,03-Mar,SC Weißenkirchen,2014,Sep,13,13/Sep/2014,Sat,6,3,3,Draw
+5,Sat Sep 13 2014,SV Rehberg,4-0,USC Kirchberg/W.,2014,Sep,13,13/Sep/2014,Sat,4,4,0,SV Rehberg
+5,Sun Sep 14 2014,SC Echsenbach,01-Apr,SC Guntersdorf,2014,Sep,14,14/Sep/2014,Sun,5,1,4,SC Guntersdorf
+6,Fri Sep 19 2014,USC Kirchberg/W.,02-Jan,SV Sieghartskirchen,2014,Sep,19,19/Sep/2014,Fri,3,2,1,USC Kirchberg/W.
+6,Sat Sep 20 2014,SC Guntersdorf,02-Jan,SC Weißenkirchen,2014,Sep,20,20/Sep/2014,Sat,3,2,1,SC Guntersdorf
+6,Sat Sep 20 2014,USC Altenwörth,0-4,USC Grafenwörth,2014,Sep,20,20/Sep/2014,Sat,4,0,4,USC Grafenwörth
+6,Sat Sep 20 2014,USV Langenlois,02-Jan,SC St. Martin,2014,Sep,20,20/Sep/2014,Sat,3,2,1,USV Langenlois
+6,Sat Sep 20 2014,USC Schweiggers,02-Mar,USV Groß Gerungs,2014,Sep,20,20/Sep/2014,Sat,5,2,3,USV Groß Gerungs
+6,Sun Sep 21 2014,Horn Amateure,0-3,SV Zwentendorf,2014,Sep,21,21/Sep/2014,Sun,3,0,3,SV Zwentendorf
+6,Sun Sep 21 2014,SC Echsenbach,0-4,SV Rehberg,2014,Sep,21,21/Sep/2014,Sun,4,0,4,SV Rehberg
+7,Fri Sep 26 2014,USC Grafenwörth,3-0,USV Langenlois,2014,Sep,26,26/Sep/2014,Fri,3,3,0,USC Grafenwörth
+7,Fri Sep 26 2014,SV Sieghartskirchen,0-2,SC Echsenbach,2014,Sep,26,26/Sep/2014,Fri,2,0,2,SC Echsenbach
+7,Sat Sep 27 2014,SV Rehberg,04-Jan,SC Guntersdorf,2014,Sep,27,27/Sep/2014,Sat,5,4,1,SV Rehberg
+7,Sun Sep 28 2014,SV Zwentendorf,1-0,USC Schweiggers,2014,Sep,28,28/Sep/2014,Sun,1,1,0,SV Zwentendorf
+7,Sun Sep 28 2014,SC St. Martin,03-Jan,USC Kirchberg/W.,2014,Sep,28,28/Sep/2014,Sun,4,3,1,SC St. Martin
+7,Sun Sep 28 2014,USV Groß Gerungs,01-Jan,USC Altenwörth,2014,Sep,28,28/Sep/2014,Sun,2,1,1,Draw
+7,Sun Sep 28 2014,SC Weißenkirchen,01-Feb,Horn Amateure,2014,Sep,28,28/Sep/2014,Sun,3,1,2,Horn Amateure
+8,Fri Oct 3 2014,USC Schweiggers,02-Feb,SC Weißenkirchen,2014,Oct,3,3/Oct/2014,Fri,4,2,2,Draw
+8,Sat Oct 4 2014,SV Rehberg,01-Jan,SV Sieghartskirchen,2014,Oct,4,4/Oct/2014,Sat,2,1,1,Draw
+8,Sat Oct 4 2014,USC Altenwörth,01-Feb,SV Zwentendorf,2014,Oct,4,4/Oct/2014,Sat,3,1,2,SV Zwentendorf
+8,Sat Oct 4 2014,SC Guntersdorf,02-Jan,Horn Amateure,2014,Oct,4,4/Oct/2014,Sat,3,2,1,SC Guntersdorf
+8,Sat Oct 4 2014,USV Langenlois,0-0,USV Groß Gerungs,2014,Oct,4,4/Oct/2014,Sat,0,0,0,Draw
+8,Sun Oct 5 2014,USC Kirchberg/W.,01-Feb,USC Grafenwörth,2014,Oct,5,5/Oct/2014,Sun,3,1,2,USC Grafenwörth
+8,Sun Oct 5 2014,SC Echsenbach,02-Jan,SC St. Martin,2014,Oct,5,5/Oct/2014,Sun,3,2,1,SC Echsenbach
+9,Fri Oct 10 2014,SV Sieghartskirchen,0-2,SC Guntersdorf,2014,Oct,10,10/Oct/2014,Fri,2,0,2,SC Guntersdorf
+9,Fri Oct 10 2014,USC Grafenwörth,1-0,SC Echsenbach,2014,Oct,10,10/Oct/2014,Fri,1,1,0,USC Grafenwörth
+9,Sat Oct 11 2014,SV Zwentendorf,1-0,USV Langenlois,2014,Oct,11,11/Oct/2014,Sat,1,1,0,SV Zwentendorf
+9,Sat Oct 11 2014,SC St. Martin,2-0,SV Rehberg,2014,Oct,11,11/Oct/2014,Sat,2,2,0,SC St. Martin
+9,Sat Oct 11 2014,USV Groß Gerungs,1-0,USC Kirchberg/W.,2014,Oct,11,11/Oct/2014,Sat,1,1,0,USV Groß Gerungs
+9,Sat Oct 11 2014,Horn Amateure,0-3,USC Schweiggers,2014,Oct,11,11/Oct/2014,Sat,3,0,3,USC Schweiggers
+9,Sun Oct 12 2014,SC Weißenkirchen,4-0,USC Altenwörth,2014,Oct,12,12/Oct/2014,Sun,4,4,0,SC Weißenkirchen
+10,Fri Oct 17 2014,SV Sieghartskirchen,2-0,SC St. Martin,2014,Oct,17,17/Oct/2014,Fri,2,2,0,SV Sieghartskirchen
+10,Sat Oct 18 2014,USC Altenwörth,0-1,Horn Amateure,2014,Oct,18,18/Oct/2014,Sat,1,0,1,Horn Amateure
+10,Sat Oct 18 2014,SV Rehberg,3-0,USC Grafenwörth,2014,Oct,18,18/Oct/2014,Sat,3,3,0,SV Rehberg
+10,Sat Oct 18 2014,SC Guntersdorf,01-Jan,USC Schweiggers,2014,Oct,18,18/Oct/2014,Sat,2,1,1,Draw
+10,Sat Oct 18 2014,USV Langenlois,04-Mar,SC Weißenkirchen,2014,Oct,18,18/Oct/2014,Sat,7,4,3,USV Langenlois
+10,Sun Oct 19 2014,USC Kirchberg/W.,3-0,SV Zwentendorf,2014,Oct,19,19/Oct/2014,Sun,3,3,0,USC Kirchberg/W.
+10,Sun Oct 19 2014,SC Echsenbach,03-May,USV Groß Gerungs,2014,Oct,19,19/Oct/2014,Sun,8,3,5,USV Groß Gerungs
+11,Fri Oct 24 2014,USC Grafenwörth,02-Jan,SV Sieghartskirchen,2014,Oct,24,24/Oct/2014,Fri,3,2,1,USC Grafenwörth
+11,Sat Oct 25 2014,SC St. Martin,0-3,SC Guntersdorf,2014,Oct,25,25/Oct/2014,Sat,3,0,3,SC Guntersdorf
+11,Sat Oct 25 2014,Horn Amateure,03-Mar,USV Langenlois,2014,Oct,25,25/Oct/2014,Sat,6,3,3,Draw
+11,Sat Oct 25 2014,SC Weißenkirchen,3-0,USC Kirchberg/W.,2014,Oct,25,25/Oct/2014,Sat,3,3,0,SC Weißenkirchen
+11,Sat Oct 25 2014,USC Schweiggers,06-Jan,USC Altenwörth,2014,Oct,25,25/Oct/2014,Sat,7,6,1,USC Schweiggers
+11,Sun Oct 26 2014,SV Zwentendorf,03-Feb,SC Echsenbach,2014,Oct,26,26/Oct/2014,Sun,5,3,2,SV Zwentendorf
+11,Sun Oct 26 2014,USV Groß Gerungs,0-0,SV Rehberg,2014,Oct,26,26/Oct/2014,Sun,0,0,0,Draw
+12,Fri Oct 31 2014,USC Kirchberg/W.,04-Feb,Horn Amateure,2014,Oct,31,31/Oct/2014,Fri,6,4,2,USC Kirchberg/W.
+12,Fri Oct 31 2014,USV Langenlois,1-0,USC Schweiggers,2014,Oct,31,31/Oct/2014,Fri,1,1,0,USV Langenlois
+12,Sat Nov 1 2014,SC Guntersdorf,04-Feb,USC Altenwörth,2014,Nov,1,1/Nov/2014,Sat,6,4,2,SC Guntersdorf
+12,Sun Nov 2 2014,SV Sieghartskirchen,02-Jan,USV Groß Gerungs,2014,Nov,2,2/Nov/2014,Sun,3,2,1,SV Sieghartskirchen
+12,Sun Nov 2 2014,SC Echsenbach,01-Apr,SC Weißenkirchen,2014,Nov,2,2/Nov/2014,Sun,5,1,4,SC Weißenkirchen
+12,Sun Nov 2 2014,SC St. Martin,02-Jan,USC Grafenwörth,2014,Nov,2,2/Nov/2014,Sun,3,2,1,SC St. Martin
+12,Sun Nov 2 2014,SV Rehberg,03-Feb,SV Zwentendorf,2014,Nov,2,2/Nov/2014,Sun,5,3,2,SV Rehberg
+13,Sat Nov 8 2014,USC Grafenwörth,0-0,SC Guntersdorf,2014,Nov,8,8/Nov/2014,Sat,0,0,0,Draw
+13,Sat Nov 8 2014,USC Altenwörth,02-Feb,USV Langenlois,2014,Nov,8,8/Nov/2014,Sat,4,2,2,Draw
+13,Sat Nov 8 2014,USC Schweiggers,02-Feb,USC Kirchberg/W.,2014,Nov,8,8/Nov/2014,Sat,4,2,2,Draw
+13,Sat Nov 8 2014,SC Weißenkirchen,01-Jan,SV Rehberg,2014,Nov,8,8/Nov/2014,Sat,2,1,1,Draw
+13,Sat Nov 8 2014,SV Zwentendorf,03-Feb,SV Sieghartskirchen,2014,Nov,8,8/Nov/2014,Sat,5,3,2,SV Zwentendorf
+13,Sat Nov 8 2014,Horn Amateure,0-3,SC Echsenbach,2014,Nov,8,8/Nov/2014,Sat,3,0,3,SC Echsenbach
+13,Sat Nov 8 2014,USV Groß Gerungs,01-Feb,SC St. Martin,2014,Nov,8,8/Nov/2014,Sat,3,1,2,SC St. Martin
+26,Sun Mar 22 2015,SV Sieghartskirchen,01-Feb,SV Zwentendorf,2015,Mar,22,22/Mar/2015,Sun,3,1,2,SV Zwentendorf
+26,Sun Mar 22 2015,USV Langenlois,02-Jan,USC Altenwörth,2015,Mar,22,22/Mar/2015,Sun,3,2,1,USV Langenlois
+26,Sun Mar 22 2015,USC Kirchberg/W.,0-0,USC Schweiggers,2015,Mar,22,22/Mar/2015,Sun,0,0,0,Draw
+26,Sun Mar 22 2015,SC Guntersdorf,2-0,USC Grafenwörth,2015,Mar,22,22/Mar/2015,Sun,2,2,0,SC Guntersdorf
+26,Sun Mar 22 2015,SV Rehberg,03-Feb,SC Weißenkirchen,2015,Mar,22,22/Mar/2015,Sun,5,3,2,SV Rehberg
+26,Sun Mar 22 2015,SC Echsenbach,0-1,Horn Amateure,2015,Mar,22,22/Mar/2015,Sun,1,0,1,Horn Amateure
+26,Sun Mar 22 2015,SC St. Martin,01-Jan,USV Groß Gerungs,2015,Mar,22,22/Mar/2015,Sun,2,1,1,Draw
+14,Sun Mar 29 2015,USC Schweiggers,1-0,SC Echsenbach,2015,Mar,29,29/Mar/2015,Sun,1,1,0,USC Schweiggers
+14,Sun Mar 29 2015,SC Weißenkirchen,1-0,SV Sieghartskirchen,2015,Mar,29,29/Mar/2015,Sun,1,1,0,SC Weißenkirchen
+14,Sun Mar 29 2015,USC Altenwörth,04-Jan,USC Kirchberg/W.,2015,Mar,29,29/Mar/2015,Sun,5,4,1,USC Altenwörth
+14,Sun Mar 29 2015,SC Guntersdorf,01-Jan,USV Langenlois,2015,Mar,29,29/Mar/2015,Sun,2,1,1,Draw
+14,Sun Mar 29 2015,SV Zwentendorf,01-Jan,SC St. Martin,2015,Mar,29,29/Mar/2015,Sun,2,1,1,Draw
+14,Sun Mar 29 2015,USV Groß Gerungs,0-1,USC Grafenwörth,2015,Mar,29,29/Mar/2015,Sun,1,0,1,USC Grafenwörth
+14,Sun Mar 29 2015,Horn Amateure,1-0,SV Rehberg,2015,Mar,29,29/Mar/2015,Sun,1,1,0,Horn Amateure
+15,Sun Apr 5 2015,SV Rehberg,1-0,USC Schweiggers,2015,Apr,5,5/Apr/2015,Sun,1,1,0,SV Rehberg
+15,Sun Apr 5 2015,SC Echsenbach,4-0,USC Altenwörth,2015,Apr,5,5/Apr/2015,Sun,4,4,0,SC Echsenbach
+15,Sun Apr 5 2015,SV Sieghartskirchen,0-2,Horn Amateure,2015,Apr,5,5/Apr/2015,Sun,2,0,2,Horn Amateure
+15,Sun Apr 5 2015,USV Groß Gerungs,02-Feb,SC Guntersdorf,2015,Apr,5,5/Apr/2015,Sun,4,2,2,Draw
+15,Sun Apr 5 2015,USC Grafenwörth,01-Jan,SV Zwentendorf,2015,Apr,5,5/Apr/2015,Sun,2,1,1,Draw
+15,Sun Apr 5 2015,USC Kirchberg/W.,0-5,USV Langenlois,2015,Apr,5,5/Apr/2015,Sun,5,0,5,USV Langenlois
+15,Sun Apr 5 2015,SC St. Martin,04-Jan,SC Weißenkirchen,2015,Apr,5,5/Apr/2015,Sun,5,4,1,SC St. Martin
+16,Sun Apr 12 2015,SC Weißenkirchen,01-Feb,USC Grafenwörth,2015,Apr,12,12/Apr/2015,Sun,3,1,2,USC Grafenwörth
+16,Sun Apr 12 2015,USC Schweiggers,04-Jan,SV Sieghartskirchen,2015,Apr,12,12/Apr/2015,Sun,5,4,1,USC Schweiggers
+16,Sun Apr 12 2015,SC Guntersdorf,1-0,USC Kirchberg/W.,2015,Apr,12,12/Apr/2015,Sun,1,1,0,SC Guntersdorf
+16,Sun Apr 12 2015,SV Zwentendorf,0-1,USV Groß Gerungs,2015,Apr,12,12/Apr/2015,Sun,1,0,1,USV Groß Gerungs
+16,Sun Apr 12 2015,Horn Amateure,04-Jan,SC St. Martin,2015,Apr,12,12/Apr/2015,Sun,5,4,1,Horn Amateure
+16,Sun Apr 12 2015,USC Altenwörth,0-0,SV Rehberg,2015,Apr,12,12/Apr/2015,Sun,0,0,0,Draw
+16,Sun Apr 12 2015,USV Langenlois,02-Jan,SC Echsenbach,2015,Apr,12,12/Apr/2015,Sun,3,2,1,USV Langenlois
+17,Sun Apr 19 2015,SV Sieghartskirchen,1-0,USC Altenwörth,2015,Apr,19,19/Apr/2015,Sun,1,1,0,SV Sieghartskirchen
+17,Sun Apr 19 2015,USV Groß Gerungs,01-Mar,SC Weißenkirchen,2015,Apr,19,19/Apr/2015,Sun,4,1,3,SC Weißenkirchen
+17,Sun Apr 19 2015,SV Rehberg,03-Jan,USV Langenlois,2015,Apr,19,19/Apr/2015,Sun,4,3,1,SV Rehberg
+17,Sun Apr 19 2015,SC Echsenbach,0-1,USC Kirchberg/W.,2015,Apr,19,19/Apr/2015,Sun,1,0,1,USC Kirchberg/W.
+17,Sun Apr 19 2015,SV Zwentendorf,0-1,SC Guntersdorf,2015,Apr,19,19/Apr/2015,Sun,1,0,1,SC Guntersdorf
+17,Sun Apr 19 2015,USC Grafenwörth,01-Mar,Horn Amateure,2015,Apr,19,19/Apr/2015,Sun,4,1,3,Horn Amateure
+17,Sun Apr 19 2015,SC St. Martin,01-Apr,USC Schweiggers,2015,Apr,19,19/Apr/2015,Sun,5,1,4,USC Schweiggers
+18,Sun Apr 26 2015,USC Kirchberg/W.,0-2,SV Rehberg,2015,Apr,26,26/Apr/2015,Sun,2,0,2,SV Rehberg
+18,Sun Apr 26 2015,USV Langenlois,01-Mar,SV Sieghartskirchen,2015,Apr,26,26/Apr/2015,Sun,4,1,3,SV Sieghartskirchen
+18,Sun Apr 26 2015,USC Altenwörth,03-Apr,SC St. Martin,2015,Apr,26,26/Apr/2015,Sun,7,3,4,SC St. Martin
+18,Sun Apr 26 2015,SC Guntersdorf,03-Mar,SC Echsenbach,2015,Apr,26,26/Apr/2015,Sun,6,3,3,Draw
+18,Sun Apr 26 2015,Horn Amateure,02-Apr,USV Groß Gerungs,2015,Apr,26,26/Apr/2015,Sun,6,2,4,USV Groß Gerungs
+18,Sun Apr 26 2015,SC Weißenkirchen,02-Jan,SV Zwentendorf,2015,Apr,26,26/Apr/2015,Sun,3,2,1,SC Weißenkirchen
+18,Sun Apr 26 2015,USC Schweiggers,3-0,USC Grafenwörth,2015,Apr,26,26/Apr/2015,Sun,3,3,0,USC Schweiggers
+19,Sun May 3 2015,USV Groß Gerungs,01-Feb,USC Schweiggers,2015,May,3,3/May/2015,Sun,3,1,2,USC Schweiggers
+19,Sun May 3 2015,USC Grafenwörth,4-0,USC Altenwörth,2015,May,3,3/May/2015,Sun,4,4,0,USC Grafenwörth
+19,Sun May 3 2015,SV Sieghartskirchen,01-Feb,USC Kirchberg/W.,2015,May,3,3/May/2015,Sun,3,1,2,USC Kirchberg/W.
+19,Sun May 3 2015,SC St. Martin,0-0,USV Langenlois,2015,May,3,3/May/2015,Sun,0,0,0,Draw
+19,Sun May 3 2015,SV Zwentendorf,0-1,Horn Amateure,2015,May,3,3/May/2015,Sun,1,0,1,Horn Amateure
+19,Sun May 3 2015,SC Weißenkirchen,01-Jan,SC Guntersdorf,2015,May,3,3/May/2015,Sun,2,1,1,Draw
+19,Sun May 3 2015,SV Rehberg,01-Mar,SC Echsenbach,2015,May,3,3/May/2015,Sun,4,1,3,SC Echsenbach
+20,Sun May 10 2015,SC Echsenbach,01-Apr,SV Sieghartskirchen,2015,May,10,10/May/2015,Sun,5,1,4,SV Sieghartskirchen
+20,Sun May 10 2015,USC Kirchberg/W.,03-Jan,SC St. Martin,2015,May,10,10/May/2015,Sun,4,3,1,USC Kirchberg/W.
+20,Sun May 10 2015,USC Altenwörth,03-Feb,USV Groß Gerungs,2015,May,10,10/May/2015,Sun,5,3,2,USC Altenwörth
+20,Sun May 10 2015,Horn Amateure,0-3,SC Weißenkirchen,2015,May,10,10/May/2015,Sun,3,0,3,SC Weißenkirchen
+20,Sun May 10 2015,SC Guntersdorf,01-Jan,SV Rehberg,2015,May,10,10/May/2015,Sun,2,1,1,Draw
+20,Sun May 10 2015,USC Schweiggers,0-0,SV Zwentendorf,2015,May,10,10/May/2015,Sun,0,0,0,Draw
+20,Sun May 10 2015,USV Langenlois,02-Jan,USC Grafenwörth,2015,May,10,10/May/2015,Sun,3,2,1,USV Langenlois
+21,Sun May 17 2015,SV Zwentendorf,5-0,USC Altenwörth,2015,May,17,17/May/2015,Sun,5,5,0,SV Zwentendorf
+21,Sun May 17 2015,USC Grafenwörth,0-0,USC Kirchberg/W.,2015,May,17,17/May/2015,Sun,0,0,0,Draw
+21,Sun May 17 2015,SC St. Martin,04-Jan,SC Echsenbach,2015,May,17,17/May/2015,Sun,5,4,1,SC St. Martin
+21,Sun May 17 2015,USV Groß Gerungs,0-3,USV Langenlois,2015,May,17,17/May/2015,Sun,3,0,3,USV Langenlois
+21,Sun May 17 2015,SV Sieghartskirchen,0-2,SV Rehberg,2015,May,17,17/May/2015,Sun,2,0,2,SV Rehberg
+21,Sun May 17 2015,SC Weißenkirchen,0-2,USC Schweiggers,2015,May,17,17/May/2015,Sun,2,0,2,USC Schweiggers
+21,Sun May 17 2015,Horn Amateure,0-1,SC Guntersdorf,2015,May,17,17/May/2015,Sun,1,0,1,SC Guntersdorf
+22,Sun May 24 2015,USC Altenwörth,03-Jan,SC Weißenkirchen,2015,May,24,24/May/2015,Sun,4,3,1,USC Altenwörth
+22,Sun May 24 2015,SC Echsenbach,05-Apr,USC Grafenwörth,2015,May,24,24/May/2015,Sun,9,5,4,SC Echsenbach
+22,Sun May 24 2015,SV Rehberg,01-Jan,SC St. Martin,2015,May,24,24/May/2015,Sun,2,1,1,Draw
+22,Sun May 24 2015,USV Langenlois,02-Mar,SV Zwentendorf,2015,May,24,24/May/2015,Sun,5,2,3,SV Zwentendorf
+22,Sun May 24 2015,USC Schweiggers,02-Jan,Horn Amateure,2015,May,24,24/May/2015,Sun,3,2,1,USC Schweiggers
+22,Sun May 24 2015,USC Kirchberg/W.,01-May,USV Groß Gerungs,2015,May,24,24/May/2015,Sun,6,1,5,USV Groß Gerungs
+22,Sun May 24 2015,SC Guntersdorf,04-Mar,SV Sieghartskirchen,2015,May,24,24/May/2015,Sun,7,4,3,SC Guntersdorf
+23,Sun May 31 2015,SC St. Martin,01-Feb,SV Sieghartskirchen,2015,May,31,31/May/2015,Sun,3,1,2,SV Sieghartskirchen
+23,Sun May 31 2015,USC Schweiggers,0-1,SC Guntersdorf,2015,May,31,31/May/2015,Sun,1,0,1,SC Guntersdorf
+23,Sun May 31 2015,Horn Amateure,02-Mar,USC Altenwörth,2015,May,31,31/May/2015,Sun,5,2,3,USC Altenwörth
+23,Sun May 31 2015,SC Weißenkirchen,01-Jan,USV Langenlois,2015,May,31,31/May/2015,Sun,2,1,1,Draw
+23,Sun May 31 2015,SV Zwentendorf,04-Jan,USC Kirchberg/W.,2015,May,31,31/May/2015,Sun,5,4,1,SV Zwentendorf
+23,Sun May 31 2015,USV Groß Gerungs,03-Apr,SC Echsenbach,2015,May,31,31/May/2015,Sun,7,3,4,SC Echsenbach
+23,Sun May 31 2015,USC Grafenwörth,01-Feb,SV Rehberg,2015,May,31,31/May/2015,Sun,3,1,2,SV Rehberg
+24,Sun Jun 7 2015,USV Langenlois,3-0,Horn Amateure,2015,Jun,7,7/Jun/2015,Sun,3,3,0,USV Langenlois
+24,Sun Jun 7 2015,USC Altenwörth,01-Jan,USC Schweiggers,2015,Jun,7,7/Jun/2015,Sun,2,1,1,Draw
+24,Sun Jun 7 2015,SV Sieghartskirchen,1-0,USC Grafenwörth,2015,Jun,7,7/Jun/2015,Sun,1,1,0,SV Sieghartskirchen
+24,Sun Jun 7 2015,USC Kirchberg/W.,0-2,SC Weißenkirchen,2015,Jun,7,7/Jun/2015,Sun,2,0,2,SC Weißenkirchen
+24,Sun Jun 7 2015,SC Echsenbach,2-0,SV Zwentendorf,2015,Jun,7,7/Jun/2015,Sun,2,2,0,SC Echsenbach
+24,Sun Jun 7 2015,SV Rehberg,03-Feb,USV Groß Gerungs,2015,Jun,7,7/Jun/2015,Sun,5,3,2,SV Rehberg
+24,Sun Jun 7 2015,SC Guntersdorf,1-0,SC St. Martin,2015,Jun,7,7/Jun/2015,Sun,1,1,0,SC Guntersdorf
+25,Sun Jun 14 2015,USV Groß Gerungs,1-0,SV Sieghartskirchen,2015,Jun,14,14/Jun/2015,Sun,1,1,0,USV Groß Gerungs
+25,Sun Jun 14 2015,Horn Amateure,04-Mar,USC Kirchberg/W.,2015,Jun,14,14/Jun/2015,Sun,7,4,3,Horn Amateure
+25,Sun Jun 14 2015,SC Weißenkirchen,3-0,SC Echsenbach,2015,Jun,14,14/Jun/2015,Sun,3,3,0,SC Weißenkirchen
+25,Sun Jun 14 2015,USC Grafenwörth,04-Feb,SC St. Martin,2015,Jun,14,14/Jun/2015,Sun,6,4,2,USC Grafenwörth
+25,Sun Jun 14 2015,USC Schweiggers,03-Feb,USV Langenlois,2015,Jun,14,14/Jun/2015,Sun,5,3,2,USC Schweiggers
+25,Sun Jun 14 2015,USC Altenwörth,02-Mar,SC Guntersdorf,2015,Jun,14,14/Jun/2015,Sun,5,2,3,SC Guntersdorf
+25,Sun Jun 14 2015,SV Zwentendorf,01-Apr,SV Rehberg,2015,Jun,14,14/Jun/2015,Sun,5,1,4,SV Rehberg

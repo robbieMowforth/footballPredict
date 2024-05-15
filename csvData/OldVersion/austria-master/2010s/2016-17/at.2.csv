@@ -1,0 +1,181 @@
+Round,Date,Team 1,FT,Team 2,Year,Month,Day,Date,DayOfWeek,Total Goals,Team 1 Goals,Team 2 Goals,Result
+1,Fri Jul 22 2016,FC Liefering,1-0,SV Horn,2016,Jul,22,22/Jul/2016,Fri,1,1,0,FC Liefering
+1,Fri Jul 22 2016,FC Blau-Weiß Linz,0-3,WSG Tirol,2016,Jul,22,22/Jul/2016,Fri,3,0,3,WSG Tirol
+1,Fri Jul 22 2016,FC Wacker Innsbruck,02-Jan,Floridsdorfer AC,2016,Jul,22,22/Jul/2016,Fri,3,2,1,FC Wacker Innsbruck
+1,Fri Jul 22 2016,Kapfenberger SV,03-Jan,SC Wiener Neustadt,2016,Jul,22,22/Jul/2016,Fri,4,3,1,Kapfenberger SV
+1,Fri Jul 22 2016,Austria Lustenau,01-Jan,LASK Linz,2016,Jul,22,22/Jul/2016,Fri,2,1,1,Draw
+2,Fri Jul 29 2016,SC Wiener Neustadt,01-Apr,FC Liefering,2016,Jul,29,29/Jul/2016,Fri,5,1,4,FC Liefering
+2,Fri Jul 29 2016,WSG Tirol,0-0,Floridsdorfer AC,2016,Jul,29,29/Jul/2016,Fri,0,0,0,Draw
+2,Fri Jul 29 2016,Austria Lustenau,02-Jan,SV Horn,2016,Jul,29,29/Jul/2016,Fri,3,2,1,Austria Lustenau
+2,Fri Jul 29 2016,Kapfenberger SV,01-Jan,FC Wacker Innsbruck,2016,Jul,29,29/Jul/2016,Fri,2,1,1,Draw
+2,Fri Jul 29 2016,LASK Linz,02-Jan,FC Blau-Weiß Linz,2016,Jul,29,29/Jul/2016,Fri,3,2,1,LASK Linz
+3,Fri Aug 5 2016,FC Liefering,04-Feb,LASK Linz,2016,Aug,5,5/Aug/2016,Fri,6,4,2,FC Liefering
+3,Fri Aug 5 2016,FC Blau-Weiß Linz,0-1,SC Wiener Neustadt,2016,Aug,5,5/Aug/2016,Fri,1,0,1,SC Wiener Neustadt
+3,Fri Aug 5 2016,SV Horn,01-Feb,Kapfenberger SV,2016,Aug,5,5/Aug/2016,Fri,3,1,2,Kapfenberger SV
+3,Fri Aug 5 2016,Floridsdorfer AC,01-Mar,Austria Lustenau,2016,Aug,5,5/Aug/2016,Fri,4,1,3,Austria Lustenau
+3,Fri Aug 5 2016,FC Wacker Innsbruck,01-Feb,WSG Tirol,2016,Aug,5,5/Aug/2016,Fri,3,1,2,WSG Tirol
+4,Fri Aug 12 2016,FC Liefering,02-Jan,Floridsdorfer AC,2016,Aug,12,12/Aug/2016,Fri,3,2,1,FC Liefering
+4,Fri Aug 12 2016,WSG Tirol,0-1,SC Wiener Neustadt,2016,Aug,12,12/Aug/2016,Fri,1,0,1,SC Wiener Neustadt
+4,Fri Aug 12 2016,Austria Lustenau,01-Mar,Kapfenberger SV,2016,Aug,12,12/Aug/2016,Fri,4,1,3,Kapfenberger SV
+4,Fri Aug 12 2016,SV Horn,02-Jan,FC Blau-Weiß Linz,2016,Aug,12,12/Aug/2016,Fri,3,2,1,SV Horn
+4,Fri Aug 12 2016,LASK Linz,1-0,FC Wacker Innsbruck,2016,Aug,12,12/Aug/2016,Fri,1,1,0,LASK Linz
+5,Mon Aug 15 2016,FC Blau-Weiß Linz,01-Jan,Austria Lustenau,2016,Aug,15,15/Aug/2016,Mon,2,1,1,Draw
+5,Tue Aug 16 2016,SC Wiener Neustadt,01-Feb,LASK Linz,2016,Aug,16,16/Aug/2016,Tue,3,1,2,LASK Linz
+5,Tue Aug 16 2016,FC Wacker Innsbruck,01-Jan,FC Liefering,2016,Aug,16,16/Aug/2016,Tue,2,1,1,Draw
+5,Tue Aug 16 2016,Kapfenberger SV,3-0,WSG Tirol,2016,Aug,16,16/Aug/2016,Tue,3,3,0,Kapfenberger SV
+5,Tue Aug 16 2016,Floridsdorfer AC,02-Jan,SV Horn,2016,Aug,16,16/Aug/2016,Tue,3,2,1,Floridsdorfer AC
+6,Fri Aug 19 2016,FC Liefering,2-0,Kapfenberger SV,2016,Aug,19,19/Aug/2016,Fri,2,2,0,FC Liefering
+6,Fri Aug 19 2016,LASK Linz,4-0,WSG Tirol,2016,Aug,19,19/Aug/2016,Fri,4,4,0,LASK Linz
+6,Fri Aug 19 2016,FC Wacker Innsbruck,0-1,Austria Lustenau,2016,Aug,19,19/Aug/2016,Fri,1,0,1,Austria Lustenau
+6,Fri Aug 19 2016,Floridsdorfer AC,02-Jan,FC Blau-Weiß Linz,2016,Aug,19,19/Aug/2016,Fri,3,2,1,Floridsdorfer AC
+6,Fri Aug 19 2016,SV Horn,0-1,SC Wiener Neustadt,2016,Aug,19,19/Aug/2016,Fri,1,0,1,SC Wiener Neustadt
+7,Fri Aug 26 2016,SC Wiener Neustadt,0-3,Floridsdorfer AC,2016,Aug,26,26/Aug/2016,Fri,3,0,3,Floridsdorfer AC
+7,Fri Aug 26 2016,FC Blau-Weiß Linz,02-Feb,FC Wacker Innsbruck,2016,Aug,26,26/Aug/2016,Fri,4,2,2,Draw
+7,Fri Aug 26 2016,WSG Tirol,02-Feb,SV Horn,2016,Aug,26,26/Aug/2016,Fri,4,2,2,Draw
+7,Fri Aug 26 2016,Austria Lustenau,01-Jan,FC Liefering,2016,Aug,26,26/Aug/2016,Fri,2,1,1,Draw
+7,Fri Aug 26 2016,Kapfenberger SV,01-Feb,LASK Linz,2016,Aug,26,26/Aug/2016,Fri,3,1,2,LASK Linz
+8,Fri Sep 9 2016,SC Wiener Neustadt,01-Apr,Austria Lustenau,2016,Sep,9,9/Sep/2016,Fri,5,1,4,Austria Lustenau
+8,Fri Sep 9 2016,FC Blau-Weiß Linz,0-1,Kapfenberger SV,2016,Sep,9,9/Sep/2016,Fri,1,0,1,Kapfenberger SV
+8,Fri Sep 9 2016,WSG Tirol,01-Jan,FC Liefering,2016,Sep,9,9/Sep/2016,Fri,2,1,1,Draw
+8,Fri Sep 9 2016,SV Horn,02-Jan,FC Wacker Innsbruck,2016,Sep,9,9/Sep/2016,Fri,3,2,1,SV Horn
+8,Fri Sep 9 2016,Floridsdorfer AC,02-Mar,LASK Linz,2016,Sep,9,9/Sep/2016,Fri,5,2,3,LASK Linz
+9,Tue Sep 13 2016,FC Liefering,2-0,FC Blau-Weiß Linz,2016,Sep,13,13/Sep/2016,Tue,2,2,0,FC Liefering
+9,Tue Sep 13 2016,LASK Linz,01-Jan,SV Horn,2016,Sep,13,13/Sep/2016,Tue,2,1,1,Draw
+9,Tue Sep 13 2016,FC Wacker Innsbruck,03-Feb,SC Wiener Neustadt,2016,Sep,13,13/Sep/2016,Tue,5,3,2,FC Wacker Innsbruck
+9,Tue Sep 13 2016,Austria Lustenau,4-0,WSG Tirol,2016,Sep,13,13/Sep/2016,Tue,4,4,0,Austria Lustenau
+9,Tue Sep 13 2016,Kapfenberger SV,2-0,Floridsdorfer AC,2016,Sep,13,13/Sep/2016,Tue,2,2,0,Kapfenberger SV
+10,Fri Sep 16 2016,SC Wiener Neustadt,2-0,Kapfenberger SV,2016,Sep,16,16/Sep/2016,Fri,2,2,0,SC Wiener Neustadt
+10,Fri Sep 16 2016,LASK Linz,03-Jan,Austria Lustenau,2016,Sep,16,16/Sep/2016,Fri,4,3,1,LASK Linz
+10,Fri Sep 16 2016,WSG Tirol,0-0,FC Blau-Weiß Linz,2016,Sep,16,16/Sep/2016,Fri,0,0,0,Draw
+10,Fri Sep 16 2016,SV Horn,02-Mar,FC Liefering,2016,Sep,16,16/Sep/2016,Fri,5,2,3,FC Liefering
+10,Fri Sep 16 2016,Floridsdorfer AC,03-Jan,FC Wacker Innsbruck,2016,Sep,16,16/Sep/2016,Fri,4,3,1,Floridsdorfer AC
+11,Fri Sep 23 2016,FC Liefering,03-Jan,SC Wiener Neustadt,2016,Sep,23,23/Sep/2016,Fri,4,3,1,FC Liefering
+11,Fri Sep 23 2016,FC Blau-Weiß Linz,2-0,LASK Linz,2016,Sep,23,23/Sep/2016,Fri,2,2,0,FC Blau-Weiß Linz
+11,Fri Sep 23 2016,FC Wacker Innsbruck,1-0,Kapfenberger SV,2016,Sep,23,23/Sep/2016,Fri,1,1,0,FC Wacker Innsbruck
+11,Fri Sep 23 2016,SV Horn,01-Mar,Austria Lustenau,2016,Sep,23,23/Sep/2016,Fri,4,1,3,Austria Lustenau
+11,Fri Sep 23 2016,Floridsdorfer AC,01-Jan,WSG Tirol,2016,Sep,23,23/Sep/2016,Fri,2,1,1,Draw
+12,Fri Sep 30 2016,SC Wiener Neustadt,03-Feb,FC Blau-Weiß Linz,2016,Sep,30,30/Sep/2016,Fri,5,3,2,SC Wiener Neustadt
+12,Fri Sep 30 2016,LASK Linz,03-Mar,FC Liefering,2016,Sep,30,30/Sep/2016,Fri,6,3,3,Draw
+12,Fri Sep 30 2016,WSG Tirol,02-Jan,FC Wacker Innsbruck,2016,Sep,30,30/Sep/2016,Fri,3,2,1,WSG Tirol
+12,Fri Sep 30 2016,Austria Lustenau,01-Jan,Floridsdorfer AC,2016,Sep,30,30/Sep/2016,Fri,2,1,1,Draw
+12,Fri Sep 30 2016,Kapfenberger SV,1-0,SV Horn,2016,Sep,30,30/Sep/2016,Fri,1,1,0,Kapfenberger SV
+13,Fri Oct 14 2016,SC Wiener Neustadt,02-Jan,WSG Tirol,2016,Oct,14,14/Oct/2016,Fri,3,2,1,SC Wiener Neustadt
+13,Fri Oct 14 2016,FC Blau-Weiß Linz,1-0,SV Horn,2016,Oct,14,14/Oct/2016,Fri,1,1,0,FC Blau-Weiß Linz
+13,Fri Oct 14 2016,FC Wacker Innsbruck,02-Jan,LASK Linz,2016,Oct,14,14/Oct/2016,Fri,3,2,1,FC Wacker Innsbruck
+13,Fri Oct 14 2016,Kapfenberger SV,0-1,Austria Lustenau,2016,Oct,14,14/Oct/2016,Fri,1,0,1,Austria Lustenau
+13,Fri Oct 14 2016,Floridsdorfer AC,01-May,FC Liefering,2016,Oct,14,14/Oct/2016,Fri,6,1,5,FC Liefering
+14,Tue Oct 18 2016,FC Liefering,01-Feb,FC Wacker Innsbruck,2016,Oct,18,18/Oct/2016,Tue,3,1,2,FC Wacker Innsbruck
+14,Tue Oct 18 2016,LASK Linz,02-Feb,SC Wiener Neustadt,2016,Oct,18,18/Oct/2016,Tue,4,2,2,Draw
+14,Tue Oct 18 2016,WSG Tirol,03-Mar,Kapfenberger SV,2016,Oct,18,18/Oct/2016,Tue,6,3,3,Draw
+14,Tue Oct 18 2016,Austria Lustenau,0-0,FC Blau-Weiß Linz,2016,Oct,18,18/Oct/2016,Tue,0,0,0,Draw
+14,Tue Oct 18 2016,SV Horn,02-Jan,Floridsdorfer AC,2016,Oct,18,18/Oct/2016,Tue,3,2,1,SV Horn
+15,Fri Oct 21 2016,SC Wiener Neustadt,02-Jan,SV Horn,2016,Oct,21,21/Oct/2016,Fri,3,2,1,SC Wiener Neustadt
+15,Fri Oct 21 2016,FC Blau-Weiß Linz,0-0,Floridsdorfer AC,2016,Oct,21,21/Oct/2016,Fri,0,0,0,Draw
+15,Fri Oct 21 2016,WSG Tirol,03-Feb,LASK Linz,2016,Oct,21,21/Oct/2016,Fri,5,3,2,WSG Tirol
+15,Fri Oct 21 2016,Austria Lustenau,02-Feb,FC Wacker Innsbruck,2016,Oct,21,21/Oct/2016,Fri,4,2,2,Draw
+15,Fri Oct 21 2016,Kapfenberger SV,1-0,FC Liefering,2016,Oct,21,21/Oct/2016,Fri,1,1,0,Kapfenberger SV
+16,Tue Nov 1 2016,FC Liefering,03-May,Austria Lustenau,2016,Nov,1,1/Nov/2016,Tue,8,3,5,Austria Lustenau
+16,Tue Nov 1 2016,LASK Linz,03-Jan,Kapfenberger SV,2016,Nov,1,1/Nov/2016,Tue,4,3,1,LASK Linz
+16,Tue Nov 1 2016,FC Wacker Innsbruck,01-Jan,FC Blau-Weiß Linz,2016,Nov,1,1/Nov/2016,Tue,2,1,1,Draw
+16,Tue Nov 1 2016,SV Horn,2-0,WSG Tirol,2016,Nov,1,1/Nov/2016,Tue,2,2,0,SV Horn
+16,Tue Nov 1 2016,Floridsdorfer AC,01-Jan,SC Wiener Neustadt,2016,Nov,1,1/Nov/2016,Tue,2,1,1,Draw
+17,Fri Nov 4 2016,FC Liefering,0-0,WSG Tirol,2016,Nov,4,4/Nov/2016,Fri,0,0,0,Draw
+17,Fri Nov 4 2016,LASK Linz,1-0,Floridsdorfer AC,2016,Nov,4,4/Nov/2016,Fri,1,1,0,LASK Linz
+17,Fri Nov 4 2016,FC Wacker Innsbruck,0-0,SV Horn,2016,Nov,4,4/Nov/2016,Fri,0,0,0,Draw
+17,Fri Nov 4 2016,Austria Lustenau,1-0,SC Wiener Neustadt,2016,Nov,4,4/Nov/2016,Fri,1,1,0,Austria Lustenau
+17,Fri Nov 4 2016,Kapfenberger SV,02-Feb,FC Blau-Weiß Linz,2016,Nov,4,4/Nov/2016,Fri,4,2,2,Draw
+18,Fri Nov 18 2016,SC Wiener Neustadt,02-Feb,FC Wacker Innsbruck,2016,Nov,18,18/Nov/2016,Fri,4,2,2,Draw
+18,Fri Nov 18 2016,FC Blau-Weiß Linz,01-Jan,FC Liefering,2016,Nov,18,18/Nov/2016,Fri,2,1,1,Draw
+18,Fri Nov 18 2016,WSG Tirol,02-Apr,Austria Lustenau,2016,Nov,18,18/Nov/2016,Fri,6,2,4,Austria Lustenau
+18,Fri Nov 18 2016,SV Horn,01-Apr,LASK Linz,2016,Nov,18,18/Nov/2016,Fri,5,1,4,LASK Linz
+18,Fri Nov 18 2016,Floridsdorfer AC,0-1,Kapfenberger SV,2016,Nov,18,18/Nov/2016,Fri,1,0,1,Kapfenberger SV
+19,Fri Nov 25 2016,FC Liefering,01-Jan,SV Horn,2016,Nov,25,25/Nov/2016,Fri,2,1,1,Draw
+19,Fri Nov 25 2016,FC Blau-Weiß Linz,0-0,WSG Tirol,2016,Nov,25,25/Nov/2016,Fri,0,0,0,Draw
+19,Fri Nov 25 2016,FC Wacker Innsbruck,02-Jan,Floridsdorfer AC,2016,Nov,25,25/Nov/2016,Fri,3,2,1,FC Wacker Innsbruck
+19,Fri Nov 25 2016,Austria Lustenau,02-Apr,LASK Linz,2016,Nov,25,25/Nov/2016,Fri,6,2,4,LASK Linz
+19,Fri Nov 25 2016,Kapfenberger SV,0-3,SC Wiener Neustadt,2016,Nov,25,25/Nov/2016,Fri,3,0,3,SC Wiener Neustadt
+20,Fri Dec 2 2016,SC Wiener Neustadt,0-1,FC Liefering,2016,Dec,2,2/Dec/2016,Fri,1,0,1,FC Liefering
+20,Fri Dec 2 2016,LASK Linz,4-0,FC Blau-Weiß Linz,2016,Dec,2,2/Dec/2016,Fri,4,4,0,LASK Linz
+20,Fri Dec 2 2016,WSG Tirol,1-0,Floridsdorfer AC,2016,Dec,2,2/Dec/2016,Fri,1,1,0,WSG Tirol
+20,Fri Dec 2 2016,Austria Lustenau,02-Mar,SV Horn,2016,Dec,2,2/Dec/2016,Fri,5,2,3,SV Horn
+20,Fri Dec 2 2016,Kapfenberger SV,01-Mar,FC Wacker Innsbruck,2016,Dec,2,2/Dec/2016,Fri,4,1,3,FC Wacker Innsbruck
+21,Fri Feb 24 2017,FC Liefering,0-3,LASK Linz,2017,Feb,24,24/Feb/2017,Fri,3,0,3,LASK Linz
+21,Fri Feb 24 2017,FC Blau-Weiß Linz,3-0,SC Wiener Neustadt,2017,Feb,24,24/Feb/2017,Fri,3,3,0,FC Blau-Weiß Linz
+21,Fri Feb 24 2017,FC Wacker Innsbruck,0-1,WSG Tirol,2017,Feb,24,24/Feb/2017,Fri,1,0,1,WSG Tirol
+21,Fri Feb 24 2017,SV Horn,02-Jan,Kapfenberger SV,2017,Feb,24,24/Feb/2017,Fri,3,2,1,SV Horn
+21,Fri Feb 24 2017,Floridsdorfer AC,1-0,Austria Lustenau,2017,Feb,24,24/Feb/2017,Fri,1,1,0,Floridsdorfer AC
+22,Fri Mar 3 2017,FC Liefering,1-0,Floridsdorfer AC,2017,Mar,3,3/Mar/2017,Fri,1,1,0,FC Liefering
+22,Fri Mar 3 2017,LASK Linz,03-Jan,FC Wacker Innsbruck,2017,Mar,3,3/Mar/2017,Fri,4,3,1,LASK Linz
+22,Fri Mar 3 2017,WSG Tirol,3-0,SC Wiener Neustadt,2017,Mar,3,3/Mar/2017,Fri,3,3,0,WSG Tirol
+22,Fri Mar 3 2017,Austria Lustenau,0-0,Kapfenberger SV,2017,Mar,3,3/Mar/2017,Fri,0,0,0,Draw
+22,Fri Mar 3 2017,SV Horn,0-2,FC Blau-Weiß Linz,2017,Mar,3,3/Mar/2017,Fri,2,0,2,FC Blau-Weiß Linz
+23,Fri Mar 10 2017,SC Wiener Neustadt,0-2,LASK Linz,2017,Mar,10,10/Mar/2017,Fri,2,0,2,LASK Linz
+23,Fri Mar 10 2017,FC Blau-Weiß Linz,0-0,Austria Lustenau,2017,Mar,10,10/Mar/2017,Fri,0,0,0,Draw
+23,Fri Mar 10 2017,FC Wacker Innsbruck,0-2,FC Liefering,2017,Mar,10,10/Mar/2017,Fri,2,0,2,FC Liefering
+23,Fri Mar 10 2017,Kapfenberger SV,02-Jan,WSG Tirol,2017,Mar,10,10/Mar/2017,Fri,3,2,1,Kapfenberger SV
+23,Fri Mar 10 2017,Floridsdorfer AC,0-2,SV Horn,2017,Mar,10,10/Mar/2017,Fri,2,0,2,SV Horn
+24,Tue Mar 14 2017,FC Liefering,01-Jan,Kapfenberger SV,2017,Mar,14,14/Mar/2017,Tue,2,1,1,Draw
+24,Tue Mar 14 2017,LASK Linz,2-0,WSG Tirol,2017,Mar,14,14/Mar/2017,Tue,2,2,0,LASK Linz
+24,Tue Mar 14 2017,FC Wacker Innsbruck,1-0,Austria Lustenau,2017,Mar,14,14/Mar/2017,Tue,1,1,0,FC Wacker Innsbruck
+24,Tue Mar 14 2017,SV Horn,2-0,SC Wiener Neustadt,2017,Mar,14,14/Mar/2017,Tue,2,2,0,SV Horn
+24,Tue Mar 14 2017,Floridsdorfer AC,01-Feb,FC Blau-Weiß Linz,2017,Mar,14,14/Mar/2017,Tue,3,1,2,FC Blau-Weiß Linz
+25,Fri Mar 17 2017,SC Wiener Neustadt,0-3,Floridsdorfer AC,2017,Mar,17,17/Mar/2017,Fri,3,0,3,Floridsdorfer AC
+25,Fri Mar 17 2017,FC Blau-Weiß Linz,03-Jan,FC Wacker Innsbruck,2017,Mar,17,17/Mar/2017,Fri,4,3,1,FC Blau-Weiß Linz
+25,Fri Mar 17 2017,WSG Tirol,01-Jan,SV Horn,2017,Mar,17,17/Mar/2017,Fri,2,1,1,Draw
+25,Fri Mar 17 2017,Austria Lustenau,2-0,FC Liefering,2017,Mar,17,17/Mar/2017,Fri,2,2,0,Austria Lustenau
+25,Fri Mar 17 2017,Kapfenberger SV,02-Feb,LASK Linz,2017,Mar,17,17/Mar/2017,Fri,4,2,2,Draw
+26,Fri Mar 31 2017,SC Wiener Neustadt,01-Jan,Austria Lustenau,2017,Mar,31,31/Mar/2017,Fri,2,1,1,Draw
+26,Fri Mar 31 2017,FC Blau-Weiß Linz,01-Feb,Kapfenberger SV,2017,Mar,31,31/Mar/2017,Fri,3,1,2,Kapfenberger SV
+26,Fri Mar 31 2017,WSG Tirol,5-0,FC Liefering,2017,Mar,31,31/Mar/2017,Fri,5,5,0,WSG Tirol
+26,Fri Mar 31 2017,SV Horn,01-Feb,FC Wacker Innsbruck,2017,Mar,31,31/Mar/2017,Fri,3,1,2,FC Wacker Innsbruck
+26,Fri Mar 31 2017,Floridsdorfer AC,01-Mar,LASK Linz,2017,Mar,31,31/Mar/2017,Fri,4,1,3,LASK Linz
+27,Fri Apr 7 2017,FC Liefering,0-3,FC Blau-Weiß Linz,2017,Apr,7,7/Apr/2017,Fri,3,0,3,FC Blau-Weiß Linz
+27,Fri Apr 7 2017,LASK Linz,02-Jan,SV Horn,2017,Apr,7,7/Apr/2017,Fri,3,2,1,LASK Linz
+27,Fri Apr 7 2017,FC Wacker Innsbruck,02-Feb,SC Wiener Neustadt,2017,Apr,7,7/Apr/2017,Fri,4,2,2,Draw
+27,Fri Apr 7 2017,Austria Lustenau,02-Feb,WSG Tirol,2017,Apr,7,7/Apr/2017,Fri,4,2,2,Draw
+27,Fri Apr 7 2017,Kapfenberger SV,0-1,Floridsdorfer AC,2017,Apr,7,7/Apr/2017,Fri,1,0,1,Floridsdorfer AC
+28,Fri Apr 14 2017,SC Wiener Neustadt,03-Jan,Kapfenberger SV,2017,Apr,14,14/Apr/2017,Fri,4,3,1,SC Wiener Neustadt
+28,Fri Apr 14 2017,LASK Linz,2-0,Austria Lustenau,2017,Apr,14,14/Apr/2017,Fri,2,2,0,LASK Linz
+28,Fri Apr 14 2017,WSG Tirol,03-Mar,FC Blau-Weiß Linz,2017,Apr,14,14/Apr/2017,Fri,6,3,3,Draw
+28,Fri Apr 14 2017,SV Horn,0-1,FC Liefering,2017,Apr,14,14/Apr/2017,Fri,1,0,1,FC Liefering
+28,Fri Apr 14 2017,Floridsdorfer AC,01-Feb,FC Wacker Innsbruck,2017,Apr,14,14/Apr/2017,Fri,3,1,2,FC Wacker Innsbruck
+29,Tue Apr 18 2017,FC Blau-Weiß Linz,01-Jan,LASK Linz,2017,Apr,18,18/Apr/2017,Tue,2,1,1,Draw
+29,Tue Apr 18 2017,FC Wacker Innsbruck,03-Mar,Kapfenberger SV,2017,Apr,18,18/Apr/2017,Tue,6,3,3,Draw
+29,Tue Apr 18 2017,SV Horn,01-Feb,Austria Lustenau,2017,Apr,18,18/Apr/2017,Tue,3,1,2,Austria Lustenau
+29,Tue Apr 18 2017,Floridsdorfer AC,0-2,WSG Tirol,2017,Apr,18,18/Apr/2017,Tue,2,0,2,WSG Tirol
+30,Fri Apr 21 2017,SC Wiener Neustadt,0-0,FC Blau-Weiß Linz,2017,Apr,21,21/Apr/2017,Fri,0,0,0,Draw
+30,Fri Apr 21 2017,LASK Linz,3-0,FC Liefering,2017,Apr,21,21/Apr/2017,Fri,3,3,0,LASK Linz
+30,Fri Apr 21 2017,WSG Tirol,03-Apr,FC Wacker Innsbruck,2017,Apr,21,21/Apr/2017,Fri,7,3,4,FC Wacker Innsbruck
+30,Fri Apr 21 2017,Austria Lustenau,0-0,Floridsdorfer AC,2017,Apr,21,21/Apr/2017,Fri,0,0,0,Draw
+30,Fri Apr 21 2017,Kapfenberger SV,01-Jan,SV Horn,2017,Apr,21,21/Apr/2017,Fri,2,1,1,Draw
+29,Tue Apr 25 2017,FC Liefering,02-Jan,SC Wiener Neustadt,2017,Apr,25,25/Apr/2017,Tue,3,2,1,FC Liefering
+31,Fri Apr 28 2017,SC Wiener Neustadt,2-0,WSG Tirol,2017,Apr,28,28/Apr/2017,Fri,2,2,0,SC Wiener Neustadt
+31,Fri Apr 28 2017,FC Blau-Weiß Linz,01-Apr,SV Horn,2017,Apr,28,28/Apr/2017,Fri,5,1,4,SV Horn
+31,Fri Apr 28 2017,Kapfenberger SV,02-Mar,Austria Lustenau,2017,Apr,28,28/Apr/2017,Fri,5,2,3,Austria Lustenau
+31,Fri Apr 28 2017,Floridsdorfer AC,0-3,FC Liefering,2017,Apr,28,28/Apr/2017,Fri,3,0,3,FC Liefering
+32,Tue May 2 2017,FC Liefering,0-3,FC Wacker Innsbruck,2017,May,2,2/May/2017,Tue,3,0,3,FC Wacker Innsbruck
+32,Tue May 2 2017,LASK Linz,1-0,SC Wiener Neustadt,2017,May,2,2/May/2017,Tue,1,1,0,LASK Linz
+32,Tue May 2 2017,WSG Tirol,04-Jan,Kapfenberger SV,2017,May,2,2/May/2017,Tue,5,4,1,WSG Tirol
+32,Tue May 2 2017,Austria Lustenau,01-Apr,FC Blau-Weiß Linz,2017,May,2,2/May/2017,Tue,5,1,4,FC Blau-Weiß Linz
+32,Tue May 2 2017,SV Horn,0-2,Floridsdorfer AC,2017,May,2,2/May/2017,Tue,2,0,2,Floridsdorfer AC
+33,Fri May 5 2017,SC Wiener Neustadt,03-Jan,SV Horn,2017,May,5,5/May/2017,Fri,4,3,1,SC Wiener Neustadt
+33,Fri May 5 2017,FC Blau-Weiß Linz,0-0,Floridsdorfer AC,2017,May,5,5/May/2017,Fri,0,0,0,Draw
+33,Fri May 5 2017,WSG Tirol,2-0,LASK Linz,2017,May,5,5/May/2017,Fri,2,2,0,WSG Tirol
+33,Fri May 5 2017,Austria Lustenau,02-Jan,FC Wacker Innsbruck,2017,May,5,5/May/2017,Fri,3,2,1,Austria Lustenau
+33,Fri May 5 2017,Kapfenberger SV,0-3,FC Liefering,2017,May,5,5/May/2017,Fri,3,0,3,FC Liefering
+31,Mon May 8 2017,FC Wacker Innsbruck,02-Mar,LASK Linz,2017,May,8,8/May/2017,Mon,5,2,3,LASK Linz
+34,Fri May 12 2017,FC Liefering,04-Jan,Austria Lustenau,2017,May,12,12/May/2017,Fri,5,4,1,FC Liefering
+34,Fri May 12 2017,LASK Linz,01-Jan,Kapfenberger SV,2017,May,12,12/May/2017,Fri,2,1,1,Draw
+34,Fri May 12 2017,FC Wacker Innsbruck,02-Jan,FC Blau-Weiß Linz,2017,May,12,12/May/2017,Fri,3,2,1,FC Wacker Innsbruck
+34,Fri May 12 2017,SV Horn,02-Mar,WSG Tirol,2017,May,12,12/May/2017,Fri,5,2,3,WSG Tirol
+34,Fri May 12 2017,Floridsdorfer AC,3-0,SC Wiener Neustadt,2017,May,12,12/May/2017,Fri,3,3,0,Floridsdorfer AC
+35,Fri May 19 2017,FC Liefering,02-Mar,WSG Tirol,2017,May,19,19/May/2017,Fri,5,2,3,WSG Tirol
+35,Fri May 19 2017,LASK Linz,02-Feb,Floridsdorfer AC,2017,May,19,19/May/2017,Fri,4,2,2,Draw
+35,Fri May 19 2017,FC Wacker Innsbruck,3-0,SV Horn,2017,May,19,19/May/2017,Fri,3,3,0,FC Wacker Innsbruck
+35,Fri May 19 2017,Austria Lustenau,2-0,SC Wiener Neustadt,2017,May,19,19/May/2017,Fri,2,2,0,Austria Lustenau
+35,Fri May 19 2017,Kapfenberger SV,03-Feb,FC Blau-Weiß Linz,2017,May,19,19/May/2017,Fri,5,3,2,Kapfenberger SV
+36,Fri May 26 2017,SC Wiener Neustadt,01-Mar,FC Wacker Innsbruck,2017,May,26,26/May/2017,Fri,4,1,3,FC Wacker Innsbruck
+36,Fri May 26 2017,FC Blau-Weiß Linz,0-0,FC Liefering,2017,May,26,26/May/2017,Fri,0,0,0,Draw
+36,Fri May 26 2017,WSG Tirol,02-Feb,Austria Lustenau,2017,May,26,26/May/2017,Fri,4,2,2,Draw
+36,Fri May 26 2017,SV Horn,01-Feb,LASK Linz,2017,May,26,26/May/2017,Fri,3,1,2,LASK Linz
+36,Fri May 26 2017,Floridsdorfer AC,03-Jan,Kapfenberger SV,2017,May,26,26/May/2017,Fri,4,3,1,Floridsdorfer AC

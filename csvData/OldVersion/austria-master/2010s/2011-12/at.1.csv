@@ -1,0 +1,181 @@
+Round,Date,Team 1,FT,Team 2,Year,Month,Day,Date,DayOfWeek,Total Goals,Team 1 Goals,Team 2 Goals,Result
+1,Sat Jul 16 2011,SV Mattersburg,01-Feb,SC Wiener Neustadt,2011,Jul,16,16/Jul/2011,Sat,3,1,2,SC Wiener Neustadt
+1,Sat Jul 16 2011,SK Rapid Wien,2-0,FC Admira Wacker Mödling,2011,Jul,16,16/Jul/2011,Sat,2,2,0,SK Rapid Wien
+1,Sat Jul 16 2011,SV Ried,01-Jan,SK Sturm Graz,2011,Jul,16,16/Jul/2011,Sat,2,1,1,Draw
+1,Sat Jul 16 2011,Kapfenberger SV,02-Mar,FC Wacker Innsbruck,2011,Jul,16,16/Jul/2011,Sat,5,2,3,FC Wacker Innsbruck
+1,Sun Jul 17 2011,FC RB Salzburg,2-0,FK Austria Wien,2011,Jul,17,17/Jul/2011,Sun,2,2,0,FC RB Salzburg
+2,Sat Jul 23 2011,FC Admira Wacker Mödling,01-Jan,Kapfenberger SV,2011,Jul,23,23/Jul/2011,Sat,2,1,1,Draw
+2,Sat Jul 23 2011,SC Wiener Neustadt,0-2,SK Rapid Wien,2011,Jul,23,23/Jul/2011,Sat,2,0,2,SK Rapid Wien
+2,Sat Jul 23 2011,SK Sturm Graz,02-Feb,SV Mattersburg,2011,Jul,23,23/Jul/2011,Sat,4,2,2,Draw
+2,Sun Jul 24 2011,FC Wacker Innsbruck,0-1,FC RB Salzburg,2011,Jul,24,24/Jul/2011,Sun,1,0,1,FC RB Salzburg
+2,Sun Jul 24 2011,FK Austria Wien,02-Jan,SV Ried,2011,Jul,24,24/Jul/2011,Sun,3,2,1,FK Austria Wien
+3,Sat Jul 30 2011,Kapfenberger SV,3-0,SK Sturm Graz,2011,Jul,30,30/Jul/2011,Sat,3,3,0,Kapfenberger SV
+3,Sat Jul 30 2011,FC Admira Wacker Mödling,3-0,SC Wiener Neustadt,2011,Jul,30,30/Jul/2011,Sat,3,3,0,FC Admira Wacker Mödling
+3,Sun Jul 31 2011,SK Rapid Wien,0-0,SV Ried,2011,Jul,31,31/Jul/2011,Sun,0,0,0,Draw
+3,Sun Jul 31 2011,FC RB Salzburg,0-0,SV Mattersburg,2011,Jul,31,31/Jul/2011,Sun,0,0,0,Draw
+3,Sun Jul 31 2011,FC Wacker Innsbruck,0-0,FK Austria Wien,2011,Jul,31,31/Jul/2011,Sun,0,0,0,Draw
+4,Sat Aug 13 2011,SC Wiener Neustadt,0-0,FC Wacker Innsbruck,2011,Aug,13,13/Aug/2011,Sat,0,0,0,Draw
+4,Sat Aug 13 2011,FK Austria Wien,5-0,Kapfenberger SV,2011,Aug,13,13/Aug/2011,Sat,5,5,0,FK Austria Wien
+4,Sat Aug 13 2011,SK Sturm Graz,1-0,SK Rapid Wien,2011,Aug,13,13/Aug/2011,Sat,1,1,0,SK Sturm Graz
+4,Sat Aug 13 2011,FC Admira Wacker Mödling,02-Jan,SV Mattersburg,2011,Aug,13,13/Aug/2011,Sat,3,2,1,FC Admira Wacker Mödling
+4,Sun Aug 14 2011,SV Ried,01-Mar,FC RB Salzburg,2011,Aug,14,14/Aug/2011,Sun,4,1,3,FC RB Salzburg
+5,Sat Aug 20 2011,FC Wacker Innsbruck,02-Feb,FC Admira Wacker Mödling,2011,Aug,20,20/Aug/2011,Sat,4,2,2,Draw
+5,Sat Aug 20 2011,Kapfenberger SV,0-2,SC Wiener Neustadt,2011,Aug,20,20/Aug/2011,Sat,2,0,2,SC Wiener Neustadt
+5,Sun Aug 21 2011,SV Mattersburg,02-Mar,SV Ried,2011,Aug,21,21/Aug/2011,Sun,5,2,3,SV Ried
+5,Sun Aug 21 2011,FC RB Salzburg,01-Jan,SK Sturm Graz,2011,Aug,21,21/Aug/2011,Sun,2,1,1,Draw
+5,Sun Aug 21 2011,SK Rapid Wien,0-3,FK Austria Wien,2011,Aug,21,21/Aug/2011,Sun,3,0,3,FK Austria Wien
+6,Sat Aug 27 2011,SK Sturm Graz,5-0,SC Wiener Neustadt,2011,Aug,27,27/Aug/2011,Sat,5,5,0,SK Sturm Graz
+6,Sat Aug 27 2011,SV Mattersburg,01-Jan,FC Wacker Innsbruck,2011,Aug,27,27/Aug/2011,Sat,2,1,1,Draw
+6,Sun Aug 28 2011,SV Ried,1-0,Kapfenberger SV,2011,Aug,28,28/Aug/2011,Sun,1,1,0,SV Ried
+6,Sun Aug 28 2011,FC RB Salzburg,0-0,SK Rapid Wien,2011,Aug,28,28/Aug/2011,Sun,0,0,0,Draw
+6,Sun Aug 28 2011,FK Austria Wien,02-Apr,FC Admira Wacker Mödling,2011,Aug,28,28/Aug/2011,Sun,6,2,4,FC Admira Wacker Mödling
+7,Sat Sep 10 2011,Kapfenberger SV,01-Mar,FC RB Salzburg,2011,Sep,10,10/Sep/2011,Sat,4,1,3,FC RB Salzburg
+7,Sat Sep 10 2011,FC Admira Wacker Mödling,04-Feb,SK Sturm Graz,2011,Sep,10,10/Sep/2011,Sat,6,4,2,FC Admira Wacker Mödling
+7,Sat Sep 10 2011,SK Rapid Wien,01-Jan,SV Mattersburg,2011,Sep,10,10/Sep/2011,Sat,2,1,1,Draw
+7,Sat Sep 10 2011,FC Wacker Innsbruck,0-5,SV Ried,2011,Sep,10,10/Sep/2011,Sat,5,0,5,SV Ried
+7,Sun Sep 11 2011,SC Wiener Neustadt,01-Jan,FK Austria Wien,2011,Sep,11,11/Sep/2011,Sun,2,1,1,Draw
+8,Sat Sep 17 2011,SV Ried,01-Jan,FC Admira Wacker Mödling,2011,Sep,17,17/Sep/2011,Sat,2,1,1,Draw
+8,Sat Sep 17 2011,SK Rapid Wien,05-Jan,Kapfenberger SV,2011,Sep,17,17/Sep/2011,Sat,6,5,1,SK Rapid Wien
+8,Sun Sep 18 2011,SK Sturm Graz,01-Jan,FC Wacker Innsbruck,2011,Sep,18,18/Sep/2011,Sun,2,1,1,Draw
+8,Sun Sep 18 2011,FC RB Salzburg,3-0,SC Wiener Neustadt,2011,Sep,18,18/Sep/2011,Sun,3,3,0,FC RB Salzburg
+8,Sun Sep 18 2011,SV Mattersburg,02-Apr,FK Austria Wien,2011,Sep,18,18/Sep/2011,Sun,6,2,4,FK Austria Wien
+9,Sat Sep 24 2011,FC Wacker Innsbruck,0-3,SK Rapid Wien,2011,Sep,24,24/Sep/2011,Sat,3,0,3,SK Rapid Wien
+9,Sat Sep 24 2011,SC Wiener Neustadt,02-Feb,SV Ried,2011,Sep,24,24/Sep/2011,Sat,4,2,2,Draw
+9,Sat Sep 24 2011,Kapfenberger SV,1-0,SV Mattersburg,2011,Sep,24,24/Sep/2011,Sat,1,1,0,Kapfenberger SV
+9,Sat Sep 24 2011,FK Austria Wien,02-Jan,SK Sturm Graz,2011,Sep,24,24/Sep/2011,Sat,3,2,1,FK Austria Wien
+9,Sun Sep 25 2011,FC Admira Wacker Mödling,02-Jan,FC RB Salzburg,2011,Sep,25,25/Sep/2011,Sun,3,2,1,FC Admira Wacker Mödling
+10,Sat Oct 1 2011,FC Wacker Innsbruck,03-Jan,Kapfenberger SV,2011,Oct,1,1/Oct/2011,Sat,4,3,1,FC Wacker Innsbruck
+10,Sat Oct 1 2011,SC Wiener Neustadt,01-Feb,SV Mattersburg,2011,Oct,1,1/Oct/2011,Sat,3,1,2,SV Mattersburg
+10,Sat Oct 1 2011,FC Admira Wacker Mödling,04-Mar,SK Rapid Wien,2011,Oct,1,1/Oct/2011,Sat,7,4,3,FC Admira Wacker Mödling
+10,Sun Oct 2 2011,FK Austria Wien,03-Feb,FC RB Salzburg,2011,Oct,2,2/Oct/2011,Sun,5,3,2,FK Austria Wien
+10,Sun Oct 2 2011,SK Sturm Graz,1-0,SV Ried,2011,Oct,2,2/Oct/2011,Sun,1,1,0,SK Sturm Graz
+11,Sat Oct 15 2011,Kapfenberger SV,0-0,FC Admira Wacker Mödling,2011,Oct,15,15/Oct/2011,Sat,0,0,0,Draw
+11,Sat Oct 15 2011,SK Rapid Wien,01-Jan,SC Wiener Neustadt,2011,Oct,15,15/Oct/2011,Sat,2,1,1,Draw
+11,Sat Oct 15 2011,FC RB Salzburg,01-Jan,FC Wacker Innsbruck,2011,Oct,15,15/Oct/2011,Sat,2,1,1,Draw
+11,Sat Oct 15 2011,SV Ried,02-Jan,FK Austria Wien,2011,Oct,15,15/Oct/2011,Sat,3,2,1,SV Ried
+11,Sun Oct 16 2011,SV Mattersburg,03-Mar,SK Sturm Graz,2011,Oct,16,16/Oct/2011,Sun,6,3,3,Draw
+12,Sat Oct 22 2011,SC Wiener Neustadt,2-0,Kapfenberger SV,2011,Oct,22,22/Oct/2011,Sat,2,2,0,SC Wiener Neustadt
+12,Sat Oct 22 2011,FC Admira Wacker Mödling,03-Feb,FC Wacker Innsbruck,2011,Oct,22,22/Oct/2011,Sat,5,3,2,FC Admira Wacker Mödling
+12,Sat Oct 22 2011,SV Ried,2-0,SV Mattersburg,2011,Oct,22,22/Oct/2011,Sat,2,2,0,SV Ried
+12,Sun Oct 23 2011,FK Austria Wien,01-Jan,SK Rapid Wien,2011,Oct,23,23/Oct/2011,Sun,2,1,1,Draw
+12,Sun Oct 23 2011,SK Sturm Graz,02-Jan,FC RB Salzburg,2011,Oct,23,23/Oct/2011,Sun,3,2,1,SK Sturm Graz
+13,Sat Oct 29 2011,SV Mattersburg,0-0,FC Admira Wacker Mödling,2011,Oct,29,29/Oct/2011,Sat,0,0,0,Draw
+13,Sat Oct 29 2011,SK Rapid Wien,03-Feb,SK Sturm Graz,2011,Oct,29,29/Oct/2011,Sat,5,3,2,SK Rapid Wien
+13,Sat Oct 29 2011,FC Wacker Innsbruck,2-0,SC Wiener Neustadt,2011,Oct,29,29/Oct/2011,Sat,2,2,0,FC Wacker Innsbruck
+13,Sat Oct 29 2011,FC RB Salzburg,01-Jan,SV Ried,2011,Oct,29,29/Oct/2011,Sat,2,1,1,Draw
+13,Sun Oct 30 2011,Kapfenberger SV,02-Feb,FK Austria Wien,2011,Oct,30,30/Oct/2011,Sun,4,2,2,Draw
+14,Sat Nov 5 2011,SC Wiener Neustadt,0-0,FC Admira Wacker Mödling,2011,Nov,5,5/Nov/2011,Sat,0,0,0,Draw
+14,Sat Nov 5 2011,SV Ried,01-Jan,SK Rapid Wien,2011,Nov,5,5/Nov/2011,Sat,2,1,1,Draw
+14,Sun Nov 6 2011,SK Sturm Graz,1-0,Kapfenberger SV,2011,Nov,6,6/Nov/2011,Sun,1,1,0,SK Sturm Graz
+14,Sun Nov 6 2011,FK Austria Wien,02-Feb,FC Wacker Innsbruck,2011,Nov,6,6/Nov/2011,Sun,4,2,2,Draw
+14,Sun Nov 6 2011,SV Mattersburg,3-0,FC RB Salzburg,2011,Nov,6,6/Nov/2011,Sun,3,3,0,SV Mattersburg
+15,Sat Nov 19 2011,Kapfenberger SV,01-Mar,SV Ried,2011,Nov,19,19/Nov/2011,Sat,4,1,3,SV Ried
+15,Sat Nov 19 2011,FC Wacker Innsbruck,01-Jan,SV Mattersburg,2011,Nov,19,19/Nov/2011,Sat,2,1,1,Draw
+15,Sat Nov 19 2011,FC Admira Wacker Mödling,0-3,FK Austria Wien,2011,Nov,19,19/Nov/2011,Sat,3,0,3,FK Austria Wien
+15,Sat Nov 19 2011,SC Wiener Neustadt,03-Jan,SK Sturm Graz,2011,Nov,19,19/Nov/2011,Sat,4,3,1,SC Wiener Neustadt
+15,Sun Nov 20 2011,SK Rapid Wien,04-Feb,FC RB Salzburg,2011,Nov,20,20/Nov/2011,Sun,6,4,2,SK Rapid Wien
+16,Sat Nov 26 2011,FK Austria Wien,02-Feb,SC Wiener Neustadt,2011,Nov,26,26/Nov/2011,Sat,4,2,2,Draw
+16,Sat Nov 26 2011,SV Ried,1-0,FC Wacker Innsbruck,2011,Nov,26,26/Nov/2011,Sat,1,1,0,SV Ried
+16,Sat Nov 26 2011,FC RB Salzburg,6-0,Kapfenberger SV,2011,Nov,26,26/Nov/2011,Sat,6,6,0,FC RB Salzburg
+16,Sat Nov 26 2011,SV Mattersburg,01-Feb,SK Rapid Wien,2011,Nov,26,26/Nov/2011,Sat,3,1,2,SK Rapid Wien
+16,Sun Nov 27 2011,SK Sturm Graz,03-Jan,FC Admira Wacker Mödling,2011,Nov,27,27/Nov/2011,Sun,4,3,1,SK Sturm Graz
+17,Sat Dec 3 2011,FK Austria Wien,0-0,SV Mattersburg,2011,Dec,3,3/Dec/2011,Sat,0,0,0,Draw
+17,Sat Dec 3 2011,Kapfenberger SV,0-0,SK Rapid Wien,2011,Dec,3,3/Dec/2011,Sat,0,0,0,Draw
+17,Sat Dec 3 2011,FC Admira Wacker Mödling,01-Jan,SV Ried,2011,Dec,3,3/Dec/2011,Sat,2,1,1,Draw
+17,Sun Dec 4 2011,SC Wiener Neustadt,0-0,FC RB Salzburg,2011,Dec,4,4/Dec/2011,Sun,0,0,0,Draw
+17,Sun Dec 4 2011,FC Wacker Innsbruck,1-0,SK Sturm Graz,2011,Dec,4,4/Dec/2011,Sun,1,1,0,FC Wacker Innsbruck
+18,Sat Dec 10 2011,SK Rapid Wien,0-0,FC Wacker Innsbruck,2011,Dec,10,10/Dec/2011,Sat,0,0,0,Draw
+18,Sat Dec 10 2011,SV Ried,2-0,SC Wiener Neustadt,2011,Dec,10,10/Dec/2011,Sat,2,2,0,SV Ried
+18,Sat Dec 10 2011,SV Mattersburg,2-0,Kapfenberger SV,2011,Dec,10,10/Dec/2011,Sat,2,2,0,SV Mattersburg
+18,Sat Dec 10 2011,SK Sturm Graz,05-Jan,FK Austria Wien,2011,Dec,10,10/Dec/2011,Sat,6,5,1,SK Sturm Graz
+18,Sun Dec 11 2011,FC RB Salzburg,02-Jan,FC Admira Wacker Mödling,2011,Dec,11,11/Dec/2011,Sun,3,2,1,FC RB Salzburg
+19,Sat Dec 17 2011,SV Mattersburg,0-1,SC Wiener Neustadt,2011,Dec,17,17/Dec/2011,Sat,1,0,1,SC Wiener Neustadt
+19,Sat Dec 17 2011,SK Rapid Wien,02-Jan,FC Admira Wacker Mödling,2011,Dec,17,17/Dec/2011,Sat,3,2,1,SK Rapid Wien
+19,Sat Dec 17 2011,Kapfenberger SV,0-1,FC Wacker Innsbruck,2011,Dec,17,17/Dec/2011,Sat,1,0,1,FC Wacker Innsbruck
+19,Sat Dec 17 2011,SV Ried,01-Jan,SK Sturm Graz,2011,Dec,17,17/Dec/2011,Sat,2,1,1,Draw
+19,Sun Dec 18 2011,FC RB Salzburg,3-0,FK Austria Wien,2011,Dec,18,18/Dec/2011,Sun,3,3,0,FC RB Salzburg
+20,Sat Feb 11 2012,FK Austria Wien,2-0,SV Ried,2012,Feb,11,11/Feb/2012,Sat,2,2,0,FK Austria Wien
+20,Sat Feb 11 2012,SK Sturm Graz,1-0,SV Mattersburg,2012,Feb,11,11/Feb/2012,Sat,1,1,0,SK Sturm Graz
+20,Sun Feb 12 2012,SC Wiener Neustadt,0-0,SK Rapid Wien,2012,Feb,12,12/Feb/2012,Sun,0,0,0,Draw
+21,Sat Feb 18 2012,FC Wacker Innsbruck,02-Jan,FC Admira Wacker Mödling,2012,Feb,18,18/Feb/2012,Sat,3,2,1,FC Wacker Innsbruck
+21,Sat Feb 18 2012,SK Rapid Wien,0-0,FK Austria Wien,2012,Feb,18,18/Feb/2012,Sat,0,0,0,Draw
+21,Sat Feb 18 2012,SV Mattersburg,04-Jan,SV Ried,2012,Feb,18,18/Feb/2012,Sat,5,4,1,SV Mattersburg
+21,Sun Feb 19 2012,FC RB Salzburg,0-0,SK Sturm Graz,2012,Feb,19,19/Feb/2012,Sun,0,0,0,Draw
+22,Sat Feb 25 2012,FK Austria Wien,0-1,Kapfenberger SV,2012,Feb,25,25/Feb/2012,Sat,1,0,1,Kapfenberger SV
+22,Sat Feb 25 2012,SK Sturm Graz,0-0,SK Rapid Wien,2012,Feb,25,25/Feb/2012,Sat,0,0,0,Draw
+22,Sat Feb 25 2012,SC Wiener Neustadt,0-0,FC Wacker Innsbruck,2012,Feb,25,25/Feb/2012,Sat,0,0,0,Draw
+22,Sat Feb 25 2012,FC Admira Wacker Mödling,0-1,SV Mattersburg,2012,Feb,25,25/Feb/2012,Sat,1,0,1,SV Mattersburg
+22,Sun Feb 26 2012,SV Ried,0-1,FC RB Salzburg,2012,Feb,26,26/Feb/2012,Sun,1,0,1,FC RB Salzburg
+23,Sat Mar 3 2012,FC Wacker Innsbruck,0-1,FK Austria Wien,2012,Mar,3,3/Mar/2012,Sat,1,0,1,FK Austria Wien
+23,Sat Mar 3 2012,FC RB Salzburg,0-1,SV Mattersburg,2012,Mar,3,3/Mar/2012,Sat,1,0,1,SV Mattersburg
+23,Sat Mar 3 2012,FC Admira Wacker Mödling,2-0,SC Wiener Neustadt,2012,Mar,3,3/Mar/2012,Sat,2,2,0,FC Admira Wacker Mödling
+23,Sat Mar 3 2012,SK Rapid Wien,1-0,SV Ried,2012,Mar,3,3/Mar/2012,Sat,1,1,0,SK Rapid Wien
+23,Sun Mar 4 2012,Kapfenberger SV,0-0,SK Sturm Graz,2012,Mar,4,4/Mar/2012,Sun,0,0,0,Draw
+20,Wed Mar 7 2012,FC Wacker Innsbruck,01-Jan,FC RB Salzburg,2012,Mar,7,7/Mar/2012,Wed,2,1,1,Draw
+20,Wed Mar 7 2012,FC Admira Wacker Mödling,03-Jan,Kapfenberger SV,2012,Mar,7,7/Mar/2012,Wed,4,3,1,FC Admira Wacker Mödling
+24,Sat Mar 10 2012,SV Ried,3-0,Kapfenberger SV,2012,Mar,10,10/Mar/2012,Sat,3,3,0,SV Ried
+24,Sat Mar 10 2012,SK Sturm Graz,0-1,SC Wiener Neustadt,2012,Mar,10,10/Mar/2012,Sat,1,0,1,SC Wiener Neustadt
+24,Sat Mar 10 2012,FC RB Salzburg,03-Jan,SK Rapid Wien,2012,Mar,10,10/Mar/2012,Sat,4,3,1,FC RB Salzburg
+24,Sat Mar 10 2012,SV Mattersburg,0-1,FC Wacker Innsbruck,2012,Mar,10,10/Mar/2012,Sat,1,0,1,FC Wacker Innsbruck
+24,Sun Mar 11 2012,FK Austria Wien,02-Jan,FC Admira Wacker Mödling,2012,Mar,11,11/Mar/2012,Sun,3,2,1,FK Austria Wien
+21,Wed Mar 14 2012,Kapfenberger SV,1-0,SC Wiener Neustadt,2012,Mar,14,14/Mar/2012,Wed,1,1,0,Kapfenberger SV
+25,Sat Mar 17 2012,Kapfenberger SV,0-1,FC RB Salzburg,2012,Mar,17,17/Mar/2012,Sat,1,0,1,FC RB Salzburg
+25,Sat Mar 17 2012,FC Wacker Innsbruck,0-0,SV Ried,2012,Mar,17,17/Mar/2012,Sat,0,0,0,Draw
+25,Sat Mar 17 2012,SK Rapid Wien,01-Jan,SV Mattersburg,2012,Mar,17,17/Mar/2012,Sat,2,1,1,Draw
+25,Sat Mar 17 2012,SC Wiener Neustadt,0-0,FK Austria Wien,2012,Mar,17,17/Mar/2012,Sat,0,0,0,Draw
+25,Sun Mar 18 2012,FC Admira Wacker Mödling,2-0,SK Sturm Graz,2012,Mar,18,18/Mar/2012,Sun,2,2,0,FC Admira Wacker Mödling
+26,Tue Mar 20 2012,SV Mattersburg,2-0,FK Austria Wien,2012,Mar,20,20/Mar/2012,Tue,2,2,0,SV Mattersburg
+26,Wed Mar 21 2012,SV Ried,02-Jan,FC Admira Wacker Mödling,2012,Mar,21,21/Mar/2012,Wed,3,2,1,SV Ried
+26,Wed Mar 21 2012,SK Rapid Wien,3-0,Kapfenberger SV,2012,Mar,21,21/Mar/2012,Wed,3,3,0,SK Rapid Wien
+26,Wed Mar 21 2012,FC RB Salzburg,02-Jan,SC Wiener Neustadt,2012,Mar,21,21/Mar/2012,Wed,3,2,1,FC RB Salzburg
+26,Wed Mar 21 2012,SK Sturm Graz,1-0,FC Wacker Innsbruck,2012,Mar,21,21/Mar/2012,Wed,1,1,0,SK Sturm Graz
+27,Sat Mar 24 2012,Kapfenberger SV,01-Jan,SV Mattersburg,2012,Mar,24,24/Mar/2012,Sat,2,1,1,Draw
+27,Sat Mar 24 2012,SC Wiener Neustadt,01-Jan,SV Ried,2012,Mar,24,24/Mar/2012,Sat,2,1,1,Draw
+27,Sat Mar 24 2012,FC Admira Wacker Mödling,02-Feb,FC RB Salzburg,2012,Mar,24,24/Mar/2012,Sat,4,2,2,Draw
+27,Sat Mar 24 2012,FK Austria Wien,01-Jan,SK Sturm Graz,2012,Mar,24,24/Mar/2012,Sat,2,1,1,Draw
+27,Sun Mar 25 2012,FC Wacker Innsbruck,02-Jan,SK Rapid Wien,2012,Mar,25,25/Mar/2012,Sun,3,2,1,FC Wacker Innsbruck
+28,Sat Mar 31 2012,SK Sturm Graz,0-0,SV Ried,2012,Mar,31,31/Mar/2012,Sat,0,0,0,Draw
+28,Sat Mar 31 2012,SC Wiener Neustadt,0-0,SV Mattersburg,2012,Mar,31,31/Mar/2012,Sat,0,0,0,Draw
+28,Sat Mar 31 2012,FC Wacker Innsbruck,2-0,Kapfenberger SV,2012,Mar,31,31/Mar/2012,Sat,2,2,0,FC Wacker Innsbruck
+28,Sat Mar 31 2012,FC Admira Wacker Mödling,0-4,SK Rapid Wien,2012,Mar,31,31/Mar/2012,Sat,4,0,4,SK Rapid Wien
+28,Sun Apr 1 2012,FK Austria Wien,01-Jan,FC RB Salzburg,2012,Apr,1,1/Apr/2012,Sun,2,1,1,Draw
+29,Sat Apr 7 2012,SV Ried,0-1,FK Austria Wien,2012,Apr,7,7/Apr/2012,Sat,1,0,1,FK Austria Wien
+29,Sat Apr 7 2012,FC RB Salzburg,2-0,FC Wacker Innsbruck,2012,Apr,7,7/Apr/2012,Sat,2,2,0,FC RB Salzburg
+29,Sat Apr 7 2012,Kapfenberger SV,02-Mar,FC Admira Wacker Mödling,2012,Apr,7,7/Apr/2012,Sat,5,2,3,FC Admira Wacker Mödling
+29,Sat Apr 7 2012,SK Rapid Wien,02-Jan,SC Wiener Neustadt,2012,Apr,7,7/Apr/2012,Sat,3,2,1,SK Rapid Wien
+29,Sun Apr 8 2012,SV Mattersburg,0-2,SK Sturm Graz,2012,Apr,8,8/Apr/2012,Sun,2,0,2,SK Sturm Graz
+30,Sat Apr 14 2012,SC Wiener Neustadt,0-0,Kapfenberger SV,2012,Apr,14,14/Apr/2012,Sat,0,0,0,Draw
+30,Sat Apr 14 2012,SV Ried,2-0,SV Mattersburg,2012,Apr,14,14/Apr/2012,Sat,2,2,0,SV Ried
+30,Sat Apr 14 2012,SK Sturm Graz,02-Feb,FC RB Salzburg,2012,Apr,14,14/Apr/2012,Sat,4,2,2,Draw
+30,Sat Apr 14 2012,FC Admira Wacker Mödling,01-Jan,FC Wacker Innsbruck,2012,Apr,14,14/Apr/2012,Sat,2,1,1,Draw
+30,Sun Apr 15 2012,FK Austria Wien,0-0,SK Rapid Wien,2012,Apr,15,15/Apr/2012,Sun,0,0,0,Draw
+31,Sat Apr 21 2012,FC Wacker Innsbruck,2-0,SC Wiener Neustadt,2012,Apr,21,21/Apr/2012,Sat,2,2,0,FC Wacker Innsbruck
+31,Sat Apr 21 2012,Kapfenberger SV,1-0,FK Austria Wien,2012,Apr,21,21/Apr/2012,Sat,1,1,0,Kapfenberger SV
+31,Sat Apr 21 2012,SV Mattersburg,01-Feb,FC Admira Wacker Mödling,2012,Apr,21,21/Apr/2012,Sat,3,1,2,FC Admira Wacker Mödling
+31,Sat Apr 21 2012,FC RB Salzburg,2-0,SV Ried,2012,Apr,21,21/Apr/2012,Sat,2,2,0,FC RB Salzburg
+31,Sun Apr 22 2012,SK Rapid Wien,01-Jan,SK Sturm Graz,2012,Apr,22,22/Apr/2012,Sun,2,1,1,Draw
+32,Sat Apr 28 2012,FK Austria Wien,3-0,FC Wacker Innsbruck,2012,Apr,28,28/Apr/2012,Sat,3,3,0,FK Austria Wien
+32,Sat Apr 28 2012,SK Sturm Graz,02-Jan,Kapfenberger SV,2012,Apr,28,28/Apr/2012,Sat,3,2,1,SK Sturm Graz
+32,Sat Apr 28 2012,SV Mattersburg,0-1,FC RB Salzburg,2012,Apr,28,28/Apr/2012,Sat,1,0,1,FC RB Salzburg
+32,Sat Apr 28 2012,SC Wiener Neustadt,01-Apr,FC Admira Wacker Mödling,2012,Apr,28,28/Apr/2012,Sat,5,1,4,FC Admira Wacker Mödling
+32,Sun Apr 29 2012,SV Ried,02-Mar,SK Rapid Wien,2012,Apr,29,29/Apr/2012,Sun,5,2,3,SK Rapid Wien
+33,Sat May 5 2012,SC Wiener Neustadt,0-0,SK Sturm Graz,2012,May,5,5/May/2012,Sat,0,0,0,Draw
+33,Sat May 5 2012,FC Admira Wacker Mödling,03-Feb,FK Austria Wien,2012,May,5,5/May/2012,Sat,5,3,2,FC Admira Wacker Mödling
+33,Sat May 5 2012,Kapfenberger SV,0-0,SV Ried,2012,May,5,5/May/2012,Sat,0,0,0,Draw
+33,Sat May 5 2012,FC Wacker Innsbruck,03-Jun,SV Mattersburg,2012,May,5,5/May/2012,Sat,9,3,6,SV Mattersburg
+33,Sun May 6 2012,SK Rapid Wien,0-1,FC RB Salzburg,2012,May,6,6/May/2012,Sun,1,0,1,FC RB Salzburg
+34,Thu May 10 2012,FC RB Salzburg,2-0,Kapfenberger SV,2012,May,10,10/May/2012,Thu,2,2,0,FC RB Salzburg
+34,Thu May 10 2012,SK Sturm Graz,0-3,FC Admira Wacker Mödling,2012,May,10,10/May/2012,Thu,3,0,3,FC Admira Wacker Mödling
+34,Thu May 10 2012,FK Austria Wien,03-Jan,SC Wiener Neustadt,2012,May,10,10/May/2012,Thu,4,3,1,FK Austria Wien
+34,Thu May 10 2012,SV Ried,01-Jan,FC Wacker Innsbruck,2012,May,10,10/May/2012,Thu,2,1,1,Draw
+34,Thu May 10 2012,SV Mattersburg,0-1,SK Rapid Wien,2012,May,10,10/May/2012,Thu,1,0,1,SK Rapid Wien
+35,Sun May 13 2012,FK Austria Wien,1-0,SV Mattersburg,2012,May,13,13/May/2012,Sun,1,1,0,FK Austria Wien
+35,Sun May 13 2012,FC Wacker Innsbruck,01-Jan,SK Sturm Graz,2012,May,13,13/May/2012,Sun,2,1,1,Draw
+35,Sun May 13 2012,SC Wiener Neustadt,01-May,FC RB Salzburg,2012,May,13,13/May/2012,Sun,6,1,5,FC RB Salzburg
+35,Sun May 13 2012,FC Admira Wacker Mödling,01-Jan,SV Ried,2012,May,13,13/May/2012,Sun,2,1,1,Draw
+35,Sun May 13 2012,Kapfenberger SV,0-2,SK Rapid Wien,2012,May,13,13/May/2012,Sun,2,0,2,SK Rapid Wien
+36,Thu May 17 2012,FC RB Salzburg,2-0,FC Admira Wacker Mödling,2012,May,17,17/May/2012,Thu,2,2,0,FC RB Salzburg
+36,Thu May 17 2012,SK Sturm Graz,03-Jan,FK Austria Wien,2012,May,17,17/May/2012,Thu,4,3,1,SK Sturm Graz
+36,Thu May 17 2012,SV Mattersburg,2-0,Kapfenberger SV,2012,May,17,17/May/2012,Thu,2,2,0,SV Mattersburg
+36,Thu May 17 2012,SV Ried,02-Feb,SC Wiener Neustadt,2012,May,17,17/May/2012,Thu,4,2,2,Draw
+36,Thu May 17 2012,SK Rapid Wien,2-0,FC Wacker Innsbruck,2012,May,17,17/May/2012,Thu,2,2,0,SK Rapid Wien

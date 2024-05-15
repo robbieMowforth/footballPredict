@@ -1,0 +1,381 @@
+Round,Date,Team 1,FT,Team 2,Year,Month,Day,Date,DayOfWeek,Total Goals,Team 1 Goals,Team 2 Goals,Result
+1,Fri Aug 17 2018,Girona FC,0-0,Real Valladolid CF,2018,Aug,17,17/Aug/2018,Fri,0,0,0,Draw
+1,Fri Aug 17 2018,Real Betis,0-3,Levante UD,2018,Aug,17,17/Aug/2018,Fri,3,0,3,Levante UD
+1,Sat Aug 18 2018,RC Celta Vigo,01-Jan,RCD Espanyol,2018,Aug,18,18/Aug/2018,Sat,2,1,1,Draw
+1,Sat Aug 18 2018,Villarreal CF,01-Feb,Real Sociedad,2018,Aug,18,18/Aug/2018,Sat,3,1,2,Real Sociedad
+1,Sat Aug 18 2018,FC Barcelona,3-0,Deportivo Alavés,2018,Aug,18,18/Aug/2018,Sat,3,3,0,FC Barcelona
+1,Sun Aug 19 2018,SD Eibar,01-Feb,SD Huesca,2018,Aug,19,19/Aug/2018,Sun,3,1,2,SD Huesca
+1,Sun Aug 19 2018,Rayo Vallecano,01-Apr,Sevilla FC,2018,Aug,19,19/Aug/2018,Sun,5,1,4,Sevilla FC
+1,Sun Aug 19 2018,Real Madrid,2-0,Getafe CF,2018,Aug,19,19/Aug/2018,Sun,2,2,0,Real Madrid
+1,Mon Aug 20 2018,Valencia CF,01-Jan,Atlético Madrid,2018,Aug,20,20/Aug/2018,Mon,2,1,1,Draw
+1,Mon Aug 20 2018,Athletic Club Bilbao,02-Jan,CD Leganés,2018,Aug,20,20/Aug/2018,Mon,3,2,1,Athletic Club Bilbao
+2,Fri Aug 24 2018,Getafe CF,2-0,SD Eibar,2018,Aug,24,24/Aug/2018,Fri,2,2,0,Getafe CF
+2,Fri Aug 24 2018,CD Leganés,02-Feb,Real Sociedad,2018,Aug,24,24/Aug/2018,Fri,4,2,2,Draw
+2,Sat Aug 25 2018,Deportivo Alavés,0-0,Real Betis,2018,Aug,25,25/Aug/2018,Sat,0,0,0,Draw
+2,Sat Aug 25 2018,Atlético Madrid,1-0,Rayo Vallecano,2018,Aug,25,25/Aug/2018,Sat,1,1,0,Atlético Madrid
+2,Sat Aug 25 2018,Real Valladolid CF,0-1,FC Barcelona,2018,Aug,25,25/Aug/2018,Sat,1,0,1,FC Barcelona
+2,Sun Aug 26 2018,RCD Espanyol,2-0,Valencia CF,2018,Aug,26,26/Aug/2018,Sun,2,2,0,RCD Espanyol
+2,Sun Aug 26 2018,Girona FC,01-Apr,Real Madrid,2018,Aug,26,26/Aug/2018,Sun,5,1,4,Real Madrid
+2,Sun Aug 26 2018,Sevilla FC,0-0,Villarreal CF,2018,Aug,26,26/Aug/2018,Sun,0,0,0,Draw
+2,Mon Aug 27 2018,Levante UD,01-Feb,RC Celta Vigo,2018,Aug,27,27/Aug/2018,Mon,3,1,2,RC Celta Vigo
+2,Mon Aug 27 2018,Athletic Club Bilbao,02-Feb,SD Huesca,2018,Aug,27,27/Aug/2018,Mon,4,2,2,Draw
+3,Fri Aug 31 2018,Getafe CF,0-0,Real Valladolid CF,2018,Aug,31,31/Aug/2018,Fri,0,0,0,Draw
+3,Fri Aug 31 2018,Villarreal CF,0-1,Girona FC,2018,Aug,31,31/Aug/2018,Fri,1,0,1,Girona FC
+3,Fri Aug 31 2018,SD Eibar,02-Jan,Real Sociedad,2018,Aug,31,31/Aug/2018,Fri,3,2,1,SD Eibar
+3,Sat Sep 1 2018,RC Celta Vigo,2-0,Atlético Madrid,2018,Sep,1,1/Sep/2018,Sat,2,2,0,RC Celta Vigo
+3,Sat Sep 1 2018,Real Madrid,04-Jan,CD Leganés,2018,Sep,1,1/Sep/2018,Sat,5,4,1,Real Madrid
+3,Sun Sep 2 2018,Levante UD,02-Feb,Valencia CF,2018,Sep,2,2/Sep/2018,Sun,4,2,2,Draw
+3,Sun Sep 2 2018,Deportivo Alavés,02-Jan,RCD Espanyol,2018,Sep,2,2/Sep/2018,Sun,3,2,1,Deportivo Alavés
+3,Sun Sep 2 2018,FC Barcelona,08-Feb,SD Huesca,2018,Sep,2,2/Sep/2018,Sun,10,8,2,FC Barcelona
+3,Sun Sep 2 2018,Real Betis,1-0,Sevilla FC,2018,Sep,2,2/Sep/2018,Sun,1,1,0,Real Betis
+4,Fri Sep 14 2018,SD Huesca,0-1,Rayo Vallecano,2018,Sep,14,14/Sep/2018,Fri,1,0,1,Rayo Vallecano
+4,Sat Sep 15 2018,Atlético Madrid,01-Jan,SD Eibar,2018,Sep,15,15/Sep/2018,Sat,2,1,1,Draw
+4,Sat Sep 15 2018,Real Sociedad,01-Feb,FC Barcelona,2018,Sep,15,15/Sep/2018,Sat,3,1,2,FC Barcelona
+4,Sat Sep 15 2018,Valencia CF,0-0,Real Betis,2018,Sep,15,15/Sep/2018,Sat,0,0,0,Draw
+4,Sat Sep 15 2018,Athletic Club Bilbao,01-Jan,Real Madrid,2018,Sep,15,15/Sep/2018,Sat,2,1,1,Draw
+4,Sun Sep 16 2018,CD Leganés,0-1,Villarreal CF,2018,Sep,16,16/Sep/2018,Sun,1,0,1,Villarreal CF
+4,Sun Sep 16 2018,RCD Espanyol,1-0,Levante UD,2018,Sep,16,16/Sep/2018,Sun,1,1,0,RCD Espanyol
+4,Sun Sep 16 2018,Real Valladolid CF,0-1,Deportivo Alavés,2018,Sep,16,16/Sep/2018,Sun,1,0,1,Deportivo Alavés
+4,Sun Sep 16 2018,Sevilla FC,0-2,Getafe CF,2018,Sep,16,16/Sep/2018,Sun,2,0,2,Getafe CF
+4,Mon Sep 17 2018,Girona FC,03-Feb,RC Celta Vigo,2018,Sep,17,17/Sep/2018,Mon,5,3,2,Girona FC
+5,Fri Sep 21 2018,SD Huesca,0-1,Real Sociedad,2018,Sep,21,21/Sep/2018,Fri,1,0,1,Real Sociedad
+5,Sat Sep 22 2018,Rayo Vallecano,01-May,Deportivo Alavés,2018,Sep,22,22/Sep/2018,Sat,6,1,5,Deportivo Alavés
+5,Sat Sep 22 2018,RC Celta Vigo,03-Mar,Real Valladolid CF,2018,Sep,22,22/Sep/2018,Sat,6,3,3,Draw
+5,Sat Sep 22 2018,SD Eibar,1-0,CD Leganés,2018,Sep,22,22/Sep/2018,Sat,1,1,0,SD Eibar
+5,Sat Sep 22 2018,Getafe CF,0-2,Atlético Madrid,2018,Sep,22,22/Sep/2018,Sat,2,0,2,Atlético Madrid
+5,Sat Sep 22 2018,Real Madrid,1-0,RCD Espanyol,2018,Sep,22,22/Sep/2018,Sat,1,1,0,Real Madrid
+5,Sun Sep 23 2018,Levante UD,02-Jun,Sevilla FC,2018,Sep,23,23/Sep/2018,Sun,8,2,6,Sevilla FC
+5,Sun Sep 23 2018,Villarreal CF,0-0,Valencia CF,2018,Sep,23,23/Sep/2018,Sun,0,0,0,Draw
+5,Sun Sep 23 2018,Real Betis,02-Feb,Athletic Club Bilbao,2018,Sep,23,23/Sep/2018,Sun,4,2,2,Draw
+5,Sun Sep 23 2018,FC Barcelona,02-Feb,Girona FC,2018,Sep,23,23/Sep/2018,Sun,4,2,2,Draw
+6,Tue Sep 25 2018,RCD Espanyol,1-0,SD Eibar,2018,Sep,25,25/Sep/2018,Tue,1,1,0,RCD Espanyol
+6,Tue Sep 25 2018,Real Sociedad,02-Feb,Rayo Vallecano,2018,Sep,25,25/Sep/2018,Tue,4,2,2,Draw
+6,Tue Sep 25 2018,Atlético Madrid,3-0,SD Huesca,2018,Sep,25,25/Sep/2018,Tue,3,3,0,Atlético Madrid
+6,Wed Sep 26 2018,CD Leganés,02-Jan,FC Barcelona,2018,Sep,26,26/Sep/2018,Wed,3,2,1,CD Leganés
+6,Wed Sep 26 2018,Athletic Club Bilbao,0-3,Villarreal CF,2018,Sep,26,26/Sep/2018,Wed,3,0,3,Villarreal CF
+6,Wed Sep 26 2018,Sevilla FC,3-0,Real Madrid,2018,Sep,26,26/Sep/2018,Wed,3,3,0,Sevilla FC
+6,Wed Sep 26 2018,Valencia CF,01-Jan,RC Celta Vigo,2018,Sep,26,26/Sep/2018,Wed,2,1,1,Draw
+6,Thu Sep 27 2018,Real Valladolid CF,02-Jan,Levante UD,2018,Sep,27,27/Sep/2018,Thu,3,2,1,Real Valladolid CF
+6,Thu Sep 27 2018,Deportivo Alavés,01-Jan,Getafe CF,2018,Sep,27,27/Sep/2018,Thu,2,1,1,Draw
+6,Thu Sep 27 2018,Girona FC,0-1,Real Betis,2018,Sep,27,27/Sep/2018,Thu,1,0,1,Real Betis
+7,Fri Sep 28 2018,Rayo Vallecano,02-Feb,RCD Espanyol,2018,Sep,28,28/Sep/2018,Fri,4,2,2,Draw
+7,Sat Sep 29 2018,Real Sociedad,0-1,Valencia CF,2018,Sep,29,29/Sep/2018,Sat,1,0,1,Valencia CF
+7,Sat Sep 29 2018,FC Barcelona,01-Jan,Athletic Club Bilbao,2018,Sep,29,29/Sep/2018,Sat,2,1,1,Draw
+7,Sat Sep 29 2018,SD Eibar,01-Mar,Sevilla FC,2018,Sep,29,29/Sep/2018,Sat,4,1,3,Sevilla FC
+7,Sat Sep 29 2018,Real Madrid,0-0,Atlético Madrid,2018,Sep,29,29/Sep/2018,Sat,0,0,0,Draw
+7,Sun Sep 30 2018,SD Huesca,01-Jan,Girona FC,2018,Sep,30,30/Sep/2018,Sun,2,1,1,Draw
+7,Sun Sep 30 2018,Villarreal CF,0-1,Real Valladolid CF,2018,Sep,30,30/Sep/2018,Sun,1,0,1,Real Valladolid CF
+7,Sun Sep 30 2018,Levante UD,02-Jan,Deportivo Alavés,2018,Sep,30,30/Sep/2018,Sun,3,2,1,Levante UD
+7,Sun Sep 30 2018,Real Betis,1-0,CD Leganés,2018,Sep,30,30/Sep/2018,Sun,1,1,0,Real Betis
+7,Mon Oct 1 2018,RC Celta Vigo,01-Jan,Getafe CF,2018,Oct,1,1/Oct/2018,Mon,2,1,1,Draw
+8,Fri Oct 5 2018,Athletic Club Bilbao,01-Mar,Real Sociedad,2018,Oct,5,5/Oct/2018,Fri,4,1,3,Real Sociedad
+8,Sat Oct 6 2018,Girona FC,02-Mar,SD Eibar,2018,Oct,6,6/Oct/2018,Sat,5,2,3,SD Eibar
+8,Sat Oct 6 2018,Getafe CF,0-1,Levante UD,2018,Oct,6,6/Oct/2018,Sat,1,0,1,Levante UD
+8,Sat Oct 6 2018,Deportivo Alavés,1-0,Real Madrid,2018,Oct,6,6/Oct/2018,Sat,1,1,0,Deportivo Alavés
+8,Sat Oct 6 2018,CD Leganés,1-0,Rayo Vallecano,2018,Oct,6,6/Oct/2018,Sat,1,1,0,CD Leganés
+8,Sun Oct 7 2018,Real Valladolid CF,1-0,SD Huesca,2018,Oct,7,7/Oct/2018,Sun,1,1,0,Real Valladolid CF
+8,Sun Oct 7 2018,Atlético Madrid,1-0,Real Betis,2018,Oct,7,7/Oct/2018,Sun,1,1,0,Atlético Madrid
+8,Sun Oct 7 2018,RCD Espanyol,03-Jan,Villarreal CF,2018,Oct,7,7/Oct/2018,Sun,4,3,1,RCD Espanyol
+8,Sun Oct 7 2018,Sevilla FC,02-Jan,RC Celta Vigo,2018,Oct,7,7/Oct/2018,Sun,3,2,1,Sevilla FC
+8,Sun Oct 7 2018,Valencia CF,01-Jan,FC Barcelona,2018,Oct,7,7/Oct/2018,Sun,2,1,1,Draw
+9,Fri Oct 19 2018,RC Celta Vigo,0-1,Deportivo Alavés,2018,Oct,19,19/Oct/2018,Fri,1,0,1,Deportivo Alavés
+9,Sat Oct 20 2018,Real Madrid,01-Feb,Levante UD,2018,Oct,20,20/Oct/2018,Sat,3,1,2,Levante UD
+9,Sat Oct 20 2018,Valencia CF,01-Jan,CD Leganés,2018,Oct,20,20/Oct/2018,Sat,2,1,1,Draw
+9,Sat Oct 20 2018,Villarreal CF,01-Jan,Atlético Madrid,2018,Oct,20,20/Oct/2018,Sat,2,1,1,Draw
+9,Sat Oct 20 2018,FC Barcelona,04-Feb,Sevilla FC,2018,Oct,20,20/Oct/2018,Sat,6,4,2,FC Barcelona
+9,Sun Oct 21 2018,Rayo Vallecano,01-Feb,Getafe CF,2018,Oct,21,21/Oct/2018,Sun,3,1,2,Getafe CF
+9,Sun Oct 21 2018,SD Eibar,01-Jan,Athletic Club Bilbao,2018,Oct,21,21/Oct/2018,Sun,2,1,1,Draw
+9,Sun Oct 21 2018,SD Huesca,0-2,RCD Espanyol,2018,Oct,21,21/Oct/2018,Sun,2,0,2,RCD Espanyol
+9,Sun Oct 21 2018,Real Betis,0-1,Real Valladolid CF,2018,Oct,21,21/Oct/2018,Sun,1,0,1,Real Valladolid CF
+9,Mon Oct 22 2018,Real Sociedad,0-0,Girona FC,2018,Oct,22,22/Oct/2018,Mon,0,0,0,Draw
+3,Wed Oct 24 2018,Rayo Vallecano,01-Jan,Athletic Club Bilbao,2018,Oct,24,24/Oct/2018,Wed,2,1,1,Draw
+10,Fri Oct 26 2018,Real Valladolid CF,01-Jan,RCD Espanyol,2018,Oct,26,26/Oct/2018,Fri,2,1,1,Draw
+10,Sat Oct 27 2018,Girona FC,02-Jan,Rayo Vallecano,2018,Oct,27,27/Oct/2018,Sat,3,2,1,Girona FC
+10,Sat Oct 27 2018,Athletic Club Bilbao,0-0,Valencia CF,2018,Oct,27,27/Oct/2018,Sat,0,0,0,Draw
+10,Sat Oct 27 2018,Levante UD,2-0,CD Leganés,2018,Oct,27,27/Oct/2018,Sat,2,2,0,Levante UD
+10,Sat Oct 27 2018,RC Celta Vigo,4-0,SD Eibar,2018,Oct,27,27/Oct/2018,Sat,4,4,0,RC Celta Vigo
+10,Sat Oct 27 2018,Atlético Madrid,2-0,Real Sociedad,2018,Oct,27,27/Oct/2018,Sat,2,2,0,Atlético Madrid
+10,Sun Oct 28 2018,Getafe CF,2-0,Real Betis,2018,Oct,28,28/Oct/2018,Sun,2,2,0,Getafe CF
+10,Sun Oct 28 2018,FC Barcelona,05-Jan,Real Madrid,2018,Oct,28,28/Oct/2018,Sun,6,5,1,FC Barcelona
+10,Sun Oct 28 2018,Deportivo Alavés,02-Jan,Villarreal CF,2018,Oct,28,28/Oct/2018,Sun,3,2,1,Deportivo Alavés
+10,Sun Oct 28 2018,Sevilla FC,02-Jan,SD Huesca,2018,Oct,28,28/Oct/2018,Sun,3,2,1,Sevilla FC
+11,Sat Nov 3 2018,CD Leganés,01-Jan,Atlético Madrid,2018,Nov,3,3/Nov/2018,Sat,2,1,1,Draw
+11,Sat Nov 3 2018,Real Madrid,2-0,Real Valladolid CF,2018,Nov,3,3/Nov/2018,Sat,2,2,0,Real Madrid
+11,Sat Nov 3 2018,Valencia CF,0-1,Girona FC,2018,Nov,3,3/Nov/2018,Sat,1,0,1,Girona FC
+11,Sat Nov 3 2018,Rayo Vallecano,02-Mar,FC Barcelona,2018,Nov,3,3/Nov/2018,Sat,5,2,3,FC Barcelona
+11,Sun Nov 4 2018,SD Eibar,02-Jan,Deportivo Alavés,2018,Nov,4,4/Nov/2018,Sun,3,2,1,SD Eibar
+11,Sun Nov 4 2018,Villarreal CF,01-Jan,Levante UD,2018,Nov,4,4/Nov/2018,Sun,2,1,1,Draw
+11,Sun Nov 4 2018,Real Sociedad,0-0,Sevilla FC,2018,Nov,4,4/Nov/2018,Sun,0,0,0,Draw
+11,Sun Nov 4 2018,SD Huesca,01-Jan,Getafe CF,2018,Nov,4,4/Nov/2018,Sun,2,1,1,Draw
+11,Sun Nov 4 2018,Real Betis,03-Mar,RC Celta Vigo,2018,Nov,4,4/Nov/2018,Sun,6,3,3,Draw
+11,Mon Nov 5 2018,RCD Espanyol,1-0,Athletic Club Bilbao,2018,Nov,5,5/Nov/2018,Mon,1,1,0,RCD Espanyol
+12,Fri Nov 9 2018,Levante UD,01-Mar,Real Sociedad,2018,Nov,9,9/Nov/2018,Fri,4,1,3,Real Sociedad
+12,Sat Nov 10 2018,Real Valladolid CF,0-0,SD Eibar,2018,Nov,10,10/Nov/2018,Sat,0,0,0,Draw
+12,Sat Nov 10 2018,Getafe CF,0-1,Valencia CF,2018,Nov,10,10/Nov/2018,Sat,1,0,1,Valencia CF
+12,Sat Nov 10 2018,Atlético Madrid,03-Feb,Athletic Club Bilbao,2018,Nov,10,10/Nov/2018,Sat,5,3,2,Atlético Madrid
+12,Sat Nov 10 2018,Girona FC,0-0,CD Leganés,2018,Nov,10,10/Nov/2018,Sat,0,0,0,Draw
+12,Sun Nov 11 2018,Deportivo Alavés,02-Jan,SD Huesca,2018,Nov,11,11/Nov/2018,Sun,3,2,1,Deportivo Alavés
+12,Sun Nov 11 2018,FC Barcelona,03-Apr,Real Betis,2018,Nov,11,11/Nov/2018,Sun,7,3,4,Real Betis
+12,Sun Nov 11 2018,Sevilla FC,02-Jan,RCD Espanyol,2018,Nov,11,11/Nov/2018,Sun,3,2,1,Sevilla FC
+12,Sun Nov 11 2018,Rayo Vallecano,02-Feb,Villarreal CF,2018,Nov,11,11/Nov/2018,Sun,4,2,2,Draw
+12,Sun Nov 11 2018,RC Celta Vigo,02-Apr,Real Madrid,2018,Nov,11,11/Nov/2018,Sun,6,2,4,Real Madrid
+13,Fri Nov 23 2018,CD Leganés,1-0,Deportivo Alavés,2018,Nov,23,23/Nov/2018,Fri,1,1,0,CD Leganés
+13,Sat Nov 24 2018,SD Eibar,3-0,Real Madrid,2018,Nov,24,24/Nov/2018,Sat,3,3,0,SD Eibar
+13,Sat Nov 24 2018,Valencia CF,3-0,Rayo Vallecano,2018,Nov,24,24/Nov/2018,Sat,3,3,0,Valencia CF
+13,Sat Nov 24 2018,SD Huesca,02-Feb,Levante UD,2018,Nov,24,24/Nov/2018,Sat,4,2,2,Draw
+13,Sat Nov 24 2018,Atlético Madrid,01-Jan,FC Barcelona,2018,Nov,24,24/Nov/2018,Sat,2,1,1,Draw
+13,Sun Nov 25 2018,Athletic Club Bilbao,01-Jan,Getafe CF,2018,Nov,25,25/Nov/2018,Sun,2,1,1,Draw
+13,Sun Nov 25 2018,Sevilla FC,1-0,Real Valladolid CF,2018,Nov,25,25/Nov/2018,Sun,1,1,0,Sevilla FC
+13,Sun Nov 25 2018,RCD Espanyol,01-Mar,Girona FC,2018,Nov,25,25/Nov/2018,Sun,4,1,3,Girona FC
+13,Sun Nov 25 2018,Villarreal CF,02-Jan,Real Betis,2018,Nov,25,25/Nov/2018,Sun,3,2,1,Villarreal CF
+13,Mon Nov 26 2018,Real Sociedad,02-Jan,RC Celta Vigo,2018,Nov,26,26/Nov/2018,Mon,3,2,1,Real Sociedad
+14,Fri Nov 30 2018,Rayo Vallecano,1-0,SD Eibar,2018,Nov,30,30/Nov/2018,Fri,1,1,0,Rayo Vallecano
+14,Sat Dec 1 2018,RC Celta Vigo,2-0,SD Huesca,2018,Dec,1,1/Dec/2018,Sat,2,2,0,RC Celta Vigo
+14,Sat Dec 1 2018,Real Valladolid CF,02-Apr,CD Leganés,2018,Dec,1,1/Dec/2018,Sat,6,2,4,CD Leganés
+14,Sat Dec 1 2018,Getafe CF,3-0,RCD Espanyol,2018,Dec,1,1/Dec/2018,Sat,3,3,0,Getafe CF
+14,Sat Dec 1 2018,Real Madrid,2-0,Valencia CF,2018,Dec,1,1/Dec/2018,Sat,2,2,0,Real Madrid
+14,Sun Dec 2 2018,Real Betis,1-0,Real Sociedad,2018,Dec,2,2/Dec/2018,Sun,1,1,0,Real Betis
+14,Sun Dec 2 2018,Girona FC,01-Jan,Atlético Madrid,2018,Dec,2,2/Dec/2018,Sun,2,1,1,Draw
+14,Sun Dec 2 2018,FC Barcelona,2-0,Villarreal CF,2018,Dec,2,2/Dec/2018,Sun,2,2,0,FC Barcelona
+14,Sun Dec 2 2018,Deportivo Alavés,01-Jan,Sevilla FC,2018,Dec,2,2/Dec/2018,Sun,2,1,1,Draw
+14,Mon Dec 3 2018,Levante UD,3-0,Athletic Club Bilbao,2018,Dec,3,3/Dec/2018,Mon,3,3,0,Levante UD
+15,Fri Dec 7 2018,CD Leganés,01-Jan,Getafe CF,2018,Dec,7,7/Dec/2018,Fri,2,1,1,Draw
+15,Sat Dec 8 2018,Atlético Madrid,3-0,Deportivo Alavés,2018,Dec,8,8/Dec/2018,Sat,3,3,0,Atlético Madrid
+15,Sat Dec 8 2018,Valencia CF,01-Jan,Sevilla FC,2018,Dec,8,8/Dec/2018,Sat,2,1,1,Draw
+15,Sat Dec 8 2018,Villarreal CF,02-Mar,RC Celta Vigo,2018,Dec,8,8/Dec/2018,Sat,5,2,3,RC Celta Vigo
+15,Sat Dec 8 2018,RCD Espanyol,0-4,FC Barcelona,2018,Dec,8,8/Dec/2018,Sat,4,0,4,FC Barcelona
+15,Sun Dec 9 2018,SD Eibar,04-Apr,Levante UD,2018,Dec,9,9/Dec/2018,Sun,8,4,4,Draw
+15,Sun Dec 9 2018,SD Huesca,0-1,Real Madrid,2018,Dec,9,9/Dec/2018,Sun,1,0,1,Real Madrid
+15,Sun Dec 9 2018,Real Sociedad,01-Feb,Real Valladolid CF,2018,Dec,9,9/Dec/2018,Sun,3,1,2,Real Valladolid CF
+15,Sun Dec 9 2018,Real Betis,2-0,Rayo Vallecano,2018,Dec,9,9/Dec/2018,Sun,2,2,0,Real Betis
+15,Mon Dec 10 2018,Athletic Club Bilbao,1-0,Girona FC,2018,Dec,10,10/Dec/2018,Mon,1,1,0,Athletic Club Bilbao
+16,Fri Dec 14 2018,RC Celta Vigo,0-0,CD Leganés,2018,Dec,14,14/Dec/2018,Fri,0,0,0,Draw
+16,Sat Dec 15 2018,Getafe CF,1-0,Real Sociedad,2018,Dec,15,15/Dec/2018,Sat,1,1,0,Getafe CF
+16,Sat Dec 15 2018,Real Valladolid CF,02-Mar,Atlético Madrid,2018,Dec,15,15/Dec/2018,Sat,5,2,3,Atlético Madrid
+16,Sat Dec 15 2018,Real Madrid,1-0,Rayo Vallecano,2018,Dec,15,15/Dec/2018,Sat,1,1,0,Real Madrid
+16,Sat Dec 15 2018,SD Eibar,01-Jan,Valencia CF,2018,Dec,15,15/Dec/2018,Sat,2,1,1,Draw
+16,Sun Dec 16 2018,Sevilla FC,2-0,Girona FC,2018,Dec,16,16/Dec/2018,Sun,2,2,0,Sevilla FC
+16,Sun Dec 16 2018,RCD Espanyol,01-Mar,Real Betis,2018,Dec,16,16/Dec/2018,Sun,4,1,3,Real Betis
+16,Sun Dec 16 2018,SD Huesca,02-Feb,Villarreal CF,2018,Dec,16,16/Dec/2018,Sun,4,2,2,Draw
+16,Sun Dec 16 2018,Levante UD,0-5,FC Barcelona,2018,Dec,16,16/Dec/2018,Sun,5,0,5,FC Barcelona
+16,Mon Dec 17 2018,Deportivo Alavés,0-0,Athletic Club Bilbao,2018,Dec,17,17/Dec/2018,Mon,0,0,0,Draw
+17,Fri Dec 21 2018,Girona FC,01-Jan,Getafe CF,2018,Dec,21,21/Dec/2018,Fri,2,1,1,Draw
+17,Fri Dec 21 2018,Real Sociedad,0-1,Deportivo Alavés,2018,Dec,21,21/Dec/2018,Fri,1,0,1,Deportivo Alavés
+17,Sat Dec 22 2018,Real Betis,01-Jan,SD Eibar,2018,Dec,22,22/Dec/2018,Sat,2,1,1,Draw
+17,Sat Dec 22 2018,Atlético Madrid,1-0,RCD Espanyol,2018,Dec,22,22/Dec/2018,Sat,1,1,0,Atlético Madrid
+17,Sat Dec 22 2018,FC Barcelona,2-0,RC Celta Vigo,2018,Dec,22,22/Dec/2018,Sat,2,2,0,FC Barcelona
+17,Sat Dec 22 2018,Athletic Club Bilbao,01-Jan,Real Valladolid CF,2018,Dec,22,22/Dec/2018,Sat,2,1,1,Draw
+17,Sun Dec 23 2018,Valencia CF,02-Jan,SD Huesca,2018,Dec,23,23/Dec/2018,Sun,3,2,1,Valencia CF
+17,Sun Dec 23 2018,CD Leganés,01-Jan,Sevilla FC,2018,Dec,23,23/Dec/2018,Sun,2,1,1,Draw
+17,Sun Dec 23 2018,Rayo Vallecano,02-Jan,Levante UD,2018,Dec,23,23/Dec/2018,Sun,3,2,1,Rayo Vallecano
+17,Thu Jan 3 2019,Villarreal CF,02-Feb,Real Madrid,2019,Jan,3,3/Jan/2019,Thu,4,2,2,Draw
+18,Fri Jan 4 2019,Levante UD,02-Feb,Girona FC,2019,Jan,4,4/Jan/2019,Fri,4,2,2,Draw
+18,Fri Jan 4 2019,RCD Espanyol,1-0,CD Leganés,2019,Jan,4,4/Jan/2019,Fri,1,1,0,RCD Espanyol
+18,Sat Jan 5 2019,Real Valladolid CF,0-1,Rayo Vallecano,2019,Jan,5,5/Jan/2019,Sat,1,0,1,Rayo Vallecano
+18,Sat Jan 5 2019,Deportivo Alavés,02-Jan,Valencia CF,2019,Jan,5,5/Jan/2019,Sat,3,2,1,Deportivo Alavés
+18,Sat Jan 5 2019,SD Huesca,02-Jan,Real Betis,2019,Jan,5,5/Jan/2019,Sat,3,2,1,SD Huesca
+18,Sun Jan 6 2019,SD Eibar,0-0,Villarreal CF,2019,Jan,6,6/Jan/2019,Sun,0,0,0,Draw
+18,Sun Jan 6 2019,Sevilla FC,01-Jan,Atlético Madrid,2019,Jan,6,6/Jan/2019,Sun,2,1,1,Draw
+18,Sun Jan 6 2019,Real Madrid,0-2,Real Sociedad,2019,Jan,6,6/Jan/2019,Sun,2,0,2,Real Sociedad
+18,Sun Jan 6 2019,Getafe CF,01-Feb,FC Barcelona,2019,Jan,6,6/Jan/2019,Sun,3,1,2,FC Barcelona
+18,Mon Jan 7 2019,RC Celta Vigo,01-Feb,Athletic Club Bilbao,2019,Jan,7,7/Jan/2019,Mon,3,1,2,Athletic Club Bilbao
+19,Fri Jan 11 2019,Rayo Vallecano,04-Feb,RC Celta Vigo,2019,Jan,11,11/Jan/2019,Fri,6,4,2,Rayo Vallecano
+19,Sat Jan 12 2019,CD Leganés,1-0,SD Huesca,2019,Jan,12,12/Jan/2019,Sat,1,1,0,CD Leganés
+19,Sat Jan 12 2019,Valencia CF,01-Jan,Real Valladolid CF,2019,Jan,12,12/Jan/2019,Sat,2,1,1,Draw
+19,Sat Jan 12 2019,Girona FC,01-Jan,Deportivo Alavés,2019,Jan,12,12/Jan/2019,Sat,2,1,1,Draw
+19,Sat Jan 12 2019,Villarreal CF,01-Feb,Getafe CF,2019,Jan,12,12/Jan/2019,Sat,3,1,2,Getafe CF
+19,Sun Jan 13 2019,Atlético Madrid,1-0,Levante UD,2019,Jan,13,13/Jan/2019,Sun,1,1,0,Atlético Madrid
+19,Sun Jan 13 2019,Athletic Club Bilbao,2-0,Sevilla FC,2019,Jan,13,13/Jan/2019,Sun,2,2,0,Athletic Club Bilbao
+19,Sun Jan 13 2019,FC Barcelona,3-0,SD Eibar,2019,Jan,13,13/Jan/2019,Sun,3,3,0,FC Barcelona
+19,Sun Jan 13 2019,Real Betis,01-Feb,Real Madrid,2019,Jan,13,13/Jan/2019,Sun,3,1,2,Real Madrid
+19,Mon Jan 14 2019,Real Sociedad,03-Feb,RCD Espanyol,2019,Jan,14,14/Jan/2019,Mon,5,3,2,Real Sociedad
+20,Fri Jan 18 2019,Getafe CF,4-0,Deportivo Alavés,2019,Jan,18,18/Jan/2019,Fri,4,4,0,Getafe CF
+20,Sat Jan 19 2019,Real Madrid,2-0,Sevilla FC,2019,Jan,19,19/Jan/2019,Sat,2,2,0,Real Madrid
+20,Sat Jan 19 2019,SD Huesca,0-3,Atlético Madrid,2019,Jan,19,19/Jan/2019,Sat,3,0,3,Atlético Madrid
+20,Sat Jan 19 2019,RC Celta Vigo,01-Feb,Valencia CF,2019,Jan,19,19/Jan/2019,Sat,3,1,2,Valencia CF
+20,Sun Jan 20 2019,Real Betis,03-Feb,Girona FC,2019,Jan,20,20/Jan/2019,Sun,5,3,2,Real Betis
+20,Sun Jan 20 2019,Villarreal CF,01-Jan,Athletic Club Bilbao,2019,Jan,20,20/Jan/2019,Sun,2,1,1,Draw
+20,Sun Jan 20 2019,Levante UD,2-0,Real Valladolid CF,2019,Jan,20,20/Jan/2019,Sun,2,2,0,Levante UD
+20,Sun Jan 20 2019,Rayo Vallecano,02-Feb,Real Sociedad,2019,Jan,20,20/Jan/2019,Sun,4,2,2,Draw
+20,Sun Jan 20 2019,FC Barcelona,03-Jan,CD Leganés,2019,Jan,20,20/Jan/2019,Sun,4,3,1,FC Barcelona
+20,Mon Jan 21 2019,SD Eibar,3-0,RCD Espanyol,2019,Jan,21,21/Jan/2019,Mon,3,3,0,SD Eibar
+21,Sat Jan 26 2019,Sevilla FC,5-0,Levante UD,2019,Jan,26,26/Jan/2019,Sat,5,5,0,Sevilla FC
+21,Sat Jan 26 2019,Atlético Madrid,2-0,Getafe CF,2019,Jan,26,26/Jan/2019,Sat,2,2,0,Atlético Madrid
+21,Sat Jan 26 2019,CD Leganés,02-Feb,SD Eibar,2019,Jan,26,26/Jan/2019,Sat,4,2,2,Draw
+21,Sat Jan 26 2019,Valencia CF,3-0,Villarreal CF,2019,Jan,26,26/Jan/2019,Sat,3,3,0,Valencia CF
+21,Sun Jan 27 2019,Real Valladolid CF,02-Jan,RC Celta Vigo,2019,Jan,27,27/Jan/2019,Sun,3,2,1,Real Valladolid CF
+21,Sun Jan 27 2019,Girona FC,0-2,FC Barcelona,2019,Jan,27,27/Jan/2019,Sun,2,0,2,FC Barcelona
+21,Sun Jan 27 2019,Athletic Club Bilbao,1-0,Real Betis,2019,Jan,27,27/Jan/2019,Sun,1,1,0,Athletic Club Bilbao
+21,Sun Jan 27 2019,Real Sociedad,0-0,SD Huesca,2019,Jan,27,27/Jan/2019,Sun,0,0,0,Draw
+21,Sun Jan 27 2019,RCD Espanyol,02-Apr,Real Madrid,2019,Jan,27,27/Jan/2019,Sun,6,2,4,Real Madrid
+21,Mon Jan 28 2019,Deportivo Alavés,0-1,Rayo Vallecano,2019,Jan,28,28/Jan/2019,Mon,1,0,1,Rayo Vallecano
+22,Fri Feb 1 2019,SD Huesca,4-0,Real Valladolid CF,2019,Feb,1,1/Feb/2019,Fri,4,4,0,SD Huesca
+22,Sat Feb 2 2019,Levante UD,0-0,Getafe CF,2019,Feb,2,2/Feb/2019,Sat,0,0,0,Draw
+22,Sat Feb 2 2019,Real Sociedad,02-Jan,Athletic Club Bilbao,2019,Feb,2,2/Feb/2019,Sat,3,2,1,Real Sociedad
+22,Sat Feb 2 2019,FC Barcelona,02-Feb,Valencia CF,2019,Feb,2,2/Feb/2019,Sat,4,2,2,Draw
+22,Sat Feb 2 2019,RC Celta Vigo,1-0,Sevilla FC,2019,Feb,2,2/Feb/2019,Sat,1,1,0,RC Celta Vigo
+22,Sun Feb 3 2019,Villarreal CF,02-Feb,RCD Espanyol,2019,Feb,3,3/Feb/2019,Sun,4,2,2,Draw
+22,Sun Feb 3 2019,Real Betis,1-0,Atlético Madrid,2019,Feb,3,3/Feb/2019,Sun,1,1,0,Real Betis
+22,Sun Feb 3 2019,SD Eibar,3-0,Girona FC,2019,Feb,3,3/Feb/2019,Sun,3,3,0,SD Eibar
+22,Sun Feb 3 2019,Real Madrid,3-0,Deportivo Alavés,2019,Feb,3,3/Feb/2019,Sun,3,3,0,Real Madrid
+22,Mon Feb 4 2019,Rayo Vallecano,01-Feb,CD Leganés,2019,Feb,4,4/Feb/2019,Mon,3,1,2,CD Leganés
+23,Fri Feb 8 2019,Real Valladolid CF,0-0,Villarreal CF,2019,Feb,8,8/Feb/2019,Fri,0,0,0,Draw
+23,Sat Feb 9 2019,Getafe CF,03-Jan,RC Celta Vigo,2019,Feb,9,9/Feb/2019,Sat,4,3,1,Getafe CF
+23,Sat Feb 9 2019,Atlético Madrid,01-Mar,Real Madrid,2019,Feb,9,9/Feb/2019,Sat,4,1,3,Real Madrid
+23,Sat Feb 9 2019,RCD Espanyol,02-Jan,Rayo Vallecano,2019,Feb,9,9/Feb/2019,Sat,3,2,1,RCD Espanyol
+23,Sat Feb 9 2019,Girona FC,0-2,SD Huesca,2019,Feb,9,9/Feb/2019,Sat,2,0,2,SD Huesca
+23,Sun Feb 10 2019,CD Leganés,3-0,Real Betis,2019,Feb,10,10/Feb/2019,Sun,3,3,0,CD Leganés
+23,Sun Feb 10 2019,Valencia CF,0-0,Real Sociedad,2019,Feb,10,10/Feb/2019,Sun,0,0,0,Draw
+23,Sun Feb 10 2019,Sevilla FC,02-Feb,SD Eibar,2019,Feb,10,10/Feb/2019,Sun,4,2,2,Draw
+23,Sun Feb 10 2019,Athletic Club Bilbao,0-0,FC Barcelona,2019,Feb,10,10/Feb/2019,Sun,0,0,0,Draw
+23,Mon Feb 11 2019,Deportivo Alavés,2-0,Levante UD,2019,Feb,11,11/Feb/2019,Mon,2,2,0,Deportivo Alavés
+24,Fri Feb 15 2019,SD Eibar,02-Feb,Getafe CF,2019,Feb,15,15/Feb/2019,Fri,4,2,2,Draw
+24,Sat Feb 16 2019,RC Celta Vigo,01-Apr,Levante UD,2019,Feb,16,16/Feb/2019,Sat,5,1,4,Levante UD
+24,Sat Feb 16 2019,Rayo Vallecano,0-1,Atlético Madrid,2019,Feb,16,16/Feb/2019,Sat,1,0,1,Atlético Madrid
+24,Sat Feb 16 2019,Real Sociedad,3-0,CD Leganés,2019,Feb,16,16/Feb/2019,Sat,3,3,0,Real Sociedad
+24,Sat Feb 16 2019,FC Barcelona,1-0,Real Valladolid CF,2019,Feb,16,16/Feb/2019,Sat,1,1,0,FC Barcelona
+24,Sun Feb 17 2019,Real Madrid,01-Feb,Girona FC,2019,Feb,17,17/Feb/2019,Sun,3,1,2,Girona FC
+24,Sun Feb 17 2019,Valencia CF,0-0,RCD Espanyol,2019,Feb,17,17/Feb/2019,Sun,0,0,0,Draw
+24,Sun Feb 17 2019,Villarreal CF,3-0,Sevilla FC,2019,Feb,17,17/Feb/2019,Sun,3,3,0,Villarreal CF
+24,Sun Feb 17 2019,Real Betis,01-Jan,Deportivo Alavés,2019,Feb,17,17/Feb/2019,Sun,2,1,1,Draw
+24,Mon Feb 18 2019,SD Huesca,0-1,Athletic Club Bilbao,2019,Feb,18,18/Feb/2019,Mon,1,0,1,Athletic Club Bilbao
+25,Fri Feb 22 2019,RCD Espanyol,01-Jan,SD Huesca,2019,Feb,22,22/Feb/2019,Fri,2,1,1,Draw
+25,Sat Feb 23 2019,Getafe CF,02-Jan,Rayo Vallecano,2019,Feb,23,23/Feb/2019,Sat,3,2,1,Getafe CF
+25,Sat Feb 23 2019,Sevilla FC,02-Apr,FC Barcelona,2019,Feb,23,23/Feb/2019,Sat,6,2,4,FC Barcelona
+25,Sat Feb 23 2019,Deportivo Alavés,0-0,RC Celta Vigo,2019,Feb,23,23/Feb/2019,Sat,0,0,0,Draw
+25,Sat Feb 23 2019,Athletic Club Bilbao,1-0,SD Eibar,2019,Feb,23,23/Feb/2019,Sat,1,1,0,Athletic Club Bilbao
+25,Sun Feb 24 2019,CD Leganés,01-Jan,Valencia CF,2019,Feb,24,24/Feb/2019,Sun,2,1,1,Draw
+25,Sun Feb 24 2019,Atlético Madrid,2-0,Villarreal CF,2019,Feb,24,24/Feb/2019,Sun,2,2,0,Atlético Madrid
+25,Sun Feb 24 2019,Real Valladolid CF,0-2,Real Betis,2019,Feb,24,24/Feb/2019,Sun,2,0,2,Real Betis
+25,Sun Feb 24 2019,Levante UD,01-Feb,Real Madrid,2019,Feb,24,24/Feb/2019,Sun,3,1,2,Real Madrid
+25,Mon Feb 25 2019,Girona FC,0-0,Real Sociedad,2019,Feb,25,25/Feb/2019,Mon,0,0,0,Draw
+26,Fri Mar 1 2019,Rayo Vallecano,0-2,Girona FC,2019,Mar,1,1/Mar/2019,Fri,2,0,2,Girona FC
+26,Sat Mar 2 2019,RCD Espanyol,03-Jan,Real Valladolid CF,2019,Mar,2,2/Mar/2019,Sat,4,3,1,RCD Espanyol
+26,Sat Mar 2 2019,Villarreal CF,01-Feb,Deportivo Alavés,2019,Mar,2,2/Mar/2019,Sat,3,1,2,Deportivo Alavés
+26,Sat Mar 2 2019,SD Huesca,02-Jan,Sevilla FC,2019,Mar,2,2/Mar/2019,Sat,3,2,1,SD Huesca
+26,Sat Mar 2 2019,Real Madrid,0-1,FC Barcelona,2019,Mar,2,2/Mar/2019,Sat,1,0,1,FC Barcelona
+26,Sun Mar 3 2019,SD Eibar,1-0,RC Celta Vigo,2019,Mar,3,3/Mar/2019,Sun,1,1,0,SD Eibar
+26,Sun Mar 3 2019,Real Betis,01-Feb,Getafe CF,2019,Mar,3,3/Mar/2019,Sun,3,1,2,Getafe CF
+26,Sun Mar 3 2019,Real Sociedad,0-2,Atlético Madrid,2019,Mar,3,3/Mar/2019,Sun,2,0,2,Atlético Madrid
+26,Sun Mar 3 2019,Valencia CF,2-0,Athletic Club Bilbao,2019,Mar,3,3/Mar/2019,Sun,2,2,0,Valencia CF
+26,Mon Mar 4 2019,CD Leganés,1-0,Levante UD,2019,Mar,4,4/Mar/2019,Mon,1,1,0,CD Leganés
+27,Fri Mar 8 2019,Athletic Club Bilbao,01-Jan,RCD Espanyol,2019,Mar,8,8/Mar/2019,Fri,2,1,1,Draw
+27,Sat Mar 9 2019,Deportivo Alavés,01-Jan,SD Eibar,2019,Mar,9,9/Mar/2019,Sat,2,1,1,Draw
+27,Sat Mar 9 2019,Atlético Madrid,1-0,CD Leganés,2019,Mar,9,9/Mar/2019,Sat,1,1,0,Atlético Madrid
+27,Sat Mar 9 2019,FC Barcelona,03-Jan,Rayo Vallecano,2019,Mar,9,9/Mar/2019,Sat,4,3,1,FC Barcelona
+27,Sat Mar 9 2019,Getafe CF,02-Jan,SD Huesca,2019,Mar,9,9/Mar/2019,Sat,3,2,1,Getafe CF
+27,Sun Mar 10 2019,RC Celta Vigo,0-1,Real Betis,2019,Mar,10,10/Mar/2019,Sun,1,0,1,Real Betis
+27,Sun Mar 10 2019,Girona FC,02-Mar,Valencia CF,2019,Mar,10,10/Mar/2019,Sun,5,2,3,Valencia CF
+27,Sun Mar 10 2019,Sevilla FC,05-Feb,Real Sociedad,2019,Mar,10,10/Mar/2019,Sun,7,5,2,Sevilla FC
+27,Sun Mar 10 2019,Levante UD,0-2,Villarreal CF,2019,Mar,10,10/Mar/2019,Sun,2,0,2,Villarreal CF
+27,Sun Mar 10 2019,Real Valladolid CF,01-Apr,Real Madrid,2019,Mar,10,10/Mar/2019,Sun,5,1,4,Real Madrid
+28,Fri Mar 15 2019,Real Sociedad,01-Jan,Levante UD,2019,Mar,15,15/Mar/2019,Fri,2,1,1,Draw
+28,Sat Mar 16 2019,SD Huesca,01-Mar,Deportivo Alavés,2019,Mar,16,16/Mar/2019,Sat,4,1,3,Deportivo Alavés
+28,Sat Mar 16 2019,Real Madrid,2-0,RC Celta Vigo,2019,Mar,16,16/Mar/2019,Sat,2,2,0,Real Madrid
+28,Sat Mar 16 2019,Athletic Club Bilbao,2-0,Atlético Madrid,2019,Mar,16,16/Mar/2019,Sat,2,2,0,Athletic Club Bilbao
+28,Sat Mar 16 2019,CD Leganés,0-2,Girona FC,2019,Mar,16,16/Mar/2019,Sat,2,0,2,Girona FC
+28,Sun Mar 17 2019,SD Eibar,01-Feb,Real Valladolid CF,2019,Mar,17,17/Mar/2019,Sun,3,1,2,Real Valladolid CF
+28,Sun Mar 17 2019,RCD Espanyol,0-1,Sevilla FC,2019,Mar,17,17/Mar/2019,Sun,1,0,1,Sevilla FC
+28,Sun Mar 17 2019,Villarreal CF,03-Jan,Rayo Vallecano,2019,Mar,17,17/Mar/2019,Sun,4,3,1,Villarreal CF
+28,Sun Mar 17 2019,Valencia CF,0-0,Getafe CF,2019,Mar,17,17/Mar/2019,Sun,0,0,0,Draw
+28,Sun Mar 17 2019,Real Betis,01-Apr,FC Barcelona,2019,Mar,17,17/Mar/2019,Sun,5,1,4,FC Barcelona
+29,Fri Mar 29 2019,Girona FC,01-Feb,Athletic Club Bilbao,2019,Mar,29,29/Mar/2019,Fri,3,1,2,Athletic Club Bilbao
+29,Sat Mar 30 2019,Getafe CF,0-2,CD Leganés,2019,Mar,30,30/Mar/2019,Sat,2,0,2,CD Leganés
+29,Sat Mar 30 2019,FC Barcelona,2-0,RCD Espanyol,2019,Mar,30,30/Mar/2019,Sat,2,2,0,FC Barcelona
+29,Sat Mar 30 2019,RC Celta Vigo,03-Feb,Villarreal CF,2019,Mar,30,30/Mar/2019,Sat,5,3,2,RC Celta Vigo
+29,Sat Mar 30 2019,Deportivo Alavés,0-4,Atlético Madrid,2019,Mar,30,30/Mar/2019,Sat,4,0,4,Atlético Madrid
+29,Sun Mar 31 2019,Levante UD,02-Feb,SD Eibar,2019,Mar,31,31/Mar/2019,Sun,4,2,2,Draw
+29,Sun Mar 31 2019,Rayo Vallecano,01-Jan,Real Betis,2019,Mar,31,31/Mar/2019,Sun,2,1,1,Draw
+29,Sun Mar 31 2019,Sevilla FC,0-1,Valencia CF,2019,Mar,31,31/Mar/2019,Sun,1,0,1,Valencia CF
+29,Sun Mar 31 2019,Real Valladolid CF,01-Jan,Real Sociedad,2019,Mar,31,31/Mar/2019,Sun,2,1,1,Draw
+29,Sun Mar 31 2019,Real Madrid,03-Feb,SD Huesca,2019,Mar,31,31/Mar/2019,Sun,5,3,2,Real Madrid
+30,Tue Apr 2 2019,Atlético Madrid,2-0,Girona FC,2019,Apr,2,2/Apr/2019,Tue,2,2,0,Atlético Madrid
+30,Tue Apr 2 2019,RCD Espanyol,01-Jan,Getafe CF,2019,Apr,2,2/Apr/2019,Tue,2,1,1,Draw
+30,Tue Apr 2 2019,Villarreal CF,04-Apr,FC Barcelona,2019,Apr,2,2/Apr/2019,Tue,8,4,4,Draw
+30,Wed Apr 3 2019,Athletic Club Bilbao,03-Feb,Levante UD,2019,Apr,3,3/Apr/2019,Wed,5,3,2,Athletic Club Bilbao
+30,Wed Apr 3 2019,SD Eibar,02-Jan,Rayo Vallecano,2019,Apr,3,3/Apr/2019,Wed,3,2,1,SD Eibar
+30,Wed Apr 3 2019,SD Huesca,03-Mar,RC Celta Vigo,2019,Apr,3,3/Apr/2019,Wed,6,3,3,Draw
+30,Wed Apr 3 2019,Valencia CF,02-Jan,Real Madrid,2019,Apr,3,3/Apr/2019,Wed,3,2,1,Valencia CF
+30,Thu Apr 4 2019,Sevilla FC,2-0,Deportivo Alavés,2019,Apr,4,4/Apr/2019,Thu,2,2,0,Sevilla FC
+30,Thu Apr 4 2019,CD Leganés,1-0,Real Valladolid CF,2019,Apr,4,4/Apr/2019,Thu,1,1,0,CD Leganés
+30,Thu Apr 4 2019,Real Sociedad,02-Jan,Real Betis,2019,Apr,4,4/Apr/2019,Thu,3,2,1,Real Sociedad
+31,Sat Apr 6 2019,Girona FC,01-Feb,RCD Espanyol,2019,Apr,6,6/Apr/2019,Sat,3,1,2,RCD Espanyol
+31,Sat Apr 6 2019,Real Madrid,02-Jan,SD Eibar,2019,Apr,6,6/Apr/2019,Sat,3,2,1,Real Madrid
+31,Sat Apr 6 2019,Rayo Vallecano,2-0,Valencia CF,2019,Apr,6,6/Apr/2019,Sat,2,2,0,Rayo Vallecano
+31,Sat Apr 6 2019,FC Barcelona,2-0,Atlético Madrid,2019,Apr,6,6/Apr/2019,Sat,2,2,0,FC Barcelona
+31,Sun Apr 7 2019,Deportivo Alavés,01-Jan,CD Leganés,2019,Apr,7,7/Apr/2019,Sun,2,1,1,Draw
+31,Sun Apr 7 2019,Getafe CF,1-0,Athletic Club Bilbao,2019,Apr,7,7/Apr/2019,Sun,1,1,0,Getafe CF
+31,Sun Apr 7 2019,Real Valladolid CF,0-2,Sevilla FC,2019,Apr,7,7/Apr/2019,Sun,2,0,2,Sevilla FC
+31,Sun Apr 7 2019,RC Celta Vigo,03-Jan,Real Sociedad,2019,Apr,7,7/Apr/2019,Sun,4,3,1,RC Celta Vigo
+31,Sun Apr 7 2019,Levante UD,02-Feb,SD Huesca,2019,Apr,7,7/Apr/2019,Sun,4,2,2,Draw
+31,Sun Apr 7 2019,Real Betis,02-Jan,Villarreal CF,2019,Apr,7,7/Apr/2019,Sun,3,2,1,Real Betis
+32,Sat Apr 13 2019,RCD Espanyol,02-Jan,Deportivo Alavés,2019,Apr,13,13/Apr/2019,Sat,3,2,1,RCD Espanyol
+32,Sat Apr 13 2019,SD Huesca,0-0,FC Barcelona,2019,Apr,13,13/Apr/2019,Sat,0,0,0,Draw
+32,Sat Apr 13 2019,Atlético Madrid,2-0,RC Celta Vigo,2019,Apr,13,13/Apr/2019,Sat,2,2,0,Atlético Madrid
+32,Sat Apr 13 2019,Sevilla FC,03-Feb,Real Betis,2019,Apr,13,13/Apr/2019,Sat,5,3,2,Sevilla FC
+32,Sun Apr 14 2019,Real Valladolid CF,02-Feb,Getafe CF,2019,Apr,14,14/Apr/2019,Sun,4,2,2,Draw
+32,Sun Apr 14 2019,Athletic Club Bilbao,03-Feb,Rayo Vallecano,2019,Apr,14,14/Apr/2019,Sun,5,3,2,Athletic Club Bilbao
+32,Sun Apr 14 2019,Real Sociedad,01-Jan,SD Eibar,2019,Apr,14,14/Apr/2019,Sun,2,1,1,Draw
+32,Sun Apr 14 2019,Girona FC,0-1,Villarreal CF,2019,Apr,14,14/Apr/2019,Sun,1,0,1,Villarreal CF
+32,Sun Apr 14 2019,Valencia CF,03-Jan,Levante UD,2019,Apr,14,14/Apr/2019,Sun,4,3,1,Valencia CF
+32,Mon Apr 15 2019,CD Leganés,01-Jan,Real Madrid,2019,Apr,15,15/Apr/2019,Mon,2,1,1,Draw
+33,Fri Apr 19 2019,Deportivo Alavés,02-Feb,Real Valladolid CF,2019,Apr,19,19/Apr/2019,Fri,4,2,2,Draw
+33,Sat Apr 20 2019,RC Celta Vigo,02-Jan,Girona FC,2019,Apr,20,20/Apr/2019,Sat,3,2,1,RC Celta Vigo
+33,Sat Apr 20 2019,SD Eibar,0-1,Atlético Madrid,2019,Apr,20,20/Apr/2019,Sat,1,0,1,Atlético Madrid
+33,Sat Apr 20 2019,Rayo Vallecano,0-0,SD Huesca,2019,Apr,20,20/Apr/2019,Sat,0,0,0,Draw
+33,Sat Apr 20 2019,FC Barcelona,02-Jan,Real Sociedad,2019,Apr,20,20/Apr/2019,Sat,3,2,1,FC Barcelona
+33,Sun Apr 21 2019,Levante UD,02-Feb,RCD Espanyol,2019,Apr,21,21/Apr/2019,Sun,4,2,2,Draw
+33,Sun Apr 21 2019,Getafe CF,3-0,Sevilla FC,2019,Apr,21,21/Apr/2019,Sun,3,3,0,Getafe CF
+33,Sun Apr 21 2019,Real Madrid,3-0,Athletic Club Bilbao,2019,Apr,21,21/Apr/2019,Sun,3,3,0,Real Madrid
+33,Sun Apr 21 2019,Villarreal CF,02-Jan,CD Leganés,2019,Apr,21,21/Apr/2019,Sun,3,2,1,Villarreal CF
+33,Sun Apr 21 2019,Real Betis,01-Feb,Valencia CF,2019,Apr,21,21/Apr/2019,Sun,3,1,2,Valencia CF
+34,Tue Apr 23 2019,SD Huesca,2-0,SD Eibar,2019,Apr,23,23/Apr/2019,Tue,2,2,0,SD Huesca
+34,Tue Apr 23 2019,Real Valladolid CF,1-0,Girona FC,2019,Apr,23,23/Apr/2019,Tue,1,1,0,Real Valladolid CF
+34,Tue Apr 23 2019,Deportivo Alavés,0-2,FC Barcelona,2019,Apr,23,23/Apr/2019,Tue,2,0,2,FC Barcelona
+34,Wed Apr 24 2019,Atlético Madrid,03-Feb,Valencia CF,2019,Apr,24,24/Apr/2019,Wed,5,3,2,Atlético Madrid
+34,Wed Apr 24 2019,RCD Espanyol,01-Jan,RC Celta Vigo,2019,Apr,24,24/Apr/2019,Wed,2,1,1,Draw
+34,Wed Apr 24 2019,CD Leganés,0-1,Athletic Club Bilbao,2019,Apr,24,24/Apr/2019,Wed,1,0,1,Athletic Club Bilbao
+34,Wed Apr 24 2019,Levante UD,4-0,Real Betis,2019,Apr,24,24/Apr/2019,Wed,4,4,0,Levante UD
+34,Thu Apr 25 2019,Sevilla FC,5-0,Rayo Vallecano,2019,Apr,25,25/Apr/2019,Thu,5,5,0,Sevilla FC
+34,Thu Apr 25 2019,Real Sociedad,0-1,Villarreal CF,2019,Apr,25,25/Apr/2019,Thu,1,0,1,Villarreal CF
+34,Thu Apr 25 2019,Getafe CF,0-0,Real Madrid,2019,Apr,25,25/Apr/2019,Thu,0,0,0,Draw
+35,Sat Apr 27 2019,Athletic Club Bilbao,01-Jan,Deportivo Alavés,2019,Apr,27,27/Apr/2019,Sat,2,1,1,Draw
+35,Sat Apr 27 2019,Atlético Madrid,1-0,Real Valladolid CF,2019,Apr,27,27/Apr/2019,Sat,1,1,0,Atlético Madrid
+35,Sat Apr 27 2019,CD Leganés,0-0,RC Celta Vigo,2019,Apr,27,27/Apr/2019,Sat,0,0,0,Draw
+35,Sat Apr 27 2019,FC Barcelona,1-0,Levante UD,2019,Apr,27,27/Apr/2019,Sat,1,1,0,FC Barcelona
+35,Sun Apr 28 2019,Valencia CF,0-1,SD Eibar,2019,Apr,28,28/Apr/2019,Sun,1,0,1,SD Eibar
+35,Sun Apr 28 2019,Girona FC,1-0,Sevilla FC,2019,Apr,28,28/Apr/2019,Sun,1,1,0,Girona FC
+35,Sun Apr 28 2019,Real Sociedad,02-Jan,Getafe CF,2019,Apr,28,28/Apr/2019,Sun,3,2,1,Real Sociedad
+35,Sun Apr 28 2019,Villarreal CF,01-Jan,SD Huesca,2019,Apr,28,28/Apr/2019,Sun,2,1,1,Draw
+35,Sun Apr 28 2019,Rayo Vallecano,1-0,Real Madrid,2019,Apr,28,28/Apr/2019,Sun,1,1,0,Rayo Vallecano
+35,Mon Apr 29 2019,Real Betis,01-Jan,RCD Espanyol,2019,Apr,29,29/Apr/2019,Mon,2,1,1,Draw
+36,Fri May 3 2019,Sevilla FC,0-3,CD Leganés,2019,May,3,3/May/2019,Fri,3,0,3,CD Leganés
+36,Sat May 4 2019,Levante UD,04-Jan,Rayo Vallecano,2019,May,4,4/May/2019,Sat,5,4,1,Levante UD
+36,Sat May 4 2019,RCD Espanyol,3-0,Atlético Madrid,2019,May,4,4/May/2019,Sat,3,3,0,RCD Espanyol
+36,Sat May 4 2019,Deportivo Alavés,0-1,Real Sociedad,2019,May,4,4/May/2019,Sat,1,0,1,Real Sociedad
+36,Sat May 4 2019,RC Celta Vigo,2-0,FC Barcelona,2019,May,4,4/May/2019,Sat,2,2,0,RC Celta Vigo
+36,Sun May 5 2019,Getafe CF,2-0,Girona FC,2019,May,5,5/May/2019,Sun,2,2,0,Getafe CF
+36,Sun May 5 2019,SD Eibar,1-0,Real Betis,2019,May,5,5/May/2019,Sun,1,1,0,SD Eibar
+36,Sun May 5 2019,Real Madrid,03-Feb,Villarreal CF,2019,May,5,5/May/2019,Sun,5,3,2,Real Madrid
+36,Sun May 5 2019,Real Valladolid CF,1-0,Athletic Club Bilbao,2019,May,5,5/May/2019,Sun,1,1,0,Real Valladolid CF
+36,Sun May 5 2019,SD Huesca,02-Jun,Valencia CF,2019,May,5,5/May/2019,Sun,8,2,6,Valencia CF
+37,Sun May 12 2019,Valencia CF,03-Jan,Deportivo Alavés,2019,May,12,12/May/2019,Sun,4,3,1,Valencia CF
+37,Sun May 12 2019,FC Barcelona,2-0,Getafe CF,2019,May,12,12/May/2019,Sun,2,2,0,FC Barcelona
+37,Sun May 12 2019,CD Leganés,0-2,RCD Espanyol,2019,May,12,12/May/2019,Sun,2,0,2,RCD Espanyol
+37,Sun May 12 2019,Atlético Madrid,01-Jan,Sevilla FC,2019,May,12,12/May/2019,Sun,2,1,1,Draw
+37,Sun May 12 2019,Villarreal CF,1-0,SD Eibar,2019,May,12,12/May/2019,Sun,1,1,0,Villarreal CF
+37,Sun May 12 2019,Real Betis,02-Jan,SD Huesca,2019,May,12,12/May/2019,Sun,3,2,1,Real Betis
+37,Sun May 12 2019,Girona FC,01-Feb,Levante UD,2019,May,12,12/May/2019,Sun,3,1,2,Levante UD
+37,Sun May 12 2019,Rayo Vallecano,01-Feb,Real Valladolid CF,2019,May,12,12/May/2019,Sun,3,1,2,Real Valladolid CF
+37,Sun May 12 2019,Real Sociedad,03-Jan,Real Madrid,2019,May,12,12/May/2019,Sun,4,3,1,Real Sociedad
+37,Sun May 12 2019,Athletic Club Bilbao,03-Jan,RC Celta Vigo,2019,May,12,12/May/2019,Sun,4,3,1,Athletic Club Bilbao
+38,Sat May 18 2019,Levante UD,02-Feb,Atlético Madrid,2019,May,18,18/May/2019,Sat,4,2,2,Draw
+38,Sat May 18 2019,Real Valladolid CF,0-2,Valencia CF,2019,May,18,18/May/2019,Sat,2,0,2,Valencia CF
+38,Sat May 18 2019,Getafe CF,02-Feb,Villarreal CF,2019,May,18,18/May/2019,Sat,4,2,2,Draw
+38,Sat May 18 2019,Sevilla FC,2-0,Athletic Club Bilbao,2019,May,18,18/May/2019,Sat,2,2,0,Sevilla FC
+38,Sat May 18 2019,RCD Espanyol,2-0,Real Sociedad,2019,May,18,18/May/2019,Sat,2,2,0,RCD Espanyol
+38,Sat May 18 2019,SD Huesca,02-Jan,CD Leganés,2019,May,18,18/May/2019,Sat,3,2,1,SD Huesca
+38,Sat May 18 2019,RC Celta Vigo,02-Feb,Rayo Vallecano,2019,May,18,18/May/2019,Sat,4,2,2,Draw
+38,Sat May 18 2019,Deportivo Alavés,02-Jan,Girona FC,2019,May,18,18/May/2019,Sat,3,2,1,Deportivo Alavés
+38,Sun May 19 2019,Real Madrid,0-2,Real Betis,2019,May,19,19/May/2019,Sun,2,0,2,Real Betis
+38,Sun May 19 2019,SD Eibar,02-Feb,FC Barcelona,2019,May,19,19/May/2019,Sun,4,2,2,Draw

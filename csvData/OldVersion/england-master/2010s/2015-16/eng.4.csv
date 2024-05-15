@@ -1,0 +1,553 @@
+Round,Date,Team 1,FT,Team 2,Year,Month,Day,Date,DayOfWeek,Total Goals,Team 1 Goals,Team 2 Goals,Result
+1,Sat Aug 8 2015,Wycombe Wanderers FC,3-0,York City FC,2015,Aug,8,8/Aug/2015,Sat,3,3,0,Wycombe Wanderers FC
+1,Sat Aug 8 2015,Stevenage FC,0-2,Notts County FC,2015,Aug,8,8/Aug/2015,Sat,2,0,2,Notts County FC
+1,Sat Aug 8 2015,Portsmouth FC,3-0,Dagenham & Redbridge FC,2015,Aug,8,8/Aug/2015,Sat,3,3,0,Portsmouth FC
+1,Sat Aug 8 2015,Oxford United FC,01-Jan,Crawley Town FC,2015,Aug,8,8/Aug/2015,Sat,2,1,1,Draw
+1,Sat Aug 8 2015,Mansfield Town FC,01-Jan,Carlisle United FC,2015,Aug,8,8/Aug/2015,Sat,2,1,1,Draw
+1,Sat Aug 8 2015,Leyton Orient FC,2-0,Barnet FC,2015,Aug,8,8/Aug/2015,Sat,2,2,0,Leyton Orient FC
+1,Sat Aug 8 2015,Hartlepool United FC,2-0,Morecambe FC,2015,Aug,8,8/Aug/2015,Sat,2,2,0,Hartlepool United FC
+1,Sat Aug 8 2015,Exeter City FC,03-Feb,Yeovil Town FC,2015,Aug,8,8/Aug/2015,Sat,5,3,2,Exeter City FC
+1,Sat Aug 8 2015,Cambridge United FC,3-0,Newport County AFC,2015,Aug,8,8/Aug/2015,Sat,3,3,0,Cambridge United FC
+1,Sat Aug 8 2015,Bristol Rovers FC,0-1,Northampton Town FC,2015,Aug,8,8/Aug/2015,Sat,1,0,1,Northampton Town FC
+1,Sat Aug 8 2015,AFC Wimbledon,0-2,Plymouth Argyle FC,2015,Aug,8,8/Aug/2015,Sat,2,0,2,Plymouth Argyle FC
+1,Sat Aug 8 2015,Accrington Stanley FC,01-Jan,Luton Town FC,2015,Aug,8,8/Aug/2015,Sat,2,1,1,Draw
+2,Fri Aug 14 2015,Notts County FC,0-2,Mansfield Town FC,2015,Aug,14,14/Aug/2015,Fri,2,0,2,Mansfield Town FC
+2,Sat Aug 15 2015,Barnet FC,0-2,Wycombe Wanderers FC,2015,Aug,15,15/Aug/2015,Sat,2,0,2,Wycombe Wanderers FC
+2,Sat Aug 15 2015,Yeovil Town FC,0-1,Bristol Rovers FC,2015,Aug,15,15/Aug/2015,Sat,1,0,1,Bristol Rovers FC
+2,Sat Aug 15 2015,Plymouth Argyle FC,01-Feb,Portsmouth FC,2015,Aug,15,15/Aug/2015,Sat,3,1,2,Portsmouth FC
+2,Sat Aug 15 2015,Northampton Town FC,3-0,Exeter City FC,2015,Aug,15,15/Aug/2015,Sat,3,3,0,Northampton Town FC
+2,Sat Aug 15 2015,York City FC,01-Feb,Hartlepool United FC,2015,Aug,15,15/Aug/2015,Sat,3,1,2,Hartlepool United FC
+2,Sat Aug 15 2015,Morecambe FC,1-0,Accrington Stanley FC,2015,Aug,15,15/Aug/2015,Sat,1,1,0,Morecambe FC
+2,Sat Aug 15 2015,Luton Town FC,02-Feb,Oxford United FC,2015,Aug,15,15/Aug/2015,Sat,4,2,2,Draw
+2,Sat Aug 15 2015,Dagenham & Redbridge FC,01-Mar,Leyton Orient FC,2015,Aug,15,15/Aug/2015,Sat,4,1,3,Leyton Orient FC
+2,Sat Aug 15 2015,Crawley Town FC,01-Feb,AFC Wimbledon,2015,Aug,15,15/Aug/2015,Sat,3,1,2,AFC Wimbledon
+2,Sat Aug 15 2015,Carlisle United FC,04-Apr,Cambridge United FC,2015,Aug,15,15/Aug/2015,Sat,8,4,4,Draw
+2,Sat Aug 15 2015,Newport County AFC,02-Feb,Stevenage FC,2015,Aug,15,15/Aug/2015,Sat,4,2,2,Draw
+3,Tue Aug 18 2015,York City FC,1-0,Yeovil Town FC,2015,Aug,18,18/Aug/2015,Tue,1,1,0,York City FC
+3,Tue Aug 18 2015,Plymouth Argyle FC,04-Jan,Carlisle United FC,2015,Aug,18,18/Aug/2015,Tue,5,4,1,Plymouth Argyle FC
+3,Tue Aug 18 2015,Oxford United FC,03-Jan,Notts County FC,2015,Aug,18,18/Aug/2015,Tue,4,3,1,Oxford United FC
+3,Tue Aug 18 2015,Morecambe FC,0-1,Wycombe Wanderers FC,2015,Aug,18,18/Aug/2015,Tue,1,0,1,Wycombe Wanderers FC
+3,Tue Aug 18 2015,Luton Town FC,0-1,Bristol Rovers FC,2015,Aug,18,18/Aug/2015,Tue,1,0,1,Bristol Rovers FC
+3,Tue Aug 18 2015,Leyton Orient FC,3-0,Stevenage FC,2015,Aug,18,18/Aug/2015,Tue,3,3,0,Leyton Orient FC
+3,Tue Aug 18 2015,Hartlepool United FC,1-0,Newport County AFC,2015,Aug,18,18/Aug/2015,Tue,1,1,0,Hartlepool United FC
+3,Tue Aug 18 2015,Dagenham & Redbridge FC,01-Feb,Exeter City FC,2015,Aug,18,18/Aug/2015,Tue,3,1,2,Exeter City FC
+3,Tue Aug 18 2015,Crawley Town FC,0-0,Portsmouth FC,2015,Aug,18,18/Aug/2015,Tue,0,0,0,Draw
+3,Tue Aug 18 2015,Barnet FC,2-0,Northampton Town FC,2015,Aug,18,18/Aug/2015,Tue,2,2,0,Barnet FC
+3,Tue Aug 18 2015,AFC Wimbledon,01-Feb,Cambridge United FC,2015,Aug,18,18/Aug/2015,Tue,3,1,2,Cambridge United FC
+3,Tue Aug 18 2015,Accrington Stanley FC,1-0,Mansfield Town FC,2015,Aug,18,18/Aug/2015,Tue,1,1,0,Accrington Stanley FC
+4,Sat Aug 22 2015,Yeovil Town FC,03-Feb,Luton Town FC,2015,Aug,22,22/Aug/2015,Sat,5,3,2,Yeovil Town FC
+4,Sat Aug 22 2015,Wycombe Wanderers FC,01-Jan,Dagenham & Redbridge FC,2015,Aug,22,22/Aug/2015,Sat,2,1,1,Draw
+4,Sat Aug 22 2015,Stevenage FC,2-0,Hartlepool United FC,2015,Aug,22,22/Aug/2015,Sat,2,2,0,Stevenage FC
+4,Sat Aug 22 2015,Portsmouth FC,03-Mar,Morecambe FC,2015,Aug,22,22/Aug/2015,Sat,6,3,3,Draw
+4,Sat Aug 22 2015,Notts County FC,01-Jan,Accrington Stanley FC,2015,Aug,22,22/Aug/2015,Sat,2,1,1,Draw
+4,Sat Aug 22 2015,Northampton Town FC,0-2,Plymouth Argyle FC,2015,Aug,22,22/Aug/2015,Sat,2,0,2,Plymouth Argyle FC
+4,Sat Aug 22 2015,Newport County AFC,02-Mar,Leyton Orient FC,2015,Aug,22,22/Aug/2015,Sat,5,2,3,Leyton Orient FC
+4,Sat Aug 22 2015,Mansfield Town FC,01-Jan,Oxford United FC,2015,Aug,22,22/Aug/2015,Sat,2,1,1,Draw
+4,Sat Aug 22 2015,Exeter City FC,0-0,York City FC,2015,Aug,22,22/Aug/2015,Sat,0,0,0,Draw
+4,Sat Aug 22 2015,Carlisle United FC,01-Jan,AFC Wimbledon,2015,Aug,22,22/Aug/2015,Sat,2,1,1,Draw
+4,Sat Aug 22 2015,Cambridge United FC,0-3,Crawley Town FC,2015,Aug,22,22/Aug/2015,Sat,3,0,3,Crawley Town FC
+4,Sat Aug 22 2015,Bristol Rovers FC,03-Jan,Barnet FC,2015,Aug,22,22/Aug/2015,Sat,4,3,1,Bristol Rovers FC
+5,Sat Aug 29 2015,York City FC,01-Feb,Mansfield Town FC,2015,Aug,29,29/Aug/2015,Sat,3,1,2,Mansfield Town FC
+5,Sat Aug 29 2015,Plymouth Argyle FC,1-0,Newport County AFC,2015,Aug,29,29/Aug/2015,Sat,1,1,0,Plymouth Argyle FC
+5,Sat Aug 29 2015,Oxford United FC,2-0,Yeovil Town FC,2015,Aug,29,29/Aug/2015,Sat,2,2,0,Oxford United FC
+5,Sat Aug 29 2015,Morecambe FC,04-Jan,Notts County FC,2015,Aug,29,29/Aug/2015,Sat,5,4,1,Morecambe FC
+5,Sat Aug 29 2015,Luton Town FC,01-Feb,Portsmouth FC,2015,Aug,29,29/Aug/2015,Sat,3,1,2,Portsmouth FC
+5,Sat Aug 29 2015,Accrington Stanley FC,01-Jan,Northampton Town FC,2015,Aug,29,29/Aug/2015,Sat,2,1,1,Draw
+5,Sat Aug 29 2015,Hartlepool United FC,02-Mar,Carlisle United FC,2015,Aug,29,29/Aug/2015,Sat,5,2,3,Carlisle United FC
+5,Sat Aug 29 2015,Dagenham & Redbridge FC,01-Jan,Stevenage FC,2015,Aug,29,29/Aug/2015,Sat,2,1,1,Draw
+5,Sat Aug 29 2015,Crawley Town FC,0-0,Wycombe Wanderers FC,2015,Aug,29,29/Aug/2015,Sat,0,0,0,Draw
+5,Sat Aug 29 2015,Barnet FC,0-0,Cambridge United FC,2015,Aug,29,29/Aug/2015,Sat,0,0,0,Draw
+5,Sat Aug 29 2015,AFC Wimbledon,02-Jan,Exeter City FC,2015,Aug,29,29/Aug/2015,Sat,3,2,1,AFC Wimbledon
+5,Sat Aug 29 2015,Leyton Orient FC,2-0,Bristol Rovers FC,2015,Aug,29,29/Aug/2015,Sat,2,2,0,Leyton Orient FC
+6,Sat Sep 5 2015,Newport County AFC,0-3,York City FC,2015,Sep,5,5/Sep/2015,Sat,3,0,3,York City FC
+6,Sat Sep 5 2015,Carlisle United FC,03-Feb,Barnet FC,2015,Sep,5,5/Sep/2015,Sat,5,3,2,Carlisle United FC
+6,Sat Sep 5 2015,Yeovil Town FC,02-Apr,Morecambe FC,2015,Sep,5,5/Sep/2015,Sat,6,2,4,Morecambe FC
+6,Sat Sep 5 2015,Wycombe Wanderers FC,02-Jan,Hartlepool United FC,2015,Sep,5,5/Sep/2015,Sat,3,2,1,Wycombe Wanderers FC
+6,Sat Sep 5 2015,Stevenage FC,02-Jan,Plymouth Argyle FC,2015,Sep,5,5/Sep/2015,Sat,3,2,1,Stevenage FC
+6,Sat Sep 5 2015,Portsmouth FC,0-0,Accrington Stanley FC,2015,Sep,5,5/Sep/2015,Sat,0,0,0,Draw
+6,Sat Sep 5 2015,Northampton Town FC,01-Feb,Dagenham & Redbridge FC,2015,Sep,5,5/Sep/2015,Sat,3,1,2,Dagenham & Redbridge FC
+6,Sat Sep 5 2015,Mansfield Town FC,01-Jan,AFC Wimbledon,2015,Sep,5,5/Sep/2015,Sat,2,1,1,Draw
+6,Sat Sep 5 2015,Exeter City FC,4-0,Leyton Orient FC,2015,Sep,5,5/Sep/2015,Sat,4,4,0,Exeter City FC
+6,Sat Sep 5 2015,Cambridge United FC,01-Mar,Luton Town FC,2015,Sep,5,5/Sep/2015,Sat,4,1,3,Luton Town FC
+6,Sun Sep 6 2015,Bristol Rovers FC,0-1,Oxford United FC,2015,Sep,6,6/Sep/2015,Sun,1,0,1,Oxford United FC
+7,Sat Sep 12 2015,Yeovil Town FC,01-Jan,AFC Wimbledon,2015,Sep,12,12/Sep/2015,Sat,2,1,1,Draw
+7,Sat Sep 12 2015,Wycombe Wanderers FC,01-Feb,Plymouth Argyle FC,2015,Sep,12,12/Sep/2015,Sat,3,1,2,Plymouth Argyle FC
+7,Sat Sep 12 2015,Stevenage FC,02-Feb,York City FC,2015,Sep,12,12/Sep/2015,Sat,4,2,2,Draw
+7,Sat Sep 12 2015,Portsmouth FC,03-Jan,Barnet FC,2015,Sep,12,12/Sep/2015,Sat,4,3,1,Portsmouth FC
+7,Sat Sep 12 2015,Notts County FC,03-Feb,Luton Town FC,2015,Sep,12,12/Sep/2015,Sat,5,3,2,Notts County FC
+7,Sat Sep 12 2015,Northampton Town FC,1-0,Oxford United FC,2015,Sep,12,12/Sep/2015,Sat,1,1,0,Northampton Town FC
+7,Sat Sep 12 2015,Newport County AFC,01-Feb,Morecambe FC,2015,Sep,12,12/Sep/2015,Sat,3,1,2,Morecambe FC
+7,Sat Sep 12 2015,Mansfield Town FC,4-0,Crawley Town FC,2015,Sep,12,12/Sep/2015,Sat,4,4,0,Mansfield Town FC
+7,Sat Sep 12 2015,Exeter City FC,1-0,Hartlepool United FC,2015,Sep,12,12/Sep/2015,Sat,1,1,0,Exeter City FC
+7,Sat Sep 12 2015,Carlisle United FC,02-Jan,Dagenham & Redbridge FC,2015,Sep,12,12/Sep/2015,Sat,3,2,1,Carlisle United FC
+7,Sat Sep 12 2015,Cambridge United FC,01-Jan,Leyton Orient FC,2015,Sep,12,12/Sep/2015,Sat,2,1,1,Draw
+7,Sat Sep 12 2015,Bristol Rovers FC,0-1,Accrington Stanley FC,2015,Sep,12,12/Sep/2015,Sat,1,0,1,Accrington Stanley FC
+8,Sat Sep 19 2015,York City FC,02-Feb,Carlisle United FC,2015,Sep,19,19/Sep/2015,Sat,4,2,2,Draw
+8,Sat Sep 19 2015,Plymouth Argyle FC,01-Jan,Bristol Rovers FC,2015,Sep,19,19/Sep/2015,Sat,2,1,1,Draw
+8,Sat Sep 19 2015,Oxford United FC,01-Jan,Portsmouth FC,2015,Sep,19,19/Sep/2015,Sat,2,1,1,Draw
+8,Sat Sep 19 2015,Morecambe FC,02-Apr,Northampton Town FC,2015,Sep,19,19/Sep/2015,Sat,6,2,4,Northampton Town FC
+8,Sat Sep 19 2015,Luton Town FC,1-0,Mansfield Town FC,2015,Sep,19,19/Sep/2015,Sat,1,1,0,Luton Town FC
+8,Sat Sep 19 2015,Leyton Orient FC,01-Jan,Wycombe Wanderers FC,2015,Sep,19,19/Sep/2015,Sat,2,1,1,Draw
+8,Sat Sep 19 2015,Accrington Stanley FC,04-Feb,Exeter City FC,2015,Sep,19,19/Sep/2015,Sat,6,4,2,Accrington Stanley FC
+8,Sat Sep 19 2015,Dagenham & Redbridge FC,0-0,Newport County AFC,2015,Sep,19,19/Sep/2015,Sat,0,0,0,Draw
+8,Sat Sep 19 2015,Crawley Town FC,0-1,Yeovil Town FC,2015,Sep,19,19/Sep/2015,Sat,1,0,1,Yeovil Town FC
+8,Sat Sep 19 2015,Barnet FC,03-Feb,Stevenage FC,2015,Sep,19,19/Sep/2015,Sat,5,3,2,Barnet FC
+8,Sat Sep 19 2015,AFC Wimbledon,02-Jan,Notts County FC,2015,Sep,19,19/Sep/2015,Sat,3,2,1,AFC Wimbledon
+8,Sat Sep 19 2015,Hartlepool United FC,0-0,Cambridge United FC,2015,Sep,19,19/Sep/2015,Sat,0,0,0,Draw
+6,Tue Sep 22 2015,Notts County FC,04-Jan,Crawley Town FC,2015,Sep,22,22/Sep/2015,Tue,5,4,1,Notts County FC
+9,Sat Sep 26 2015,Luton Town FC,2-0,AFC Wimbledon,2015,Sep,26,26/Sep/2015,Sat,2,2,0,Luton Town FC
+9,Sat Sep 26 2015,Oxford United FC,0-0,Morecambe FC,2015,Sep,26,26/Sep/2015,Sat,0,0,0,Draw
+9,Sat Sep 26 2015,Notts County FC,1-0,York City FC,2015,Sep,26,26/Sep/2015,Sat,1,1,0,Notts County FC
+9,Sat Sep 26 2015,Northampton Town FC,01-Jan,Leyton Orient FC,2015,Sep,26,26/Sep/2015,Sat,2,1,1,Draw
+9,Sat Sep 26 2015,Mansfield Town FC,0-0,Plymouth Argyle FC,2015,Sep,26,26/Sep/2015,Sat,0,0,0,Draw
+9,Sat Sep 26 2015,Yeovil Town FC,01-Feb,Hartlepool United FC,2015,Sep,26,26/Sep/2015,Sat,3,1,2,Hartlepool United FC
+9,Sat Sep 26 2015,Exeter City FC,0-2,Wycombe Wanderers FC,2015,Sep,26,26/Sep/2015,Sat,2,0,2,Wycombe Wanderers FC
+9,Sat Sep 26 2015,Crawley Town FC,0-3,Accrington Stanley FC,2015,Sep,26,26/Sep/2015,Sat,3,0,3,Accrington Stanley FC
+9,Sat Sep 26 2015,Carlisle United FC,0-1,Newport County AFC,2015,Sep,26,26/Sep/2015,Sat,1,0,1,Newport County AFC
+9,Sat Sep 26 2015,Barnet FC,03-Jan,Dagenham & Redbridge FC,2015,Sep,26,26/Sep/2015,Sat,4,3,1,Barnet FC
+9,Sat Sep 26 2015,Bristol Rovers FC,01-Feb,Portsmouth FC,2015,Sep,26,26/Sep/2015,Sat,3,1,2,Portsmouth FC
+9,Sat Sep 26 2015,Cambridge United FC,1-0,Stevenage FC,2015,Sep,26,26/Sep/2015,Sat,1,1,0,Cambridge United FC
+10,Tue Sep 29 2015,York City FC,01-Feb,Oxford United FC,2015,Sep,29,29/Sep/2015,Tue,3,1,2,Oxford United FC
+10,Tue Sep 29 2015,Wycombe Wanderers FC,1-0,Cambridge United FC,2015,Sep,29,29/Sep/2015,Tue,1,1,0,Wycombe Wanderers FC
+10,Tue Sep 29 2015,Stevenage FC,0-2,Mansfield Town FC,2015,Sep,29,29/Sep/2015,Tue,2,0,2,Mansfield Town FC
+10,Tue Sep 29 2015,Portsmouth FC,01-Feb,Exeter City FC,2015,Sep,29,29/Sep/2015,Tue,3,1,2,Exeter City FC
+10,Tue Sep 29 2015,Plymouth Argyle FC,02-Jan,Barnet FC,2015,Sep,29,29/Sep/2015,Tue,3,2,1,Plymouth Argyle FC
+10,Tue Sep 29 2015,Newport County AFC,0-3,Crawley Town FC,2015,Sep,29,29/Sep/2015,Tue,3,0,3,Crawley Town FC
+10,Tue Sep 29 2015,Morecambe FC,01-Mar,Luton Town FC,2015,Sep,29,29/Sep/2015,Tue,4,1,3,Luton Town FC
+10,Tue Sep 29 2015,Leyton Orient FC,01-Feb,Carlisle United FC,2015,Sep,29,29/Sep/2015,Tue,3,1,2,Carlisle United FC
+10,Tue Sep 29 2015,Hartlepool United FC,0-3,Bristol Rovers FC,2015,Sep,29,29/Sep/2015,Tue,3,0,3,Bristol Rovers FC
+10,Tue Sep 29 2015,Dagenham & Redbridge FC,01-Jan,Notts County FC,2015,Sep,29,29/Sep/2015,Tue,2,1,1,Draw
+10,Tue Sep 29 2015,AFC Wimbledon,01-Jan,Northampton Town FC,2015,Sep,29,29/Sep/2015,Tue,2,1,1,Draw
+10,Tue Sep 29 2015,Accrington Stanley FC,02-Jan,Yeovil Town FC,2015,Sep,29,29/Sep/2015,Tue,3,2,1,Accrington Stanley FC
+11,Sat Oct 3 2015,York City FC,02-Feb,Cambridge United FC,2015,Oct,3,3/Oct/2015,Sat,4,2,2,Draw
+11,Sat Oct 3 2015,Wycombe Wanderers FC,02-Mar,Northampton Town FC,2015,Oct,3,3/Oct/2015,Sat,5,2,3,Northampton Town FC
+11,Sat Oct 3 2015,Stevenage FC,0-1,Carlisle United FC,2015,Oct,3,3/Oct/2015,Sat,1,0,1,Carlisle United FC
+11,Sat Oct 3 2015,Portsmouth FC,0-0,Yeovil Town FC,2015,Oct,3,3/Oct/2015,Sat,0,0,0,Draw
+11,Sat Oct 3 2015,Accrington Stanley FC,01-Mar,Oxford United FC,2015,Oct,3,3/Oct/2015,Sat,4,1,3,Oxford United FC
+11,Sat Oct 3 2015,Newport County AFC,01-Jan,Exeter City FC,2015,Oct,3,3/Oct/2015,Sat,2,1,1,Draw
+11,Sat Oct 3 2015,Morecambe FC,03-Apr,Bristol Rovers FC,2015,Oct,3,3/Oct/2015,Sat,7,3,4,Bristol Rovers FC
+11,Sat Oct 3 2015,Leyton Orient FC,03-Jan,Notts County FC,2015,Oct,3,3/Oct/2015,Sat,4,3,1,Leyton Orient FC
+11,Sat Oct 3 2015,Hartlepool United FC,01-Apr,Luton Town FC,2015,Oct,3,3/Oct/2015,Sat,5,1,4,Luton Town FC
+11,Sat Oct 3 2015,Dagenham & Redbridge FC,03-Apr,Mansfield Town FC,2015,Oct,3,3/Oct/2015,Sat,7,3,4,Mansfield Town FC
+11,Sat Oct 3 2015,AFC Wimbledon,2-0,Barnet FC,2015,Oct,3,3/Oct/2015,Sat,2,2,0,AFC Wimbledon
+11,Sat Oct 3 2015,Plymouth Argyle FC,02-Jan,Crawley Town FC,2015,Oct,3,3/Oct/2015,Sat,3,2,1,Plymouth Argyle FC
+12,Sat Oct 10 2015,Yeovil Town FC,02-Feb,Dagenham & Redbridge FC,2015,Oct,10,10/Oct/2015,Sat,4,2,2,Draw
+12,Sat Oct 10 2015,Oxford United FC,1-0,AFC Wimbledon,2015,Oct,10,10/Oct/2015,Sat,1,1,0,Oxford United FC
+12,Sat Oct 10 2015,Northampton Town FC,02-Jan,Hartlepool United FC,2015,Oct,10,10/Oct/2015,Sat,3,2,1,Northampton Town FC
+12,Sat Oct 10 2015,Mansfield Town FC,3-0,Newport County AFC,2015,Oct,10,10/Oct/2015,Sat,3,3,0,Mansfield Town FC
+12,Sat Oct 10 2015,Luton Town FC,01-Jan,York City FC,2015,Oct,10,10/Oct/2015,Sat,2,1,1,Draw
+12,Sat Oct 10 2015,Crawley Town FC,03-Feb,Leyton Orient FC,2015,Oct,10,10/Oct/2015,Sat,5,3,2,Crawley Town FC
+12,Sat Oct 10 2015,Carlisle United FC,02-Mar,Morecambe FC,2015,Oct,10,10/Oct/2015,Sat,5,2,3,Morecambe FC
+12,Sat Oct 10 2015,Barnet FC,01-Feb,Accrington Stanley FC,2015,Oct,10,10/Oct/2015,Sat,3,1,2,Accrington Stanley FC
+12,Sat Oct 10 2015,Cambridge United FC,01-Mar,Portsmouth FC,2015,Oct,10,10/Oct/2015,Sat,4,1,3,Portsmouth FC
+12,Sun Oct 11 2015,Exeter City FC,03-Mar,Stevenage FC,2015,Oct,11,11/Oct/2015,Sun,6,3,3,Draw
+12,Sun Oct 11 2015,Notts County FC,0-2,Plymouth Argyle FC,2015,Oct,11,11/Oct/2015,Sun,2,0,2,Plymouth Argyle FC
+13,Sat Oct 17 2015,Newport County AFC,0-1,Portsmouth FC,2015,Oct,17,17/Oct/2015,Sat,1,0,1,Portsmouth FC
+13,Sat Oct 17 2015,Stevenage FC,02-Jan,Wycombe Wanderers FC,2015,Oct,17,17/Oct/2015,Sat,3,2,1,Stevenage FC
+13,Sat Oct 17 2015,Plymouth Argyle FC,1-0,Accrington Stanley FC,2015,Oct,17,17/Oct/2015,Sat,1,1,0,Plymouth Argyle FC
+13,Sat Oct 17 2015,Notts County FC,2-0,Yeovil Town FC,2015,Oct,17,17/Oct/2015,Sat,2,2,0,Notts County FC
+13,Sat Oct 17 2015,AFC Wimbledon,02-May,Morecambe FC,2015,Oct,17,17/Oct/2015,Sat,7,2,5,Morecambe FC
+13,Sat Oct 17 2015,Mansfield Town FC,01-Feb,Bristol Rovers FC,2015,Oct,17,17/Oct/2015,Sat,3,1,2,Bristol Rovers FC
+13,Sat Oct 17 2015,Leyton Orient FC,02-Feb,Oxford United FC,2015,Oct,17,17/Oct/2015,Sat,4,2,2,Draw
+13,Sat Oct 17 2015,Dagenham & Redbridge FC,0-1,Hartlepool United FC,2015,Oct,17,17/Oct/2015,Sat,1,0,1,Hartlepool United FC
+13,Sat Oct 17 2015,Crawley Town FC,02-Jan,Luton Town FC,2015,Oct,17,17/Oct/2015,Sat,3,2,1,Crawley Town FC
+13,Sat Oct 17 2015,Carlisle United FC,1-0,Exeter City FC,2015,Oct,17,17/Oct/2015,Sat,1,1,0,Carlisle United FC
+13,Sat Oct 17 2015,Barnet FC,03-Jan,York City FC,2015,Oct,17,17/Oct/2015,Sat,4,3,1,Barnet FC
+13,Sat Oct 17 2015,Cambridge United FC,02-Jan,Northampton Town FC,2015,Oct,17,17/Oct/2015,Sat,3,2,1,Cambridge United FC
+14,Tue Oct 20 2015,York City FC,02-Feb,Dagenham & Redbridge FC,2015,Oct,20,20/Oct/2015,Tue,4,2,2,Draw
+14,Tue Oct 20 2015,Yeovil Town FC,0-1,Mansfield Town FC,2015,Oct,20,20/Oct/2015,Tue,1,0,1,Mansfield Town FC
+14,Tue Oct 20 2015,Wycombe Wanderers FC,0-2,Newport County AFC,2015,Oct,20,20/Oct/2015,Tue,2,0,2,Newport County AFC
+14,Tue Oct 20 2015,Portsmouth FC,01-Jan,Stevenage FC,2015,Oct,20,20/Oct/2015,Tue,2,1,1,Draw
+14,Tue Oct 20 2015,Accrington Stanley FC,03-Apr,AFC Wimbledon,2015,Oct,20,20/Oct/2015,Tue,7,3,4,AFC Wimbledon
+14,Tue Oct 20 2015,Northampton Town FC,03-Feb,Carlisle United FC,2015,Oct,20,20/Oct/2015,Tue,5,3,2,Northampton Town FC
+14,Tue Oct 20 2015,Morecambe FC,03-Jan,Crawley Town FC,2015,Oct,20,20/Oct/2015,Tue,4,3,1,Morecambe FC
+14,Tue Oct 20 2015,Luton Town FC,01-Jan,Leyton Orient FC,2015,Oct,20,20/Oct/2015,Tue,2,1,1,Draw
+14,Tue Oct 20 2015,Hartlepool United FC,01-Jan,Barnet FC,2015,Oct,20,20/Oct/2015,Tue,2,1,1,Draw
+14,Tue Oct 20 2015,Bristol Rovers FC,0-0,Notts County FC,2015,Oct,20,20/Oct/2015,Tue,0,0,0,Draw
+14,Tue Oct 20 2015,Oxford United FC,1-0,Plymouth Argyle FC,2015,Oct,20,20/Oct/2015,Tue,1,1,0,Oxford United FC
+14,Wed Oct 21 2015,Exeter City FC,1-0,Cambridge United FC,2015,Oct,21,21/Oct/2015,Wed,1,1,0,Exeter City FC
+15,Sat Oct 24 2015,Northampton Town FC,02-Jan,Stevenage FC,2015,Oct,24,24/Oct/2015,Sat,3,2,1,Northampton Town FC
+15,Sat Oct 24 2015,Yeovil Town FC,02-Mar,Cambridge United FC,2015,Oct,24,24/Oct/2015,Sat,5,2,3,Cambridge United FC
+15,Sat Oct 24 2015,Wycombe Wanderers FC,01-Jan,Carlisle United FC,2015,Oct,24,24/Oct/2015,Sat,2,1,1,Draw
+15,Sat Oct 24 2015,Portsmouth FC,0-0,Mansfield Town FC,2015,Oct,24,24/Oct/2015,Sat,0,0,0,Draw
+15,Sat Oct 24 2015,Oxford United FC,02-Mar,Barnet FC,2015,Oct,24,24/Oct/2015,Sat,5,2,3,Barnet FC
+15,Sat Oct 24 2015,York City FC,01-Mar,AFC Wimbledon,2015,Oct,24,24/Oct/2015,Sat,4,1,3,AFC Wimbledon
+15,Sat Oct 24 2015,Morecambe FC,0-1,Leyton Orient FC,2015,Oct,24,24/Oct/2015,Sat,1,0,1,Leyton Orient FC
+15,Sat Oct 24 2015,Luton Town FC,01-Feb,Plymouth Argyle FC,2015,Oct,24,24/Oct/2015,Sat,3,1,2,Plymouth Argyle FC
+15,Sat Oct 24 2015,Hartlepool United FC,01-Feb,Crawley Town FC,2015,Oct,24,24/Oct/2015,Sat,3,1,2,Crawley Town FC
+15,Sat Oct 24 2015,Accrington Stanley FC,03-Jan,Dagenham & Redbridge FC,2015,Oct,24,24/Oct/2015,Sat,4,3,1,Accrington Stanley FC
+15,Sat Oct 24 2015,Bristol Rovers FC,01-Apr,Newport County AFC,2015,Oct,24,24/Oct/2015,Sat,5,1,4,Newport County AFC
+15,Sat Oct 24 2015,Exeter City FC,01-Jan,Notts County FC,2015,Oct,24,24/Oct/2015,Sat,2,1,1,Draw
+16,Fri Oct 30 2015,Cambridge United FC,01-Feb,Bristol Rovers FC,2015,Oct,30,30/Oct/2015,Fri,3,1,2,Bristol Rovers FC
+16,Sat Oct 31 2015,Crawley Town FC,1-0,York City FC,2015,Oct,31,31/Oct/2015,Sat,1,1,0,Crawley Town FC
+16,Sat Oct 31 2015,AFC Wimbledon,2-0,Hartlepool United FC,2015,Oct,31,31/Oct/2015,Sat,2,2,0,AFC Wimbledon
+16,Sat Oct 31 2015,Stevenage FC,01-May,Oxford United FC,2015,Oct,31,31/Oct/2015,Sat,6,1,5,Oxford United FC
+16,Sat Oct 31 2015,Plymouth Argyle FC,2-0,Morecambe FC,2015,Oct,31,31/Oct/2015,Sat,2,2,0,Plymouth Argyle FC
+16,Sat Oct 31 2015,Notts County FC,02-Jan,Portsmouth FC,2015,Oct,31,31/Oct/2015,Sat,3,2,1,Notts County FC
+16,Sat Oct 31 2015,Newport County AFC,02-Feb,Northampton Town FC,2015,Oct,31,31/Oct/2015,Sat,4,2,2,Draw
+16,Sat Oct 31 2015,Mansfield Town FC,0-2,Wycombe Wanderers FC,2015,Oct,31,31/Oct/2015,Sat,2,0,2,Wycombe Wanderers FC
+16,Sat Oct 31 2015,Leyton Orient FC,0-1,Accrington Stanley FC,2015,Oct,31,31/Oct/2015,Sat,1,0,1,Accrington Stanley FC
+16,Sat Oct 31 2015,Barnet FC,2-0,Exeter City FC,2015,Oct,31,31/Oct/2015,Sat,2,2,0,Barnet FC
+16,Sat Oct 31 2015,Carlisle United FC,03-Feb,Yeovil Town FC,2015,Oct,31,31/Oct/2015,Sat,5,3,2,Carlisle United FC
+16,Sun Nov 1 2015,Dagenham & Redbridge FC,0-2,Luton Town FC,2015,Nov,1,1/Nov/2015,Sun,2,0,2,Luton Town FC
+17,Sat Nov 14 2015,Northampton Town FC,1-0,Mansfield Town FC,2015,Nov,14,14/Nov/2015,Sat,1,1,0,Northampton Town FC
+17,Sat Nov 14 2015,Yeovil Town FC,02-Feb,Stevenage FC,2015,Nov,14,14/Nov/2015,Sat,4,2,2,Draw
+17,Sat Nov 14 2015,Oxford United FC,1-0,Cambridge United FC,2015,Nov,14,14/Nov/2015,Sat,1,1,0,Oxford United FC
+17,Sat Nov 14 2015,York City FC,01-Feb,Plymouth Argyle FC,2015,Nov,14,14/Nov/2015,Sat,3,1,2,Plymouth Argyle FC
+17,Sat Nov 14 2015,Accrington Stanley FC,02-Feb,Newport County AFC,2015,Nov,14,14/Nov/2015,Sat,4,2,2,Draw
+17,Sat Nov 14 2015,Exeter City FC,02-Feb,Crawley Town FC,2015,Nov,14,14/Nov/2015,Sat,4,2,2,Draw
+17,Sat Nov 14 2015,Bristol Rovers FC,2-0,Carlisle United FC,2015,Nov,14,14/Nov/2015,Sat,2,2,0,Bristol Rovers FC
+17,Sat Nov 14 2015,Luton Town FC,2-0,Barnet FC,2015,Nov,14,14/Nov/2015,Sat,2,2,0,Luton Town FC
+17,Sun Nov 15 2015,Hartlepool United FC,03-Jan,Leyton Orient FC,2015,Nov,15,15/Nov/2015,Sun,4,3,1,Hartlepool United FC
+17,Sun Nov 15 2015,Portsmouth FC,0-0,AFC Wimbledon,2015,Nov,15,15/Nov/2015,Sun,0,0,0,Draw
+18,Sat Nov 21 2015,Mansfield Town FC,03-Jan,Hartlepool United FC,2015,Nov,21,21/Nov/2015,Sat,4,3,1,Mansfield Town FC
+18,Sat Nov 21 2015,Plymouth Argyle FC,01-Feb,Exeter City FC,2015,Nov,21,21/Nov/2015,Sat,3,1,2,Exeter City FC
+18,Sat Nov 21 2015,Notts County FC,01-Feb,Northampton Town FC,2015,Nov,21,21/Nov/2015,Sat,3,1,2,Northampton Town FC
+18,Sat Nov 21 2015,Newport County AFC,0-0,Yeovil Town FC,2015,Nov,21,21/Nov/2015,Sat,0,0,0,Draw
+18,Sat Nov 21 2015,Stevenage FC,0-0,Luton Town FC,2015,Nov,21,21/Nov/2015,Sat,0,0,0,Draw
+18,Sat Nov 21 2015,Leyton Orient FC,03-Feb,York City FC,2015,Nov,21,21/Nov/2015,Sat,5,3,2,Leyton Orient FC
+18,Sat Nov 21 2015,Dagenham & Redbridge FC,0-1,Oxford United FC,2015,Nov,21,21/Nov/2015,Sat,1,0,1,Oxford United FC
+18,Sat Nov 21 2015,Crawley Town FC,02-Jan,Bristol Rovers FC,2015,Nov,21,21/Nov/2015,Sat,3,2,1,Crawley Town FC
+18,Sat Nov 21 2015,Carlisle United FC,02-Feb,Portsmouth FC,2015,Nov,21,21/Nov/2015,Sat,4,2,2,Draw
+18,Sat Nov 21 2015,AFC Wimbledon,01-Jan,Wycombe Wanderers FC,2015,Nov,21,21/Nov/2015,Sat,2,1,1,Draw
+18,Sat Nov 21 2015,Barnet FC,0-0,Morecambe FC,2015,Nov,21,21/Nov/2015,Sat,0,0,0,Draw
+18,Sat Nov 21 2015,Cambridge United FC,02-Mar,Accrington Stanley FC,2015,Nov,21,21/Nov/2015,Sat,5,2,3,Accrington Stanley FC
+19,Tue Nov 24 2015,Yeovil Town FC,0-1,Wycombe Wanderers FC,2015,Nov,24,24/Nov/2015,Tue,1,0,1,Wycombe Wanderers FC
+19,Tue Nov 24 2015,Portsmouth FC,6-0,York City FC,2015,Nov,24,24/Nov/2015,Tue,6,6,0,Portsmouth FC
+19,Tue Nov 24 2015,Plymouth Argyle FC,01-Jan,Leyton Orient FC,2015,Nov,24,24/Nov/2015,Tue,2,1,1,Draw
+19,Tue Nov 24 2015,Oxford United FC,01-Jan,Newport County AFC,2015,Nov,24,24/Nov/2015,Tue,2,1,1,Draw
+19,Tue Nov 24 2015,Notts County FC,04-Feb,Barnet FC,2015,Nov,24,24/Nov/2015,Tue,6,4,2,Notts County FC
+19,Tue Nov 24 2015,Morecambe FC,02-Apr,Cambridge United FC,2015,Nov,24,24/Nov/2015,Tue,6,2,4,Cambridge United FC
+19,Tue Nov 24 2015,Mansfield Town FC,0-2,Exeter City FC,2015,Nov,24,24/Nov/2015,Tue,2,0,2,Exeter City FC
+19,Tue Nov 24 2015,Luton Town FC,03-Apr,Carlisle United FC,2015,Nov,24,24/Nov/2015,Tue,7,3,4,Carlisle United FC
+19,Tue Nov 24 2015,Crawley Town FC,01-Feb,Northampton Town FC,2015,Nov,24,24/Nov/2015,Tue,3,1,2,Northampton Town FC
+19,Tue Nov 24 2015,Bristol Rovers FC,01-Feb,Stevenage FC,2015,Nov,24,24/Nov/2015,Tue,3,1,2,Stevenage FC
+19,Tue Nov 24 2015,AFC Wimbledon,0-1,Dagenham & Redbridge FC,2015,Nov,24,24/Nov/2015,Tue,1,0,1,Dagenham & Redbridge FC
+20,Sat Nov 28 2015,York City FC,01-May,Accrington Stanley FC,2015,Nov,28,28/Nov/2015,Sat,6,1,5,Accrington Stanley FC
+20,Sat Nov 28 2015,Wycombe Wanderers FC,02-Feb,Portsmouth FC,2015,Nov,28,28/Nov/2015,Sat,4,2,2,Draw
+20,Sat Nov 28 2015,Stevenage FC,04-Mar,Morecambe FC,2015,Nov,28,28/Nov/2015,Sat,7,4,3,Stevenage FC
+20,Sat Nov 28 2015,Northampton Town FC,2-0,Yeovil Town FC,2015,Nov,28,28/Nov/2015,Sat,2,2,0,Northampton Town FC
+20,Sat Nov 28 2015,Newport County AFC,3-0,Luton Town FC,2015,Nov,28,28/Nov/2015,Sat,3,3,0,Newport County AFC
+20,Sat Nov 28 2015,Leyton Orient FC,01-Jan,AFC Wimbledon,2015,Nov,28,28/Nov/2015,Sat,2,1,1,Draw
+20,Sat Nov 28 2015,Barnet FC,01-Mar,Mansfield Town FC,2015,Nov,28,28/Nov/2015,Sat,4,1,3,Mansfield Town FC
+20,Sat Nov 28 2015,Exeter City FC,01-Jan,Bristol Rovers FC,2015,Nov,28,28/Nov/2015,Sat,2,1,1,Draw
+20,Sat Nov 28 2015,Dagenham & Redbridge FC,01-Jan,Plymouth Argyle FC,2015,Nov,28,28/Nov/2015,Sat,2,1,1,Draw
+20,Sat Nov 28 2015,Carlisle United FC,03-Jan,Crawley Town FC,2015,Nov,28,28/Nov/2015,Sat,4,3,1,Carlisle United FC
+20,Sat Nov 28 2015,Cambridge United FC,03-Jan,Notts County FC,2015,Nov,28,28/Nov/2015,Sat,4,3,1,Cambridge United FC
+20,Sat Nov 28 2015,Hartlepool United FC,0-1,Oxford United FC,2015,Nov,28,28/Nov/2015,Sat,1,0,1,Oxford United FC
+12,Tue Dec 1 2015,Bristol Rovers FC,3-0,Wycombe Wanderers FC,2015,Dec,1,1/Dec/2015,Tue,3,3,0,Bristol Rovers FC
+17,Tue Dec 1 2015,Morecambe FC,1-0,Dagenham & Redbridge FC,2015,Dec,1,1/Dec/2015,Tue,1,1,0,Morecambe FC
+21,Sat Dec 12 2015,Oxford United FC,01-Jan,Carlisle United FC,2015,Dec,12,12/Dec/2015,Sat,2,1,1,Draw
+21,Sat Dec 12 2015,Portsmouth FC,4-0,Hartlepool United FC,2015,Dec,12,12/Dec/2015,Sat,4,4,0,Portsmouth FC
+21,Sat Dec 12 2015,Plymouth Argyle FC,01-Feb,Cambridge United FC,2015,Dec,12,12/Dec/2015,Sat,3,1,2,Cambridge United FC
+21,Sat Dec 12 2015,Yeovil Town FC,02-Feb,Barnet FC,2015,Dec,12,12/Dec/2015,Sat,4,2,2,Draw
+21,Sat Dec 12 2015,Notts County FC,04-Mar,Newport County AFC,2015,Dec,12,12/Dec/2015,Sat,7,4,3,Notts County FC
+21,Sat Dec 12 2015,Mansfield Town FC,01-Jan,Leyton Orient FC,2015,Dec,12,12/Dec/2015,Sat,2,1,1,Draw
+21,Sat Dec 12 2015,Luton Town FC,03-Apr,Northampton Town FC,2015,Dec,12,12/Dec/2015,Sat,7,3,4,Northampton Town FC
+21,Sat Dec 12 2015,Crawley Town FC,03-Feb,Dagenham & Redbridge FC,2015,Dec,12,12/Dec/2015,Sat,5,3,2,Crawley Town FC
+21,Sat Dec 12 2015,AFC Wimbledon,01-Feb,Stevenage FC,2015,Dec,12,12/Dec/2015,Sat,3,1,2,Stevenage FC
+21,Sat Dec 12 2015,Bristol Rovers FC,02-Jan,York City FC,2015,Dec,12,12/Dec/2015,Sat,3,2,1,Bristol Rovers FC
+17,Tue Dec 15 2015,Wycombe Wanderers FC,02-Feb,Notts County FC,2015,Dec,15,15/Dec/2015,Tue,4,2,2,Draw
+22,Sat Dec 19 2015,York City FC,02-Jan,Morecambe FC,2015,Dec,19,19/Dec/2015,Sat,3,2,1,York City FC
+22,Sat Dec 19 2015,Wycombe Wanderers FC,02-Jan,Oxford United FC,2015,Dec,19,19/Dec/2015,Sat,3,2,1,Wycombe Wanderers FC
+22,Sat Dec 19 2015,Stevenage FC,01-Jan,Accrington Stanley FC,2015,Dec,19,19/Dec/2015,Sat,2,1,1,Draw
+22,Sat Dec 19 2015,Northampton Town FC,01-Feb,Portsmouth FC,2015,Dec,19,19/Dec/2015,Sat,3,1,2,Portsmouth FC
+22,Sat Dec 19 2015,Newport County AFC,02-Feb,AFC Wimbledon,2015,Dec,19,19/Dec/2015,Sat,4,2,2,Draw
+22,Sat Dec 19 2015,Leyton Orient FC,01-Jan,Yeovil Town FC,2015,Dec,19,19/Dec/2015,Sat,2,1,1,Draw
+22,Sat Dec 19 2015,Hartlepool United FC,01-Feb,Plymouth Argyle FC,2015,Dec,19,19/Dec/2015,Sat,3,1,2,Plymouth Argyle FC
+22,Sat Dec 19 2015,Exeter City FC,02-Mar,Luton Town FC,2015,Dec,19,19/Dec/2015,Sat,5,2,3,Luton Town FC
+22,Sat Dec 19 2015,Dagenham & Redbridge FC,0-3,Bristol Rovers FC,2015,Dec,19,19/Dec/2015,Sat,3,0,3,Bristol Rovers FC
+22,Sat Dec 19 2015,Barnet FC,04-Feb,Crawley Town FC,2015,Dec,19,19/Dec/2015,Sat,6,4,2,Barnet FC
+22,Sat Dec 19 2015,Cambridge United FC,01-Jan,Mansfield Town FC,2015,Dec,19,19/Dec/2015,Sat,2,1,1,Draw
+22,Sat Dec 19 2015,Carlisle United FC,3-0,Notts County FC,2015,Dec,19,19/Dec/2015,Sat,3,3,0,Carlisle United FC
+23,Sat Dec 26 2015,Dagenham & Redbridge FC,0-3,Cambridge United FC,2015,Dec,26,26/Dec/2015,Sat,3,0,3,Cambridge United FC
+23,Sat Dec 26 2015,Plymouth Argyle FC,1-0,Yeovil Town FC,2015,Dec,26,26/Dec/2015,Sat,1,1,0,Plymouth Argyle FC
+23,Sat Dec 26 2015,AFC Wimbledon,0-0,Bristol Rovers FC,2015,Dec,26,26/Dec/2015,Sat,0,0,0,Draw
+23,Sat Dec 26 2015,Luton Town FC,0-2,Wycombe Wanderers FC,2015,Dec,26,26/Dec/2015,Sat,2,0,2,Wycombe Wanderers FC
+23,Sat Dec 26 2015,Leyton Orient FC,03-Feb,Portsmouth FC,2015,Dec,26,26/Dec/2015,Sat,5,3,2,Leyton Orient FC
+23,Sat Dec 26 2015,Crawley Town FC,02-Jan,Stevenage FC,2015,Dec,26,26/Dec/2015,Sat,3,2,1,Crawley Town FC
+23,Sat Dec 26 2015,Barnet FC,2-0,Newport County AFC,2015,Dec,26,26/Dec/2015,Sat,2,2,0,Barnet FC
+23,Sat Dec 26 2015,Oxford United FC,3-0,Exeter City FC,2015,Dec,26,26/Dec/2015,Sat,3,3,0,Oxford United FC
+24,Mon Dec 28 2015,Yeovil Town FC,0-0,Oxford United FC,2015,Dec,28,28/Dec/2015,Mon,0,0,0,Draw
+24,Mon Dec 28 2015,Wycombe Wanderers FC,2-0,Crawley Town FC,2015,Dec,28,28/Dec/2015,Mon,2,2,0,Wycombe Wanderers FC
+24,Mon Dec 28 2015,Stevenage FC,01-Mar,Dagenham & Redbridge FC,2015,Dec,28,28/Dec/2015,Mon,4,1,3,Dagenham & Redbridge FC
+24,Mon Dec 28 2015,Bristol Rovers FC,02-Jan,Leyton Orient FC,2015,Dec,28,28/Dec/2015,Mon,3,2,1,Bristol Rovers FC
+24,Mon Dec 28 2015,Cambridge United FC,02-Jan,Barnet FC,2015,Dec,28,28/Dec/2015,Mon,3,2,1,Cambridge United FC
+24,Mon Dec 28 2015,Exeter City FC,0-2,AFC Wimbledon,2015,Dec,28,28/Dec/2015,Mon,2,0,2,AFC Wimbledon
+24,Mon Dec 28 2015,Mansfield Town FC,01-Jan,York City FC,2015,Dec,28,28/Dec/2015,Mon,2,1,1,Draw
+24,Mon Dec 28 2015,Portsmouth FC,0-0,Luton Town FC,2015,Dec,28,28/Dec/2015,Mon,0,0,0,Draw
+24,Mon Dec 28 2015,Northampton Town FC,1-0,Accrington Stanley FC,2015,Dec,28,28/Dec/2015,Mon,1,1,0,Northampton Town FC
+24,Mon Dec 28 2015,Notts County FC,02-Feb,Morecambe FC,2015,Dec,28,28/Dec/2015,Mon,4,2,2,Draw
+24,Mon Dec 28 2015,Newport County AFC,01-Feb,Plymouth Argyle FC,2015,Dec,28,28/Dec/2015,Mon,3,1,2,Plymouth Argyle FC
+25,Sat Jan 2 2016,Yeovil Town FC,1-0,York City FC,2016,Jan,2,2/Jan/2016,Sat,1,1,0,Yeovil Town FC
+25,Sat Jan 2 2016,Wycombe Wanderers FC,0-2,Morecambe FC,2016,Jan,2,2/Jan/2016,Sat,2,0,2,Morecambe FC
+25,Sat Jan 2 2016,Stevenage FC,02-Feb,Leyton Orient FC,2016,Jan,2,2/Jan/2016,Sat,4,2,2,Draw
+25,Sat Jan 2 2016,Portsmouth FC,3-0,Crawley Town FC,2016,Jan,2,2/Jan/2016,Sat,3,3,0,Portsmouth FC
+25,Sat Jan 2 2016,Notts County FC,02-Apr,Oxford United FC,2016,Jan,2,2/Jan/2016,Sat,6,2,4,Oxford United FC
+25,Sat Jan 2 2016,Northampton Town FC,3-0,Barnet FC,2016,Jan,2,2/Jan/2016,Sat,3,3,0,Northampton Town FC
+25,Sat Jan 2 2016,Bristol Rovers FC,2-0,Luton Town FC,2016,Jan,2,2/Jan/2016,Sat,2,2,0,Bristol Rovers FC
+25,Sat Jan 2 2016,Exeter City FC,01-Feb,Dagenham & Redbridge FC,2016,Jan,2,2/Jan/2016,Sat,3,1,2,Dagenham & Redbridge FC
+25,Sat Jan 2 2016,Carlisle United FC,0-2,Plymouth Argyle FC,2016,Jan,2,2/Jan/2016,Sat,2,0,2,Plymouth Argyle FC
+25,Sat Jan 2 2016,Cambridge United FC,01-Apr,AFC Wimbledon,2016,Jan,2,2/Jan/2016,Sat,5,1,4,AFC Wimbledon
+25,Sat Jan 2 2016,Mansfield Town FC,02-Mar,Accrington Stanley FC,2016,Jan,2,2/Jan/2016,Sat,5,2,3,Accrington Stanley FC
+26,Sat Jan 9 2016,Barnet FC,1-0,Bristol Rovers FC,2016,Jan,9,9/Jan/2016,Sat,1,1,0,Barnet FC
+26,Sat Jan 9 2016,Crawley Town FC,1-0,Cambridge United FC,2016,Jan,9,9/Jan/2016,Sat,1,1,0,Crawley Town FC
+34,Sat Jan 9 2016,Mansfield Town FC,02-Jan,Stevenage FC,2016,Jan,9,9/Jan/2016,Sat,3,2,1,Mansfield Town FC
+21,Tue Jan 12 2016,Morecambe FC,01-Jan,Exeter City FC,2016,Jan,12,12/Jan/2016,Tue,2,1,1,Draw
+26,Tue Jan 12 2016,Plymouth Argyle FC,01-Feb,Northampton Town FC,2016,Jan,12,12/Jan/2016,Tue,3,1,2,Northampton Town FC
+27,Sat Jan 16 2016,AFC Wimbledon,03-Jan,Mansfield Town FC,2016,Jan,16,16/Jan/2016,Sat,4,3,1,AFC Wimbledon
+27,Sat Jan 16 2016,Plymouth Argyle FC,03-Feb,Stevenage FC,2016,Jan,16,16/Jan/2016,Sat,5,3,2,Plymouth Argyle FC
+27,Sat Jan 16 2016,Morecambe FC,02-Jan,Yeovil Town FC,2016,Jan,16,16/Jan/2016,Sat,3,2,1,Morecambe FC
+27,Sat Jan 16 2016,York City FC,0-1,Newport County AFC,2016,Jan,16,16/Jan/2016,Sat,1,0,1,Newport County AFC
+27,Sat Jan 16 2016,Leyton Orient FC,01-Mar,Exeter City FC,2016,Jan,16,16/Jan/2016,Sat,4,1,3,Exeter City FC
+27,Sat Jan 16 2016,Hartlepool United FC,1-0,Wycombe Wanderers FC,2016,Jan,16,16/Jan/2016,Sat,1,1,0,Hartlepool United FC
+27,Sat Jan 16 2016,Dagenham & Redbridge FC,01-Feb,Northampton Town FC,2016,Jan,16,16/Jan/2016,Sat,3,1,2,Northampton Town FC
+27,Sat Jan 16 2016,Crawley Town FC,0-1,Notts County FC,2016,Jan,16,16/Jan/2016,Sat,1,0,1,Notts County FC
+27,Sat Jan 16 2016,Barnet FC,0-0,Carlisle United FC,2016,Jan,16,16/Jan/2016,Sat,0,0,0,Draw
+27,Sat Jan 16 2016,Luton Town FC,0-0,Cambridge United FC,2016,Jan,16,16/Jan/2016,Sat,0,0,0,Draw
+27,Sun Jan 17 2016,Oxford United FC,01-Feb,Bristol Rovers FC,2016,Jan,17,17/Jan/2016,Sun,3,1,2,Bristol Rovers FC
+19,Tue Jan 19 2016,Accrington Stanley FC,03-Jan,Hartlepool United FC,2016,Jan,19,19/Jan/2016,Tue,4,3,1,Accrington Stanley FC
+28,Sat Jan 23 2016,Notts County FC,0-2,AFC Wimbledon,2016,Jan,23,23/Jan/2016,Sat,2,0,2,AFC Wimbledon
+28,Sat Jan 23 2016,Wycombe Wanderers FC,0-2,Leyton Orient FC,2016,Jan,23,23/Jan/2016,Sat,2,0,2,Leyton Orient FC
+28,Sat Jan 23 2016,Stevenage FC,0-0,Barnet FC,2016,Jan,23,23/Jan/2016,Sat,0,0,0,Draw
+28,Sat Jan 23 2016,Portsmouth FC,0-1,Oxford United FC,2016,Jan,23,23/Jan/2016,Sat,1,0,1,Oxford United FC
+28,Sat Jan 23 2016,Yeovil Town FC,02-Jan,Crawley Town FC,2016,Jan,23,23/Jan/2016,Sat,3,2,1,Yeovil Town FC
+28,Sat Jan 23 2016,Northampton Town FC,03-Jan,Morecambe FC,2016,Jan,23,23/Jan/2016,Sat,4,3,1,Northampton Town FC
+28,Sat Jan 23 2016,Newport County AFC,02-Feb,Dagenham & Redbridge FC,2016,Jan,23,23/Jan/2016,Sat,4,2,2,Draw
+28,Sat Jan 23 2016,Mansfield Town FC,0-2,Luton Town FC,2016,Jan,23,23/Jan/2016,Sat,2,0,2,Luton Town FC
+28,Sat Jan 23 2016,Exeter City FC,02-Jan,Accrington Stanley FC,2016,Jan,23,23/Jan/2016,Sat,3,2,1,Exeter City FC
+28,Sat Jan 23 2016,Bristol Rovers FC,01-Jan,Plymouth Argyle FC,2016,Jan,23,23/Jan/2016,Sat,2,1,1,Draw
+28,Sat Jan 23 2016,Cambridge United FC,01-Jan,Hartlepool United FC,2016,Jan,23,23/Jan/2016,Sat,2,1,1,Draw
+28,Sat Jan 23 2016,Carlisle United FC,01-Jan,York City FC,2016,Jan,23,23/Jan/2016,Sat,2,1,1,Draw
+23,Tue Jan 26 2016,Morecambe FC,01-Feb,Mansfield Town FC,2016,Jan,26,26/Jan/2016,Tue,3,1,2,Mansfield Town FC
+26,Tue Jan 26 2016,Leyton Orient FC,1-0,Newport County AFC,2016,Jan,26,26/Jan/2016,Tue,1,1,0,Leyton Orient FC
+29,Sat Jan 30 2016,Luton Town FC,0-2,Notts County FC,2016,Jan,30,30/Jan/2016,Sat,2,0,2,Notts County FC
+29,Sat Jan 30 2016,Plymouth Argyle FC,0-1,Wycombe Wanderers FC,2016,Jan,30,30/Jan/2016,Sat,1,0,1,Wycombe Wanderers FC
+29,Sat Jan 30 2016,Morecambe FC,01-Feb,Newport County AFC,2016,Jan,30,30/Jan/2016,Sat,3,1,2,Newport County AFC
+29,Sat Jan 30 2016,York City FC,02-Jan,Stevenage FC,2016,Jan,30,30/Jan/2016,Sat,3,2,1,York City FC
+29,Sat Jan 30 2016,Leyton Orient FC,01-Mar,Cambridge United FC,2016,Jan,30,30/Jan/2016,Sat,4,1,3,Cambridge United FC
+29,Sat Jan 30 2016,Hartlepool United FC,0-2,Exeter City FC,2016,Jan,30,30/Jan/2016,Sat,2,0,2,Exeter City FC
+29,Sat Jan 30 2016,Crawley Town FC,0-1,Mansfield Town FC,2016,Jan,30,30/Jan/2016,Sat,1,0,1,Mansfield Town FC
+29,Sat Jan 30 2016,Accrington Stanley FC,1-0,Bristol Rovers FC,2016,Jan,30,30/Jan/2016,Sat,1,1,0,Accrington Stanley FC
+29,Sat Jan 30 2016,AFC Wimbledon,02-Mar,Yeovil Town FC,2016,Jan,30,30/Jan/2016,Sat,5,2,3,Yeovil Town FC
+26,Tue Feb 2 2016,Morecambe FC,01-Jan,Portsmouth FC,2016,Feb,2,2/Feb/2016,Tue,2,1,1,Draw
+26,Tue Feb 2 2016,Luton Town FC,01-Jan,Yeovil Town FC,2016,Feb,2,2/Feb/2016,Tue,2,1,1,Draw
+30,Sat Feb 6 2016,Portsmouth FC,0-1,Leyton Orient FC,2016,Feb,6,6/Feb/2016,Sat,1,0,1,Leyton Orient FC
+30,Sat Feb 6 2016,Stevenage FC,0-1,Crawley Town FC,2016,Feb,6,6/Feb/2016,Sat,1,0,1,Crawley Town FC
+30,Sat Feb 6 2016,Wycombe Wanderers FC,0-1,Luton Town FC,2016,Feb,6,6/Feb/2016,Sat,1,0,1,Luton Town FC
+30,Sat Feb 6 2016,Northampton Town FC,2-0,York City FC,2016,Feb,6,6/Feb/2016,Sat,2,2,0,Northampton Town FC
+30,Sat Feb 6 2016,Cambridge United FC,1-0,Dagenham & Redbridge FC,2016,Feb,6,6/Feb/2016,Sat,1,1,0,Cambridge United FC
+30,Sat Feb 6 2016,Carlisle United FC,2-0,Accrington Stanley FC,2016,Feb,6,6/Feb/2016,Sat,2,2,0,Carlisle United FC
+30,Sat Feb 6 2016,Mansfield Town FC,02-Jan,Morecambe FC,2016,Feb,6,6/Feb/2016,Sat,3,2,1,Mansfield Town FC
+26,Tue Feb 9 2016,Oxford United FC,02-Feb,Mansfield Town FC,2016,Feb,9,9/Feb/2016,Tue,4,2,2,Draw
+26,Tue Feb 9 2016,Hartlepool United FC,01-Feb,Stevenage FC,2016,Feb,9,9/Feb/2016,Tue,3,1,2,Stevenage FC
+26,Tue Feb 9 2016,Dagenham & Redbridge FC,01-Feb,Wycombe Wanderers FC,2016,Feb,9,9/Feb/2016,Tue,3,1,2,Wycombe Wanderers FC
+31,Sat Feb 13 2016,Portsmouth FC,03-Jan,Bristol Rovers FC,2016,Feb,13,13/Feb/2016,Sat,4,3,1,Portsmouth FC
+31,Sat Feb 13 2016,York City FC,02-Jan,Notts County FC,2016,Feb,13,13/Feb/2016,Sat,3,2,1,York City FC
+31,Sat Feb 13 2016,Wycombe Wanderers FC,1-0,Exeter City FC,2016,Feb,13,13/Feb/2016,Sat,1,1,0,Wycombe Wanderers FC
+31,Sat Feb 13 2016,Stevenage FC,2-0,Cambridge United FC,2016,Feb,13,13/Feb/2016,Sat,2,2,0,Stevenage FC
+31,Sat Feb 13 2016,Newport County AFC,1-0,Carlisle United FC,2016,Feb,13,13/Feb/2016,Sat,1,1,0,Newport County AFC
+31,Sat Feb 13 2016,Plymouth Argyle FC,3-0,Mansfield Town FC,2016,Feb,13,13/Feb/2016,Sat,3,3,0,Plymouth Argyle FC
+31,Sat Feb 13 2016,Morecambe FC,02-Apr,Oxford United FC,2016,Feb,13,13/Feb/2016,Sat,6,2,4,Oxford United FC
+31,Sat Feb 13 2016,Leyton Orient FC,0-4,Northampton Town FC,2016,Feb,13,13/Feb/2016,Sat,4,0,4,Northampton Town FC
+31,Sat Feb 13 2016,Hartlepool United FC,02-Jan,Yeovil Town FC,2016,Feb,13,13/Feb/2016,Sat,3,2,1,Hartlepool United FC
+31,Sat Feb 13 2016,Dagenham & Redbridge FC,0-2,Barnet FC,2016,Feb,13,13/Feb/2016,Sat,2,0,2,Barnet FC
+31,Sat Feb 13 2016,Accrington Stanley FC,04-Jan,Crawley Town FC,2016,Feb,13,13/Feb/2016,Sat,5,4,1,Accrington Stanley FC
+31,Sat Feb 13 2016,AFC Wimbledon,04-Jan,Luton Town FC,2016,Feb,13,13/Feb/2016,Sat,5,4,1,AFC Wimbledon
+23,Tue Feb 16 2016,Accrington Stanley FC,01-Jan,Carlisle United FC,2016,Feb,16,16/Feb/2016,Tue,2,1,1,Draw
+23,Tue Feb 16 2016,Hartlepool United FC,02-Mar,Notts County FC,2016,Feb,16,16/Feb/2016,Tue,5,2,3,Notts County FC
+26,Tue Feb 16 2016,York City FC,2-0,Exeter City FC,2016,Feb,16,16/Feb/2016,Tue,2,2,0,York City FC
+29,Tue Feb 16 2016,Oxford United FC,0-1,Northampton Town FC,2016,Feb,16,16/Feb/2016,Tue,1,0,1,Northampton Town FC
+32,Sat Feb 20 2016,Northampton Town FC,1-0,Wycombe Wanderers FC,2016,Feb,20,20/Feb/2016,Sat,1,1,0,Northampton Town FC
+32,Sat Feb 20 2016,Yeovil Town FC,01-Jan,Portsmouth FC,2016,Feb,20,20/Feb/2016,Sat,2,1,1,Draw
+32,Sat Feb 20 2016,Oxford United FC,01-Feb,Accrington Stanley FC,2016,Feb,20,20/Feb/2016,Sat,3,1,2,Accrington Stanley FC
+32,Sat Feb 20 2016,Notts County FC,0-1,Leyton Orient FC,2016,Feb,20,20/Feb/2016,Sat,1,0,1,Leyton Orient FC
+32,Sat Feb 20 2016,Exeter City FC,01-Jan,Newport County AFC,2016,Feb,20,20/Feb/2016,Sat,2,1,1,Draw
+32,Sat Feb 20 2016,Mansfield Town FC,03-Feb,Dagenham & Redbridge FC,2016,Feb,20,20/Feb/2016,Sat,5,3,2,Mansfield Town FC
+32,Sat Feb 20 2016,Luton Town FC,02-Jan,Hartlepool United FC,2016,Feb,20,20/Feb/2016,Sat,3,2,1,Luton Town FC
+32,Sat Feb 20 2016,Crawley Town FC,01-Jan,Plymouth Argyle FC,2016,Feb,20,20/Feb/2016,Sat,2,1,1,Draw
+32,Sat Feb 20 2016,Carlisle United FC,1-0,Stevenage FC,2016,Feb,20,20/Feb/2016,Sat,1,1,0,Carlisle United FC
+32,Sat Feb 20 2016,Cambridge United FC,03-Jan,York City FC,2016,Feb,20,20/Feb/2016,Sat,4,3,1,Cambridge United FC
+32,Sat Feb 20 2016,Bristol Rovers FC,02-Jan,Morecambe FC,2016,Feb,20,20/Feb/2016,Sat,3,2,1,Bristol Rovers FC
+32,Sat Feb 20 2016,Barnet FC,01-Feb,AFC Wimbledon,2016,Feb,20,20/Feb/2016,Sat,3,1,2,AFC Wimbledon
+23,Tue Feb 23 2016,York City FC,01-Feb,Northampton Town FC,2016,Feb,23,23/Feb/2016,Tue,3,1,2,Northampton Town FC
+26,Tue Feb 23 2016,Accrington Stanley FC,03-Feb,Notts County FC,2016,Feb,23,23/Feb/2016,Tue,5,3,2,Accrington Stanley FC
+26,Tue Feb 23 2016,AFC Wimbledon,1-0,Carlisle United FC,2016,Feb,23,23/Feb/2016,Tue,1,1,0,AFC Wimbledon
+29,Tue Feb 23 2016,Barnet FC,1-0,Portsmouth FC,2016,Feb,23,23/Feb/2016,Tue,1,1,0,Barnet FC
+30,Tue Feb 23 2016,Exeter City FC,01-Apr,Oxford United FC,2016,Feb,23,23/Feb/2016,Tue,5,1,4,Oxford United FC
+30,Tue Feb 23 2016,Yeovil Town FC,0-0,Plymouth Argyle FC,2016,Feb,23,23/Feb/2016,Tue,0,0,0,Draw
+33,Sat Feb 27 2016,Portsmouth FC,02-Jan,Cambridge United FC,2016,Feb,27,27/Feb/2016,Sat,3,2,1,Portsmouth FC
+33,Sat Feb 27 2016,Wycombe Wanderers FC,1-0,Bristol Rovers FC,2016,Feb,27,27/Feb/2016,Sat,1,1,0,Wycombe Wanderers FC
+33,Sat Feb 27 2016,Stevenage FC,0-2,Exeter City FC,2016,Feb,27,27/Feb/2016,Sat,2,0,2,Exeter City FC
+33,Sat Feb 27 2016,Accrington Stanley FC,02-Feb,Barnet FC,2016,Feb,27,27/Feb/2016,Sat,4,2,2,Draw
+33,Sat Feb 27 2016,Plymouth Argyle FC,1-0,Notts County FC,2016,Feb,27,27/Feb/2016,Sat,1,1,0,Plymouth Argyle FC
+33,Sat Feb 27 2016,Newport County AFC,1-0,Mansfield Town FC,2016,Feb,27,27/Feb/2016,Sat,1,1,0,Newport County AFC
+33,Sat Feb 27 2016,Morecambe FC,01-Feb,Carlisle United FC,2016,Feb,27,27/Feb/2016,Sat,3,1,2,Carlisle United FC
+33,Sat Feb 27 2016,Leyton Orient FC,2-0,Crawley Town FC,2016,Feb,27,27/Feb/2016,Sat,2,2,0,Leyton Orient FC
+33,Sat Feb 27 2016,Hartlepool United FC,0-0,Northampton Town FC,2016,Feb,27,27/Feb/2016,Sat,0,0,0,Draw
+33,Sat Feb 27 2016,Dagenham & Redbridge FC,0-1,Yeovil Town FC,2016,Feb,27,27/Feb/2016,Sat,1,0,1,Yeovil Town FC
+33,Sat Feb 27 2016,AFC Wimbledon,01-Feb,Oxford United FC,2016,Feb,27,27/Feb/2016,Sat,3,1,2,Oxford United FC
+33,Sat Feb 27 2016,York City FC,02-Mar,Luton Town FC,2016,Feb,27,27/Feb/2016,Sat,5,2,3,Luton Town FC
+34,Tue Mar 1 2016,Yeovil Town FC,1-0,Accrington Stanley FC,2016,Mar,1,1/Mar/2016,Tue,1,1,0,Yeovil Town FC
+34,Tue Mar 1 2016,Oxford United FC,4-0,York City FC,2016,Mar,1,1/Mar/2016,Tue,4,4,0,Oxford United FC
+34,Tue Mar 1 2016,Barnet FC,1-0,Plymouth Argyle FC,2016,Mar,1,1/Mar/2016,Tue,1,1,0,Barnet FC
+34,Tue Mar 1 2016,Northampton Town FC,01-Jan,AFC Wimbledon,2016,Mar,1,1/Mar/2016,Tue,2,1,1,Draw
+34,Tue Mar 1 2016,Luton Town FC,1-0,Morecambe FC,2016,Mar,1,1/Mar/2016,Tue,1,1,0,Luton Town FC
+34,Tue Mar 1 2016,Exeter City FC,01-Jan,Portsmouth FC,2016,Mar,1,1/Mar/2016,Tue,2,1,1,Draw
+34,Tue Mar 1 2016,Crawley Town FC,2-0,Newport County AFC,2016,Mar,1,1/Mar/2016,Tue,2,2,0,Crawley Town FC
+34,Tue Mar 1 2016,Carlisle United FC,02-Feb,Leyton Orient FC,2016,Mar,1,1/Mar/2016,Tue,4,2,2,Draw
+34,Tue Mar 1 2016,Cambridge United FC,1-0,Wycombe Wanderers FC,2016,Mar,1,1/Mar/2016,Tue,1,1,0,Cambridge United FC
+34,Tue Mar 1 2016,Bristol Rovers FC,04-Jan,Hartlepool United FC,2016,Mar,1,1/Mar/2016,Tue,5,4,1,Bristol Rovers FC
+34,Tue Mar 1 2016,Notts County FC,0-0,Dagenham & Redbridge FC,2016,Mar,1,1/Mar/2016,Tue,0,0,0,Draw
+35,Sat Mar 5 2016,Stevenage FC,0-2,Portsmouth FC,2016,Mar,5,5/Mar/2016,Sat,2,0,2,Portsmouth FC
+35,Sat Mar 5 2016,Plymouth Argyle FC,02-Feb,Oxford United FC,2016,Mar,5,5/Mar/2016,Sat,4,2,2,Draw
+35,Sat Mar 5 2016,Notts County FC,0-2,Bristol Rovers FC,2016,Mar,5,5/Mar/2016,Sat,2,0,2,Bristol Rovers FC
+35,Sat Mar 5 2016,Newport County AFC,1-0,Wycombe Wanderers FC,2016,Mar,5,5/Mar/2016,Sat,1,1,0,Newport County AFC
+35,Sat Mar 5 2016,Mansfield Town FC,0-1,Yeovil Town FC,2016,Mar,5,5/Mar/2016,Sat,1,0,1,Yeovil Town FC
+35,Sat Mar 5 2016,Leyton Orient FC,0-1,Luton Town FC,2016,Mar,5,5/Mar/2016,Sat,1,0,1,Luton Town FC
+35,Sat Mar 5 2016,AFC Wimbledon,0-0,Accrington Stanley FC,2016,Mar,5,5/Mar/2016,Sat,0,0,0,Draw
+35,Sat Mar 5 2016,Crawley Town FC,01-Jan,Morecambe FC,2016,Mar,5,5/Mar/2016,Sat,2,1,1,Draw
+35,Sat Mar 5 2016,Carlisle United FC,01-Apr,Northampton Town FC,2016,Mar,5,5/Mar/2016,Sat,5,1,4,Northampton Town FC
+35,Sat Mar 5 2016,Cambridge United FC,0-1,Exeter City FC,2016,Mar,5,5/Mar/2016,Sat,1,0,1,Exeter City FC
+35,Sat Mar 5 2016,Barnet FC,01-Mar,Hartlepool United FC,2016,Mar,5,5/Mar/2016,Sat,4,1,3,Hartlepool United FC
+35,Sat Mar 5 2016,Dagenham & Redbridge FC,1-0,York City FC,2016,Mar,5,5/Mar/2016,Sat,1,1,0,Dagenham & Redbridge FC
+27,Tue Mar 8 2016,Accrington Stanley FC,01-Mar,Portsmouth FC,2016,Mar,8,8/Mar/2016,Tue,4,1,3,Portsmouth FC
+29,Tue Mar 8 2016,Dagenham & Redbridge FC,0-0,Carlisle United FC,2016,Mar,8,8/Mar/2016,Tue,0,0,0,Draw
+30,Tue Mar 8 2016,Bristol Rovers FC,03-Jan,AFC Wimbledon,2016,Mar,8,8/Mar/2016,Tue,4,3,1,Bristol Rovers FC
+30,Tue Mar 8 2016,Newport County AFC,0-3,Barnet FC,2016,Mar,8,8/Mar/2016,Tue,3,0,3,Barnet FC
+36,Sat Mar 12 2016,Oxford United FC,0-1,Leyton Orient FC,2016,Mar,12,12/Mar/2016,Sat,1,0,1,Leyton Orient FC
+36,Sat Mar 12 2016,Yeovil Town FC,1-0,Notts County FC,2016,Mar,12,12/Mar/2016,Sat,1,1,0,Yeovil Town FC
+36,Sat Mar 12 2016,Wycombe Wanderers FC,1-0,Stevenage FC,2016,Mar,12,12/Mar/2016,Sat,1,1,0,Wycombe Wanderers FC
+36,Sat Mar 12 2016,Portsmouth FC,0-3,Newport County AFC,2016,Mar,12,12/Mar/2016,Sat,3,0,3,Newport County AFC
+36,Sat Mar 12 2016,Accrington Stanley FC,02-Jan,Plymouth Argyle FC,2016,Mar,12,12/Mar/2016,Sat,3,2,1,Accrington Stanley FC
+36,Sat Mar 12 2016,Northampton Town FC,01-Jan,Cambridge United FC,2016,Mar,12,12/Mar/2016,Sat,2,1,1,Draw
+36,Sat Mar 12 2016,Morecambe FC,02-Jan,AFC Wimbledon,2016,Mar,12,12/Mar/2016,Sat,3,2,1,Morecambe FC
+36,Sat Mar 12 2016,Luton Town FC,0-1,Crawley Town FC,2016,Mar,12,12/Mar/2016,Sat,1,0,1,Crawley Town FC
+36,Sat Mar 12 2016,Hartlepool United FC,03-Jan,Dagenham & Redbridge FC,2016,Mar,12,12/Mar/2016,Sat,4,3,1,Hartlepool United FC
+36,Sat Mar 12 2016,Exeter City FC,02-Feb,Carlisle United FC,2016,Mar,12,12/Mar/2016,Sat,4,2,2,Draw
+36,Sat Mar 12 2016,Bristol Rovers FC,1-0,Mansfield Town FC,2016,Mar,12,12/Mar/2016,Sat,1,1,0,Bristol Rovers FC
+36,Sat Mar 12 2016,York City FC,01-Jan,Barnet FC,2016,Mar,12,12/Mar/2016,Sat,2,1,1,Draw
+25,Tue Mar 15 2016,Newport County AFC,0-0,Hartlepool United FC,2016,Mar,15,15/Mar/2016,Tue,0,0,0,Draw
+40,Tue Mar 15 2016,Oxford United FC,4-0,Dagenham & Redbridge FC,2016,Mar,15,15/Mar/2016,Tue,4,4,0,Oxford United FC
+21,Wed Mar 16 2016,Accrington Stanley FC,01-Jan,Wycombe Wanderers FC,2016,Mar,16,16/Mar/2016,Wed,2,1,1,Draw
+37,Sat Mar 19 2016,Mansfield Town FC,01-Jan,Portsmouth FC,2016,Mar,19,19/Mar/2016,Sat,2,1,1,Draw
+37,Sat Mar 19 2016,Stevenage FC,02-Mar,Northampton Town FC,2016,Mar,19,19/Mar/2016,Sat,5,2,3,Northampton Town FC
+37,Sat Mar 19 2016,Plymouth Argyle FC,0-1,Luton Town FC,2016,Mar,19,19/Mar/2016,Sat,1,0,1,Luton Town FC
+37,Sat Mar 19 2016,Notts County FC,01-Apr,Exeter City FC,2016,Mar,19,19/Mar/2016,Sat,5,1,4,Exeter City FC
+37,Sat Mar 19 2016,Newport County AFC,01-Apr,Bristol Rovers FC,2016,Mar,19,19/Mar/2016,Sat,5,1,4,Bristol Rovers FC
+37,Sat Mar 19 2016,Leyton Orient FC,1-0,Morecambe FC,2016,Mar,19,19/Mar/2016,Sat,1,1,0,Leyton Orient FC
+37,Sat Mar 19 2016,Dagenham & Redbridge FC,0-1,Accrington Stanley FC,2016,Mar,19,19/Mar/2016,Sat,1,0,1,Accrington Stanley FC
+37,Sat Mar 19 2016,Crawley Town FC,0-0,Hartlepool United FC,2016,Mar,19,19/Mar/2016,Sat,0,0,0,Draw
+37,Sat Mar 19 2016,Carlisle United FC,01-Jan,Wycombe Wanderers FC,2016,Mar,19,19/Mar/2016,Sat,2,1,1,Draw
+37,Sat Mar 19 2016,AFC Wimbledon,02-Jan,York City FC,2016,Mar,19,19/Mar/2016,Sat,3,2,1,AFC Wimbledon
+37,Sat Mar 19 2016,Barnet FC,0-3,Oxford United FC,2016,Mar,19,19/Mar/2016,Sat,3,0,3,Oxford United FC
+37,Sat Mar 19 2016,Cambridge United FC,3-0,Yeovil Town FC,2016,Mar,19,19/Mar/2016,Sat,3,3,0,Cambridge United FC
+38,Fri Mar 25 2016,York City FC,02-Feb,Crawley Town FC,2016,Mar,25,25/Mar/2016,Fri,4,2,2,Draw
+38,Fri Mar 25 2016,Yeovil Town FC,0-0,Carlisle United FC,2016,Mar,25,25/Mar/2016,Fri,0,0,0,Draw
+38,Fri Mar 25 2016,Morecambe FC,0-2,Plymouth Argyle FC,2016,Mar,25,25/Mar/2016,Fri,2,0,2,Plymouth Argyle FC
+38,Fri Mar 25 2016,Portsmouth FC,4-0,Notts County FC,2016,Mar,25,25/Mar/2016,Fri,4,4,0,Portsmouth FC
+38,Fri Mar 25 2016,Oxford United FC,01-Jan,Stevenage FC,2016,Mar,25,25/Mar/2016,Fri,2,1,1,Draw
+38,Fri Mar 25 2016,Northampton Town FC,1-0,Newport County AFC,2016,Mar,25,25/Mar/2016,Fri,1,1,0,Northampton Town FC
+38,Fri Mar 25 2016,Hartlepool United FC,1-0,AFC Wimbledon,2016,Mar,25,25/Mar/2016,Fri,1,1,0,Hartlepool United FC
+38,Fri Mar 25 2016,Exeter City FC,01-Jan,Barnet FC,2016,Mar,25,25/Mar/2016,Fri,2,1,1,Draw
+38,Fri Mar 25 2016,Bristol Rovers FC,3-0,Cambridge United FC,2016,Mar,25,25/Mar/2016,Fri,3,3,0,Bristol Rovers FC
+38,Fri Mar 25 2016,Accrington Stanley FC,1-0,Leyton Orient FC,2016,Mar,25,25/Mar/2016,Fri,1,1,0,Accrington Stanley FC
+38,Fri Mar 25 2016,Wycombe Wanderers FC,1-0,Mansfield Town FC,2016,Mar,25,25/Mar/2016,Fri,1,1,0,Wycombe Wanderers FC
+39,Mon Mar 28 2016,Plymouth Argyle FC,03-Feb,York City FC,2016,Mar,28,28/Mar/2016,Mon,5,3,2,Plymouth Argyle FC
+39,Mon Mar 28 2016,Notts County FC,0-0,Wycombe Wanderers FC,2016,Mar,28,28/Mar/2016,Mon,0,0,0,Draw
+39,Mon Mar 28 2016,Newport County AFC,0-2,Accrington Stanley FC,2016,Mar,28,28/Mar/2016,Mon,2,0,2,Accrington Stanley FC
+39,Mon Mar 28 2016,Mansfield Town FC,02-Feb,Northampton Town FC,2016,Mar,28,28/Mar/2016,Mon,4,2,2,Draw
+39,Mon Mar 28 2016,Leyton Orient FC,0-2,Hartlepool United FC,2016,Mar,28,28/Mar/2016,Mon,2,0,2,Hartlepool United FC
+39,Mon Mar 28 2016,Barnet FC,02-Jan,Luton Town FC,2016,Mar,28,28/Mar/2016,Mon,3,2,1,Barnet FC
+39,Mon Mar 28 2016,Carlisle United FC,03-Feb,Bristol Rovers FC,2016,Mar,28,28/Mar/2016,Mon,5,3,2,Carlisle United FC
+39,Mon Mar 28 2016,Cambridge United FC,0-0,Oxford United FC,2016,Mar,28,28/Mar/2016,Mon,0,0,0,Draw
+39,Mon Mar 28 2016,Crawley Town FC,0-2,Exeter City FC,2016,Mar,28,28/Mar/2016,Mon,2,0,2,Exeter City FC
+40,Sat Apr 2 2016,York City FC,01-Jan,Leyton Orient FC,2016,Apr,2,2/Apr/2016,Sat,2,1,1,Draw
+40,Sat Apr 2 2016,Yeovil Town FC,1-0,Newport County AFC,2016,Apr,2,2/Apr/2016,Sat,1,1,0,Yeovil Town FC
+40,Sat Apr 2 2016,Wycombe Wanderers FC,01-Feb,AFC Wimbledon,2016,Apr,2,2/Apr/2016,Sat,3,1,2,AFC Wimbledon
+40,Sat Apr 2 2016,Portsmouth FC,1-0,Carlisle United FC,2016,Apr,2,2/Apr/2016,Sat,1,1,0,Portsmouth FC
+40,Sat Apr 2 2016,Northampton Town FC,02-Feb,Notts County FC,2016,Apr,2,2/Apr/2016,Sat,4,2,2,Draw
+40,Sat Apr 2 2016,Morecambe FC,04-Feb,Barnet FC,2016,Apr,2,2/Apr/2016,Sat,6,4,2,Morecambe FC
+40,Sat Apr 2 2016,Luton Town FC,0-1,Stevenage FC,2016,Apr,2,2/Apr/2016,Sat,1,0,1,Stevenage FC
+40,Sat Apr 2 2016,Hartlepool United FC,02-Jan,Mansfield Town FC,2016,Apr,2,2/Apr/2016,Sat,3,2,1,Hartlepool United FC
+40,Sat Apr 2 2016,Exeter City FC,02-Jan,Plymouth Argyle FC,2016,Apr,2,2/Apr/2016,Sat,3,2,1,Exeter City FC
+40,Sat Apr 2 2016,Bristol Rovers FC,3-0,Crawley Town FC,2016,Apr,2,2/Apr/2016,Sat,3,3,0,Bristol Rovers FC
+40,Sat Apr 2 2016,Accrington Stanley FC,01-Jan,Cambridge United FC,2016,Apr,2,2/Apr/2016,Sat,2,1,1,Draw
+24,Tue Apr 5 2016,Carlisle United FC,1-0,Hartlepool United FC,2016,Apr,5,5/Apr/2016,Tue,1,1,0,Carlisle United FC
+39,Tue Apr 5 2016,Dagenham & Redbridge FC,02-Jan,Morecambe FC,2016,Apr,5,5/Apr/2016,Tue,3,2,1,Dagenham & Redbridge FC
+39,Tue Apr 5 2016,Stevenage FC,0-0,Yeovil Town FC,2016,Apr,5,5/Apr/2016,Tue,0,0,0,Draw
+41,Sat Apr 9 2016,Northampton Town FC,02-Feb,Bristol Rovers FC,2016,Apr,9,9/Apr/2016,Sat,4,2,2,Draw
+41,Sat Apr 9 2016,Yeovil Town FC,0-2,Exeter City FC,2016,Apr,9,9/Apr/2016,Sat,2,0,2,Exeter City FC
+41,Sat Apr 9 2016,Plymouth Argyle FC,01-Feb,AFC Wimbledon,2016,Apr,9,9/Apr/2016,Sat,3,1,2,AFC Wimbledon
+41,Sat Apr 9 2016,Notts County FC,1-0,Stevenage FC,2016,Apr,9,9/Apr/2016,Sat,1,1,0,Notts County FC
+41,Sat Apr 9 2016,York City FC,01-Jan,Wycombe Wanderers FC,2016,Apr,9,9/Apr/2016,Sat,2,1,1,Draw
+41,Sat Apr 9 2016,Barnet FC,3-0,Leyton Orient FC,2016,Apr,9,9/Apr/2016,Sat,3,3,0,Barnet FC
+41,Sat Apr 9 2016,Morecambe FC,02-May,Hartlepool United FC,2016,Apr,9,9/Apr/2016,Sat,7,2,5,Hartlepool United FC
+41,Sat Apr 9 2016,Luton Town FC,0-2,Accrington Stanley FC,2016,Apr,9,9/Apr/2016,Sat,2,0,2,Accrington Stanley FC
+41,Sat Apr 9 2016,Dagenham & Redbridge FC,01-Apr,Portsmouth FC,2016,Apr,9,9/Apr/2016,Sat,5,1,4,Portsmouth FC
+41,Sat Apr 9 2016,Crawley Town FC,01-May,Oxford United FC,2016,Apr,9,9/Apr/2016,Sat,6,1,5,Oxford United FC
+41,Sat Apr 9 2016,Carlisle United FC,01-Feb,Mansfield Town FC,2016,Apr,9,9/Apr/2016,Sat,3,1,2,Mansfield Town FC
+41,Sat Apr 9 2016,Newport County AFC,0-1,Cambridge United FC,2016,Apr,9,9/Apr/2016,Sat,1,0,1,Cambridge United FC
+30,Tue Apr 12 2016,Notts County FC,1-0,Hartlepool United FC,2016,Apr,12,12/Apr/2016,Tue,1,1,0,Notts County FC
+38,Tue Apr 12 2016,Luton Town FC,1-0,Dagenham & Redbridge FC,2016,Apr,12,12/Apr/2016,Tue,1,1,0,Luton Town FC
+42,Sat Apr 16 2016,Mansfield Town FC,5-0,Notts County FC,2016,Apr,16,16/Apr/2016,Sat,5,5,0,Mansfield Town FC
+42,Sat Apr 16 2016,Wycombe Wanderers FC,01-Jan,Barnet FC,2016,Apr,16,16/Apr/2016,Sat,2,1,1,Draw
+42,Sat Apr 16 2016,Stevenage FC,02-Jan,Newport County AFC,2016,Apr,16,16/Apr/2016,Sat,3,2,1,Stevenage FC
+42,Sat Apr 16 2016,Portsmouth FC,01-Feb,Plymouth Argyle FC,2016,Apr,16,16/Apr/2016,Sat,3,1,2,Plymouth Argyle FC
+42,Sat Apr 16 2016,Oxford United FC,02-Mar,Luton Town FC,2016,Apr,16,16/Apr/2016,Sat,5,2,3,Luton Town FC
+42,Sat Apr 16 2016,Leyton Orient FC,03-Feb,Dagenham & Redbridge FC,2016,Apr,16,16/Apr/2016,Sat,5,3,2,Leyton Orient FC
+42,Sat Apr 16 2016,Hartlepool United FC,02-Jan,York City FC,2016,Apr,16,16/Apr/2016,Sat,3,2,1,Hartlepool United FC
+42,Sat Apr 16 2016,Exeter City FC,0-0,Northampton Town FC,2016,Apr,16,16/Apr/2016,Sat,0,0,0,Draw
+42,Sat Apr 16 2016,Cambridge United FC,0-0,Carlisle United FC,2016,Apr,16,16/Apr/2016,Sat,0,0,0,Draw
+42,Sat Apr 16 2016,Bristol Rovers FC,02-Jan,Yeovil Town FC,2016,Apr,16,16/Apr/2016,Sat,3,2,1,Bristol Rovers FC
+42,Sat Apr 16 2016,AFC Wimbledon,1-0,Crawley Town FC,2016,Apr,16,16/Apr/2016,Sat,1,1,0,AFC Wimbledon
+42,Sat Apr 16 2016,Accrington Stanley FC,02-Feb,Morecambe FC,2016,Apr,16,16/Apr/2016,Sat,4,2,2,Draw
+43,Tue Apr 19 2016,York City FC,03-Jan,Portsmouth FC,2016,Apr,19,19/Apr/2016,Tue,4,3,1,York City FC
+43,Tue Apr 19 2016,Wycombe Wanderers FC,0-0,Yeovil Town FC,2016,Apr,19,19/Apr/2016,Tue,0,0,0,Draw
+43,Tue Apr 19 2016,Stevenage FC,0-0,Bristol Rovers FC,2016,Apr,19,19/Apr/2016,Tue,0,0,0,Draw
+43,Tue Apr 19 2016,Northampton Town FC,02-Jan,Crawley Town FC,2016,Apr,19,19/Apr/2016,Tue,3,2,1,Northampton Town FC
+43,Tue Apr 19 2016,Newport County AFC,01-Jan,Oxford United FC,2016,Apr,19,19/Apr/2016,Tue,2,1,1,Draw
+43,Tue Apr 19 2016,Barnet FC,03-Jan,Notts County FC,2016,Apr,19,19/Apr/2016,Tue,4,3,1,Barnet FC
+43,Tue Apr 19 2016,Hartlepool United FC,01-Feb,Accrington Stanley FC,2016,Apr,19,19/Apr/2016,Tue,3,1,2,Accrington Stanley FC
+43,Tue Apr 19 2016,Exeter City FC,02-Mar,Mansfield Town FC,2016,Apr,19,19/Apr/2016,Tue,5,2,3,Mansfield Town FC
+43,Tue Apr 19 2016,Dagenham & Redbridge FC,0-2,AFC Wimbledon,2016,Apr,19,19/Apr/2016,Tue,2,0,2,AFC Wimbledon
+43,Tue Apr 19 2016,Carlisle United FC,01-Feb,Luton Town FC,2016,Apr,19,19/Apr/2016,Tue,3,1,2,Luton Town FC
+43,Tue Apr 19 2016,Cambridge United FC,7-0,Morecambe FC,2016,Apr,19,19/Apr/2016,Tue,7,7,0,Cambridge United FC
+43,Tue Apr 19 2016,Leyton Orient FC,01-Mar,Plymouth Argyle FC,2016,Apr,19,19/Apr/2016,Tue,4,1,3,Plymouth Argyle FC
+44,Sat Apr 23 2016,Yeovil Town FC,01-Jan,Northampton Town FC,2016,Apr,23,23/Apr/2016,Sat,2,1,1,Draw
+44,Sat Apr 23 2016,Portsmouth FC,02-Jan,Wycombe Wanderers FC,2016,Apr,23,23/Apr/2016,Sat,3,2,1,Portsmouth FC
+44,Sat Apr 23 2016,Plymouth Argyle FC,02-Mar,Dagenham & Redbridge FC,2016,Apr,23,23/Apr/2016,Sat,5,2,3,Dagenham & Redbridge FC
+44,Sat Apr 23 2016,Oxford United FC,2-0,Hartlepool United FC,2016,Apr,23,23/Apr/2016,Sat,2,2,0,Oxford United FC
+44,Sat Apr 23 2016,Notts County FC,01-Feb,Cambridge United FC,2016,Apr,23,23/Apr/2016,Sat,3,1,2,Cambridge United FC
+44,Sat Apr 23 2016,Morecambe FC,01-Apr,Stevenage FC,2016,Apr,23,23/Apr/2016,Sat,5,1,4,Stevenage FC
+44,Sat Apr 23 2016,Accrington Stanley FC,3-0,York City FC,2016,Apr,23,23/Apr/2016,Sat,3,3,0,Accrington Stanley FC
+44,Sat Apr 23 2016,Luton Town FC,01-Jan,Newport County AFC,2016,Apr,23,23/Apr/2016,Sat,2,1,1,Draw
+44,Sat Apr 23 2016,Crawley Town FC,0-1,Carlisle United FC,2016,Apr,23,23/Apr/2016,Sat,1,0,1,Carlisle United FC
+44,Sat Apr 23 2016,Bristol Rovers FC,03-Jan,Exeter City FC,2016,Apr,23,23/Apr/2016,Sat,4,3,1,Bristol Rovers FC
+44,Sat Apr 23 2016,AFC Wimbledon,1-0,Leyton Orient FC,2016,Apr,23,23/Apr/2016,Sat,1,1,0,AFC Wimbledon
+44,Sat Apr 23 2016,Mansfield Town FC,01-Jan,Barnet FC,2016,Apr,23,23/Apr/2016,Sat,2,1,1,Draw
+39,Tue Apr 26 2016,AFC Wimbledon,0-1,Portsmouth FC,2016,Apr,26,26/Apr/2016,Tue,1,0,1,Portsmouth FC
+45,Sat Apr 30 2016,York City FC,01-Apr,Bristol Rovers FC,2016,Apr,30,30/Apr/2016,Sat,5,1,4,Bristol Rovers FC
+45,Sat Apr 30 2016,Wycombe Wanderers FC,0-1,Accrington Stanley FC,2016,Apr,30,30/Apr/2016,Sat,1,0,1,Accrington Stanley FC
+45,Sat Apr 30 2016,Stevenage FC,0-0,AFC Wimbledon,2016,Apr,30,30/Apr/2016,Sat,0,0,0,Draw
+45,Sat Apr 30 2016,Northampton Town FC,2-0,Luton Town FC,2016,Apr,30,30/Apr/2016,Sat,2,2,0,Northampton Town FC
+45,Sat Apr 30 2016,Newport County AFC,0-1,Notts County FC,2016,Apr,30,30/Apr/2016,Sat,1,0,1,Notts County FC
+45,Sat Apr 30 2016,Leyton Orient FC,1-0,Mansfield Town FC,2016,Apr,30,30/Apr/2016,Sat,1,1,0,Leyton Orient FC
+45,Sat Apr 30 2016,Hartlepool United FC,0-2,Portsmouth FC,2016,Apr,30,30/Apr/2016,Sat,2,0,2,Portsmouth FC
+45,Sat Apr 30 2016,Exeter City FC,01-Jan,Morecambe FC,2016,Apr,30,30/Apr/2016,Sat,2,1,1,Draw
+45,Sat Apr 30 2016,Dagenham & Redbridge FC,3-0,Crawley Town FC,2016,Apr,30,30/Apr/2016,Sat,3,3,0,Dagenham & Redbridge FC
+45,Sat Apr 30 2016,Carlisle United FC,0-2,Oxford United FC,2016,Apr,30,30/Apr/2016,Sat,2,0,2,Oxford United FC
+45,Sat Apr 30 2016,Cambridge United FC,02-Feb,Plymouth Argyle FC,2016,Apr,30,30/Apr/2016,Sat,4,2,2,Draw
+45,Sat Apr 30 2016,Barnet FC,03-Apr,Yeovil Town FC,2016,Apr,30,30/Apr/2016,Sat,7,3,4,Yeovil Town FC
+46,Sat May 7 2016,Yeovil Town FC,0-1,Leyton Orient FC,2016,May,7,7/May/2016,Sat,1,0,1,Leyton Orient FC
+46,Sat May 7 2016,Portsmouth FC,01-Feb,Northampton Town FC,2016,May,7,7/May/2016,Sat,3,1,2,Northampton Town FC
+46,Sat May 7 2016,Plymouth Argyle FC,5-0,Hartlepool United FC,2016,May,7,7/May/2016,Sat,5,5,0,Plymouth Argyle FC
+46,Sat May 7 2016,Oxford United FC,3-0,Wycombe Wanderers FC,2016,May,7,7/May/2016,Sat,3,3,0,Oxford United FC
+46,Sat May 7 2016,Notts County FC,0-5,Carlisle United FC,2016,May,7,7/May/2016,Sat,5,0,5,Carlisle United FC
+46,Sat May 7 2016,Morecambe FC,01-Jan,York City FC,2016,May,7,7/May/2016,Sat,2,1,1,Draw
+46,Sat May 7 2016,Mansfield Town FC,0-0,Cambridge United FC,2016,May,7,7/May/2016,Sat,0,0,0,Draw
+46,Sat May 7 2016,Luton Town FC,04-Jan,Exeter City FC,2016,May,7,7/May/2016,Sat,5,4,1,Luton Town FC
+46,Sat May 7 2016,Crawley Town FC,0-3,Barnet FC,2016,May,7,7/May/2016,Sat,3,0,3,Barnet FC
+46,Sat May 7 2016,Bristol Rovers FC,02-Jan,Dagenham & Redbridge FC,2016,May,7,7/May/2016,Sat,3,2,1,Bristol Rovers FC
+46,Sat May 7 2016,AFC Wimbledon,1-0,Newport County AFC,2016,May,7,7/May/2016,Sat,1,1,0,AFC Wimbledon
+46,Sat May 7 2016,Accrington Stanley FC,0-0,Stevenage FC,2016,May,7,7/May/2016,Sat,0,0,0,Draw

@@ -1,0 +1,181 @@
+Round,Date,Team 1,FT,Team 2,Year,Month,Day,Date,DayOfWeek,Total Goals,Team 1 Goals,Team 2 Goals,Result
+1,Fri Jul 24 2015,LASK Linz,02-Jan,Floridsdorfer AC,2015,Jul,24,24/Jul/2015,Fri,3,2,1,LASK Linz
+1,Fri Jul 24 2015,FC Wacker Innsbruck,0-0,Kapfenberger SV,2015,Jul,24,24/Jul/2015,Fri,0,0,0,Draw
+1,Fri Jul 24 2015,Austria Lustenau,2-0,SC Wiener Neustadt,2015,Jul,24,24/Jul/2015,Fri,2,2,0,Austria Lustenau
+1,Fri Jul 24 2015,Austria Klagenfurt,4-0,FC Liefering,2015,Jul,24,24/Jul/2015,Fri,4,4,0,Austria Klagenfurt
+1,Fri Jul 24 2015,SKN St. Pölten,02-Feb,Austria Salzburg,2015,Jul,24,24/Jul/2015,Fri,4,2,2,Draw
+2,Fri Jul 31 2015,FC Liefering,02-Jan,SKN St. Pölten,2015,Jul,31,31/Jul/2015,Fri,3,2,1,FC Liefering
+2,Fri Jul 31 2015,Kapfenberger SV,1-0,Austria Lustenau,2015,Jul,31,31/Jul/2015,Fri,1,1,0,Kapfenberger SV
+2,Fri Jul 31 2015,Floridsdorfer AC,01-May,FC Wacker Innsbruck,2015,Jul,31,31/Jul/2015,Fri,6,1,5,FC Wacker Innsbruck
+2,Fri Jul 31 2015,Austria Salzburg,01-Jan,Austria Klagenfurt,2015,Jul,31,31/Jul/2015,Fri,2,1,1,Draw
+2,Fri Jul 31 2015,SC Wiener Neustadt,0-0,LASK Linz,2015,Jul,31,31/Jul/2015,Fri,0,0,0,Draw
+3,Mon Aug 3 2015,FC Wacker Innsbruck,01-Feb,LASK Linz,2015,Aug,3,3/Aug/2015,Mon,3,1,2,LASK Linz
+3,Tue Aug 4 2015,Kapfenberger SV,05-Feb,FC Liefering,2015,Aug,4,4/Aug/2015,Tue,7,5,2,Kapfenberger SV
+3,Tue Aug 4 2015,Austria Lustenau,0-1,SKN St. Pölten,2015,Aug,4,4/Aug/2015,Tue,1,0,1,SKN St. Pölten
+3,Tue Aug 4 2015,Austria Salzburg,3-0,SC Wiener Neustadt,2015,Aug,4,4/Aug/2015,Tue,3,3,0,Austria Salzburg
+3,Tue Aug 4 2015,Austria Klagenfurt,1-0,Floridsdorfer AC,2015,Aug,4,4/Aug/2015,Tue,1,1,0,Austria Klagenfurt
+4,Fri Aug 7 2015,SC Wiener Neustadt,0-2,Kapfenberger SV,2015,Aug,7,7/Aug/2015,Fri,2,0,2,Kapfenberger SV
+4,Fri Aug 7 2015,LASK Linz,2-0,Austria Klagenfurt,2015,Aug,7,7/Aug/2015,Fri,2,2,0,LASK Linz
+4,Fri Aug 7 2015,SKN St. Pölten,0-3,FC Wacker Innsbruck,2015,Aug,7,7/Aug/2015,Fri,3,0,3,FC Wacker Innsbruck
+4,Fri Aug 7 2015,Floridsdorfer AC,01-Mar,Austria Lustenau,2015,Aug,7,7/Aug/2015,Fri,4,1,3,Austria Lustenau
+4,Fri Aug 7 2015,FC Liefering,05-Mar,Austria Salzburg,2015,Aug,7,7/Aug/2015,Fri,8,5,3,FC Liefering
+5,Fri Aug 14 2015,Kapfenberger SV,01-Mar,SKN St. Pölten,2015,Aug,14,14/Aug/2015,Fri,4,1,3,SKN St. Pölten
+5,Fri Aug 14 2015,FC Wacker Innsbruck,04-Jan,FC Liefering,2015,Aug,14,14/Aug/2015,Fri,5,4,1,FC Wacker Innsbruck
+5,Fri Aug 14 2015,Austria Lustenau,02-Jan,LASK Linz,2015,Aug,14,14/Aug/2015,Fri,3,2,1,Austria Lustenau
+5,Fri Aug 14 2015,Austria Salzburg,02-Jan,Floridsdorfer AC,2015,Aug,14,14/Aug/2015,Fri,3,2,1,Austria Salzburg
+5,Fri Aug 14 2015,Austria Klagenfurt,1-0,SC Wiener Neustadt,2015,Aug,14,14/Aug/2015,Fri,1,1,0,Austria Klagenfurt
+6,Fri Aug 21 2015,FC Liefering,0-1,SC Wiener Neustadt,2015,Aug,21,21/Aug/2015,Fri,1,0,1,SC Wiener Neustadt
+6,Fri Aug 21 2015,SKN St. Pölten,01-Jan,Austria Klagenfurt,2015,Aug,21,21/Aug/2015,Fri,2,1,1,Draw
+6,Fri Aug 21 2015,FC Wacker Innsbruck,1-0,Austria Lustenau,2015,Aug,21,21/Aug/2015,Fri,1,1,0,FC Wacker Innsbruck
+6,Fri Aug 21 2015,Floridsdorfer AC,0-3,Kapfenberger SV,2015,Aug,21,21/Aug/2015,Fri,3,0,3,Kapfenberger SV
+6,Fri Aug 21 2015,LASK Linz,2-0,Austria Salzburg,2015,Aug,21,21/Aug/2015,Fri,2,2,0,LASK Linz
+7,Fri Aug 28 2015,SC Wiener Neustadt,1-0,Floridsdorfer AC,2015,Aug,28,28/Aug/2015,Fri,1,1,0,SC Wiener Neustadt
+7,Fri Aug 28 2015,LASK Linz,1-0,SKN St. Pölten,2015,Aug,28,28/Aug/2015,Fri,1,1,0,LASK Linz
+7,Fri Aug 28 2015,Austria Lustenau,01-Feb,FC Liefering,2015,Aug,28,28/Aug/2015,Fri,3,1,2,FC Liefering
+7,Fri Aug 28 2015,Austria Salzburg,03-Apr,FC Wacker Innsbruck,2015,Aug,28,28/Aug/2015,Fri,7,3,4,FC Wacker Innsbruck
+7,Fri Aug 28 2015,Austria Klagenfurt,05-Jan,Kapfenberger SV,2015,Aug,28,28/Aug/2015,Fri,6,5,1,Austria Klagenfurt
+8,Fri Sep 11 2015,FC Liefering,04-Jan,Floridsdorfer AC,2015,Sep,11,11/Sep/2015,Fri,5,4,1,FC Liefering
+8,Fri Sep 11 2015,Kapfenberger SV,01-May,LASK Linz,2015,Sep,11,11/Sep/2015,Fri,6,1,5,LASK Linz
+8,Fri Sep 11 2015,SKN St. Pölten,2-0,SC Wiener Neustadt,2015,Sep,11,11/Sep/2015,Fri,2,2,0,SKN St. Pölten
+8,Fri Sep 11 2015,FC Wacker Innsbruck,04-Feb,Austria Klagenfurt,2015,Sep,11,11/Sep/2015,Fri,6,4,2,FC Wacker Innsbruck
+8,Fri Sep 11 2015,Austria Lustenau,0-2,Austria Salzburg,2015,Sep,11,11/Sep/2015,Fri,2,0,2,Austria Salzburg
+9,Tue Sep 15 2015,SC Wiener Neustadt,01-Feb,FC Wacker Innsbruck,2015,Sep,15,15/Sep/2015,Tue,3,1,2,FC Wacker Innsbruck
+9,Tue Sep 15 2015,LASK Linz,01-Feb,FC Liefering,2015,Sep,15,15/Sep/2015,Tue,3,1,2,FC Liefering
+9,Tue Sep 15 2015,Floridsdorfer AC,0-1,SKN St. Pölten,2015,Sep,15,15/Sep/2015,Tue,1,0,1,SKN St. Pölten
+9,Tue Sep 15 2015,Austria Salzburg,0-2,Kapfenberger SV,2015,Sep,15,15/Sep/2015,Tue,2,0,2,Kapfenberger SV
+9,Tue Sep 15 2015,Austria Klagenfurt,01-Jan,Austria Lustenau,2015,Sep,15,15/Sep/2015,Tue,2,1,1,Draw
+10,Fri Sep 18 2015,Floridsdorfer AC,0-2,LASK Linz,2015,Sep,18,18/Sep/2015,Fri,2,0,2,LASK Linz
+10,Fri Sep 18 2015,Austria Salzburg,01-May,SKN St. Pölten,2015,Sep,18,18/Sep/2015,Fri,6,1,5,SKN St. Pölten
+10,Fri Sep 18 2015,Kapfenberger SV,01-Apr,FC Wacker Innsbruck,2015,Sep,18,18/Sep/2015,Fri,5,1,4,FC Wacker Innsbruck
+10,Fri Sep 18 2015,SC Wiener Neustadt,01-Mar,Austria Lustenau,2015,Sep,18,18/Sep/2015,Fri,4,1,3,Austria Lustenau
+10,Fri Sep 18 2015,FC Liefering,04-Jan,Austria Klagenfurt,2015,Sep,18,18/Sep/2015,Fri,5,4,1,FC Liefering
+11,Fri Sep 25 2015,LASK Linz,0-0,SC Wiener Neustadt,2015,Sep,25,25/Sep/2015,Fri,0,0,0,Draw
+11,Fri Sep 25 2015,SKN St. Pölten,1-0,FC Liefering,2015,Sep,25,25/Sep/2015,Fri,1,1,0,SKN St. Pölten
+11,Fri Sep 25 2015,Austria Lustenau,01-Feb,Kapfenberger SV,2015,Sep,25,25/Sep/2015,Fri,3,1,2,Kapfenberger SV
+11,Fri Sep 25 2015,FC Wacker Innsbruck,01-Jan,Floridsdorfer AC,2015,Sep,25,25/Sep/2015,Fri,2,1,1,Draw
+11,Fri Sep 25 2015,Austria Klagenfurt,01-Jan,Austria Salzburg,2015,Sep,25,25/Sep/2015,Fri,2,1,1,Draw
+12,Fri Oct 2 2015,FC Liefering,05-Jan,Kapfenberger SV,2015,Oct,2,2/Oct/2015,Fri,6,5,1,FC Liefering
+12,Fri Oct 2 2015,LASK Linz,0-1,FC Wacker Innsbruck,2015,Oct,2,2/Oct/2015,Fri,1,0,1,FC Wacker Innsbruck
+12,Fri Oct 2 2015,SKN St. Pölten,0-1,Austria Lustenau,2015,Oct,2,2/Oct/2015,Fri,1,0,1,Austria Lustenau
+12,Fri Oct 2 2015,SC Wiener Neustadt,2-0,Austria Salzburg,2015,Oct,2,2/Oct/2015,Fri,2,2,0,SC Wiener Neustadt
+12,Fri Oct 2 2015,Floridsdorfer AC,01-Mar,Austria Klagenfurt,2015,Oct,2,2/Oct/2015,Fri,4,1,3,Austria Klagenfurt
+13,Fri Oct 16 2015,Kapfenberger SV,0-1,SC Wiener Neustadt,2015,Oct,16,16/Oct/2015,Fri,1,0,1,SC Wiener Neustadt
+13,Fri Oct 16 2015,Austria Salzburg,02-Feb,FC Liefering,2015,Oct,16,16/Oct/2015,Fri,4,2,2,Draw
+13,Fri Oct 16 2015,Austria Klagenfurt,02-Feb,LASK Linz,2015,Oct,16,16/Oct/2015,Fri,4,2,2,Draw
+13,Fri Oct 16 2015,FC Wacker Innsbruck,01-Mar,SKN St. Pölten,2015,Oct,16,16/Oct/2015,Fri,4,1,3,SKN St. Pölten
+13,Fri Oct 16 2015,Austria Lustenau,1-0,Floridsdorfer AC,2015,Oct,16,16/Oct/2015,Fri,1,1,0,Austria Lustenau
+14,Tue Oct 20 2015,SKN St. Pölten,01-Feb,Kapfenberger SV,2015,Oct,20,20/Oct/2015,Tue,3,1,2,Kapfenberger SV
+14,Tue Oct 20 2015,FC Liefering,0-1,FC Wacker Innsbruck,2015,Oct,20,20/Oct/2015,Tue,1,0,1,FC Wacker Innsbruck
+14,Tue Oct 20 2015,LASK Linz,02-Jan,Austria Lustenau,2015,Oct,20,20/Oct/2015,Tue,3,2,1,LASK Linz
+14,Tue Oct 20 2015,Floridsdorfer AC,02-Feb,Austria Salzburg,2015,Oct,20,20/Oct/2015,Tue,4,2,2,Draw
+14,Tue Oct 20 2015,SC Wiener Neustadt,01-Jan,Austria Klagenfurt,2015,Oct,20,20/Oct/2015,Tue,2,1,1,Draw
+15,Fri Oct 23 2015,SC Wiener Neustadt,1-0,FC Liefering,2015,Oct,23,23/Oct/2015,Fri,1,1,0,SC Wiener Neustadt
+15,Fri Oct 23 2015,Austria Salzburg,0-2,LASK Linz,2015,Oct,23,23/Oct/2015,Fri,2,0,2,LASK Linz
+15,Fri Oct 23 2015,Austria Klagenfurt,01-Feb,SKN St. Pölten,2015,Oct,23,23/Oct/2015,Fri,3,1,2,SKN St. Pölten
+15,Fri Oct 23 2015,Austria Lustenau,02-Jan,FC Wacker Innsbruck,2015,Oct,23,23/Oct/2015,Fri,3,2,1,Austria Lustenau
+15,Fri Oct 23 2015,Kapfenberger SV,0-1,Floridsdorfer AC,2015,Oct,23,23/Oct/2015,Fri,1,0,1,Floridsdorfer AC
+16,Tue Nov 3 2015,Floridsdorfer AC,01-Feb,SC Wiener Neustadt,2015,Nov,3,3/Nov/2015,Tue,3,1,2,SC Wiener Neustadt
+16,Tue Nov 3 2015,SKN St. Pölten,1-0,LASK Linz,2015,Nov,3,3/Nov/2015,Tue,1,1,0,SKN St. Pölten
+16,Tue Nov 3 2015,FC Liefering,02-Jan,Austria Lustenau,2015,Nov,3,3/Nov/2015,Tue,3,2,1,FC Liefering
+16,Tue Nov 3 2015,FC Wacker Innsbruck,01-Jan,Austria Salzburg,2015,Nov,3,3/Nov/2015,Tue,2,1,1,Draw
+16,Tue Nov 3 2015,Kapfenberger SV,01-Jan,Austria Klagenfurt,2015,Nov,3,3/Nov/2015,Tue,2,1,1,Draw
+17,Fri Nov 6 2015,Floridsdorfer AC,01-May,FC Liefering,2015,Nov,6,6/Nov/2015,Fri,6,1,5,FC Liefering
+17,Fri Nov 6 2015,LASK Linz,04-Feb,Kapfenberger SV,2015,Nov,6,6/Nov/2015,Fri,6,4,2,LASK Linz
+17,Fri Nov 6 2015,SC Wiener Neustadt,02-Mar,SKN St. Pölten,2015,Nov,6,6/Nov/2015,Fri,5,2,3,SKN St. Pölten
+17,Fri Nov 6 2015,Austria Klagenfurt,01-Feb,FC Wacker Innsbruck,2015,Nov,6,6/Nov/2015,Fri,3,1,2,FC Wacker Innsbruck
+17,Fri Nov 6 2015,Austria Salzburg,01-Mar,Austria Lustenau,2015,Nov,6,6/Nov/2015,Fri,4,1,3,Austria Lustenau
+18,Fri Nov 20 2015,FC Wacker Innsbruck,03-Mar,SC Wiener Neustadt,2015,Nov,20,20/Nov/2015,Fri,6,3,3,Draw
+18,Fri Nov 20 2015,FC Liefering,4-0,LASK Linz,2015,Nov,20,20/Nov/2015,Fri,4,4,0,FC Liefering
+18,Fri Nov 20 2015,SKN St. Pölten,2-0,Floridsdorfer AC,2015,Nov,20,20/Nov/2015,Fri,2,2,0,SKN St. Pölten
+18,Fri Nov 20 2015,Kapfenberger SV,02-Mar,Austria Salzburg,2015,Nov,20,20/Nov/2015,Fri,5,2,3,Austria Salzburg
+18,Fri Nov 20 2015,Austria Lustenau,3-0,Austria Klagenfurt,2015,Nov,20,20/Nov/2015,Fri,3,3,0,Austria Lustenau
+19,Fri Nov 27 2015,LASK Linz,4-0,Floridsdorfer AC,2015,Nov,27,27/Nov/2015,Fri,4,4,0,LASK Linz
+19,Fri Nov 27 2015,SKN St. Pölten,06-Feb,Austria Salzburg,2015,Nov,27,27/Nov/2015,Fri,8,6,2,SKN St. Pölten
+19,Fri Nov 27 2015,FC Wacker Innsbruck,02-Feb,Kapfenberger SV,2015,Nov,27,27/Nov/2015,Fri,4,2,2,Draw
+19,Fri Nov 27 2015,Austria Lustenau,01-Jan,SC Wiener Neustadt,2015,Nov,27,27/Nov/2015,Fri,2,1,1,Draw
+19,Fri Nov 27 2015,Austria Klagenfurt,0-0,FC Liefering,2015,Nov,27,27/Nov/2015,Fri,0,0,0,Draw
+20,Fri Feb 26 2016,SC Wiener Neustadt,02-Jan,LASK Linz,2016,Feb,26,26/Feb/2016,Fri,3,2,1,SC Wiener Neustadt
+20,Fri Feb 26 2016,FC Liefering,01-Feb,SKN St. Pölten,2016,Feb,26,26/Feb/2016,Fri,3,1,2,SKN St. Pölten
+20,Fri Feb 26 2016,Kapfenberger SV,02-Apr,Austria Lustenau,2016,Feb,26,26/Feb/2016,Fri,6,2,4,Austria Lustenau
+20,Fri Feb 26 2016,Floridsdorfer AC,0-1,FC Wacker Innsbruck,2016,Feb,26,26/Feb/2016,Fri,1,0,1,FC Wacker Innsbruck
+20,Fri Feb 26 2016,Austria Salzburg,01-Feb,Austria Klagenfurt,2016,Feb,26,26/Feb/2016,Fri,3,1,2,Austria Klagenfurt
+21,Fri Mar 4 2016,Kapfenberger SV,02-Jan,FC Liefering,2016,Mar,4,4/Mar/2016,Fri,3,2,1,Kapfenberger SV
+21,Fri Mar 4 2016,FC Wacker Innsbruck,01-Jan,LASK Linz,2016,Mar,4,4/Mar/2016,Fri,2,1,1,Draw
+21,Fri Mar 4 2016,Austria Lustenau,04-Feb,SKN St. Pölten,2016,Mar,4,4/Mar/2016,Fri,6,4,2,Austria Lustenau
+21,Fri Mar 4 2016,Austria Salzburg,02-Feb,SC Wiener Neustadt,2016,Mar,4,4/Mar/2016,Fri,4,2,2,Draw
+21,Fri Mar 4 2016,Austria Klagenfurt,01-Feb,Floridsdorfer AC,2016,Mar,4,4/Mar/2016,Fri,3,1,2,Floridsdorfer AC
+22,Fri Mar 11 2016,SC Wiener Neustadt,01-Mar,Kapfenberger SV,2016,Mar,11,11/Mar/2016,Fri,4,1,3,Kapfenberger SV
+22,Fri Mar 11 2016,FC Liefering,4-0,Austria Salzburg,2016,Mar,11,11/Mar/2016,Fri,4,4,0,FC Liefering
+22,Fri Mar 11 2016,LASK Linz,02-Jan,Austria Klagenfurt,2016,Mar,11,11/Mar/2016,Fri,3,2,1,LASK Linz
+22,Fri Mar 11 2016,SKN St. Pölten,1-0,FC Wacker Innsbruck,2016,Mar,11,11/Mar/2016,Fri,1,1,0,SKN St. Pölten
+22,Fri Mar 11 2016,Floridsdorfer AC,01-Jan,Austria Lustenau,2016,Mar,11,11/Mar/2016,Fri,2,1,1,Draw
+23,Tue Mar 15 2016,Kapfenberger SV,0-2,SKN St. Pölten,2016,Mar,15,15/Mar/2016,Tue,2,0,2,SKN St. Pölten
+23,Tue Mar 15 2016,FC Wacker Innsbruck,01-Feb,FC Liefering,2016,Mar,15,15/Mar/2016,Tue,3,1,2,FC Liefering
+23,Tue Mar 15 2016,Austria Lustenau,0-2,LASK Linz,2016,Mar,15,15/Mar/2016,Tue,2,0,2,LASK Linz
+23,Tue Mar 15 2016,Austria Salzburg,0-1,Floridsdorfer AC,2016,Mar,15,15/Mar/2016,Tue,1,0,1,Floridsdorfer AC
+23,Tue Mar 15 2016,Austria Klagenfurt,0-2,SC Wiener Neustadt,2016,Mar,15,15/Mar/2016,Tue,2,0,2,SC Wiener Neustadt
+24,Fri Mar 18 2016,FC Liefering,01-Jan,SC Wiener Neustadt,2016,Mar,18,18/Mar/2016,Fri,2,1,1,Draw
+24,Fri Mar 18 2016,LASK Linz,02-Jan,Austria Salzburg,2016,Mar,18,18/Mar/2016,Fri,3,2,1,LASK Linz
+24,Fri Mar 18 2016,SKN St. Pölten,1-0,Austria Klagenfurt,2016,Mar,18,18/Mar/2016,Fri,1,1,0,SKN St. Pölten
+24,Fri Mar 18 2016,FC Wacker Innsbruck,1-0,Austria Lustenau,2016,Mar,18,18/Mar/2016,Fri,1,1,0,FC Wacker Innsbruck
+24,Fri Mar 18 2016,Floridsdorfer AC,0-1,Kapfenberger SV,2016,Mar,18,18/Mar/2016,Fri,1,0,1,Kapfenberger SV
+25,Fri Apr 1 2016,SC Wiener Neustadt,1-0,Floridsdorfer AC,2016,Apr,1,1/Apr/2016,Fri,1,1,0,SC Wiener Neustadt
+25,Fri Apr 1 2016,LASK Linz,2-0,SKN St. Pölten,2016,Apr,1,1/Apr/2016,Fri,2,2,0,LASK Linz
+25,Fri Apr 1 2016,Austria Lustenau,01-Jan,FC Liefering,2016,Apr,1,1/Apr/2016,Fri,2,1,1,Draw
+25,Fri Apr 1 2016,Austria Salzburg,1-0,FC Wacker Innsbruck,2016,Apr,1,1/Apr/2016,Fri,1,1,0,Austria Salzburg
+25,Fri Apr 1 2016,Austria Klagenfurt,01-Apr,Kapfenberger SV,2016,Apr,1,1/Apr/2016,Fri,5,1,4,Kapfenberger SV
+26,Fri Apr 8 2016,FC Liefering,03-Jan,Floridsdorfer AC,2016,Apr,8,8/Apr/2016,Fri,4,3,1,FC Liefering
+26,Fri Apr 8 2016,Kapfenberger SV,01-Feb,LASK Linz,2016,Apr,8,8/Apr/2016,Fri,3,1,2,LASK Linz
+26,Fri Apr 8 2016,SKN St. Pölten,03-Feb,SC Wiener Neustadt,2016,Apr,8,8/Apr/2016,Fri,5,3,2,SKN St. Pölten
+26,Fri Apr 8 2016,FC Wacker Innsbruck,03-Jan,Austria Klagenfurt,2016,Apr,8,8/Apr/2016,Fri,4,3,1,FC Wacker Innsbruck
+26,Fri Apr 8 2016,Austria Lustenau,04-Jan,Austria Salzburg,2016,Apr,8,8/Apr/2016,Fri,5,4,1,Austria Lustenau
+27,Tue Apr 12 2016,SC Wiener Neustadt,0-2,FC Wacker Innsbruck,2016,Apr,12,12/Apr/2016,Tue,2,0,2,FC Wacker Innsbruck
+27,Tue Apr 12 2016,LASK Linz,1-0,FC Liefering,2016,Apr,12,12/Apr/2016,Tue,1,1,0,LASK Linz
+27,Tue Apr 12 2016,Floridsdorfer AC,0-3,SKN St. Pölten,2016,Apr,12,12/Apr/2016,Tue,3,0,3,SKN St. Pölten
+27,Tue Apr 12 2016,Austria Salzburg,0-4,Kapfenberger SV,2016,Apr,12,12/Apr/2016,Tue,4,0,4,Kapfenberger SV
+27,Tue Apr 12 2016,Austria Klagenfurt,0-2,Austria Lustenau,2016,Apr,12,12/Apr/2016,Tue,2,0,2,Austria Lustenau
+28,Fri Apr 15 2016,Floridsdorfer AC,02-Feb,LASK Linz,2016,Apr,15,15/Apr/2016,Fri,4,2,2,Draw
+28,Fri Apr 15 2016,Austria Salzburg,0-1,SKN St. Pölten,2016,Apr,15,15/Apr/2016,Fri,1,0,1,SKN St. Pölten
+28,Fri Apr 15 2016,Kapfenberger SV,02-Feb,FC Wacker Innsbruck,2016,Apr,15,15/Apr/2016,Fri,4,2,2,Draw
+28,Fri Apr 15 2016,SC Wiener Neustadt,01-Jan,Austria Lustenau,2016,Apr,15,15/Apr/2016,Fri,2,1,1,Draw
+28,Fri Apr 15 2016,FC Liefering,03-Jan,Austria Klagenfurt,2016,Apr,15,15/Apr/2016,Fri,4,3,1,FC Liefering
+29,Fri Apr 22 2016,LASK Linz,02-Jan,SC Wiener Neustadt,2016,Apr,22,22/Apr/2016,Fri,3,2,1,LASK Linz
+29,Fri Apr 22 2016,SKN St. Pölten,01-Feb,FC Liefering,2016,Apr,22,22/Apr/2016,Fri,3,1,2,FC Liefering
+29,Fri Apr 22 2016,Austria Lustenau,02-Feb,Kapfenberger SV,2016,Apr,22,22/Apr/2016,Fri,4,2,2,Draw
+29,Fri Apr 22 2016,FC Wacker Innsbruck,3-0,Floridsdorfer AC,2016,Apr,22,22/Apr/2016,Fri,3,3,0,FC Wacker Innsbruck
+29,Fri Apr 22 2016,Austria Klagenfurt,0-2,Austria Salzburg,2016,Apr,22,22/Apr/2016,Fri,2,0,2,Austria Salzburg
+30,Tue Apr 26 2016,FC Liefering,1-0,Kapfenberger SV,2016,Apr,26,26/Apr/2016,Tue,1,1,0,FC Liefering
+30,Tue Apr 26 2016,LASK Linz,1-0,FC Wacker Innsbruck,2016,Apr,26,26/Apr/2016,Tue,1,1,0,LASK Linz
+30,Tue Apr 26 2016,SKN St. Pölten,3-0,Austria Lustenau,2016,Apr,26,26/Apr/2016,Tue,3,3,0,SKN St. Pölten
+30,Tue Apr 26 2016,SC Wiener Neustadt,01-Feb,Austria Salzburg,2016,Apr,26,26/Apr/2016,Tue,3,1,2,Austria Salzburg
+30,Tue Apr 26 2016,Floridsdorfer AC,0-2,Austria Klagenfurt,2016,Apr,26,26/Apr/2016,Tue,2,0,2,Austria Klagenfurt
+31,Fri Apr 29 2016,Kapfenberger SV,04-Feb,SC Wiener Neustadt,2016,Apr,29,29/Apr/2016,Fri,6,4,2,Kapfenberger SV
+31,Fri Apr 29 2016,Austria Salzburg,0-0,FC Liefering,2016,Apr,29,29/Apr/2016,Fri,0,0,0,Draw
+31,Fri Apr 29 2016,Austria Klagenfurt,0-5,LASK Linz,2016,Apr,29,29/Apr/2016,Fri,5,0,5,LASK Linz
+31,Fri Apr 29 2016,FC Wacker Innsbruck,0-2,SKN St. Pölten,2016,Apr,29,29/Apr/2016,Fri,2,0,2,SKN St. Pölten
+31,Fri Apr 29 2016,Austria Lustenau,01-Jan,Floridsdorfer AC,2016,Apr,29,29/Apr/2016,Fri,2,1,1,Draw
+32,Fri May 6 2016,SKN St. Pölten,02-Jan,Kapfenberger SV,2016,May,6,6/May/2016,Fri,3,2,1,SKN St. Pölten
+32,Fri May 6 2016,FC Liefering,0-1,FC Wacker Innsbruck,2016,May,6,6/May/2016,Fri,1,0,1,FC Wacker Innsbruck
+32,Fri May 6 2016,LASK Linz,0-2,Austria Lustenau,2016,May,6,6/May/2016,Fri,2,0,2,Austria Lustenau
+32,Fri May 6 2016,Floridsdorfer AC,02-Jan,Austria Salzburg,2016,May,6,6/May/2016,Fri,3,2,1,Floridsdorfer AC
+32,Fri May 6 2016,SC Wiener Neustadt,0-0,Austria Klagenfurt,2016,May,6,6/May/2016,Fri,0,0,0,Draw
+33,Tue May 10 2016,SC Wiener Neustadt,1-0,FC Liefering,2016,May,10,10/May/2016,Tue,1,1,0,SC Wiener Neustadt
+33,Tue May 10 2016,Austria Salzburg,01-Mar,LASK Linz,2016,May,10,10/May/2016,Tue,4,1,3,LASK Linz
+33,Tue May 10 2016,Austria Klagenfurt,0-2,SKN St. Pölten,2016,May,10,10/May/2016,Tue,2,0,2,SKN St. Pölten
+33,Tue May 10 2016,Austria Lustenau,3-0,FC Wacker Innsbruck,2016,May,10,10/May/2016,Tue,3,3,0,Austria Lustenau
+33,Tue May 10 2016,Kapfenberger SV,04-Jan,Floridsdorfer AC,2016,May,10,10/May/2016,Tue,5,4,1,Kapfenberger SV
+34,Fri May 13 2016,Floridsdorfer AC,0-3,SC Wiener Neustadt,2016,May,13,13/May/2016,Fri,3,0,3,SC Wiener Neustadt
+34,Fri May 13 2016,SKN St. Pölten,03-Feb,LASK Linz,2016,May,13,13/May/2016,Fri,5,3,2,SKN St. Pölten
+34,Fri May 13 2016,FC Liefering,02-Feb,Austria Lustenau,2016,May,13,13/May/2016,Fri,4,2,2,Draw
+34,Fri May 13 2016,FC Wacker Innsbruck,02-Feb,Austria Salzburg,2016,May,13,13/May/2016,Fri,4,2,2,Draw
+34,Fri May 13 2016,Kapfenberger SV,02-Feb,Austria Klagenfurt,2016,May,13,13/May/2016,Fri,4,2,2,Draw
+35,Fri May 20 2016,Floridsdorfer AC,0-3,FC Liefering,2016,May,20,20/May/2016,Fri,3,0,3,FC Liefering
+35,Fri May 20 2016,LASK Linz,01-Jan,Kapfenberger SV,2016,May,20,20/May/2016,Fri,2,1,1,Draw
+35,Fri May 20 2016,SC Wiener Neustadt,0-3,SKN St. Pölten,2016,May,20,20/May/2016,Fri,3,0,3,SKN St. Pölten
+35,Fri May 20 2016,Austria Klagenfurt,05-Feb,FC Wacker Innsbruck,2016,May,20,20/May/2016,Fri,7,5,2,Austria Klagenfurt
+35,Fri May 20 2016,Austria Salzburg,01-Jan,Austria Lustenau,2016,May,20,20/May/2016,Fri,2,1,1,Draw
+36,Wed May 25 2016,FC Wacker Innsbruck,01-Feb,SC Wiener Neustadt,2016,May,25,25/May/2016,Wed,3,1,2,SC Wiener Neustadt
+36,Wed May 25 2016,FC Liefering,01-Apr,LASK Linz,2016,May,25,25/May/2016,Wed,5,1,4,LASK Linz
+36,Wed May 25 2016,SKN St. Pölten,3-0,Floridsdorfer AC,2016,May,25,25/May/2016,Wed,3,3,0,SKN St. Pölten
+36,Wed May 25 2016,Kapfenberger SV,01-Jan,Austria Salzburg,2016,May,25,25/May/2016,Wed,2,1,1,Draw
+36,Wed May 25 2016,Austria Lustenau,2-0,Austria Klagenfurt,2016,May,25,25/May/2016,Wed,2,2,0,Austria Lustenau
